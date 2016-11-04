@@ -1,0 +1,39 @@
+baseurl = "https://nubeblog.com/"
+
+languageCode = "es-es"
+title = "Nubeblog"
+summerization = "html_firstparagraph"
+paginate = 9
+theme = "bleak"
+
+[permalinks]
+  post = "/post/:year/:month/:day/:slug"
+  project = "/project/:year/:month/:day/:slug"
+
+[indexes]
+  tag = "tags"
+  topic = "categories"
+
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "Un blog sobre cosas de Cloud Computing y eso"
+  description = "Señor de Logroño que hace cosas con ordenadores y programas."
+  cover = "/images/cover.jpg"
+
+  # Google analytics
+  gravatarHash = "0a6b102fdb89dfdabc76f654d955a0b5"
+  googleAnalyticsUserID = "UA-5807955-1"
+  twitter = "nubeblog"
+  github = "diegoparrilla"
+  facebook = "dparrilla"
+  linkedin = "diegoparrilla"
+  disqus = "nubeblog"
+
+[author]
+  FirstName = "Diego"
+  LastName = "Parrilla"
+  Gender = "male"
+  UserName = "nubeblog"
+  Image = "//www.gravatar.com/avatar/0a6b102fdb89dfdabc76f654d955a0b5.png"
+  Bio = "Señor de Logroño que hace cosas con ordenadores y programas."
+  Website = "https://nubeblog.com"
