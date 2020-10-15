@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vmware on Nubeblog</title>
+    <link>https://nubeblog.com/categories/vmware/</link>
+    <description>Recent content in vmware on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 06 Apr 2010 16:55:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/vmware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los chips de 8 y 12 cores empiezan a dar problemas con las licencias de VMware</title>
+      <link>https://nubeblog.com/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/</link>
+      <pubDate>Tue, 06 Apr 2010 16:55:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/</guid>
+      <description>Me acaba de llegar una noticia de SearchServerVirtualization en la que se hacen eco de algo que casi todo el mundo se veía venir. El modo de licenciamiento de los productos de VMware choca de frente con el los nuevos modelos de chips de AMD e Intel de 8 y más cores. En el siguiente pantallazo de la web de VMware podemos apreciar que solo las versiones vSphere Advanced y Enterprise Plus soportan estos nuevos chips.</description>
+    </item>
+    
+    <item>
+      <title>VMware vCloud y la federación de nubes públicas y privadas&amp;#8230; propietarias</title>
+      <link>https://nubeblog.com/2009/02/27/vmware-vcloud-y-la-federacion-de-nubes-publicas-y-privadas-propietarias/</link>
+      <pubDate>Fri, 27 Feb 2009 15:07:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/27/vmware-vcloud-y-la-federacion-de-nubes-publicas-y-privadas-propietarias/</guid>
+      <description>Estos días se está celebrando en Cannes el VMWorld 2009, el evento para profesionales que organiza VMware para dar a conocer sus productos y estrategia. Este año -con la que está cayendo- han conseguido congregar a más de 4000 asistentes. Así que las cosas marchan viento en popa para el líder de la virtualización con tecnología propietaria.
+Dentro de la tendencia actual en la industria, el evento ha estado muy centrado en el Cloud Computing.</description>
+    </item>
+    
+  </channel>
+</rss>

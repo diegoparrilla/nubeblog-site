@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>encuesta on Nubeblog</title>
+    <link>https://nubeblog.com/tags/encuesta/</link>
+    <description>Recent content in encuesta on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 05 Feb 2009 15:00:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/encuesta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Las PYMES en USA y UK pasan del Cloud Hosting</title>
+      <link>https://nubeblog.com/2009/02/05/las-pymes-en-usa-y-uk-pasan-del-cloud-hosting/</link>
+      <pubDate>Thu, 05 Feb 2009 15:00:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/05/las-pymes-en-usa-y-uk-pasan-del-cloud-hosting/</guid>
+      <description>El 14% en USA y el 11% en UK de las medianas empresas usan el Cloud Hosting, mientras que sólo el 5% lo hacen en las pequeñas empresas. Menos de un tercio de las pequeñas empresas ni han contemplado la posibilidad de pasarse a Cloud Hosting. Más de la mitad de las medianas empresas tienen planes para incorporar el Cloud Hosting en su configuración actual de Hosting, pero las pequeñas empresas casi el 60% no tiene ningún plan al respecto.</description>
+    </item>
+    
+  </channel>
+</rss>

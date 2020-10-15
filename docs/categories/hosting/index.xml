@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hosting on Nubeblog</title>
+    <link>https://nubeblog.com/categories/hosting/</link>
+    <description>Recent content in hosting on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 10 Aug 2011 10:55:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El otro efecto Menéame</title>
+      <link>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</guid>
+      <description>Reconozco que una de mis aficiones favoritas es procrastinar trolleando en los comentarios de las noticias de Menéame. Aunque supongo que todo el mundo lo sabe, Menéame es el conocido clon hispano de Digg, el servicio a enlace de noticias gestionado por los usuarios (envían las que le gustan, y votan otras que les interesan). El pasado domingo intenté conectarme a Menéame después de pasar por varios periódicos online, y me encuentro con el sitio caído.</description>
+    </item>
+    
+    <item>
+      <title>Evento de networking sobre el negocio del hosting</title>
+      <link>https://nubeblog.com/2011/01/11/evento-de-networking-sobre-el-negocio-del-hosting/</link>
+      <pubDate>Tue, 11 Jan 2011 08:55:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/11/evento-de-networking-sobre-el-negocio-del-hosting/</guid>
+      <description>El próximo 19 de Enero 2011 participaré en Madrid en un evento de networking dedicado a empresas de hosting, ISP´s y Cloud Computing. Participarán algunos de los directivos de las principales empresas de hosting de España y se tratará sobre los temas más relevantes del negocio del hosting en la actualidad. Se trata de un desayuno de trabajo, organizado para aprovechar al máximo el tiempo de cara a conocer la opinión de todos los asistentes y entablar contactos profesionales que puedan ir encaminados a la realización de negocios.</description>
+    </item>
+    
+  </channel>
+</rss>

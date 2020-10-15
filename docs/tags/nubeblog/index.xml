@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nubeblog on Nubeblog</title>
+    <link>https://nubeblog.com/tags/nubeblog/</link>
+    <description>Recent content in nubeblog on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 20 Jul 2011 13:42:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/nubeblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Openstack Año I</title>
+      <link>https://nubeblog.com/2011/07/20/openstack-ano-i/</link>
+      <pubDate>Wed, 20 Jul 2011 13:42:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/07/20/openstack-ano-i/</guid>
+      <description>Hace un año que estaba yo disfrutando de unas merecidas vacaciones en Cádiz, cuando recibí un correo y una llamada que me anunciaba que ‘algo gordo en el mundo del Cloud había pasado’. Rackspace y la NASA anunciaban que lanzaban un proyecto abierto conjunto para crear IaaS de computación y de almacenamiento de objetos. ¿La NASA y Rackspace? Flipé un poco. Luego me di media vuelta en la hamaca y seguí con mi siesta.</description>
+    </item>
+    
+    <item>
+      <title>Los post más leidos de 2010 en Nubeblog</title>
+      <link>https://nubeblog.com/2010/12/31/los-post-mas-leidos-en-2010-en-nubeblog/</link>
+      <pubDate>Fri, 31 Dec 2010 01:42:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/31/los-post-mas-leidos-en-2010-en-nubeblog/</guid>
+      <description>Vamos a darnos un poco de autobombo. Aquí tenéis los post más leidos de 2010. A destacar que algunas entradas tienen más de dos años de antigüedad, pero gracias a Google las tenemos en lo más alto:
+ Cuidado con Foursquare SaaS, IaaS y PaaS: Las tres clases de Cloud Computing La muerte del Administrador de Sistemas y el nacimiento de los ‘Devops’ Por qué Amazon Web Services sí tiene éxito, y Google App Engine no Los 20 magníficos (proveedores) de Cloud Computing según Nicholas Carr Wikileaks expulsado de Amazon: Las Nubes no son ni neutrales ni abiertas Algunas conclusiones del evento de IDC sobre Cloud Computing ¿Está preparada España para el Cloud Computing?</description>
+    </item>
+    
+  </channel>
+</rss>

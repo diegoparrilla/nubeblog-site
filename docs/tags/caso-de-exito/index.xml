@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caso de exito on Nubeblog</title>
+    <link>https://nubeblog.com/tags/caso-de-exito/</link>
+    <description>Recent content in caso de exito on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 28 Oct 2010 09:32:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/caso-de-exito/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El caso de éxito de Netflix: cómo una gran corporación migra a la Nube Pública</title>
+      <link>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</guid>
+      <description>Netflix es una empresa que nació prestando DVDs por correo ordinario, y ha evolucionado hacia los servicios de streaming. Hoy presume de tener 15 millones de subscriptores offline y online en los EEUU y Canadá. Por decirlo de alguna manera, es similar lo que sería Imagenio en España en la parte de alquiler de contenidos, pero sin nada que ver con el servicio de Internet. La diferencia es que puede servir contenidos a un conjunto bastante importante de dispositivos: TiVo, AppleTV, PlayStation 3, Wii y XBox entre otros.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Windows Azure: qué es real y qué es vapor • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Windows Azure: qué es real y qué es vapor"/>
+<meta name="twitter:description" content="Parece que Microsoft ha inventado el Cloud Computing. Esta semana todo el mundo se ha dedicado a hablar de ‘La Nube’. Hay que reconocer que una vez más, Microsoft ha sabido mover su enorme maquinaria de marketing. Por cierto, hace unos años me comentaron que el porcentaje que Microsoft invertía en publicidad era igual porcentaje que BEA Systems invertía en I&#43;D, y viceversa. Igual no es cierto, pero da que pensar."/>
+
+<meta property="og:title" content="Windows Azure: qué es real y qué es vapor" />
+<meta property="og:description" content="Parece que Microsoft ha inventado el Cloud Computing. Esta semana todo el mundo se ha dedicado a hablar de ‘La Nube’. Hay que reconocer que una vez más, Microsoft ha sabido mover su enorme maquinaria de marketing. Por cierto, hace unos años me comentaron que el porcentaje que Microsoft invertía en publicidad era igual porcentaje que BEA Systems invertía en I&#43;D, y viceversa. Igual no es cierto, pero da que pensar." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2008/11/01/windows-azure-que-es-real-y-que-es-vapor/" />
+<meta property="article:published_time" content="2008-11-01T00:18:25+00:00" />
+<meta property="article:modified_time" content="2008-11-01T00:18:25+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Windows Azure: qué es real y qué es vapor</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Nov 01, 2008
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/azure">azure</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 4 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="/wp-content/uploads/windowsazure.jpg"><!-- raw HTML omitted --></a>Parece que Microsoft ha inventado el Cloud Computing. Esta semana <a href="http://www.publico.es/ciencias/169577/apuntan/cloud/computing">todo el mundo se ha dedicado a hablar de ‘La Nube’</a>. Hay que reconocer que una vez más, Microsoft ha sabido mover su enorme maquinaria de marketing. Por cierto, hace unos años me comentaron que el porcentaje que Microsoft invertía en publicidad era igual porcentaje que BEA Systems invertía en I+D, y viceversa. Igual no es cierto, pero da que pensar.</p>
+<p>Lo cierto es que la visión de alto nivel del producto no creo que sea buena: es perfecta. Todas las herramientas necesarias para construir aplicaciones en La Nube perfectamente integradas (¿y acopladas?) para dar gustazo a los desarrolladores y productividad a los directores de los departamentos de IT.</p>
+<p>Demasiado bueno para ser verdad…</p>
+<p>Los que llevamos un tiempo en esto sabemos que Microsoft lo hace así: vende humo, tu lo compras, y luego esperas a que el producto madure… o bien te pasas a otras tecnologías harto de que te vendan la moto una y otra vez.La sensación que hay en La Red es que <a href="http://www.informationweek.com/blog/main/archives/2008/10/is_the_cloud_th.html">Microsoft vuelve a las andadas</a>. Se ha dado prisa en ofrecer algo para no perder comba. <strong><a href="http://news.cnet.com/8301-13860_3-10076588-56.html">Es decir, Windows Azure está a medio hacer</a></strong> ¿Pero qué es exactamente Windows Azure?</p>
+<p>Windows Azure es el nombre comercial de un proyecto llamado <a href="http://www.liveside.net/main/archive/2008/04/09/red-dog-ray-ozzie-s-answer-to-the-google-app-engine.aspx">‘Red Dog’</a>. Es un sistema operativo diseñado por un equipo de expertos en SSOO liderado por <a href="http://www.microsoft.com/presspass/exec/srivastava/default.aspx">Amitabh Srivastava</a>. En este equipo está <a href="http://en.wikipedia.org/wiki/Dave_Cutler_(software_engineer)">Dave Cutler</a>, padre de VMS y de Windows NT liderando equipos de desarrollo centrados en las tecnologías de virtualización. Por cierto, Microsoft no está usando su tecnología de virtualización <!-- raw HTML omitted -->Hyper-V<!-- raw HTML omitted --> de Windows Server. Se ha desarrollado un hypervisor completamente nuevo que está pensado para un entorno de Datacenter completamente heterogéneo.</p>
+<p>Azure ha sido diseñado desde el principio para que sea simple, rápido y modular. Por eso, Windows Azure sólo es el núcleo de la suite de Servicios de Microsoft Azure. Los desarrolladores interactuarán con los servicios de manera directa, y no con Windows Azure. Podrán elegir que conjunto de servicios desean usar para sus aplicaciones.</p>
+<p>Red Dog está compuesto de cuatro pilares:</p>
+<ul>
+<li>Almacenamiento: El sistema de ficheros en La Nube. No tengo claro si se refieren a un sistema de ficheros estándar o bien algo tipo S3.</li>
+<li>Fabric Controller: Sistema de gestión para modelar, desplegar y provisionar.</li>
+<li>Virtualización</li>
+<li>Entorno de desarrollo accesible desde los entornos de escritorio.</li>
+</ul>
+<p>Por debajo de Windows Azure y entre él y el hardware se encuentra el Global Foundational Services. Al parecer GFS es como el HAL (Hardware Abstraction Layer) de Windows. No hay mucha información al respecto.</p>
+<p>Sobre los diversos servicios que se ofrecen <a href="/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/">ya he hablado en otro post</a>, pero la pregunta que nos hacemos todos es ¿qué tipo de código podemos ejecutar en La Nube?</p>
+<p>Azure nos permite ejecutar código gestionado (managed code) .NET. Han dicho que se puede ejecutar ASP.NET, que podrán correrse procesos batch (esto es una diferencia importante con Google AppEngine) y al parecer los ejemplo usaban LINQ como método de acceso a datos. Se ha dejado claro que por ahora no se podrá ejecutar código nativo, lo cual hasta cierto punto es natural.</p>
+<p>Lo que por ahora nadie sabe son las limitaciones que puede tener el entorno. Por su similitud con Google AppEngine podemos presumir que estos puntos serán críticos:</p>
+<ul>
+<li>Tiempos máximos por petición</li>
+<li>Tamaños de ficheros</li>
+<li>Hilos</li>
+<li>TCP-UDP/IP capado</li>
+<li>APIs ‘capadas’ para su uso en La Nube</li>
+<li>…</li>
+</ul>
+<p>Para terminar una reflexión. En los últimos años, Microsoft perdió la guerra de los sitios web. La guerra del navegador la está perdiendo lentamente. Vista ha sido un fiasco. Durante un tiempo fueron el ‘Imperio malvado’ que quería destruir Java y el software libre, pero ahora simplemente los desarrolladores los ignoran… Lo único que le ha funcionado bien ha sido la Xbox gracias a lo mal que lo ha hecho Sony. Creo que esta puede ser su última oportunidad para reinventarse como empresa. Así que pondrán todo en el asador.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2008/10/31/el-cloud-computing-y-los-cansinos-de-la-web-20/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">El Cloud Computing y los cansinos de la web 2.0</span>
+    </a>
+    
+    
+    <a href="/2008/11/04/the-big-switch-de-nicholas-carr-el-libro-de-cabecera-del-cloud-computing/" class="navigation-next">
+      <span class="navigation-tittle">&amp;#039;The Big Switch&amp;#039; de Nicholas Carr, el libro de cabecera del Cloud Computing</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/" >Microsoft Azure Services Platform, la apuesta PaaS de Microsoft</a>
+      
+      <time class="pull-right hidden-tablet">Oct 29 &#39;08</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

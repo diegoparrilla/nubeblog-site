@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on Nubeblog</title>
+    <link>https://nubeblog.com/tags/ruby/</link>
+    <description>Recent content in ruby on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 06 Feb 2008 00:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Grails Diaries #4: Grails, is it really worth it?</title>
+      <link>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</guid>
+      <description>Previous: How Grails will change my project plan
+I wanted to post my impressions and thoughts about Grails before, but you don’t know how the events in your life can twist your plans: a delay in the delivery of the HTML designer, a flu followed by a nephritic colic, a laptop dying with all your development environment inside, the wrap up in Amplía, the Christmas holidays and my new start in The Server Labs.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #3: How Grails will change my project plan</title>
+      <link>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</link>
+      <pubDate>Tue, 09 Oct 2007 09:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</guid>
+      <description>Previous: Setting up the development environment
+The strategy One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #2: Setting up the development environment</title>
+      <link>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</link>
+      <pubDate>Thu, 04 Oct 2007 01:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</guid>
+      <description>Previous: JRuby on Rails or Grails?
+Once I have explained why I will use Grails I will go deeper in the development environment.
+Methodology: Scrum One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries: JRuby on Rails or Grails?</title>
+      <link>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</link>
+      <pubDate>Mon, 01 Oct 2007 15:27:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</guid>
+      <description>I must admit it: I’m weak. During last two years I have been trying to avoid the dark attraction of Ruby on Rails. And it was hard. I have been searching for almost seven years something that alleviates my feeling of waste of time when developing a Web user interface. And I have been promiscuous, believe me. I have tried everything in the Java world: Tapestry, Velocity, Cocoon,Altio, GWT, Flex, Laszlo… I even tried ASP.</description>
+    </item>
+    
+    <item>
+      <title>Ruby on Rails hype: the party is over</title>
+      <link>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</link>
+      <pubDate>Mon, 24 Sep 2007 18:23:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</guid>
+      <description>Finally it seems that Ruby on Rails is starting to show its real face. Two years of RoR development put into the trash. Wow! Being seven times more productive than Java that means fourteen years of development! Seriously, it’s not common to hear of failures of a new and cool software stuff -you can look stupid- so I guess this is the peak of the iceberg of Ruby On Rails projects.</description>
+    </item>
+    
+    <item>
+      <title>Spain vs USA comparing two Job Boards</title>
+      <link>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</link>
+      <pubDate>Wed, 19 Sep 2007 16:04:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</guid>
+      <description>A few days ago I made a search in Infojobs.es (the most popular Job Board in Spain) for open positions for Ruby On Rails developers. The result was… one! I was very surprised. Only one? With all the hype around RoR? Only one job offer?
+It’s obvious that USA is more developed regarding technology than Spain, but the question is: How far are they? Can we measure the distance? Honestly I think it’s very difficult and probably comparing two countries is not the right way.</description>
+    </item>
+    
+    <item>
+      <title>What is slow? JRuby or Mingle?</title>
+      <link>https://nubeblog.com/2007/08/27/what-is-slow-jruby-or-mingle/</link>
+      <pubDate>Mon, 27 Aug 2007 15:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/27/what-is-slow-jruby-or-mingle/</guid>
+      <description>I have been testing Mingle, the new tool from Thoughtworks to manage Agile developments. The application really looks promising, and have a lot of new features that I’m discovering, but it’s taking me more time than I expected because it’s slow, very slow.
+The guys from Thoughtworksclaim they have built the first JRubycommercial application. Probably true, but the price they have paid is high. The application is slow, and it’s slow even on a 2.</description>
+    </item>
+    
+  </channel>
+</rss>

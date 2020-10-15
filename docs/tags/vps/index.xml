@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vps on Nubeblog</title>
+    <link>https://nubeblog.com/tags/vps/</link>
+    <description>Recent content in vps on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 13 Sep 2010 00:00:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/vps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon anuncia nuevas instancias desde $7 al mes</title>
+      <link>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</guid>
+      <description>La semana pasada Amazon anunció unas nuevas instancias denominadas ‘microinstancias’ en su servicio de computación en la nube Amazon EC2. Estas nuevas instancias ofrecen 613MB de RAM por un precio $0.02 la hora. Es decir, unos $14 al mes, unos €11 mensuales.
+¿Pero cómo consiguen esta gente ofrecer un precio como este? Bueno, hay letra pequeña y no tan pequeña. Se puede hacer porque este servicio tiene ciertas características que lo diferencian de una instancia tradicional EC2:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sequoia on Nubeblog</title>
+    <link>https://nubeblog.com/tags/sequoia/</link>
+    <description>Recent content in sequoia on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 13 Oct 2008 14:59:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/sequoia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sequoia Capital: se acabó la fiesta</title>
+      <link>https://nubeblog.com/2008/10/13/sequoia-capital-se-acabo-la-fiesta/</link>
+      <pubDate>Mon, 13 Oct 2008 14:59:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/13/sequoia-capital-se-acabo-la-fiesta/</guid>
+      <description>Magnífica presentación de Sequoia Capital anunciando que vienen tiempos difíciles para las startups.
+Me quedo con la frase final: ‘Get Real or Get Home’. No hace falta traducción, ¿verdad?.</description>
+    </item>
+    
+  </channel>
+</rss>

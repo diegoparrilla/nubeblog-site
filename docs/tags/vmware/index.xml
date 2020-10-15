@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vmware on Nubeblog</title>
+    <link>https://nubeblog.com/tags/vmware/</link>
+    <description>Recent content in vmware on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 28 Mar 2011 11:04:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proveedores de Cloud Computing mágicos</title>
+      <link>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</guid>
+      <description>Es sorprendente como empresas que llevan muchos años haciendo software tradicional de repente y de manera mágica resulta que su software está ‘En la Nube’. No solo eso, sino que algunos dicen que fueron ellos los que inventaron el Cloud Computing, pero que como siempre los americanos llegaron y le pusieron un nombre ‘chulo’. Lo del Software as a Service es un auténtico escándalo. Aquí ahora todo es Cloud. Tonto el último.</description>
+    </item>
+    
+    <item>
+      <title>Los chips de 8 y 12 cores empiezan a dar problemas con las licencias de VMware</title>
+      <link>https://nubeblog.com/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/</link>
+      <pubDate>Tue, 06 Apr 2010 16:55:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/</guid>
+      <description>Me acaba de llegar una noticia de SearchServerVirtualization en la que se hacen eco de algo que casi todo el mundo se veía venir. El modo de licenciamiento de los productos de VMware choca de frente con el los nuevos modelos de chips de AMD e Intel de 8 y más cores. En el siguiente pantallazo de la web de VMware podemos apreciar que solo las versiones vSphere Advanced y Enterprise Plus soportan estos nuevos chips.</description>
+    </item>
+    
+    <item>
+      <title>VMware compra SpringSource por más de $400 millones</title>
+      <link>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</link>
+      <pubDate>Tue, 11 Aug 2009 09:20:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</guid>
+      <description>El anuncio en el blog de VMware no deja lugar a dudas: SpringSource se centra en la operación de la capa de aplicación, y no en la de infraestructura como hace VMware. Son complementarias. VMware quiere convertirse en un proveedor de software de gestión y operación del datacenter de manera completa. La comoditización del hypervisor es un hecho (en Abiquo estamos pasando máquinas de un hypervisor a otro, es un hecho) y deben centrarse en otras partes de la operación.</description>
+    </item>
+    
+    <item>
+      <title>VMware entra en el capital del proveedor de Cloud Computing Terremark</title>
+      <link>https://nubeblog.com/2009/05/26/vmware-entra-en-el-capital-del-proveedor-de-cloud-computing-terremark/</link>
+      <pubDate>Tue, 26 May 2009 23:07:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/05/26/vmware-entra-en-el-capital-del-proveedor-de-cloud-computing-terremark/</guid>
+      <description>Entre las múltiples e insulsas noticias sobre las bondades, maldades y banalidades del Cloud Computing me ha llegado una que me ha sorprendido: VMware entra en el capital del proveedor Terremark garantizando la compra del 5% por ciento de sus acciones tras una ampliación de capital. Y digo que me ha sorprendido porque no pensaba que VMware fuera a entrar a comprar proveedores de servicios. Por activa y por pasiva, VMware ha repetido que no les interesa convertirse en Nube Pública, y ahora ¡zas!</description>
+    </item>
+    
+    <item>
+      <title>VMware vCloud y la federación de nubes públicas y privadas&amp;#8230; propietarias</title>
+      <link>https://nubeblog.com/2009/02/27/vmware-vcloud-y-la-federacion-de-nubes-publicas-y-privadas-propietarias/</link>
+      <pubDate>Fri, 27 Feb 2009 15:07:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/27/vmware-vcloud-y-la-federacion-de-nubes-publicas-y-privadas-propietarias/</guid>
+      <description>Estos días se está celebrando en Cannes el VMWorld 2009, el evento para profesionales que organiza VMware para dar a conocer sus productos y estrategia. Este año -con la que está cayendo- han conseguido congregar a más de 4000 asistentes. Así que las cosas marchan viento en popa para el líder de la virtualización con tecnología propietaria.
+Dentro de la tendencia actual en la industria, el evento ha estado muy centrado en el Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>VMware y la virtualización en dispositivos móviles</title>
+      <link>https://nubeblog.com/2008/11/18/vmware-y-la-virtualizacion-en-dispositivos-moviles/</link>
+      <pubDate>Tue, 18 Nov 2008 09:49:48 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/18/vmware-y-la-virtualizacion-en-dispositivos-moviles/</guid>
+      <description>VMWare ha anunciado recientemente su Mobile Virtualization Platform o MVP, una capa de abstracción pensada para dispositivos móviles. MVP es el software que compró cuando adquirió la empresa Trango Virtual Processors.
+Este software añade una capa de software sobre el hardware, haciendo algo similar a lo que hacen los productos de VMWare para servidores, pero en dispositivos móviles. Mientras que el objetivo de los productos de servidor es optimizar los recursos de los servidores normalmente infrautilizados, el objetivo de este producto es hacer más fácil la migración de aplicaciones de un dispositivo a otro.</description>
+    </item>
+    
+    <item>
+      <title>VMWare challenges Google for developers</title>
+      <link>https://nubeblog.com/2007/08/22/vmware-challenges-google-for-developers/</link>
+      <pubDate>Wed, 22 Aug 2007 10:44:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/vmware-challenges-google-for-developers/</guid>
+      <description>Since the successful IPO of VMWare, it seems everybody is talking about them. Today we can read in Bloomberg that they are competing with Google for the best programmers. VMWare is paying $120.000-$130.000 plus stock ops to talented developers. Compared to the spanish salaries that’s really a huge amount of money. They have right now 500 open positions in Palo Alto offices.</description>
+    </item>
+    
+  </channel>
+</rss>

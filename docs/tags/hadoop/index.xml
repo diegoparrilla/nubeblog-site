@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hadoop on Nubeblog</title>
+    <link>https://nubeblog.com/tags/hadoop/</link>
+    <description>Recent content in hadoop on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 16 Oct 2008 15:10:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/hadoop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloudera: Vender Servicios con Hadoop como hicieron RedHat y JBoss</title>
+      <link>https://nubeblog.com/2008/10/16/cloudera-vender-servicios-con-hadoop-como-hicieron-redhat-y-jboss/</link>
+      <pubDate>Thu, 16 Oct 2008 15:10:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/16/cloudera-vender-servicios-con-hadoop-como-hicieron-redhat-y-jboss/</guid>
+      <description>Cloudera es una startup creada por un grupo ejecutivos de Silicon Valley que quiere ofrecer soporte a compañías que quieran usar Apache Hadoop. Hadoop es una plataforma que implementa Map/Reduce y que permite construir aplicaciones que necesiten procesar de manera distribuida cantidades ingentes de información.
+Según podemos leer aquí, Cloudera lo que quiere es ser lo que Redhat fue para Linux hace una década. Redhat cogió Linux, lo empaquetó y lo ofreció junto a un paquete de soporte técnico.</description>
+    </item>
+    
+  </channel>
+</rss>

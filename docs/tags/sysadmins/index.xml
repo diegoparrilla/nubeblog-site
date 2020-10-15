@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sysadmins on Nubeblog</title>
+    <link>https://nubeblog.com/tags/sysadmins/</link>
+    <description>Recent content in sysadmins on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 26 Nov 2010 17:31:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/sysadmins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Próximo Madrid DevOps el 1 de Diciembre</title>
+      <link>https://nubeblog.com/2010/11/26/proximo-madrid-devops-el-1-de-diciembre/</link>
+      <pubDate>Fri, 26 Nov 2010 17:31:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/26/proximo-madrid-devops-el-1-de-diciembre/</guid>
+      <description>Ya se ha confirmado la fecha para el próximo encuentro de Madrid DevOps, el próximo día 1 de diciembre en las oficinas de Job &amp;amp; Talent en Calle Serrano 20, 4º Izquierda. La idea de estos eventos es que haya una charla técnica y unas cañas para digerirla. Había varios temas sobre la mesa, y parece que la charla al final versará sobre Amazon Web Services. Aunque para estar al día de lo que pasa en el grupo, os recomiendo que os apuntéis al grupo en Google.</description>
+    </item>
+    
+    <item>
+      <title>La muerte del Administrador de Sistemas y el nacimiento de los &amp;#8216;Devops&amp;#8217;</title>
+      <link>https://nubeblog.com/2010/04/09/la-muerte-del-administrador-de-sistemas-y-el-nacimiento-de-los-devops/</link>
+      <pubDate>Fri, 09 Apr 2010 10:46:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/09/la-muerte-del-administrador-de-sistemas-y-el-nacimiento-de-los-devops/</guid>
+      <description>He comentado en varias ocasiones que sigo a James Urquhart en su blog. Es un tío interesante, un visionario de verdad. Vale la pena seguirle.
+Hace cosa de un mes empezó una serie de artículos sobre la evolución que se está dando en el perfil de los Administradores de Sistemas, los ‘grandes damnificados’ de la evolución a las Infraestructuras como Servicios. Para ello, introduce un nuevo perfil llamado ‘Devops‘. Este término fue introducido por Jesse Robins, el CEO de Opscode.</description>
+    </item>
+    
+  </channel>
+</rss>

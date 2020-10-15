@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>premio on Nubeblog</title>
+    <link>https://nubeblog.com/tags/premio/</link>
+    <description>Recent content in premio on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 26 Dec 2008 11:46:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/premio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>InformationWeek nombra a Werner Vogels (Amazon) CTO del año</title>
+      <link>https://nubeblog.com/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/</link>
+      <pubDate>Fri, 26 Dec 2008 11:46:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/</guid>
+      <description>Information Week ha elegido a Werner Vogels Chief of The Year. Werner Vogels es el Chief Technology Officer the Amazon, y uno de los responsables del éxito de Amazon Web Services. Werner Vogels se unió al equipo de Amazon en 2004. Holandés, tiene un doctorado por la universidad Vrije de Amsterdam (la misma de Tanenbaum ¿Casualidad? pues mira que no lo creo…). Antes de unirse a Amazon estuvo investigando sobre Grandes Sistemas Distribuidos en la Universidad de Cornell.</description>
+    </item>
+    
+  </channel>
+</rss>

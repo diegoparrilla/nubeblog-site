@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qa on Nubeblog</title>
+    <link>https://nubeblog.com/tags/qa/</link>
+    <description>Recent content in qa on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 10 Sep 2007 12:35:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/qa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why developers hate bug-fixing</title>
+      <link>https://nubeblog.com/2007/09/10/why-developers-hate-bug-fixing/</link>
+      <pubDate>Mon, 10 Sep 2007 12:35:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/10/why-developers-hate-bug-fixing/</guid>
+      <description>Probably the only common thing among all developers I have worked with is the hate to bug-fixing. No matter if bugs belong to them or not. As a developer and as a manager I have quite contradictory feelings.
+As a developer there was nothing more irritating than the hateful Bugzillaemails. When I was working as Technical Lead of a development team in Madrid with a QAteam in the West Coast of USA they usually started to work at our 18:00 and we usually left at 19:00 (Madrid is GMT+2 summer time).</description>
+    </item>
+    
+  </channel>
+</rss>

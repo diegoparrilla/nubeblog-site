@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Resumen Cloud Computing Workshop • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Resumen Cloud Computing Workshop"/>
+<meta name="twitter:description" content="El pasado jueves celebramos en las instalaciones de la CAN en Juan Bravo 3 el Cloud Computing Workshop de Madrid.
+En el invitado estelar era Simone Brunozzi, Amazon Web Service Evangelist para Europa, que nos ha mostrado el funcionamiento de los diferentes servicios de Cloud Computing de Amazon. Ha hecho demostraciones en directo de Amazon Elastic Compute Cloud (EC2) y Amazon Simple Storage Service (S3). Muchos de los asistentes al evento ya conocían estos servicios, por lo que se han lanzado a hacer preguntas con bastante nivel técnico, y la verdad es que Simone ha estado a la altura respondiendo a todas con soltura y cintura."/>
+
+<meta property="og:title" content="Resumen Cloud Computing Workshop" />
+<meta property="og:description" content="El pasado jueves celebramos en las instalaciones de la CAN en Juan Bravo 3 el Cloud Computing Workshop de Madrid.
+En el invitado estelar era Simone Brunozzi, Amazon Web Service Evangelist para Europa, que nos ha mostrado el funcionamiento de los diferentes servicios de Cloud Computing de Amazon. Ha hecho demostraciones en directo de Amazon Elastic Compute Cloud (EC2) y Amazon Simple Storage Service (S3). Muchos de los asistentes al evento ya conocían estos servicios, por lo que se han lanzado a hacer preguntas con bastante nivel técnico, y la verdad es que Simone ha estado a la altura respondiendo a todas con soltura y cintura." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2009/04/05/resumen-cloud-computing-workshop/" />
+<meta property="article:published_time" content="2009-04-05T15:38:54+00:00" />
+<meta property="article:modified_time" content="2009-04-05T15:38:54+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Resumen Cloud Computing Workshop</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Apr 05, 2009
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/abiquo">ABIQUO</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/amazon">AMAZON</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/empresas">EMPRESAS</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/eventos">EVENTOS</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/abiquo">abiquo</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/amazon">amazon</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/evento">evento</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/minube">minube</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/sun">sun</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p>El pasado jueves celebramos en las instalaciones de la CAN en Juan Bravo 3 el Cloud Computing Workshop de Madrid.</p>
+<!-- raw HTML omitted -->
+<p>En el invitado estelar era <a href="http://www.linkedin.com/in/simonebrunozzi">Simone Brunozzi, Amazon Web Service Evangelist para Europa</a>, que nos ha mostrado el funcionamiento de los diferentes servicios de <a href="http://aws.amazon.com/">Cloud Computing de Amazon</a>. Ha hecho demostraciones en directo de <a href="http://aws.amazon.com/ec2/">Amazon Elastic Compute Cloud (EC2)</a> y <a href="http://aws.amazon.com/s3/">Amazon Simple Storage Service (S3)</a>. Muchos de los asistentes al evento ya conocían estos servicios, por lo que se han lanzado a hacer preguntas con bastante nivel técnico, y la verdad es que Simone ha estado a la altura respondiendo a todas con soltura y cintura.  El workshop ha durado casi dos horas, lo que da una idea del interés que ha despertado en los asistentes los temas tratados. Las preguntas han sido de todo tipo, desde los tipos de imágenes virtuales soportadas, throughput de entrada/salida, ancho de banda disponible en S3, hasta cuestiones sobre SLAs, impuestos (IVA) y gestión de las cuentas .</p>
+<!-- raw HTML omitted -->
+<p>A la estela de Amazon, <a href="http://www.fillito.com/blog/">Daniel García García (fillito)</a> de <a href="http://www.minube.com">minube.com</a>, una red social de viajeros, nos ha explicado cómo ellos usan Amazon EC2 y S3 de manera elástica para acomodar sus picos de carga estacionales. Realmente interesante.</p>
+<!-- raw HTML omitted -->
+<p>Luego <a href="http://www.linkedin.com/in/diegoparrilla">me a tocado el turno a mí</a>, que no sin algún problema técnico, he explicado las características de <a href="http://www.abiquo.com/en/products/abicloud">AbiCloud</a> nuestro software para la creación de Nubes Públicas y Privadas. He intentado transmitir la visión y misión de <a href="http://www.abiquo.com">Abiquo</a> en el Cloud Computing, y cómo queremos ayudar a las empresas e ISPs a subirse al carro de esta revolución. Luego vino la correspondiente demo, en la que me pasó un poco de todo: Google Maps no funcionó, y luego descubrí que tuve un problema con la conexión 3G y por eso no me actualizaba ciertos estados de las aplicaciones virtuales. Ya se sabe, efecto demo.</p>
+<!-- raw HTML omitted -->
+<p>Por ultimo, tuvimos el honor de tener a Jose Manuel Estrada de <a href="http://www.sun.com">Sun Microsystems</a> para ofrecernos <a href="http://www.sun.com/solutions/cloudcomputing/index.jsp">la visión de Sun Microsystems</a>. Sin duda, Sun se ha reinventado para afrontar el reto del Cloud Computing y está lanzando iniciativas muy interesantes. Una de las más sorprendentes es que se va a lanzar a competir con Google y Amazon ofreciendo directamente los servicios Cloud en sus datacenters. Es decir, serán Nube Pública muy pronto. Como elemento diferencial, <a href="http://kenai.com/projects/suncloudapis">Sun liberará APIs bajo licencias públicas</a>, y apostará por el código y los estándares abiertos. Una apuesta valiente e interesante. Sun Microsystems lanzará este verano servicios de almacenamiento al estilo de Amazon S3, de virtualización de Datacenters completos (al estilo de AbiCloud) y más adelante ofrecerá servicios de ESB, Mensajería de Colas y otros.</p>
+<!-- raw HTML omitted -->
+<p>Al final, y como suele ocurrir cuando lo que se trata interesa a los asistentes, la sensación de que necesitábamos más tiempo para tratar los temas que surgieron de la agenda o de manera espontánea fue general, así que unos cuantos decidimos seguir con el evento tomando unas tapas. Sin duda el mejor final para el evento.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2009/04/04/delicious-17/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Nubeblog links del 30/03 al 5/04</span>
+    </a>
+    
+    
+    <a href="/2009/04/08/google-appengine-para-java-ya-esta-aqui/" class="navigation-next">
+      <span class="navigation-tittle">Google AppEngine para Java. Ya está aquí</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2009/03/25/cloud-computing-workshop-en-madrid-con-amazon-y-abiquo/" >Cloud Computing Workshop en Madrid con Amazon y Abiquo</a>
+      
+      <time class="pull-right hidden-tablet">Mar 25 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/01/13/workshop-de-abiquo-para-desarrolladores-abiquo-developer-day/" >Workshop de Abiquo para desarrolladores: Abiquo Developer Day</a>
+      
+      <time class="pull-right hidden-tablet">Jan 13 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/03/17/amazon-y-su-nuevo-servicio-de-reserva-de-instancias-para-ec2/" >Amazon y su nuevo servicio de reserva de instancias para EC2</a>
+      
+      <time class="pull-right hidden-tablet">Mar 17 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/03/12/%c2%bfesta-preparada-espana-para-el-cloud-computing/" >¿Está preparada España para el Cloud Computing?</a>
+      
+      <time class="pull-right hidden-tablet">Mar 12 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/03/02/cloud-computing-la-nueva-burbuja-puntocom/" >¿El Cloud Computing es la nueva burbuja puntocom?</a>
+      
+      <time class="pull-right hidden-tablet">Mar 02 &#39;09</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

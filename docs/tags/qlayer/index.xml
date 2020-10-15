@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qlayer on Nubeblog</title>
+    <link>https://nubeblog.com/tags/qlayer/</link>
+    <description>Recent content in qlayer on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 07 Jan 2009 15:47:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/qlayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SUN Microsystems adquiere Qlayer</title>
+      <link>https://nubeblog.com/2009/01/07/sun-microsystems-adquiere-qlayer/</link>
+      <pubDate>Wed, 07 Jan 2009 15:47:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/07/sun-microsystems-adquiere-qlayer/</guid>
+      <description>Un tweet de Diego Mariño (CEO de Abiquo) me pone sobre la pista: “Sun ha comprado a un competidor directo de Abiquo”. Y esta empresa no es otra que Qlayer. Esta empresa belga son especialistas en nubes privadas y en lo que ellos llaman Datacenter Virtuales Privados (VPDC).
+ Potenciamos las tecnologías de virtualización existentes para crear servicios Cloud como DataCenters Virtuales Privades (VPDC). Los usuarios finales pueden poner en marcha y desplegar sus propios datacenters virtuales ajustados a las necesidades del momento.</description>
+    </item>
+    
+  </channel>
+</rss>

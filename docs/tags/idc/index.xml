@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idc on Nubeblog</title>
+    <link>https://nubeblog.com/tags/idc/</link>
+    <description>Recent content in idc on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 31 May 2010 12:00:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/idc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algunas conclusiones del evento de IDC sobre Cloud Computing</title>
+      <link>https://nubeblog.com/2010/05/31/conclusiones-sobre-el-evento-de-idc-sobre-cloud-computing/</link>
+      <pubDate>Mon, 31 May 2010 12:00:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/31/conclusiones-sobre-el-evento-de-idc-sobre-cloud-computing/</guid>
+      <description>Tengo la suerte de trabajar en una empresa donde tenemos que mirar hacia el mundo y no hacia España para hacer negocios, por lo que no puedo evitar comparar entre lo que veo en España y lo que veo fuera de ella. El jueves día 27 acudí al evento que IDC había organizado sobre Cloud Computing. Bajo la layenda ‘Preparándose para los siguientes 20 años de IT’, el evento se anunciaba como una oportunidad para que CIOs, CTOs y demás CxO de las empresas pudieran saber cómo subirse a esta ola de cambio.</description>
+    </item>
+    
+    <item>
+      <title>IDC estima que el gasto en Cloud Computing en 2012 será de $42000M</title>
+      <link>https://nubeblog.com/2008/10/22/idc-estima-que-el-gasto-en-cloud-computing-en-2012-sera-de-42000m/</link>
+      <pubDate>Wed, 22 Oct 2008 10:01:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/22/idc-estima-que-el-gasto-en-cloud-computing-en-2012-sera-de-42000m/</guid>
+      <description>La consultora IDC estima que en los próximos 5 años el gasto en Cloud Computing se triplicará alcanzando la cifra de 42 mil millones de dólares, contabilizando el 9% de los ingresos en cinco segmentos del mercado claves. Pero lo más importante es que el gasto en el período se acelerará hasta capturar el 25% del gasto en IT en el 2012 y casi un tercio en el 2013. Frank Gens, Senior VP y Analista jefe en IDC dice:</description>
+    </item>
+    
+  </channel>
+</rss>

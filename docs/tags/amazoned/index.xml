@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazoned on Nubeblog</title>
+    <link>https://nubeblog.com/tags/amazoned/</link>
+    <description>Recent content in amazoned on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 08 Feb 2011 13:33:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/amazoned/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazoned</title>
+      <link>https://nubeblog.com/2011/02/08/amazoned/</link>
+      <pubDate>Tue, 08 Feb 2011 13:33:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/02/08/amazoned/</guid>
+      <description>Hace unos días recibí un correo de una empresa bastante conocida que rayaba en el SPAM. Nada del otro mundo, pero leyendo la entrada del blog que recomendaban, me quedé con una frase que vengo dando vueltas desde hace varios días:
+ No one wants to be amazoned.
+ ¿Amazoned? Y entonces vinieron a mi mente recuerdos de épocas pasadas, de burbujas puntocom, de Consejeros Delegados de bancos sin corbata en First Tuesdays glamurosos y no como los de ahora, de Business 2.</description>
+    </item>
+    
+  </channel>
+</rss>

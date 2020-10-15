@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Nubeblog</title>
+    <link>https://nubeblog.com/tags/blog/</link>
+    <description>Recent content in blog on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 02 Sep 2010 11:55:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por qué dejo de usar Amazon EC2</title>
+      <link>https://nubeblog.com/2010/09/02/por-que-dejo-de-usar-amazon-ec2/</link>
+      <pubDate>Thu, 02 Sep 2010 11:55:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/02/por-que-dejo-de-usar-amazon-ec2/</guid>
+      <description>Cuando alguien anuncia en un blog o alguna red social que deja un servicio la mayoría de las veces tiene que ver con una mala experiencia con el servicio, o una mala experiencia con el Servicio de Atención al Cliente. En este caso, no ha ocurrido ninguna de estas dos cosas.
+Más bien todo lo contrario, mi experiencia usando Amazon EC2 en estos tres últimos años ha sido magnífica. La disponibilidad del servicio si no me equivoco ha sido del 100% o rozándolo.</description>
+    </item>
+    
+    <item>
+      <title>Cambio de rumbo en el blog</title>
+      <link>https://nubeblog.com/2010/08/31/cambio-de-rumbo-en-el-blog/</link>
+      <pubDate>Tue, 31 Aug 2010 14:48:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/08/31/cambio-de-rumbo-en-el-blog/</guid>
+      <description>Durante los últimos meses no he escrito prácticamente nada en el blog. Mucho trabajo y muchos cambios en Abiquo. Pero también muchos cambios en el mundo del Cloud Computing.
+Cuando empecé el blog, casi nadie tenía ni idea de lo que era esto, así que era pisar territorio virgen. Ahora, las cosas son diferentes. El Cloud Computing se ha convertido para muchos en la nueva burbuja tecnológica, y para otros en una nueva y floreciente industria.</description>
+    </item>
+    
+    <item>
+      <title>Blog Day 2009 – Mis Blogs Favoritos</title>
+      <link>https://nubeblog.com/2009/08/31/blog-day-2009-mis-blogs-favoritos/</link>
+      <pubDate>Mon, 31 Aug 2009 21:20:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/31/blog-day-2009-mis-blogs-favoritos/</guid>
+      <description>¡¡¡Casi acaba el día y no he escrito mi post sobre el Blog Day!!! Estamos ya en la 5ª edición de Blog Day. Es el 31 de Agosto porque este día 31-08 es lo más parecido a la palabra BLOG que hay.
+Mis recomendaciones para el día de hoy son:
+Blog de JoseMPeláez: Jose María Peláez escribe de forma atípica, no es un blogger tradicional. Ideas y mensajes para la reflexión, búscate unos minutos tranquilos para leerlos y reflexionar sobre ellos.</description>
+    </item>
+    
+    <item>
+      <title>Los artículos más vistos en Nubeblog en 2008</title>
+      <link>https://nubeblog.com/2009/01/02/los-articulos-mas-vistos-en-nubeblog-en-2008/</link>
+      <pubDate>Fri, 02 Jan 2009 18:51:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/02/los-articulos-mas-vistos-en-nubeblog-en-2008/</guid>
+      <description>Un poco de autobombo no está mal de vez en cuando. Para empezar el año suave y aprovechando que no hay muchas noticias, aquí tenéis la lista de los 10 artículos más vistos en 2008 según Google Analytics:
+ Por fin llegó: CloudFront, la Content Delivery Network de Amazon SaaS, IaaS y PaaS: Las tres clases de Cloud Computing Project Caroline: El Cloud Computing según Sun Microsystems Amazon EC2 desembarca en Europa con dos nuevas zonas Eucalyptus: el camino de código abierto a seguir en la estandarización de La Nube Las mareantes predicciones de Microsoft para su negocio SaaS Cloud Computing in Plain English con subtítulos en Español Microsoft Azure Services Platform, la apuesta PaaS de Microsoft Windows Azure: qué es real y qué es vapor “El Cloud puede explicar la Web 2.</description>
+    </item>
+    
+    <item>
+      <title>How should Mobile projects be to survive?</title>
+      <link>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</guid>
+      <description>Yesterday we discover that Mowser, the project founded by famous blogger Russell Beattie (and former colleague) was in the deadpool. Russ claimed that he ran out of money and had serious trouble with his finances.
+Everyday startups are created and abandoned, but the point in this story is that he could not raise funds to continue with the project. We see almost everyday projects raising a lot of money for nothing, so why an authority in the mobile world cannot pass the first round?</description>
+    </item>
+    
+    <item>
+      <title>How to embed Adsense ads inside a Blogger.com post</title>
+      <link>https://nubeblog.com/2007/09/03/how-to-embed-adsense-ads-inside-a-blogger-com-post/</link>
+      <pubDate>Mon, 03 Sep 2007 13:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/03/how-to-embed-adsense-ads-inside-a-blogger-com-post/</guid>
+      <description>One of the most annoying things of a Blogger.com blog was how difficult was to add AdSense ads in your blog. Currently this is not an issue anymore because you can add automatically AdSense ads in your page thanks to the Blogger dashboard. But if you read blogs you will realize that some blogs embed Google AdSense ads inside the post. Most tutorials on how to monetize your blog recommends it.</description>
+    </item>
+    
+  </channel>
+</rss>

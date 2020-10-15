@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grid on Nubeblog</title>
+    <link>https://nubeblog.com/categories/grid/</link>
+    <description>Recent content in grid on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 24 Dec 2010 16:12:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/grid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aprendiendo de las caídas de servicio de Skype</title>
+      <link>https://nubeblog.com/2010/12/24/aprendiendo-de-las-caidas-de-servicio-de-skype/</link>
+      <pubDate>Fri, 24 Dec 2010 16:12:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/24/aprendiendo-de-las-caidas-de-servicio-de-skype/</guid>
+      <description>Skype ha sido noticia de nuevo tres años después de su última caída del servicio. Y en un momento horrible, ya que están preparando su salida a bolsa…
+Hace unos años me tocó hacer un análisis de la arquitectura de Skype para una operadora que estaba interesada en conocer su funcionamiento sobre las emergentes redes de datos 3G. Las operadoras ya intuían hace años que Skype era una seria amenaza para sus intereses, y de ahí su interés.</description>
+    </item>
+    
+    <item>
+      <title>Un ejemplo de Cloud-as-a-Feature con GigaSpaces XAP</title>
+      <link>https://nubeblog.com/2008/12/23/un-ejemplo-de-cloud-as-a-feature-con-gigaspaces-xap/</link>
+      <pubDate>Tue, 23 Dec 2008 09:44:19 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/23/un-ejemplo-de-cloud-as-a-feature-con-gigaspaces-xap/</guid>
+      <description>Cloud-as-a-Feature (CaaF) es el último palabro que ha nacido del Cloud Computing. El padre de la criatura es Nicholas Carr (el de Big Switch) y según él significa la mezcla del software tradicional que corre en un PC con software que corre en La Nube. Un ejemplo muy claro de CaaF sería Google Earth, donde la aplicación visualiza la información en un PC, pero todo el procesado se hace en los servidores de Google.</description>
+    </item>
+    
+    <item>
+      <title>Abiquo pagará hasta 3000€ a quien desarrolle aplicaciones con su framework</title>
+      <link>https://nubeblog.com/2008/10/27/abiquo-pagara-hasta-3000e-a-quien-desarrolle-aplicaciones-con-su-framework/</link>
+      <pubDate>Mon, 27 Oct 2008 23:30:52 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/27/abiquo-pagara-hasta-3000e-a-quien-desarrolle-aplicaciones-con-su-framework/</guid>
+      <description>Abiquo es una startup de Barcelona dedicada al Grid y al Cloud Computing. Tienen diversas herramientas de código abierto que permiten desplegar Clouds, Calculo intensivo y almacenamiento masivo distribuido. Hoy su CEO Diego Mariño anunciaba en su blog que ofrecerá hasta 3000€ a aquellos desarrolladores que:
+  Adapten o desarrollen una aplicación o servicio sobre nuestra plataforma El código resultante sea ofrecido bajo una licencia aprobada por la OSI (no esperamos ganar un duro revendiendo esto, simplemente poder utilizarlos como ejemplos sin restricciones) Ofrezcan una completa documentación (en inglés como mínimo) tanto para usuario como para desarrollador   Y las razones que esgrime para esto son las siguientes:</description>
+    </item>
+    
+    <item>
+      <title>Cómo configurar MATLAB sobre Amazon EC2, Mathworks lo explica en un White Paper</title>
+      <link>https://nubeblog.com/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/</link>
+      <pubDate>Tue, 21 Oct 2008 09:55:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/</guid>
+      <description>Hace unos días en la lista de correo de cloud-computing alguien preguntaba sobre experiencias con MATLAB en La Nube. Cualquier que visite la lista verá que MATLAB soporta soluciones variopintas, con implementaciones de todos los colores en Grid.
+Hoy leo que la misma persona que inició la conversación anunciaba que Mathworks había liberado un white paper explicando cómo usar MATLAB con Amazon Elastic Compute Cloud (EC2). El documento te lo puedes bajar aquí.</description>
+    </item>
+    
+    <item>
+      <title>Gigaspaces y GoGrid lanzan un servicio de Cloud Computing de nivel Empresarial</title>
+      <link>https://nubeblog.com/2008/10/09/gigaspaces-y-gogrid-lanzan-un-servicio-de-cloud-computing-de-nivel-empresarial/</link>
+      <pubDate>Thu, 09 Oct 2008 10:31:19 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/09/gigaspaces-y-gogrid-lanzan-un-servicio-de-cloud-computing-de-nivel-empresarial/</guid>
+      <description>No todo el Cloud Computing va a ser Amazon Web Services. Existen otras propuestas interesantes, y creo GoGrid es una de las que parece más profesional. Por poner un ejemplo, ofrecen balanceadores F5 dentro de su infraestructura, lo que en mi opinión es fundamental para poner en marcha tolerante a fallos. También el servicio de monitorización y soporte 24×7 es algo fundamental a la hora de establecer los niveles de servicio.</description>
+    </item>
+    
+    <item>
+      <title>LCG: Esto es un Grid y lo demás tonterías</title>
+      <link>https://nubeblog.com/2008/10/06/lcg-esto-es-un-grid-y-lo-demas-tonterias/</link>
+      <pubDate>Mon, 06 Oct 2008 23:54:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/06/lcg-esto-es-un-grid-y-lo-demas-tonterias/</guid>
+      <description>Supongo que si estás leyendo este blog probablemente hayas recibido multitud de información sobre el proyecto Worldwide LHC Computing Grid (LCG). Si aún no te has enterado de lo que es, es la infraestructura de análisis y almacenamiento de los datos que toda la comunidad de Física de Alta Energía que use el LHC (El Gran Colisionador de Hadrones) va a utilizar.
+El LCG fue diseñado para soportar la inmensa cantidad de datos que los experimentos generarán.</description>
+    </item>
+    
+  </channel>
+</rss>

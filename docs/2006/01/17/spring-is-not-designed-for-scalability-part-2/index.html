@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Spring is not designed for scalability, part 2 • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Spring is not designed for scalability, part 2"/>
+<meta name="twitter:description" content="You never know when a post in your personal blog can make people like Cameron Purdy (one of my java-hero) or Bob Griswold (Senior Vice President of Terracotta Tech.) start an interesting discussion about different solutions to architect data clustering.
+Cameron Purdy has been behind Tangosol Coherence since the beginning, may be he is (or was) the main developer. Simplifying, it was an implementation of the Map interface that replicates data across different JVMs using different policies."/>
+
+<meta property="og:title" content="Spring is not designed for scalability, part 2" />
+<meta property="og:description" content="You never know when a post in your personal blog can make people like Cameron Purdy (one of my java-hero) or Bob Griswold (Senior Vice President of Terracotta Tech.) start an interesting discussion about different solutions to architect data clustering.
+Cameron Purdy has been behind Tangosol Coherence since the beginning, may be he is (or was) the main developer. Simplifying, it was an implementation of the Map interface that replicates data across different JVMs using different policies." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2006/01/17/spring-is-not-designed-for-scalability-part-2/" />
+<meta property="article:published_time" content="2006-01-17T00:38:00+00:00" />
+<meta property="article:modified_time" content="2006-01-17T00:38:00+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Spring is not designed for scalability, part 2</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Jan 17, 2006
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/uncategorized">UNCATEGORIZED</a>
+              
+          
+      
+    
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p>You never know when a post in your personal blog can make people like <a href="http://jroller.com/page/cpurdy?entry=escapismability_correcting_the_corrections">Cameron Purdy</a> (one of my java-hero) or Bob Griswold (Senior Vice President of Terracotta Tech.) start an interesting discussion about different solutions to architect data clustering.<br>
+Cameron Purdy has been behind <a href="http://www.tangosol.com">Tangosol Coherence</a> since the beginning, may be he is (or was) the main developer. Simplifying, it was an implementation of the Map interface that replicates data across different JVMs using different policies. I evaluated it three years ago and I made a strong recommendation of purchase in my former company (and they ignored me, as usual). I have reviewed it recently and it has improved a lot. I guess Cameron’s product represents one trend in data clustered architectures: extend and existing API (Collections) to help developers to build the data clustered solution.<br>
+<a href="http://www.terracottatech.com/">Terracotta</a> is something new, and apart from <a href="http://www.azulsystems.com/">Azul Systems</a>, may be the most interesting technology in the very mature Java market. Its technology can make applications to share data transparently between JVMs. How? I don’t know, honestly, but I will try to figure out how… They represent another trend in data clustering architectures: developers don’t need to know new APIs to manage clustered data.<br>
+Both solutions help developers to build highly scalable solutions when shared data is necessary (most of the times, BTW). Both have pros and cons, but basically you can build the same things with them. If the application needs to share data in not a very complex way, may be a non-explicit solution like Terracota’s Virtualization Server can do better than Tangosol Coherence. But if the application is complex enough to required some kind of ‘ad-hoc’ replication strategy or policy, then a explicit solution like Cameron’s product can do it better.<br>
+Regarding Spring, it is not just a framework: it is THE FRAMEWORK. I have discussed with colleagues several times about Spring, and we really think that people developing Spring KNOW about building applications, because it is designed to be <!-- raw HTML omitted -->effective<!-- raw HTML omitted -->. But I cannot agree with people thinking Spring can make applications more scalable than any other framework. Spring has a lot of advantages, but making an application scalable has nothing to do with frameworks (can Struts help you to build scalable applications? No!). May be Hibernate or EJB3 Entities for instance can help you to make your application to scale because of its caching capabilities (EJB3 depending on the app server provider), but then we have to focus on frameworks that manage data. Spring and Hibernate is the perfect duo, but they are different stuff.<br>
+Finally, <a href="http://www.digizenstudio.com/blog/2006/01/16/what-exactly-is-scalability/">better performance can be a side effect of scalability</a>, but it is not the goal of scalability. Actually, most of the times making an application to scale (horizontally) has a price in performance. Scalability is how to make your application to perform with 1000000 users just like if your application has only 1000.</p>
+<p>Anyway, thank you all for your very interesting thoughts.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2006/01/16/spring-is-not-designed-for-scalability/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Spring is not designed for scalability</span>
+    </a>
+    
+    
+    <a href="/2006/01/19/spanish-gov-uses-red-hat-and-nagios/" class="navigation-next">
+      <span class="navigation-tittle">Spanish Gov. uses Red Hat and NAGIOS</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

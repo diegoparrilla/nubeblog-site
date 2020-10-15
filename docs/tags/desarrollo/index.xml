@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>desarrollo on Nubeblog</title>
+    <link>https://nubeblog.com/tags/desarrollo/</link>
+    <description>Recent content in desarrollo on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 13 Mar 2009 00:12:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/desarrollo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cosas a tener en cuenta cuando desarrollas aplicaciones Cloud</title>
+      <link>https://nubeblog.com/2009/03/13/cosas-a-tener-en-cuenta-cuando-desarrollas-aplicaciones-cloud/</link>
+      <pubDate>Fri, 13 Mar 2009 00:12:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/13/cosas-a-tener-en-cuenta-cuando-desarrollas-aplicaciones-cloud/</guid>
+      <description>No es habitual encontrar gente que hable sobre los desarrolladores en el mundo del Cloud Computing. Estamos tan cegados por las facilidades que nos ofrece, que nos olvidamos que no todas las aplicaciones están preparadas para aprovechar sus ventajas.
+No lo entiendo.
+La única explicación que encuentro a esto es la inmadurez del paradigma. Vamos, que todavía no hay mucha gente que se haya dedicado a desarrollar aplicaciones que aprovechen al máximo la potencia del Cloud Computing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>berkeley on Nubeblog</title>
+    <link>https://nubeblog.com/tags/berkeley/</link>
+    <description>Recent content in berkeley on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 19 Feb 2009 13:54:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/berkeley/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte IV y final</title>
+      <link>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</link>
+      <pubDate>Thu, 19 Feb 2009 13:54:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte III
+Para concluir, los autores nos muestran el ‘Top Ten’ de los impedimentos para la adopción del Cloud Computing, tanto tecnológicos como de negocio:
+1.- Disponibilidad del Servicio
+Según los autores, los clientes tienen miedo a no tener un nivel de servicio adecuado.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte III</title>
+      <link>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</link>
+      <pubDate>Wed, 18 Feb 2009 10:46:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+La migración a un modelo de Cloud Computing o bien empezar una empresa directamente aprovechando las ventajas de este modelo no solo es una cuestión técnica; es también una cuestión de recursos económicos.
+La elasticidad y la transferencia del riesgo
+Los autores argumentan que la frase “Convertir CapEx a OpEx” se usa habitualmente como argumento de venta del Cloud Computing, “pay as you go” (paga por lo que usas no es una traducción exacta, pero nos vale…) captura mejor la esencia de los beneficios económicos del Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte II</title>
+      <link>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</link>
+      <pubDate>Tue, 17 Feb 2009 00:05:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Los siguientes capítulos del documento tratan un asunto que suele salir en conversaciones informales pero que normalmente pasamos por alto: Por qué despega ahora el Cloud Computing, y por qué fallo antes.
+**¿Por qué ahora Cloud Computing y antes no?
+**
+Para los autores la razón está detras de algo que según ellos acompaña a los modelos de negocio Web 2.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte I</title>
+      <link>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</link>
+      <pubDate>Mon, 16 Feb 2009 11:27:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</guid>
+      <description>Hace unos días recibí un correo indicándome que debía comentar un estudio que circula por la red hecho por la Universidad de Berkeley sobre el estado actual del Cloud Computing. Al leerlo me di cuenta que era un documento que necesita un análisis más detallado que mis habituales 300-500 palabras por post. Por suerte, muchos de los temas tratados ya han sido comentados en el blog, pero merece la pena dar un repaso.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>taller on Nubeblog</title>
+    <link>https://nubeblog.com/tags/taller/</link>
+    <description>Recent content in taller on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 09 Dec 2008 16:41:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/taller/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taller de Cloud Computing gratuito en el SeedRocket</title>
+      <link>https://nubeblog.com/2008/12/09/taller-de-cloud-computing-gratuito-en-el-seedrocket/</link>
+      <pubDate>Tue, 09 Dec 2008 16:41:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/09/taller-de-cloud-computing-gratuito-en-el-seedrocket/</guid>
+      <description>El día 18 de diciembre a las 17.00 SeedRocket patrocina un taller gratuito de Cloud Computing. Este taller de dos horas de duración será impartido por Diego Mariño, CEO de Abiquo y por Felipe Herrera, Sr Sales Engineer xVM en Sun Microsystems. Dada la gratuidad y el número limitado de plazas, lo mejor es que reserves ya tu plaza aquí.
+El SeedRocket es un evento que busca poner en contacto inversores de capital semilla con emprendedores que buscan su primera inversión.</description>
+    </item>
+    
+  </channel>
+</rss>

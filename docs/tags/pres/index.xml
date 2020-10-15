@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pres on Nubeblog</title>
+    <link>https://nubeblog.com/tags/pres/</link>
+    <description>Recent content in pres on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 22 Oct 2009 10:50:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/pres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Las charlas sobre Virtualizacion y Cloud del MadridOnRails</title>
+      <link>https://nubeblog.com/2009/10/22/las-charlas-sobre-virtualizacion-y-cloud-del-madridonrails/</link>
+      <pubDate>Thu, 22 Oct 2009 10:50:26 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/10/22/las-charlas-sobre-virtualizacion-y-cloud-del-madridonrails/</guid>
+      <description>Ayer estuve por primera vez en MadridOnRails. Tuve el placer de compartir ponencia con Victor Fernández, OpenSolaris Community Leader en España, que dio una visión muy detallada del panorama de la Virtualización. Luego yo ataqué con el tema del Cloud Computing y con las bondades de las Nubes Privadas.
+Aquí están las presentaciones, que las disfrutéis:</description>
+    </item>
+    
+  </channel>
+</rss>

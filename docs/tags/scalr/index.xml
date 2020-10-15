@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scalr on Nubeblog</title>
+    <link>https://nubeblog.com/tags/scalr/</link>
+    <description>Recent content in scalr on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 12 Jan 2009 15:14:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/scalr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nueva consola de gestión de Amazon EC2: la difícil tarea de sobrevivir en el ecosistema AWS</title>
+      <link>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</link>
+      <pubDate>Mon, 12 Jan 2009 15:14:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</guid>
+      <description>El pasado viernes recibí un bonito correo que me invitaba a probar la nueva beta de la consola de gestión de Amazon Web Services. La primera versión es una consola para EC2, aunque quieren expandirla a todos los servicios de Amazon Web Services. Luego mi vida paso a ser un infierno de nieve y atascos, y así nos quedamos durante buena parte del día.
+Lo cierto es que ya se ha hablado de ella bastante en los últimos días, así que hoy no voy a hacer una revisión en profundidad.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oracle on Nubeblog</title>
+    <link>https://nubeblog.com/tags/oracle/</link>
+    <description>Recent content in oracle on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 09 Mar 2010 07:53:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Puede ser Oracle un actor importante en el mundo de la virtualización?</title>
+      <link>https://nubeblog.com/2010/03/09/puede-ser-oracle-un-actor-importante-en-el-mundo-de-la-virtualizacion/</link>
+      <pubDate>Tue, 09 Mar 2010 07:53:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/03/09/puede-ser-oracle-un-actor-importante-en-el-mundo-de-la-virtualizacion/</guid>
+      <description>Una de las preguntas recurrentes en el mundillo de IT empresarial es cual es la estrategia de Oracle respecto a la virtualización y el Cloud Computing. Pese al esfuerzo que han hecho en explicar su estrategia, el consenso general es que tienen una pequeña empanada mental, y lo peor, los clientes se están dando cuenta.
+Pero antes de nada, vamos a hacer un pequeño inventario de qué tiene Oracle en el catálogo-que no es poco- y para qué sirve cada cosa:</description>
+    </item>
+    
+    <item>
+      <title>LCG: Esto es un Grid y lo demás tonterías</title>
+      <link>https://nubeblog.com/2008/10/06/lcg-esto-es-un-grid-y-lo-demas-tonterias/</link>
+      <pubDate>Mon, 06 Oct 2008 23:54:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/06/lcg-esto-es-un-grid-y-lo-demas-tonterias/</guid>
+      <description>Supongo que si estás leyendo este blog probablemente hayas recibido multitud de información sobre el proyecto Worldwide LHC Computing Grid (LCG). Si aún no te has enterado de lo que es, es la infraestructura de análisis y almacenamiento de los datos que toda la comunidad de Física de Alta Energía que use el LHC (El Gran Colisionador de Hadrones) va a utilizar.
+El LCG fue diseñado para soportar la inmensa cantidad de datos que los experimentos generarán.</description>
+    </item>
+    
+    <item>
+      <title>Larry Ellison (CEO Oracle) dice cuatro verdades sobre el Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/02/larry-ellison-ceo-oracle-dice-cuatro-verdades-sobre-el-cloud-computing/</link>
+      <pubDate>Thu, 02 Oct 2008 14:49:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/02/larry-ellison-ceo-oracle-dice-cuatro-verdades-sobre-el-cloud-computing/</guid>
+      <description>Larry Ellison es una de esas personas que no se puede tildar de pusilánime, desde luego. En el evento Oracle Openworld se soltó la melena y dijo cuatro verdades sobre el Cloud Computing y la industría de las Tecnologías de la Información. Ahí van las perlas:
+ Lo interesante de esto del Cloud Computing es que hemos redefinido Cloud Computing para que incluya todo aquello que ya hacemos. No puedo pensar en algo que no sea cloud computing con todos estos anuncios.</description>
+    </item>
+    
+  </channel>
+</rss>

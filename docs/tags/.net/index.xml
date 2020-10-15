@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.net on Nubeblog</title>
+    <link>https://nubeblog.com/tags/.net/</link>
+    <description>Recent content in .net on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 24 Sep 2007 18:23:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ruby on Rails hype: the party is over</title>
+      <link>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</link>
+      <pubDate>Mon, 24 Sep 2007 18:23:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</guid>
+      <description>Finally it seems that Ruby on Rails is starting to show its real face. Two years of RoR development put into the trash. Wow! Being seven times more productive than Java that means fourteen years of development! Seriously, it’s not common to hear of failures of a new and cool software stuff -you can look stupid- so I guess this is the peak of the iceberg of Ruby On Rails projects.</description>
+    </item>
+    
+    <item>
+      <title>Spain vs USA comparing two Job Boards</title>
+      <link>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</link>
+      <pubDate>Wed, 19 Sep 2007 16:04:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</guid>
+      <description>A few days ago I made a search in Infojobs.es (the most popular Job Board in Spain) for open positions for Ruby On Rails developers. The result was… one! I was very surprised. Only one? With all the hype around RoR? Only one job offer?
+It’s obvious that USA is more developed regarding technology than Spain, but the question is: How far are they? Can we measure the distance? Honestly I think it’s very difficult and probably comparing two countries is not the right way.</description>
+    </item>
+    
+    <item>
+      <title>Google Phone OS Java based?</title>
+      <link>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</link>
+      <pubDate>Tue, 04 Sep 2007 18:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</guid>
+      <description>I have just read this post in Engadget about rumours of the Google Phone. I will highlight this: ‘…the phone will run on a Linux variant (which is nothing new), and will be Java Virtual Machine-capable. Additionally, the OS of the phone will be Java-based (as well as the all phone apps itself), and performance is said to be “very responsive.”‘It seems the GPhone will look like a Palm Treo or Blackberry with a screen smaller than the IPhone.</description>
+    </item>
+    
+    <item>
+      <title>Java SOA increases and .NET declines, survey says</title>
+      <link>https://nubeblog.com/2007/08/27/java-soa-increases-and-net-declines-survey-says/</link>
+      <pubDate>Mon, 27 Aug 2007 17:09:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/27/java-soa-increases-and-net-declines-survey-says/</guid>
+      <description>Evans data on his semi-annual Web Services Development Survey conducted in June says that companies planning the deployment of SOAwith a Java platform has increased slightly, but the companies deploying on .NET have declinedby almost 20%. .NET is still ahead with a 31% and Java in second place with 28%. 25% will support both.
+It seems the reason is the increase of the activity of the Open Source world, specially Eclipse, around SOA.</description>
+    </item>
+    
+    <item>
+      <title>Why .NET will never be cross-platform</title>
+      <link>https://nubeblog.com/2007/05/02/why-net-will-never-be-cross-platform/</link>
+      <pubDate>Wed, 02 May 2007 19:25:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/05/02/why-net-will-never-be-cross-platform/</guid>
+      <description>When I read this post asking Microsoft to make .NET cross-platform, I wondered myself why they did not use Java -the one and only trulycross-platform environment-. Apart from the the obvious, Microsoft has very good reason to avoid making .NET cross-platform:
+ The jewel of the crown is Windows, so opening .NET to OS X and Linux is like shooting on your feet. As Steve Ballmersaid he loves ‘developers’… because they build ‘applications’…for the Windows OS.</description>
+    </item>
+    
+  </channel>
+</rss>

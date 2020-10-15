@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estandar on Nubeblog</title>
+    <link>https://nubeblog.com/tags/estandar/</link>
+    <description>Recent content in estandar on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 02 Dec 2010 10:46:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/estandar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wikileaks expulsado de Amazon: Las Nubes no son ni neutrales ni abiertas</title>
+      <link>https://nubeblog.com/2010/12/02/wikileaks-expulsado-de-amazon-las-nubes-no-son-ni-neutrales-ni-libres/</link>
+      <pubDate>Thu, 02 Dec 2010 10:46:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/02/wikileaks-expulsado-de-amazon-las-nubes-no-son-ni-neutrales-ni-libres/</guid>
+      <description>Llevamos varios días descubriendo gracias a las filtraciones de Wikileaks que hay mucho mamoneo en el mundo de la diplomacia. Creo que esto no es como para caerse de un guindo, y bueno, tiene más gracia que Gran Hermano 12 y es menos deprimente que las noticias sobre la economía española.
+Hace ya varias semanas supimos que Wikileaks había desplegado parte de sus servidores en Amazon Web Services. Tanto en sus zonas Europeas como en USA.</description>
+    </item>
+    
+    <item>
+      <title>Los Casos de Uso del Cloud Computing</title>
+      <link>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</link>
+      <pubDate>Sun, 09 Aug 2009 15:53:53 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</guid>
+      <description>Cuando uno trabaja en una startup aprende rápidamente que lo urgente prima sobre lo importante. Y si no lo aprende rápido, la startup prescinde de él, él prescinde de la startup, o bien todo se va a al carajo. Ejemplo: escribir en este blog es importante, pero lo urgente es cerrar funcionalidad del producto necesaria por algunos clientes.
+Otro ejemplo: es importante trabajar en grupos y asociaciones dedicadas a la estandarización del Cloud Computing, pero tu producto no puede esperar a las estandarizaciones.</description>
+    </item>
+    
+  </channel>
+</rss>

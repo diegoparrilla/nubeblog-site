@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>youtube on Nubeblog</title>
+    <link>https://nubeblog.com/tags/youtube/</link>
+    <description>Recent content in youtube on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 19 Jul 2007 13:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Mailbox, is this a joke?</title>
+      <link>https://nubeblog.com/2007/07/19/3d-mailbox-is-this-a-joke/</link>
+      <pubDate>Thu, 19 Jul 2007 13:52:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/07/19/3d-mailbox-is-this-a-joke/</guid>
+      <description>I recently found a review of a new email application name 3D Mailbox. And that’s what you think: an application to read your email in a tridimensional environment. Can sound stupid, but it looks even more stupid when you watch the trailer:
+It’s crystal clear that Venture Capital investors do not know what to do with their pockets full of money.
+And no, it’s not a joke.</description>
+    </item>
+    
+    <item>
+      <title>YouTube comprises 10% traffic on the Internet</title>
+      <link>https://nubeblog.com/2007/06/20/youtube-comprises-10-traffic-on-the-internet/</link>
+      <pubDate>Wed, 20 Jun 2007 16:45:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/06/20/youtube-comprises-10-traffic-on-the-internet/</guid>
+      <description>I have just read this report from ellacoya networks. It explains how http traffic has overtaken p2p traffic thanks to video and audio streaming. And YouTube comprises 10% of whole internet traffic, and more than 20% of http!
+I could never imagine that YouTube is so big. But what it makes me wonder how much time people waste in YouTube daily, and how it affects productivity.</description>
+    </item>
+    
+  </channel>
+</rss>

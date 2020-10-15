@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chromeos on Nubeblog</title>
+    <link>https://nubeblog.com/tags/chromeos/</link>
+    <description>Recent content in chromeos on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 08 Jul 2009 11:04:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/chromeos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google ChromeOS y el cambio de paradigma en la computación</title>
+      <link>https://nubeblog.com/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/</link>
+      <pubDate>Wed, 08 Jul 2009 11:04:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/</guid>
+      <description>Parece que Google quiere darnos unas cuantas noticias interesantes estos días. Hoy anuncia que sí, que está desarrollando un Sistema Operativo, y que se llamará ChromeOS porque estará pensado para las aplicaciones en la red. Según dicen ellos, será un SO pensando en las nuevas necesidades de los usuarios: rápido, simple y seguro. El arranque será ultrarápido y se podrá navegar en segundos. La interfaz será mínima, delegando todo el trabajo al navegador, Google Chrome, claro está.</description>
+    </item>
+    
+  </channel>
+</rss>

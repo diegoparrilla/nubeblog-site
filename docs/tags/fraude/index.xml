@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fraude on Nubeblog</title>
+    <link>https://nubeblog.com/tags/fraude/</link>
+    <description>Recent content in fraude on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 12 Nov 2008 09:13:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/fraude/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fraud-as-a-Service, el lado oscuro del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/11/12/fraud-as-a-service-el-lado-oscuro-del-cloud-computing/</link>
+      <pubDate>Wed, 12 Nov 2008 09:13:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/12/fraud-as-a-service-el-lado-oscuro-del-cloud-computing/</guid>
+      <description>Uri Rivner de la empresa de seguridad RSA ha avisado de una nueva tendencia criminal donde se ofrecen Servicios de Fraude como SaaS. Este así denominado Fraud-as-a-Service ofrecido a través de servicios chat y foros se puede contratar en paquetes que incluyen Troyanos para el robo de información, alojamiento en servidores bastionados con disponibilidades de 4 nueves, y un servicio de infección con actualizaciones y parches continuos para evitar su detección por parte del software de seguridad.</description>
+    </item>
+    
+  </channel>
+</rss>

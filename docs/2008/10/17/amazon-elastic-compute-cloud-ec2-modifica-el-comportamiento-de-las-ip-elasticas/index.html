@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Amazon Elastic Compute Cloud (EC2) modifica el comportamiento de las IP elásticas • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Amazon Elastic Compute Cloud (EC2) modifica el comportamiento de las IP elásticas"/>
+<meta name="twitter:description" content="Ayer se anunció en el foro sobre EC2 de Amazon pequeños cambios para mejorar el servicio de IPs virtuales (o elásticas como dicen ellos).
+Los cambios introducidos son dos:
+ Un mapeo más rápido de las direcciones IP elásticas. Ahora un cambio podía tardar unos cuantos minutos. No se cuanto se tardará ahora, pero lo probaremos. Las conexiones existentes cuando se realiza un remapeo son eliminadas de manera inmediata. Ya no hay que esperar a que el stack de red se de cuenta de que ya no existe conexión con el extremo."/>
+
+<meta property="og:title" content="Amazon Elastic Compute Cloud (EC2) modifica el comportamiento de las IP elásticas" />
+<meta property="og:description" content="Ayer se anunció en el foro sobre EC2 de Amazon pequeños cambios para mejorar el servicio de IPs virtuales (o elásticas como dicen ellos).
+Los cambios introducidos son dos:
+ Un mapeo más rápido de las direcciones IP elásticas. Ahora un cambio podía tardar unos cuantos minutos. No se cuanto se tardará ahora, pero lo probaremos. Las conexiones existentes cuando se realiza un remapeo son eliminadas de manera inmediata. Ya no hay que esperar a que el stack de red se de cuenta de que ya no existe conexión con el extremo." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2008/10/17/amazon-elastic-compute-cloud-ec2-modifica-el-comportamiento-de-las-ip-elasticas/" />
+<meta property="article:published_time" content="2008-10-17T14:57:24+00:00" />
+<meta property="article:modified_time" content="2008-10-17T14:57:24+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Amazon Elastic Compute Cloud (EC2) modifica el comportamiento de las IP elásticas</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Oct 17, 2008
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/amazon">amazon</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/ec2">ec2</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 1 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="/wp-content/uploads/logo_aws.gif"><!-- raw HTML omitted --></a>Ayer se anunció en el <a href="http://developer.amazonwebservices.com/connect/forum.jspa?forumID=30&amp;start=0">foro sobre EC2 de Amazon</a> pequeños <a href="http://developer.amazonwebservices.com/connect/ann.jspa?annID=354">cambios para mejorar el servicio de IPs virtuales</a> (o elásticas como dicen ellos).</p>
+<p>Los cambios introducidos son dos:</p>
+<ul>
+<li>Un mapeo más rápido de las direcciones IP elásticas. Ahora un cambio podía tardar unos cuantos minutos. No se cuanto se tardará ahora, pero lo probaremos.</li>
+<li>Las conexiones existentes cuando se realiza un remapeo son eliminadas de manera inmediata. Ya no hay que esperar a que el stack de red se de cuenta de que ya no existe conexión con el extremo. Hasta ahora lo que ocurría es que las conexiones abiertas se quedaban así durante un rato. </li>
+</ul>
+<p>Estos cambios afectan a su infraestructura, pero no afectan al código de nuestras aplicaciones. Bueno, yo creo que puede tener un efecto positivo ya que no tienes que preocuparte de implementar algoritmos de ‘<a href="http://en.wikipedia.org/wiki/Keepalive">KeepAlive</a>‘ entre tus sistemas en la nube.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2008/10/17/virtualizacion-y-cloud-computing-las-dos-tecnologias-estrategicas-para-la-empresa-en-2009-segun-gartner/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Virtualización y Cloud Computing las dos tecnologías estratégicas para la empresa en 2009 según Gartner</span>
+    </a>
+    
+    
+    <a href="/2008/10/19/plugintothecloudcom-es-la-apuesta-de-informationweek-por-el-cloud-computing/" class="navigation-next">
+      <span class="navigation-tittle">Plugintothecloud.com es la apuesta de InformationWeek por el Cloud Computing</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/" >Microsoft Windows Server correrá sobre Amazon EC2</a>
+      
+      <time class="pull-right hidden-tablet">Oct 01 &#39;08</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2008/10/09/amazon-s3-cambiara-en-noviembre-su-estructura-de-precios/" >Amazon S3 cambiará en noviembre su estructura de precios</a>
+      
+      <time class="pull-right hidden-tablet">Oct 09 &#39;08</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

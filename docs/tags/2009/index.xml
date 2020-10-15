@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2009 on Nubeblog</title>
+    <link>https://nubeblog.com/tags/2009/</link>
+    <description>Recent content in 2009 on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 30 Dec 2008 18:32:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/2009/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Qué nos traerá el 2009?</title>
+      <link>https://nubeblog.com/2008/12/30/que-nos-traera-el-2009/</link>
+      <pubDate>Tue, 30 Dec 2008 18:32:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/30/que-nos-traera-el-2009/</guid>
+      <description>No se me da bien hacer de oráculo. Y como he comentado en alguna ocasión, aquellos que lo hacen suelen quedar luego en evidencia si se tira de hemeroteca. Pese a ello, me gustaría compartir algunas de las cosas que creo que veremos en el 2009 en el mundo alrededor del Cloud Computing.
+ Estandarización: Sin duda una de las razones para no adoptar servicios en La Nube es el miedo a convertirse en un cliente cautivo (vendor lock-in) de tus proveedores.</description>
+    </item>
+    
+  </channel>
+</rss>

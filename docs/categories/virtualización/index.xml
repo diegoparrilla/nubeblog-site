@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtualización on Nubeblog</title>
+    <link>https://nubeblog.com/categories/virtualizaci%C3%B3n/</link>
+    <description>Recent content in virtualización on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 16 Sep 2010 01:39:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/virtualizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qué es la sobresuscripción en el Cloud Computing</title>
+      <link>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</guid>
+      <description>Hace un par de días escribí un post sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.
+¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué tiene 3PAR que Dell y HP se pelean por ella?</title>
+      <link>https://nubeblog.com/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/</guid>
+      <description>Estas últimas semanas ha ocurrido algo que hacía muchos años que no se veía, y que algunos han identificado como la llegada de una nueva burbuja: Dell y HP han peleado por una empresa mucho más pequeña que ellas, 3PAR.
+Pero vamos por partes: hace unas semanas Dell hace una oferta por una “pequeña” empresa llamada 3PAR ($600M) dedicada a fabricar software y cabinas de almacenamiento. La oferta ofrece una prima por encima del 80% de su valor en el mercado.</description>
+    </item>
+    
+    <item>
+      <title>¿Puede ser Oracle un actor importante en el mundo de la virtualización?</title>
+      <link>https://nubeblog.com/2010/03/09/puede-ser-oracle-un-actor-importante-en-el-mundo-de-la-virtualizacion/</link>
+      <pubDate>Tue, 09 Mar 2010 07:53:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/03/09/puede-ser-oracle-un-actor-importante-en-el-mundo-de-la-virtualizacion/</guid>
+      <description>Una de las preguntas recurrentes en el mundillo de IT empresarial es cual es la estrategia de Oracle respecto a la virtualización y el Cloud Computing. Pese al esfuerzo que han hecho en explicar su estrategia, el consenso general es que tienen una pequeña empanada mental, y lo peor, los clientes se están dando cuenta.
+Pero antes de nada, vamos a hacer un pequeño inventario de qué tiene Oracle en el catálogo-que no es poco- y para qué sirve cada cosa:</description>
+    </item>
+    
+    <item>
+      <title>VMware y la virtualización en dispositivos móviles</title>
+      <link>https://nubeblog.com/2008/11/18/vmware-y-la-virtualizacion-en-dispositivos-moviles/</link>
+      <pubDate>Tue, 18 Nov 2008 09:49:48 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/18/vmware-y-la-virtualizacion-en-dispositivos-moviles/</guid>
+      <description>VMWare ha anunciado recientemente su Mobile Virtualization Platform o MVP, una capa de abstracción pensada para dispositivos móviles. MVP es el software que compró cuando adquirió la empresa Trango Virtual Processors.
+Este software añade una capa de software sobre el hardware, haciendo algo similar a lo que hacen los productos de VMWare para servidores, pero en dispositivos móviles. Mientras que el objetivo de los productos de servidor es optimizar los recursos de los servidores normalmente infrautilizados, el objetivo de este producto es hacer más fácil la migración de aplicaciones de un dispositivo a otro.</description>
+    </item>
+    
+  </channel>
+</rss>

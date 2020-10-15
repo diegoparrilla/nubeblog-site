@@ -1,0 +1,2364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nubeblog</title>
+    <link>https://nubeblog.com/tags/</link>
+    <description>Recent content in Tags on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Oct 2011 13:20:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>boston</title>
+      <link>https://nubeblog.com/tags/boston/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/boston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://nubeblog.com/tags/conference/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openstack</title>
+      <link>https://nubeblog.com/tags/openstack/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/openstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stackops</title>
+      <link>https://nubeblog.com/tags/stackops/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/stackops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>summit</title>
+      <link>https://nubeblog.com/tags/summit/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://nubeblog.com/tags/amazon/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aws</title>
+      <link>https://nubeblog.com/tags/aws/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ebs</title>
+      <link>https://nubeblog.com/tags/ebs/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/ebs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meneame</title>
+      <link>https://nubeblog.com/tags/meneame/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/meneame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rayo</title>
+      <link>https://nubeblog.com/tags/rayo/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/rayo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nubeblog</title>
+      <link>https://nubeblog.com/tags/nubeblog/</link>
+      <pubDate>Wed, 20 Jul 2011 13:42:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/nubeblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nexenta</title>
+      <link>https://nubeblog.com/tags/nexenta/</link>
+      <pubDate>Thu, 16 Jun 2011 11:46:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/nexenta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strelia</title>
+      <link>https://nubeblog.com/tags/strelia/</link>
+      <pubDate>Thu, 16 Jun 2011 11:46:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/strelia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nova</title>
+      <link>https://nubeblog.com/tags/nova/</link>
+      <pubDate>Tue, 29 Mar 2011 23:14:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/nova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift</title>
+      <link>https://nubeblog.com/tags/swift/</link>
+      <pubDate>Tue, 29 Mar 2011 23:14:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carr</title>
+      <link>https://nubeblog.com/tags/carr/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/carr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>director</title>
+      <link>https://nubeblog.com/tags/director/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/director/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iaas</title>
+      <link>https://nubeblog.com/tags/iaas/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/iaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saas</title>
+      <link>https://nubeblog.com/tags/saas/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/saas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://nubeblog.com/tags/vmware/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distro</title>
+      <link>https://nubeblog.com/tags/distro/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/distro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openstackspain</title>
+      <link>https://nubeblog.com/tags/openstackspain/</link>
+      <pubDate>Wed, 16 Mar 2011 23:06:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/openstackspain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soug</title>
+      <link>https://nubeblog.com/tags/soug/</link>
+      <pubDate>Wed, 16 Mar 2011 23:06:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/soug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stackop</title>
+      <link>https://nubeblog.com/tags/stackop/</link>
+      <pubDate>Wed, 16 Mar 2011 23:06:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/stackop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://nubeblog.com/tags/startup/</link>
+      <pubDate>Wed, 02 Mar 2011 12:03:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazoned</title>
+      <link>https://nubeblog.com/tags/amazoned/</link>
+      <pubDate>Tue, 08 Feb 2011 13:33:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/amazoned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>almacenamiento</title>
+      <link>https://nubeblog.com/tags/almacenamiento/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/almacenamiento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://nubeblog.com/tags/cloud/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gonzalezpons</title>
+      <link>https://nubeblog.com/tags/gonzalezpons/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gonzalezpons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>https://nubeblog.com/tags/opinion/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pp</title>
+      <link>https://nubeblog.com/tags/pp/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacidad</title>
+      <link>https://nubeblog.com/tags/privacidad/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/privacidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abiquo</title>
+      <link>https://nubeblog.com/tags/abiquo/</link>
+      <pubDate>Wed, 12 Jan 2011 11:29:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/abiquo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diego parrilla</title>
+      <link>https://nubeblog.com/tags/diego-parrilla/</link>
+      <pubDate>Wed, 12 Jan 2011 11:29:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/diego-parrilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hosting</title>
+      <link>https://nubeblog.com/tags/hosting/</link>
+      <pubDate>Tue, 11 Jan 2011 08:55:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loogic</title>
+      <link>https://nubeblog.com/tags/loogic/</link>
+      <pubDate>Tue, 11 Jan 2011 08:55:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/loogic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://nubeblog.com/tags/networking/</link>
+      <pubDate>Tue, 11 Jan 2011 08:55:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eucalyptus</title>
+      <link>https://nubeblog.com/tags/eucalyptus/</link>
+      <pubDate>Mon, 10 Jan 2011 08:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/eucalyptus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nasa</title>
+      <link>https://nubeblog.com/tags/nasa/</link>
+      <pubDate>Mon, 10 Jan 2011 08:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/nasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rackspace</title>
+      <link>https://nubeblog.com/tags/rackspace/</link>
+      <pubDate>Mon, 10 Jan 2011 08:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/rackspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dilbert</title>
+      <link>https://nubeblog.com/tags/dilbert/</link>
+      <pubDate>Fri, 07 Jan 2011 16:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/dilbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humor</title>
+      <link>https://nubeblog.com/tags/humor/</link>
+      <pubDate>Fri, 07 Jan 2011 16:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2010</title>
+      <link>https://nubeblog.com/tags/2010/</link>
+      <pubDate>Fri, 31 Dec 2010 01:42:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inocentada</title>
+      <link>https://nubeblog.com/tags/inocentada/</link>
+      <pubDate>Tue, 28 Dec 2010 10:37:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/inocentada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amplia</title>
+      <link>https://nubeblog.com/tags/amplia/</link>
+      <pubDate>Fri, 24 Dec 2010 16:12:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/amplia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caida</title>
+      <link>https://nubeblog.com/tags/caida/</link>
+      <pubDate>Fri, 24 Dec 2010 16:12:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/caida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grid</title>
+      <link>https://nubeblog.com/tags/grid/</link>
+      <pubDate>Fri, 24 Dec 2010 16:12:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skype</title>
+      <link>https://nubeblog.com/tags/skype/</link>
+      <pubDate>Fri, 24 Dec 2010 16:12:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/skype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2011</title>
+      <link>https://nubeblog.com/tags/2011/</link>
+      <pubDate>Wed, 22 Dec 2010 11:05:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>navidad</title>
+      <link>https://nubeblog.com/tags/navidad/</link>
+      <pubDate>Wed, 22 Dec 2010 11:05:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/navidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agilidad</title>
+      <link>https://nubeblog.com/tags/agilidad/</link>
+      <pubDate>Wed, 15 Dec 2010 10:47:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/agilidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cisco</title>
+      <link>https://nubeblog.com/tags/cisco/</link>
+      <pubDate>Wed, 15 Dec 2010 10:47:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nexica</title>
+      <link>https://nubeblog.com/tags/nexica/</link>
+      <pubDate>Wed, 15 Dec 2010 10:47:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/nexica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>españa</title>
+      <link>https://nubeblog.com/tags/espa%C3%B1a/</link>
+      <pubDate>Tue, 14 Dec 2010 12:17:38 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/espa%C3%B1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cebr</title>
+      <link>https://nubeblog.com/tags/cebr/</link>
+      <pubDate>Mon, 13 Dec 2010 10:22:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cebr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emc</title>
+      <link>https://nubeblog.com/tags/emc/</link>
+      <pubDate>Mon, 13 Dec 2010 10:22:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/emc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estudios</title>
+      <link>https://nubeblog.com/tags/estudios/</link>
+      <pubDate>Mon, 13 Dec 2010 10:22:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/estudios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estandar</title>
+      <link>https://nubeblog.com/tags/estandar/</link>
+      <pubDate>Thu, 02 Dec 2010 10:46:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/estandar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wikileaks</title>
+      <link>https://nubeblog.com/tags/wikileaks/</link>
+      <pubDate>Thu, 02 Dec 2010 10:46:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/wikileaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manifiesto</title>
+      <link>https://nubeblog.com/tags/manifiesto/</link>
+      <pubDate>Tue, 30 Nov 2010 17:28:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/manifiesto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neutralidad</title>
+      <link>https://nubeblog.com/tags/neutralidad/</link>
+      <pubDate>Tue, 30 Nov 2010 17:28:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/neutralidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudscaling</title>
+      <link>https://nubeblog.com/tags/cloudscaling/</link>
+      <pubDate>Sun, 28 Nov 2010 15:04:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cloudscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netflix</title>
+      <link>https://nubeblog.com/tags/netflix/</link>
+      <pubDate>Sun, 28 Nov 2010 15:04:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/netflix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://nubeblog.com/tags/devops/</link>
+      <pubDate>Fri, 26 Nov 2010 17:31:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evento</title>
+      <link>https://nubeblog.com/tags/evento/</link>
+      <pubDate>Fri, 26 Nov 2010 17:31:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/evento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sysadmins</title>
+      <link>https://nubeblog.com/tags/sysadmins/</link>
+      <pubDate>Fri, 26 Nov 2010 17:31:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sysadmins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iguardans</title>
+      <link>https://nubeblog.com/tags/iguardans/</link>
+      <pubDate>Mon, 22 Nov 2010 18:53:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/iguardans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>apple</title>
+      <link>https://nubeblog.com/tags/apple/</link>
+      <pubDate>Tue, 02 Nov 2010 22:36:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idatacenter</title>
+      <link>https://nubeblog.com/tags/idatacenter/</link>
+      <pubDate>Tue, 02 Nov 2010 22:36:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/idatacenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arquitectura</title>
+      <link>https://nubeblog.com/tags/arquitectura/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/arquitectura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caso de exito</title>
+      <link>https://nubeblog.com/tags/caso-de-exito/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/caso-de-exito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imagenio</title>
+      <link>https://nubeblog.com/tags/imagenio/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/imagenio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>free usage tier</title>
+      <link>https://nubeblog.com/tags/free-usage-tier/</link>
+      <pubDate>Fri, 22 Oct 2010 11:18:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/free-usage-tier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://nubeblog.com/tags/marketing/</link>
+      <pubDate>Fri, 22 Oct 2010 11:18:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redhat</title>
+      <link>https://nubeblog.com/tags/redhat/</link>
+      <pubDate>Fri, 15 Oct 2010 11:12:16 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/redhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intel</title>
+      <link>https://nubeblog.com/tags/intel/</link>
+      <pubDate>Thu, 14 Oct 2010 10:35:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gartner</title>
+      <link>https://nubeblog.com/tags/gartner/</link>
+      <pubDate>Wed, 13 Oct 2010 10:25:40 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gartner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hype cycle</title>
+      <link>https://nubeblog.com/tags/hype-cycle/</link>
+      <pubDate>Wed, 13 Oct 2010 10:25:40 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hype-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tier</title>
+      <link>https://nubeblog.com/tags/tier/</link>
+      <pubDate>Mon, 11 Oct 2010 10:13:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/tier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uptime institute</title>
+      <link>https://nubeblog.com/tags/uptime-institute/</link>
+      <pubDate>Mon, 11 Oct 2010 10:13:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/uptime-institute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fundacion bankinter</title>
+      <link>https://nubeblog.com/tags/fundacion-bankinter/</link>
+      <pubDate>Thu, 07 Oct 2010 08:49:39 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/fundacion-bankinter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talento</title>
+      <link>https://nubeblog.com/tags/talento/</link>
+      <pubDate>Tue, 05 Oct 2010 00:42:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/talento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datacenter</title>
+      <link>https://nubeblog.com/tags/datacenter/</link>
+      <pubDate>Wed, 22 Sep 2010 10:36:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/datacenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facebook</title>
+      <link>https://nubeblog.com/tags/facebook/</link>
+      <pubDate>Wed, 22 Sep 2010 10:36:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inversion</title>
+      <link>https://nubeblog.com/tags/inversion/</link>
+      <pubDate>Wed, 22 Sep 2010 10:36:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foursquare</title>
+      <link>https://nubeblog.com/tags/foursquare/</link>
+      <pubDate>Mon, 20 Sep 2010 01:00:51 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/foursquare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://nubeblog.com/tags/twitter/</link>
+      <pubDate>Mon, 20 Sep 2010 01:00:51 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobresubscripcion</title>
+      <link>https://nubeblog.com/tags/sobresubscripcion/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sobresubscripcion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualización</title>
+      <link>https://nubeblog.com/tags/virtualizaci%C3%B3n/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/virtualizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microinstancia</title>
+      <link>https://nubeblog.com/tags/microinstancia/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/microinstancia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vps</title>
+      <link>https://nubeblog.com/tags/vps/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/vps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3par</title>
+      <link>https://nubeblog.com/tags/3par/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/3par/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dell</title>
+      <link>https://nubeblog.com/tags/dell/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/dell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hp</title>
+      <link>https://nubeblog.com/tags/hp/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://nubeblog.com/tags/blog/</link>
+      <pubDate>Thu, 02 Sep 2010 11:55:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entrevista</title>
+      <link>https://nubeblog.com/tags/entrevista/</link>
+      <pubDate>Wed, 01 Sep 2010 09:13:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/entrevista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idc</title>
+      <link>https://nubeblog.com/tags/idc/</link>
+      <pubDate>Mon, 31 May 2010 12:00:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/idc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://nubeblog.com/tags/google/</link>
+      <pubDate>Thu, 20 May 2010 07:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>s3</title>
+      <link>https://nubeblog.com/tags/s3/</link>
+      <pubDate>Wed, 19 May 2010 10:03:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autobombo</title>
+      <link>https://nubeblog.com/tags/autobombo/</link>
+      <pubDate>Tue, 18 May 2010 11:22:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/autobombo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>licencias</title>
+      <link>https://nubeblog.com/tags/licencias/</link>
+      <pubDate>Tue, 06 Apr 2010 16:55:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/licencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://nubeblog.com/tags/hardware/</link>
+      <pubDate>Sun, 04 Apr 2010 17:51:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infraestructura</title>
+      <link>https://nubeblog.com/tags/infraestructura/</link>
+      <pubDate>Sun, 04 Apr 2010 17:51:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/infraestructura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>servidores</title>
+      <link>https://nubeblog.com/tags/servidores/</link>
+      <pubDate>Sun, 04 Apr 2010 17:51:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/servidores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensolaris</title>
+      <link>https://nubeblog.com/tags/opensolaris/</link>
+      <pubDate>Mon, 29 Mar 2010 11:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/opensolaris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solaris</title>
+      <link>https://nubeblog.com/tags/solaris/</link>
+      <pubDate>Mon, 29 Mar 2010 11:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/solaris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypervisor</title>
+      <link>https://nubeblog.com/tags/hypervisor/</link>
+      <pubDate>Tue, 09 Mar 2010 07:53:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hypervisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oracle</title>
+      <link>https://nubeblog.com/tags/oracle/</link>
+      <pubDate>Tue, 09 Mar 2010 07:53:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/oracle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sun</title>
+      <link>https://nubeblog.com/tags/sun/</link>
+      <pubDate>Tue, 09 Mar 2010 07:53:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dreamforce</title>
+      <link>https://nubeblog.com/tags/dreamforce/</link>
+      <pubDate>Fri, 20 Nov 2009 03:49:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/dreamforce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>salesforce</title>
+      <link>https://nubeblog.com/tags/salesforce/</link>
+      <pubDate>Wed, 11 Nov 2009 22:21:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/salesforce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pres</title>
+      <link>https://nubeblog.com/tags/pres/</link>
+      <pubDate>Thu, 22 Oct 2009 10:50:26 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/pres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentacion</title>
+      <link>https://nubeblog.com/tags/presentacion/</link>
+      <pubDate>Thu, 22 Oct 2009 10:50:26 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/presentacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simo</title>
+      <link>https://nubeblog.com/tags/simo/</link>
+      <pubDate>Mon, 21 Sep 2009 23:29:07 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/simo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://nubeblog.com/tags/api/</link>
+      <pubDate>Fri, 04 Sep 2009 09:54:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deltacloud</title>
+      <link>https://nubeblog.com/tags/deltacloud/</link>
+      <pubDate>Fri, 04 Sep 2009 09:54:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/deltacloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blackhat</title>
+      <link>https://nubeblog.com/tags/blackhat/</link>
+      <pubDate>Tue, 01 Sep 2009 13:06:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/blackhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seguridad</title>
+      <link>https://nubeblog.com/tags/seguridad/</link>
+      <pubDate>Tue, 01 Sep 2009 13:06:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/seguridad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>negocios</title>
+      <link>https://nubeblog.com/tags/negocios/</link>
+      <pubDate>Tue, 25 Aug 2009 09:35:48 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/negocios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>https://nubeblog.com/tags/opensource/</link>
+      <pubDate>Tue, 11 Aug 2009 09:20:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>springsource</title>
+      <link>https://nubeblog.com/tags/springsource/</link>
+      <pubDate>Tue, 11 Aug 2009 09:20:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/springsource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>use cases</title>
+      <link>https://nubeblog.com/tags/use-cases/</link>
+      <pubDate>Sun, 09 Aug 2009 15:53:53 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/use-cases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>administracion</title>
+      <link>https://nubeblog.com/tags/administracion/</link>
+      <pubDate>Thu, 16 Jul 2009 08:49:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/administracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>europa</title>
+      <link>https://nubeblog.com/tags/europa/</link>
+      <pubDate>Thu, 16 Jul 2009 08:49:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/europa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politica</title>
+      <link>https://nubeblog.com/tags/politica/</link>
+      <pubDate>Thu, 16 Jul 2009 08:49:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/politica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>https://nubeblog.com/tags/azure/</link>
+      <pubDate>Tue, 14 Jul 2009 19:49:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microsoft</title>
+      <link>https://nubeblog.com/tags/microsoft/</link>
+      <pubDate>Tue, 14 Jul 2009 19:49:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chromeos</title>
+      <link>https://nubeblog.com/tags/chromeos/</link>
+      <pubDate>Wed, 08 Jul 2009 11:04:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/chromeos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gmail</title>
+      <link>https://nubeblog.com/tags/gmail/</link>
+      <pubDate>Tue, 07 Jul 2009 20:21:38 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gmail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudcamp</title>
+      <link>https://nubeblog.com/tags/cloudcamp/</link>
+      <pubDate>Thu, 18 Jun 2009 00:13:39 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cloudcamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whyfloss</title>
+      <link>https://nubeblog.com/tags/whyfloss/</link>
+      <pubDate>Mon, 08 Jun 2009 16:23:51 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/whyfloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terremark</title>
+      <link>https://nubeblog.com/tags/terremark/</link>
+      <pubDate>Tue, 26 May 2009 23:07:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/terremark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seedrocket</title>
+      <link>https://nubeblog.com/tags/seedrocket/</link>
+      <pubDate>Mon, 25 May 2009 22:15:31 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/seedrocket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telcos</title>
+      <link>https://nubeblog.com/tags/telcos/</link>
+      <pubDate>Mon, 13 Apr 2009 17:03:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/telcos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>appengine</title>
+      <link>https://nubeblog.com/tags/appengine/</link>
+      <pubDate>Wed, 08 Apr 2009 08:34:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/appengine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://nubeblog.com/tags/java/</link>
+      <pubDate>Wed, 08 Apr 2009 08:34:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minube</title>
+      <link>https://nubeblog.com/tags/minube/</link>
+      <pubDate>Sun, 05 Apr 2009 15:38:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/minube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desarrollo</title>
+      <link>https://nubeblog.com/tags/desarrollo/</link>
+      <pubDate>Fri, 13 Mar 2009 00:12:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/desarrollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paas</title>
+      <link>https://nubeblog.com/tags/paas/</link>
+      <pubDate>Thu, 05 Mar 2009 17:36:23 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/paas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amd</title>
+      <link>https://nubeblog.com/tags/amd/</link>
+      <pubDate>Tue, 03 Mar 2009 10:26:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/amd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burbuja</title>
+      <link>https://nubeblog.com/tags/burbuja/</link>
+      <pubDate>Mon, 02 Mar 2009 00:29:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/burbuja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://nubeblog.com/tags/linux/</link>
+      <pubDate>Mon, 23 Feb 2009 07:40:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://nubeblog.com/tags/ubuntu/</link>
+      <pubDate>Mon, 23 Feb 2009 07:40:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>berkeley</title>
+      <link>https://nubeblog.com/tags/berkeley/</link>
+      <pubDate>Thu, 19 Feb 2009 13:54:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/berkeley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM</title>
+      <link>https://nubeblog.com/tags/ibm/</link>
+      <pubDate>Tue, 17 Feb 2009 15:44:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derechos</title>
+      <link>https://nubeblog.com/tags/derechos/</link>
+      <pubDate>Thu, 12 Feb 2009 11:15:43 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/derechos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ec2</title>
+      <link>https://nubeblog.com/tags/ec2/</link>
+      <pubDate>Thu, 12 Feb 2009 09:56:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/ec2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encuesta</title>
+      <link>https://nubeblog.com/tags/encuesta/</link>
+      <pubDate>Thu, 05 Feb 2009 15:00:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/encuesta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pymes</title>
+      <link>https://nubeblog.com/tags/pymes/</link>
+      <pubDate>Thu, 05 Feb 2009 15:00:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/pymes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gdrive</title>
+      <link>https://nubeblog.com/tags/gdrive/</link>
+      <pubDate>Wed, 04 Feb 2009 15:27:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gdrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parascale</title>
+      <link>https://nubeblog.com/tags/parascale/</link>
+      <pubDate>Wed, 04 Feb 2009 15:27:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/parascale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prevision</title>
+      <link>https://nubeblog.com/tags/prevision/</link>
+      <pubDate>Tue, 03 Feb 2009 00:16:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/prevision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debugmodeon</title>
+      <link>https://nubeblog.com/tags/debugmodeon/</link>
+      <pubDate>Thu, 29 Jan 2009 16:28:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/debugmodeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudfront</title>
+      <link>https://nubeblog.com/tags/cloudfront/</link>
+      <pubDate>Wed, 28 Jan 2009 15:54:16 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cloudfront/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>edos</title>
+      <link>https://nubeblog.com/tags/edos/</link>
+      <pubDate>Tue, 27 Jan 2009 00:08:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/edos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>securidad</title>
+      <link>https://nubeblog.com/tags/securidad/</link>
+      <pubDate>Tue, 27 Jan 2009 00:08:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/securidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bittorrent</title>
+      <link>https://nubeblog.com/tags/bittorrent/</link>
+      <pubDate>Mon, 26 Jan 2009 08:00:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/bittorrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gogrid</title>
+      <link>https://nubeblog.com/tags/gogrid/</link>
+      <pubDate>Wed, 21 Jan 2009 10:01:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gogrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monitorizacion</title>
+      <link>https://nubeblog.com/tags/monitorizacion/</link>
+      <pubDate>Wed, 14 Jan 2009 10:27:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/monitorizacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crisis</title>
+      <link>https://nubeblog.com/tags/crisis/</link>
+      <pubDate>Mon, 12 Jan 2009 22:35:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rightscale</title>
+      <link>https://nubeblog.com/tags/rightscale/</link>
+      <pubDate>Mon, 12 Jan 2009 15:14:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/rightscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scalr</title>
+      <link>https://nubeblog.com/tags/scalr/</link>
+      <pubDate>Mon, 12 Jan 2009 15:14:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/scalr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libros</title>
+      <link>https://nubeblog.com/tags/libros/</link>
+      <pubDate>Fri, 09 Jan 2009 10:00:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/libros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burton</title>
+      <link>https://nubeblog.com/tags/burton/</link>
+      <pubDate>Thu, 08 Jan 2009 10:57:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/burton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soa</title>
+      <link>https://nubeblog.com/tags/soa/</link>
+      <pubDate>Thu, 08 Jan 2009 10:57:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/soa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qlayer</title>
+      <link>https://nubeblog.com/tags/qlayer/</link>
+      <pubDate>Wed, 07 Jan 2009 15:47:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/qlayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>android</title>
+      <link>https://nubeblog.com/tags/android/</link>
+      <pubDate>Sat, 03 Jan 2009 17:10:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netbook</title>
+      <link>https://nubeblog.com/tags/netbook/</link>
+      <pubDate>Sat, 03 Jan 2009 17:10:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/netbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008</title>
+      <link>https://nubeblog.com/tags/2008/</link>
+      <pubDate>Fri, 02 Jan 2009 18:51:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2009</title>
+      <link>https://nubeblog.com/tags/2009/</link>
+      <pubDate>Tue, 30 Dec 2008 18:32:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predicciones</title>
+      <link>https://nubeblog.com/tags/predicciones/</link>
+      <pubDate>Tue, 30 Dec 2008 18:32:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/predicciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medios</title>
+      <link>https://nubeblog.com/tags/medios/</link>
+      <pubDate>Fri, 26 Dec 2008 11:46:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/medios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>premio</title>
+      <link>https://nubeblog.com/tags/premio/</link>
+      <pubDate>Fri, 26 Dec 2008 11:46:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/premio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trabajo outsourcing</title>
+      <link>https://nubeblog.com/tags/trabajo-outsourcing/</link>
+      <pubDate>Wed, 10 Dec 2008 10:23:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/trabajo-outsourcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taller</title>
+      <link>https://nubeblog.com/tags/taller/</link>
+      <pubDate>Tue, 09 Dec 2008 16:41:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/taller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://nubeblog.com/tags/tutorial/</link>
+      <pubDate>Tue, 09 Dec 2008 16:41:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capital riesgo</title>
+      <link>https://nubeblog.com/tags/capital-riesgo/</link>
+      <pubDate>Tue, 09 Dec 2008 10:55:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/capital-riesgo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consultoria</title>
+      <link>https://nubeblog.com/tags/consultoria/</link>
+      <pubDate>Wed, 03 Dec 2008 10:38:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/consultoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simpledb</title>
+      <link>https://nubeblog.com/tags/simpledb/</link>
+      <pubDate>Tue, 02 Dec 2008 10:02:39 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/simpledb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webinar</title>
+      <link>https://nubeblog.com/tags/webinar/</link>
+      <pubDate>Mon, 01 Dec 2008 23:00:29 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web2.0</title>
+      <link>https://nubeblog.com/tags/web2.0/</link>
+      <pubDate>Mon, 01 Dec 2008 10:05:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/web2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decho</title>
+      <link>https://nubeblog.com/tags/decho/</link>
+      <pubDate>Fri, 28 Nov 2008 10:16:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/decho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mozy</title>
+      <link>https://nubeblog.com/tags/mozy/</link>
+      <pubDate>Fri, 28 Nov 2008 10:16:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/mozy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pi</title>
+      <link>https://nubeblog.com/tags/pi/</link>
+      <pubDate>Fri, 28 Nov 2008 10:16:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CapGemini</title>
+      <link>https://nubeblog.com/tags/capgemini/</link>
+      <pubDate>Wed, 26 Nov 2008 09:01:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/capgemini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datasets</title>
+      <link>https://nubeblog.com/tags/datasets/</link>
+      <pubDate>Tue, 25 Nov 2008 09:05:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>https://nubeblog.com/tags/presentation/</link>
+      <pubDate>Mon, 24 Nov 2008 09:50:24 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caroline</title>
+      <link>https://nubeblog.com/tags/caroline/</link>
+      <pubDate>Thu, 20 Nov 2008 09:12:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/caroline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movil</title>
+      <link>https://nubeblog.com/tags/movil/</link>
+      <pubDate>Tue, 18 Nov 2008 09:49:48 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/movil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sla</title>
+      <link>https://nubeblog.com/tags/sla/</link>
+      <pubDate>Fri, 14 Nov 2008 09:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fraude</title>
+      <link>https://nubeblog.com/tags/fraude/</link>
+      <pubDate>Wed, 12 Nov 2008 09:13:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/fraude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware</title>
+      <link>https://nubeblog.com/tags/malware/</link>
+      <pubDate>Wed, 12 Nov 2008 09:13:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estado</title>
+      <link>https://nubeblog.com/tags/estado/</link>
+      <pubDate>Fri, 07 Nov 2008 09:19:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/estado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arista</title>
+      <link>https://nubeblog.com/tags/arista/</link>
+      <pubDate>Thu, 30 Oct 2008 09:18:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/arista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vaporware</title>
+      <link>https://nubeblog.com/tags/vaporware/</link>
+      <pubDate>Wed, 29 Oct 2008 08:58:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/vaporware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows</title>
+      <link>https://nubeblog.com/tags/windows/</link>
+      <pubDate>Wed, 29 Oct 2008 08:58:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jungledisk</title>
+      <link>https://nubeblog.com/tags/jungledisk/</link>
+      <pubDate>Thu, 23 Oct 2008 10:16:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/jungledisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slicehost</title>
+      <link>https://nubeblog.com/tags/slicehost/</link>
+      <pubDate>Thu, 23 Oct 2008 10:16:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/slicehost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mosso</title>
+      <link>https://nubeblog.com/tags/mosso/</link>
+      <pubDate>Thu, 23 Oct 2008 09:45:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/mosso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mercados</title>
+      <link>https://nubeblog.com/tags/mercados/</link>
+      <pubDate>Tue, 21 Oct 2008 23:55:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/mercados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matlab</title>
+      <link>https://nubeblog.com/tags/matlab/</link>
+      <pubDate>Tue, 21 Oct 2008 09:55:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esb</title>
+      <link>https://nubeblog.com/tags/esb/</link>
+      <pubDate>Mon, 20 Oct 2008 10:07:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/esb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sonoa</title>
+      <link>https://nubeblog.com/tags/sonoa/</link>
+      <pubDate>Mon, 20 Oct 2008 10:07:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sonoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>informationweek</title>
+      <link>https://nubeblog.com/tags/informationweek/</link>
+      <pubDate>Sun, 19 Oct 2008 18:05:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/informationweek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloudera</title>
+      <link>https://nubeblog.com/tags/cloudera/</link>
+      <pubDate>Thu, 16 Oct 2008 15:10:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cloudera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hadoop</title>
+      <link>https://nubeblog.com/tags/hadoop/</link>
+      <pubDate>Thu, 16 Oct 2008 15:10:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hadoop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequoia</title>
+      <link>https://nubeblog.com/tags/sequoia/</link>
+      <pubDate>Mon, 13 Oct 2008 14:59:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sequoia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gigaspaces</title>
+      <link>https://nubeblog.com/tags/gigaspaces/</link>
+      <pubDate>Thu, 09 Oct 2008 10:31:19 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gigaspaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enomaly</title>
+      <link>https://nubeblog.com/tags/enomaly/</link>
+      <pubDate>Wed, 08 Oct 2008 09:45:44 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/enomaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lhc</title>
+      <link>https://nubeblog.com/tags/lhc/</link>
+      <pubDate>Mon, 06 Oct 2008 23:54:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/lhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software libre</title>
+      <link>https://nubeblog.com/tags/software-libre/</link>
+      <pubDate>Sat, 04 Oct 2008 17:07:41 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/software-libre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business</title>
+      <link>https://nubeblog.com/tags/business/</link>
+      <pubDate>Tue, 22 Apr 2008 11:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://nubeblog.com/tags/development/</link>
+      <pubDate>Tue, 22 Apr 2008 11:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embedded</title>
+      <link>https://nubeblog.com/tags/embedded/</link>
+      <pubDate>Tue, 22 Apr 2008 11:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/embedded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M2M</title>
+      <link>https://nubeblog.com/tags/m2m/</link>
+      <pubDate>Tue, 22 Apr 2008 11:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/m2m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enterprise</title>
+      <link>https://nubeblog.com/tags/enterprise/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/enterprise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IM</title>
+      <link>https://nubeblog.com/tags/im/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/im/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://nubeblog.com/tags/mobile/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>joke</title>
+      <link>https://nubeblog.com/tags/joke/</link>
+      <pubDate>Mon, 07 Apr 2008 22:37:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/joke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>madness</title>
+      <link>https://nubeblog.com/tags/madness/</link>
+      <pubDate>Mon, 07 Apr 2008 22:37:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/madness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiction</title>
+      <link>https://nubeblog.com/tags/fiction/</link>
+      <pubDate>Tue, 18 Mar 2008 10:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetics</title>
+      <link>https://nubeblog.com/tags/genetics/</link>
+      <pubDate>Tue, 18 Mar 2008 10:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://nubeblog.com/tags/fun/</link>
+      <pubDate>Mon, 17 Mar 2008 13:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hobbist</title>
+      <link>https://nubeblog.com/tags/hobbist/</link>
+      <pubDate>Mon, 17 Mar 2008 13:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hobbist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agile</title>
+      <link>https://nubeblog.com/tags/agile/</link>
+      <pubDate>Wed, 20 Feb 2008 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architecture</title>
+      <link>https://nubeblog.com/tags/architecture/</link>
+      <pubDate>Wed, 20 Feb 2008 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grails</title>
+      <link>https://nubeblog.com/tags/grails/</link>
+      <pubDate>Wed, 20 Feb 2008 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/grails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rails</title>
+      <link>https://nubeblog.com/tags/rails/</link>
+      <pubDate>Wed, 20 Feb 2008 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fon</title>
+      <link>https://nubeblog.com/tags/fon/</link>
+      <pubDate>Tue, 19 Feb 2008 08:55:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/fon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social networks</title>
+      <link>https://nubeblog.com/tags/social-networks/</link>
+      <pubDate>Tue, 19 Feb 2008 08:55:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/social-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://nubeblog.com/tags/management/</link>
+      <pubDate>Thu, 14 Feb 2008 01:05:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>designs</title>
+      <link>https://nubeblog.com/tags/designs/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jruby</title>
+      <link>https://nubeblog.com/tags/jruby/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/jruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://nubeblog.com/tags/ruby/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jobs</title>
+      <link>https://nubeblog.com/tags/jobs/</link>
+      <pubDate>Sat, 02 Feb 2008 13:13:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rumours</title>
+      <link>https://nubeblog.com/tags/rumours/</link>
+      <pubDate>Wed, 12 Dec 2007 09:51:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/rumours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chart</title>
+      <link>https://nubeblog.com/tags/chart/</link>
+      <pubDate>Sun, 09 Dec 2007 01:30:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gphone</title>
+      <link>https://nubeblog.com/tags/gphone/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/gphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iphone</title>
+      <link>https://nubeblog.com/tags/iphone/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>justice</title>
+      <link>https://nubeblog.com/tags/justice/</link>
+      <pubDate>Fri, 02 Nov 2007 14:11:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/justice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peugeot</title>
+      <link>https://nubeblog.com/tags/peugeot/</link>
+      <pubDate>Wed, 31 Oct 2007 16:33:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/peugeot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jee</title>
+      <link>https://nubeblog.com/tags/jee/</link>
+      <pubDate>Mon, 29 Oct 2007 12:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/jee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.net</title>
+      <link>https://nubeblog.com/tags/.net/</link>
+      <pubDate>Mon, 24 Sep 2007 18:23:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markets</title>
+      <link>https://nubeblog.com/tags/markets/</link>
+      <pubDate>Wed, 19 Sep 2007 16:04:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>databases</title>
+      <link>https://nubeblog.com/tags/databases/</link>
+      <pubDate>Fri, 14 Sep 2007 11:32:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qa</title>
+      <link>https://nubeblog.com/tags/qa/</link>
+      <pubDate>Mon, 10 Sep 2007 12:35:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackers</title>
+      <link>https://nubeblog.com/tags/hackers/</link>
+      <pubDate>Mon, 03 Sep 2007 13:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/hackers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micropayment</title>
+      <link>https://nubeblog.com/tags/micropayment/</link>
+      <pubDate>Mon, 03 Sep 2007 09:56:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/micropayment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://nubeblog.com/tags/youtube/</link>
+      <pubDate>Thu, 19 Jul 2007 13:52:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mono</title>
+      <link>https://nubeblog.com/tags/mono/</link>
+      <pubDate>Wed, 02 May 2007 19:25:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/mono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mesh</title>
+      <link>https://nubeblog.com/tags/mesh/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wimax</title>
+      <link>https://nubeblog.com/tags/wimax/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/wimax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dwr</title>
+      <link>https://nubeblog.com/tags/dwr/</link>
+      <pubDate>Wed, 11 Apr 2007 00:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/dwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>souki</title>
+      <link>https://nubeblog.com/tags/souki/</link>
+      <pubDate>Wed, 11 Apr 2007 00:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/souki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cortos</title>
+      <link>https://nubeblog.com/tags/cortos/</link>
+      <pubDate>Wed, 07 Mar 2007 14:30:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/cortos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short films</title>
+      <link>https://nubeblog.com/tags/short-films/</link>
+      <pubDate>Wed, 07 Mar 2007 14:30:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/short-films/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fud</title>
+      <link>https://nubeblog.com/tags/fud/</link>
+      <pubDate>Sun, 04 Feb 2007 12:18:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/fud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nokia</title>
+      <link>https://nubeblog.com/tags/nokia/</link>
+      <pubDate>Sun, 14 Jan 2007 22:20:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/nokia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>upnp</title>
+      <link>https://nubeblog.com/tags/upnp/</link>
+      <pubDate>Sun, 14 Jan 2007 22:20:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/upnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PS3</title>
+      <link>https://nubeblog.com/tags/ps3/</link>
+      <pubDate>Sun, 12 Nov 2006 15:53:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/ps3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sony</title>
+      <link>https://nubeblog.com/tags/sony/</link>
+      <pubDate>Sun, 12 Nov 2006 15:53:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/tags/sony/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

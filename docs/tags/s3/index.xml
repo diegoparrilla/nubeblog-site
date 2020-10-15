@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>s3 on Nubeblog</title>
+    <link>https://nubeblog.com/tags/s3/</link>
+    <description>Recent content in s3 on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 19 May 2010 10:03:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon S3 RRS: una versión más barata de S3 con menor &amp;#8216;durabilidad&amp;#8217;</title>
+      <link>https://nubeblog.com/2010/05/19/amazon-s3-rrs-una-version-mas-barata-de-s3-con-menor-durabilidad/</link>
+      <pubDate>Wed, 19 May 2010 10:03:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/19/amazon-s3-rrs-una-version-mas-barata-de-s3-con-menor-durabilidad/</guid>
+      <description>Amazon Web Services acaba de anunciar un nuevo servicio llamado Amazon S3 Reduced Redundancy Storage (RRS). ¿Y qué es esto? Pues en sus palabras, este nuevo servicio permite a los clientes reducir sus costes guardando informacion no tan crítica en un servicio de almacenamiento similar a S3 pero con menores niveles de redundancia. Parece que es un servicio interesante para quien almacenar información temporal o que se encuentra ya almacenada en otro sitio.</description>
+    </item>
+    
+    <item>
+      <title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</title>
+      <link>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</link>
+      <pubDate>Fri, 23 Jan 2009 10:04:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</guid>
+      <description>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 cambiará en noviembre su estructura de precios</title>
+      <link>https://nubeblog.com/2008/10/09/amazon-s3-cambiara-en-noviembre-su-estructura-de-precios/</link>
+      <pubDate>Thu, 09 Oct 2008 10:46:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/09/amazon-s3-cambiara-en-noviembre-su-estructura-de-precios/</guid>
+      <description>En el blog oficial de Amazon Web Services nos cuentan dos cosas muy interesantes:
+ Amazon S3 soporta picos de 70000 peticiones de lectura/escritura/borrado por segundo. Impresionante. Cambian su estructura de precios y ahora hay cuatro tramos en función de las necesidades de almacenamiento. A más necesidad de almacenamiento menor coste. Por encima de 50Terabytes los precios bajan. Por cierto, que ya lo anuncian en su página de precios.  </description>
+    </item>
+    
+  </channel>
+</rss>

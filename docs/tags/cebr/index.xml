@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cebr on Nubeblog</title>
+    <link>https://nubeblog.com/tags/cebr/</link>
+    <description>Recent content in cebr on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 13 Dec 2010 10:22:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/cebr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Cloud Computing impulsará un 2% el PIB en España</title>
+      <link>https://nubeblog.com/2010/12/13/el-cloud-computing-impulsara-un-2-el-pib-en-espana/</link>
+      <pubDate>Mon, 13 Dec 2010 10:22:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/13/el-cloud-computing-impulsara-un-2-el-pib-en-espana/</guid>
+      <description>La semana pasada el Centre for Economics and Business Research (CEBR) publicó un estudio sobre el impacto del Cloud Computing en la economía europea. El informe se centra sobre las cinco mayores economías europeas: Reino Unido, Alemania, Francia, Italia y España. El informe está patrocinado por EMC.
+El estudio se centra en calcular los beneficios del Cloud Computing a nivel macro. Es decir, el CEBR ha asumido los beneficios del Cloud Computing a nivel general, y los han generalizado a las diferentes economías y a las diferentes industrias, poniendo como horizonte el año 2015.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consultoria on Nubeblog</title>
+    <link>https://nubeblog.com/tags/consultoria/</link>
+    <description>Recent content in Consultoria on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 03 Dec 2008 10:38:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/consultoria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM verifica que tu Nube es resiliente</title>
+      <link>https://nubeblog.com/2008/12/03/ibm-verifica-que-tu-nube-es-resiliente/</link>
+      <pubDate>Wed, 03 Dec 2008 10:38:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/03/ibm-verifica-que-tu-nube-es-resiliente/</guid>
+      <description>Uno de los servicios que IBM anuncia dentro de su nueva oferta de consultoría alrededor de La Nube es lo que ellos llaman IBM Resilient Cloud Validation Services. Este servicio -que existe desde hace mucho tiempo, pero en otras áreas tecnológicas- pretende determinar si las Nubes privadas o contratadas por sus clientes son plenamente funcionales y fiables. Luego van y ponen un sello con su logo diciendo que sí, que lo son (o que no lo son, pero esta es otra historia).</description>
+    </item>
+    
+    <item>
+      <title>IBM y CapGemini entran en el mercado del Cloud: Las grandes consultoras quieren su trozo del pastel</title>
+      <link>https://nubeblog.com/2008/11/26/ibm-y-capgemini-entran-en-el-mercado-del-cloud-las-grandes-consultoras-quieren-su-trozo-del-pastel/</link>
+      <pubDate>Wed, 26 Nov 2008 09:01:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/26/ibm-y-capgemini-entran-en-el-mercado-del-cloud-las-grandes-consultoras-quieren-su-trozo-del-pastel/</guid>
+      <description>Cuando empecé a escribir este post la noticia se centraba únicamente en la entrada de CapGemini en el mercado de la consultoría a empresas de Cloud Computing. Pero una semana después IBM ha anunciado que entra a dar servicios dentro de este mercado.
+La visión de CapGemini es más exploratoria, los servicios que ofrecen tienen diferentes focos:
+ Software as a Service (SaaS) con soluciones de Oracle Fusion y Microsoft Sharepoint.</description>
+    </item>
+    
+  </channel>
+</rss>

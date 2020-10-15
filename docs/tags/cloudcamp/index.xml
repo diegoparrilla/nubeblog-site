@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloudcamp on Nubeblog</title>
+    <link>https://nubeblog.com/tags/cloudcamp/</link>
+    <description>Recent content in cloudcamp on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 18 Jun 2009 00:13:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/cloudcamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impresiones del CloudCamp Barcelona</title>
+      <link>https://nubeblog.com/2009/06/18/impresiones-del-cloudcamp-barcelona/</link>
+      <pubDate>Thu, 18 Jun 2009 00:13:39 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/18/impresiones-del-cloudcamp-barcelona/</guid>
+      <description>Ya se que llega con un poco de retraso, pero me gustaría escribir un poco sobre lo que pasó en el CloudCamp que se celebró en Barcelona el 15 de Junio. Os aseguro que organizar un evento no es nada sencillo, ya que todo son detalles. Y son detalles que todo los asistentes pueden ver. Así que me mi más sincera enhorabuena a Diego Mariño y Helena Torras por parte de Abiquo y a David Nielsen por parte de la organización CloudCamp ya que dieron la talla.</description>
+    </item>
+    
+    <item>
+      <title>CloudCamp Barcelona el próximo 15 de Junio ¡Apúntate!</title>
+      <link>https://nubeblog.com/2009/06/07/cloudcamp-barcelona-el-proximo-15-de-junio-%c2%a1apuntate/</link>
+      <pubDate>Sun, 07 Jun 2009 17:23:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/07/cloudcamp-barcelona-el-proximo-15-de-junio-%c2%a1apuntate/</guid>
+      <description>CloudCamp es una “desconferencia” en la que early-adopters de Cloud Computing intercambian ideas y hacen networking.
+ En Abiquo llevamos varias semanas luchando por organizar un CloudCamp en Barcelona. Organizar un evento no es fácil, y uno como CloudCamp, menos todavía.
+Debido a los rápidos cambios que está generando esta tecnología en todos los entornos IT, es indispensable tener la ocasión de compartir experiencias, soluciones y retos. En un CloudCamp, todos los asistentes son animados a compartir sus ideas y opiniones en discusiones abiertas.</description>
+    </item>
+    
+    <item>
+      <title>Dreamforce Europa cancelada por sorpresa. ¿Qué pasa con los eventos de Cloud?</title>
+      <link>https://nubeblog.com/2009/01/15/dreamforce-europa-cancelada-por-sorpresa-%c2%bfque-pasa-con-los-eventos-de-cloud/</link>
+      <pubDate>Thu, 15 Jan 2009 17:41:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/15/dreamforce-europa-cancelada-por-sorpresa-%c2%bfque-pasa-con-los-eventos-de-cloud/</guid>
+      <description>De manera sorprendente Salesforce ha cancelado el gran evento que tenían preparado para Europa: Dreamforce Europe 2009. En su lugar, sustituyen el evento por un evento ‘en la carretera’ llamado CloudForce Europe para el próximo 7 de Abril de 2009 en el Excel de Londres. El evento será gratuito y contará con Mark Benioff y Parker Harris (el Dreamforce eran 399 libras como todavía se puede ver aquí). Me sorprende el cambio, y no se si se trata de una señal del clima económico actual o bien un cambio de estrategia respecto a los eventos.</description>
+    </item>
+    
+    <item>
+      <title>CloudCamp llega a Barcelona</title>
+      <link>https://nubeblog.com/2008/12/16/cloudcamp-llega-a-barcelona/</link>
+      <pubDate>Tue, 16 Dec 2008 22:45:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/16/cloudcamp-llega-a-barcelona/</guid>
+      <description>¿Son los delirios de la fiebre los que me hacen ver ilusiones? ¡No! ¡Es cierto! ¡Tenemos CloudCamp en Barcelona este próximo 18 de diciembre a las 19.00 justo después del Taller de Cloud del SeedRocket (vaya empacho de Cloud antes de las navidades van a tener los catalanes). El lugar es:
+Barcelona Activa (Edifici Viver – Piso 1)C/ Llacuna 162-164Barcelona, 08018SpainLa página oficial es esta. Y el registro lo podéis hacer aquí (es gratuito).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libros on Nubeblog</title>
+    <link>https://nubeblog.com/tags/libros/</link>
+    <description>Recent content in libros on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 09 Jan 2009 10:00:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/libros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los 20 magníficos (proveedores) de Cloud Computing según Nicholas Carr</title>
+      <link>https://nubeblog.com/2009/01/09/los-20-magnificos-proveedores-de-cloud-computing-segun-nicholas-carr/</link>
+      <pubDate>Fri, 09 Jan 2009 10:00:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/09/los-20-magnificos-proveedores-de-cloud-computing-segun-nicholas-carr/</guid>
+      <description>Nicholas Carr acaba de sacar una nueva versión del libro de cabecera sobre Cloud Computing, “The Big Switch”. Esta nueva edición con tapas blandas trae un nuevo capítulo llamado ‘The Cloud 20’. En este capítulo el autor analiza 20 compañias líderes en el mundo del Cloud. Y aquí es donde se ha creado la controversia. Al igual que cuando un seleccionador no convoca a un jugador sus seguidores se enfadan, lo mismo ha pasado con esta selección.</description>
+    </item>
+    
+    <item>
+      <title>&amp;#039;The Big Switch&amp;#039; de Nicholas Carr, el libro de cabecera del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/11/04/the-big-switch-de-nicholas-carr-el-libro-de-cabecera-del-cloud-computing/</link>
+      <pubDate>Tue, 04 Nov 2008 08:57:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/04/the-big-switch-de-nicholas-carr-el-libro-de-cabecera-del-cloud-computing/</guid>
+      <description>A veces me preguntan sobre algún libro que trate el tema de La Nube. Aunque la mayoría lo que me pide en realidad es un libro que explique la parte técnica, lo cierto es que la computación en La Nube no es una revolución, sino una evolución tecnológica. Por lo tanto, todo está ya ahí fuera en lo que a tecnología se refiere. Sin embargo, en la parte del ‘negocio’, sí podemos hablar de revolución.</description>
+    </item>
+    
+  </channel>
+</rss>

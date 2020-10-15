@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stackops on Nubeblog</title>
+    <link>https://nubeblog.com/tags/stackops/</link>
+    <description>Recent content in stackops on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Oct 2011 13:20:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/stackops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>En la Openstack Conference en Boston</title>
+      <link>https://nubeblog.com/2011/10/03/en-la-openstack-conference-en-boston/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/10/03/en-la-openstack-conference-en-boston/</guid>
+      <description>Cada seis meses se celebra un evento donde todos los desarrolladores, empresas que forman el ecosistema y demás familia de Openstack nos reunimos para hablar sobre el progreso de la plataforma de Cloud abierta más importante del mundo. Hace seis meses el evento de
+anta Clara reunió a cientos de de desarrolladores, ingenieros, arquitectos… pero también directores de tecnología, analistas, directores de ventas… Es decir, una tropa de lo más variopinta.</description>
+    </item>
+    
+    <item>
+      <title>Openstack Año I</title>
+      <link>https://nubeblog.com/2011/07/20/openstack-ano-i/</link>
+      <pubDate>Wed, 20 Jul 2011 13:42:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/07/20/openstack-ano-i/</guid>
+      <description>Hace un año que estaba yo disfrutando de unas merecidas vacaciones en Cádiz, cuando recibí un correo y una llamada que me anunciaba que ‘algo gordo en el mundo del Cloud había pasado’. Rackspace y la NASA anunciaban que lanzaban un proyecto abierto conjunto para crear IaaS de computación y de almacenamiento de objetos. ¿La NASA y Rackspace? Flipé un poco. Luego me di media vuelta en la hamaca y seguí con mi siesta.</description>
+    </item>
+    
+    <item>
+      <title>Evento &amp;#8220;Tecnologías Cloud al alcance de la mano&amp;#8221; el próximo 29 de junio</title>
+      <link>https://nubeblog.com/2011/06/16/evento-tecnologias-cloud-al-alcance-de-la-mano-el-proximo-29-de-junio/</link>
+      <pubDate>Thu, 16 Jun 2011 11:46:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/06/16/evento-tecnologias-cloud-al-alcance-de-la-mano-el-proximo-29-de-junio/</guid>
+      <description>Stackops participamos como ponentes en una jornada donde de una forma práctica podremos ver como evolucionar nuestra arquitectura de sistemas y aplicaciones, a un entorno cloud de servicio, incidiendo en cómo aplicar conceptos de pago por uso y estrategias Down cost technology que permiten acelerar el ROI.
+Las soluciones de virtualización Open source, las alternativas tecnológicas que responden a las demandas incrementales de almacenamiento con Open Storage, El desarrollo de aplicaciones de Software corporativo pensado en los procesos y en cómo pueden desplegarse en Cloud privadas o Públicas, son parte del objetivo de la Jornada.</description>
+    </item>
+    
+    <item>
+      <title>Stackops Distro &amp;#038; Smart Installer: despliega Openstack en tu centro de datos</title>
+      <link>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</guid>
+      <description>Durante estas últimas semanas nos hemos reunido con unas cuantas empresas interesadas en Infraestructuras como Servicios, y a todas les encantaba lo que Openstack Nova promete. La idea de tener una plataforma verdaderamente abierta y que haya un ecosistema de empresas a su alrededor es muy atractivo. Los participantes en Openstack son empresas con una reputación más que consolidada y reconocida por los profesionales. Todo parece perfecto… ¿Todo? No…
+En un momento dado de la conversación, siempre sale la siguiente pregunta:</description>
+    </item>
+    
+    <item>
+      <title>Bienvenidos a Stackops</title>
+      <link>https://nubeblog.com/2011/03/02/bienvenidos-a-stackops/</link>
+      <pubDate>Wed, 02 Mar 2011 12:03:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/02/bienvenidos-a-stackops/</guid>
+      <description>Llevo un rato escribiendo y borrando el primer párrafo de este post. Se muy bien lo que quiero decir. Lo he repetido y practicado durante mucho tiempo. Y sin embargo no encuentro el texto que me ayude a desarrollar qué es Stackops. Me gustaría poder contar que soy un privilegiado por trabajar en lo que quiero. Me gustaría contar que soy afortunado por trabajar con quien trabajo, Luis y Arturo. Me gustaría agradecer a Seedrocket y a Marta el apoyo que nos han brindado.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software libre on Nubeblog</title>
+    <link>https://nubeblog.com/tags/software-libre/</link>
+    <description>Recent content in software libre on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 04 Oct 2008 17:07:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/software-libre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Richard Stallman nos avisa de los peligros del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/04/richard-stallman-nos-avisa-de-los-peligros-del-cloud-computing/</link>
+      <pubDate>Sat, 04 Oct 2008 17:07:41 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/04/richard-stallman-nos-avisa-de-los-peligros-del-cloud-computing/</guid>
+      <description>Si tuviera que hacer caso de las opiniones y comentarios de algunos personajes relevantes del mundo de las TI sobre el Cloud Computing probablemente tuviera que cerrar el blog y abrir otro de punto de cruz…
+Aprovechando que le habían puesto un micrófono delante los de The Guardian, Richard Stallman dio su opinión sobre el Cloud Computing:
+ Es una estupidez. Es peor que una estupidez. Es una campaña de marketing.</description>
+    </item>
+    
+  </channel>
+</rss>

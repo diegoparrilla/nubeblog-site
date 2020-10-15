@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datacenter on Nubeblog</title>
+    <link>https://nubeblog.com/categories/datacenter/</link>
+    <description>Recent content in datacenter on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 23 Mar 2011 13:33:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/datacenter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stackops Distro &amp;#038; Smart Installer: despliega Openstack en tu centro de datos</title>
+      <link>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</guid>
+      <description>Durante estas últimas semanas nos hemos reunido con unas cuantas empresas interesadas en Infraestructuras como Servicios, y a todas les encantaba lo que Openstack Nova promete. La idea de tener una plataforma verdaderamente abierta y que haya un ecosistema de empresas a su alrededor es muy atractivo. Los participantes en Openstack son empresas con una reputación más que consolidada y reconocida por los profesionales. Todo parece perfecto… ¿Todo? No…
+En un momento dado de la conversación, siempre sale la siguiente pregunta:</description>
+    </item>
+    
+    <item>
+      <title>El iDatacenter de Apple será una gigantesca emisora de contenidos</title>
+      <link>https://nubeblog.com/2010/11/02/el-idatacenter-de-apple-sera-una-gigantesca-emisora-de-contenidos/</link>
+      <pubDate>Tue, 02 Nov 2010 22:36:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/02/el-idatacenter-de-apple-sera-una-gigantesca-emisora-de-contenidos/</guid>
+      <description>Apple está construyendo un centro de datos gigantesco en Maiden, Carolina del Norte. Este iDatacenter ocupa casi 50.000 metros cuadrados y ha costado casi 1000 millones de dólares, quintuplicando al que tiene Apple en Newark en California. El siguiente video en YouTube se puede ver la magnitud del complejo. Parece que junto al centro de datos se construirá un complejo de oficinas.
+Nicholas Carr, el autor the ‘The Big Switch’ ha dicho que este nuevo centro de datos es “una emisora de contenidos para el siglo XXI, no como lo son la NBC o CBS, sino una que distribuye tanto software como media.</description>
+    </item>
+    
+    <item>
+      <title>Qué son los &amp;#8216;tiers&amp;#8217; en un Centro de Datos. El ANSI/TIA-942</title>
+      <link>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</link>
+      <pubDate>Mon, 11 Oct 2010 10:13:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</guid>
+      <description>Si estás buscando un servicio de alojamiento de servidores, colocación, etc. verás que los diferentes proveedores te ofrecen información de lo más variada sobre sus características y te ofrecen datos interesantes como niveles de redundancia, tamaño del centro de datos, tiempos de respuesta y demás.
+Existe un estándar llamado ANSI/TIA-942 Telecommunications Infrastructure Standard for Data Centers, creado por miembros de la industria, consultores y usuarios, que intenta estandarizar el proceso de diseño de los centros de datos.</description>
+    </item>
+    
+    <item>
+      <title>Facebook gasta $50M en alquiler de espacio en Centros de Datos</title>
+      <link>https://nubeblog.com/2010/09/22/facebook-gasta-50m-en-alquiler-de-espacio-en-centros-de-datos/</link>
+      <pubDate>Wed, 22 Sep 2010 10:36:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/22/facebook-gasta-50m-en-alquiler-de-espacio-en-centros-de-datos/</guid>
+      <description>Datacenter knowledge ha publicado un estudio en el que sugiere que Facebook gasta aproximadamente unos $50M al año en alquiler de espacio en Centros de Datos por todos los EEUU.
+La factura ha crecido de $20M en 2009 a la cifra estimada este año debido al crecimiento de la red social desde los 200 millones de usuarios a los 500 millones.
+A estos $50M hay que sumarle la potencía eléctrica necesaria para alimentar a los más de 60.</description>
+    </item>
+    
+    <item>
+      <title>Supermicro mete 96 cores y 1TB de RAM en una caja 2U</title>
+      <link>https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/</link>
+      <pubDate>Sun, 04 Apr 2010 17:51:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/</guid>
+      <description>Hace ya más de un año que Cisco anunció la gama de productos herederos de su Proyecto California, los UCS (Unified Computing System). El proyecto California significó el desembarco de Cisco en el mercado de los servidores, aunque en realidad lo que hizo es una plataforma completa para el Centro de Datos: servidores, redes y gestión (espera… ¿y el almacenamiento?). Una cosa que llamó la atención enseguida era que los servidores UCS se anunciaban como ‘blades’ pero venían en un formato horizontal en vez de vertical.</description>
+    </item>
+    
+    <item>
+      <title>Por qué AMD apuesta por el Cloud Computing y no por los dispositivos móviles</title>
+      <link>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</link>
+      <pubDate>Tue, 03 Mar 2009 10:26:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</guid>
+      <description>Ayer salió la noticia de AMD por boca de su CEO Dirk Meyer: Los procesadores del futuro de AMD serán parte fundamental de los servidores de los Datacenters del futuro y de los netbooks y mininotebooks, sin embargo pasarán del mercado de los smartphones. El CEO piensa que sus procesadores ayudarán a dar forma a los Cloud Computing Datacenters del mañana. También creo que el Cloud Computing junto a la virtualización ofrece el mejor ROI para las empresas en esta difícil situación económica actual.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>management on Nubeblog</title>
+    <link>https://nubeblog.com/tags/management/</link>
+    <description>Recent content in management on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 14 Feb 2008 01:05:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Would you fire a developer if he/she does not follow the coding conventions of the team?</title>
+      <link>https://nubeblog.com/2008/02/14/would-you-fire-a-developer-if-heshe-does-not-follow-the-coding-conventions-of-the-team/</link>
+      <pubDate>Thu, 14 Feb 2008 01:05:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/14/would-you-fire-a-developer-if-heshe-does-not-follow-the-coding-conventions-of-the-team/</guid>
+      <description>There is a very interesting discussion about how good or bad are code reviews in Martín Pérez’s Blog (sorry, in Spanish!). Most of us think that the biggest problem of coding convention is the ego of the developers. But here comes something very difficult to manage, specially when adopting code reviews for the first time: what if some developers reject to follow the coding conventions? How can we enforce developers to follow coding conventions?</description>
+    </item>
+    
+    <item>
+      <title>Leaving AMPLIA and starting as a Freelance IT Consultant</title>
+      <link>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</link>
+      <pubDate>Mon, 29 Oct 2007 12:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</guid>
+      <description>Last years have been a wonderful time in Amplía Soluciones S.L., but nothing is forever and I think it’s time for a change. I will continue as a partner of the company but I will look for new challenges and adventures out there. You can read my public linkedin profile if you want to know a bit about my skills and experience.</description>
+    </item>
+    
+    <item>
+      <title>Why developers hate bug-fixing</title>
+      <link>https://nubeblog.com/2007/09/10/why-developers-hate-bug-fixing/</link>
+      <pubDate>Mon, 10 Sep 2007 12:35:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/10/why-developers-hate-bug-fixing/</guid>
+      <description>Probably the only common thing among all developers I have worked with is the hate to bug-fixing. No matter if bugs belong to them or not. As a developer and as a manager I have quite contradictory feelings.
+As a developer there was nothing more irritating than the hateful Bugzillaemails. When I was working as Technical Lead of a development team in Madrid with a QAteam in the West Coast of USA they usually started to work at our 18:00 and we usually left at 19:00 (Madrid is GMT+2 summer time).</description>
+    </item>
+    
+    <item>
+      <title>What is slow? JRuby or Mingle?</title>
+      <link>https://nubeblog.com/2007/08/27/what-is-slow-jruby-or-mingle/</link>
+      <pubDate>Mon, 27 Aug 2007 15:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/27/what-is-slow-jruby-or-mingle/</guid>
+      <description>I have been testing Mingle, the new tool from Thoughtworks to manage Agile developments. The application really looks promising, and have a lot of new features that I’m discovering, but it’s taking me more time than I expected because it’s slow, very slow.
+The guys from Thoughtworksclaim they have built the first JRubycommercial application. Probably true, but the price they have paid is high. The application is slow, and it’s slow even on a 2.</description>
+    </item>
+    
+    <item>
+      <title>Sometimes to interview developers can be funny</title>
+      <link>https://nubeblog.com/2007/08/19/sometimes-to-interview-developers-can-be-funny/</link>
+      <pubDate>Sun, 19 Aug 2007 23:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/19/sometimes-to-interview-developers-can-be-funny/</guid>
+      <description>I have interviewed a lot of developers, junior and senior staff and it has become like a routine. Technical workers are nice people, rude candidates are rare. Usually their (our) self-esteem make them (us) feel they need to show they (we) are over prepared for the job. The curriculum vitae are bloated with lots of technical buzzwords that most of the people have heard of, but can’t barely talk about them.</description>
+    </item>
+    
+    <item>
+      <title>The 95 percent syndrome in Software Development</title>
+      <link>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</link>
+      <pubDate>Mon, 13 Aug 2007 14:17:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</guid>
+      <description>Being a Project Manager, Architect, Analyst, Developer or anybody involved in the development of software, you have probably suffered the 95 percent syndrome.Imagine a software development project where things are going reasonably well: things are on schedule, Quality Assurance says things delivered are OK, the customer feel the progress, people are happy because they don’t have to work overtime and they architect and developers can apply the Best Practises. You are very close to the end of the development cycle (if you are working with an iterative and incremental methodology) and confident about the result.</description>
+    </item>
+    
+    <item>
+      <title>Preezo: another Microsoft Powerpoint killer</title>
+      <link>https://nubeblog.com/2007/08/09/preezo-another-microsoft-powerpoint-killer/</link>
+      <pubDate>Thu, 09 Aug 2007 17:32:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/09/preezo-another-microsoft-powerpoint-killer/</guid>
+      <description>Today I have discover Preezo, another web 2.0 presentations tool that looks like a killer for MicrosofPowerpoint.
+The interface is mixture between Writely(sorry, Google Docs) and Microsoft Powerpoint. It’s surprisingly fast (faster than Google Docs) and you can build simple presentations very fast. If you are familiar with MS powerpointthen you can build a presentation easily.
+The application allows to send by email the presentation, publish on the web and broadcast to the net and it’s also possible to embed it inside a HTML page just like any other web 2.</description>
+    </item>
+    
+    <item>
+      <title>Managers: if you can&amp;#8217;t code don&amp;#8217;t apply for this job</title>
+      <link>https://nubeblog.com/2007/08/06/managers-if-you-cant-code-dont-apply-for-this-job/</link>
+      <pubDate>Mon, 06 Aug 2007 12:51:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/06/managers-if-you-cant-code-dont-apply-for-this-job/</guid>
+      <description>I have read this post: ‘Architects: If you can’t code, don’t apply for senior dev jobs‘ and I can’t wait to share something happened to me not so long time ago.
+I was interviewed for a position of Chief of Development in a start up. I passed two interviews with Human Resources and I only had left a face to face interview with the CEO of the company. He was(is) a very well known IT professional with an impressive technical background, but he moved to the dark side: management.</description>
+    </item>
+    
+    <item>
+      <title>The difference between an Excellent Programmer and a Natural Born Programmer</title>
+      <link>https://nubeblog.com/2007/07/12/the-difference-between-an-excellent-programmer-and-a-natural-born-programmer/</link>
+      <pubDate>Thu, 12 Jul 2007 13:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/07/12/the-difference-between-an-excellent-programmer-and-a-natural-born-programmer/</guid>
+      <description>Reading this blog about what he thinks a Natural Born Programmer is came to my mind a discussion about what is an excellent programmer and a natural born programmer.
+The example given (detect if a number is odd or even) should be enough to differentiate between a natural born programmers and the rest.
+But he is wrong.
+This is the kind of solutions that people trained in Maths, Engineering or Physics can give, because they are smart people.</description>
+    </item>
+    
+    <item>
+      <title>Think twice before joining a startup</title>
+      <link>https://nubeblog.com/2007/06/06/think-twice-before-joining-a-startup/</link>
+      <pubDate>Wed, 06 Jun 2007 09:49:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/06/06/think-twice-before-joining-a-startup/</guid>
+      <description>I recently discovered the site gobignetwork.com . It talks about how to run a startup company, how to raise funds, and more interesting information. It’s very US-centric, sometimes not valuable for a Spanish company (spain is different) like us.
+I found in his blog a post that explains very well What your startup company boss wants from you. This guy sounds like the perfect mother****ing boss, but he is right 🙁</description>
+    </item>
+    
+    <item>
+      <title>Is Google going to fire Isabel Aguilera soon?</title>
+      <link>https://nubeblog.com/2007/04/16/is-google-going-to-fire-isabel-aguilera-soon/</link>
+      <pubDate>Mon, 16 Apr 2007 16:09:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/16/is-google-going-to-fire-isabel-aguilera-soon/</guid>
+      <description>Today an online Spanishnewspaper congrats Isabel Aguilera(Google Spanish CEO) for not screwing up the purchase of DoubleClickby Google. Besides the sarcasm of the headlines, the newspaper says that the time of Isabel Aguilerain Google is running out, and she could leave the company very soon.
+It’s not a surprise that she will leave the company (the surprise is she has not been fired yet). Reading the profile and curricula of this women, I wonder myself if Google contracted the wrong headhunter.</description>
+    </item>
+    
+    <item>
+      <title>New Amplia&amp;#8217;s Blog about Wireless M2M</title>
+      <link>https://nubeblog.com/2007/02/09/new-amplias-blog-about-wireless-m2m/</link>
+      <pubDate>Fri, 09 Feb 2007 23:40:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/09/new-amplias-blog-about-wireless-m2m/</guid>
+      <description>Now that the 3GSM is going to start next week in Barcelona, we have launched our new Wireless M2M Blog. We hope to contribute with some interesting stuff regarding M2M business and services.
+Rafael Morillo (our Business Development Manager) will be the main contributor to the Blog, but I hope to help him with my techie thoughts about the M2M.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft mails about java and the fear to cross-platform</title>
+      <link>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</link>
+      <pubDate>Sun, 04 Feb 2007 12:18:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</guid>
+      <description>When I read the slashdot post about internal emails from Microsoft, I did not realize of the content of this email until it was posted in javalobby.
+The content is scary. The mail thread comes from 1997, so after reading this emails, you can interpret the history of Java, .NET and Microsoft-Sun trial upon a several clear facts:
+ Microsoft did not ever want to suport Java. Microsoft does not care about cross-platform.</description>
+    </item>
+    
+    <item>
+      <title>How to deal with &amp;#8216;The Toxic Engineer&amp;#8217;</title>
+      <link>https://nubeblog.com/2007/02/02/how-to-deal-with-the-toxic-engineer/</link>
+      <pubDate>Fri, 02 Feb 2007 23:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/02/how-to-deal-with-the-toxic-engineer/</guid>
+      <description>Excellent talk about how to Deal with the toxic engineer.
+Things are very different here in the eastern side of the Atlantic Ocean: you cannot fire an employee because you want to, you only can fire an employee as the very last resort . Firing an employee in Spain usually is a pain in the ass for the company. The company must have things clear to take this decision.
+So if you have the very bad luck to contract a Toxic Engineer for your team, may be you cannot fire him, and you have to pay him until he leaves the company.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>databases on Nubeblog</title>
+    <link>https://nubeblog.com/tags/databases/</link>
+    <description>Recent content in databases on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 14 Sep 2007 11:32:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rise and fall of DBAs: The tyranny of the ORM</title>
+      <link>https://nubeblog.com/2007/09/14/rise-and-fall-of-dbas-the-tyranny-of-the-orm/</link>
+      <pubDate>Fri, 14 Sep 2007 11:32:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/14/rise-and-fall-of-dbas-the-tyranny-of-the-orm/</guid>
+      <description>There was a time when DBAs dictate how developers should use Their databases. It was early and mid-nineties and Their Word was The Truth. Those poor guys building client-server applications had to bow down before Him/Her and implement the Business Logic inside The Database Manager. Database hardware was expensive, but His/Her Highness could size the system easily because the number of clients connected was predictable. And that’s what the IT Manager wanted; predictable figures.</description>
+    </item>
+    
+    <item>
+      <title>Data normalization is not for sissies, it&amp;#8217;s just common sense</title>
+      <link>https://nubeblog.com/2007/09/05/data-normalization-is-not-for-sissies-its-just-common-sense/</link>
+      <pubDate>Wed, 05 Sep 2007 08:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/05/data-normalization-is-not-for-sissies-its-just-common-sense/</guid>
+      <description>And I must be the biggest sissy of all. There is a lot of buzz{#ddz7} about designing your databases thinking in data normalized or denormalized. Now that everybody is building the next Google or YouTube the database design has to support trillions of transactions per second and millions of terabytes, of course running on a multidimensional computing grid of zillions of nodes of databases written in Erlang… Data normalization is common sense because helps you to avoid the Data Inconsistency Hell when data is repeated across different tables.</description>
+    </item>
+    
+  </channel>
+</rss>

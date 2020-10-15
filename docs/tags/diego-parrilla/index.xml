@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diego parrilla on Nubeblog</title>
+    <link>https://nubeblog.com/tags/diego-parrilla/</link>
+    <description>Recent content in diego parrilla on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 12 Jan 2011 11:29:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/diego-parrilla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Goodbye Abiquo, hello new projects</title>
+      <link>https://nubeblog.com/2011/01/12/goodbye-abiquo-hello-new-projects/</link>
+      <pubDate>Wed, 12 Jan 2011 11:29:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/12/goodbye-abiquo-hello-new-projects/</guid>
+      <description>Last December my working relationship with Abiquo terminated. I must admit that it was a fantastic experience to be involved in first-person role in creating a product that had real potential to become a world reference for a new industry. I’ve met people with an unusual talent that certainly has enriched me as a person and professional. But mostly I stay with the team with whom I had the honor of working and managing Abiquo: Xavi, Helena, Diego, Monleón … really, thank you for having been me involved in this.</description>
+    </item>
+    
+    <item>
+      <title>Adios Abiquo, hola nuevos proyectos</title>
+      <link>https://nubeblog.com/2011/01/12/adios-abiquo-hola-nuevos-proyectos/</link>
+      <pubDate>Wed, 12 Jan 2011 10:59:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/12/adios-abiquo-hola-nuevos-proyectos/</guid>
+      <description>El pasado mes de diciembre termino mi relación laboral con Abiquo. Reconozco que ha sido una experiencia fantástica en la que he podido participar en primera persona y con papel protagonista en la creación de un producto que tenía verdaderas posibilidades de convertirse en un referente mundial de una nueva industria. He conocido a gente con un talento fuera de lo común que sin duda me ha enriquecido como persona y como profesional.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seedrocket on Nubeblog</title>
+    <link>https://nubeblog.com/tags/seedrocket/</link>
+    <description>Recent content in seedrocket on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 25 May 2009 22:15:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/seedrocket/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nueva edición de SeedRocket en Julio. Plazo de inscripción abierto.</title>
+      <link>https://nubeblog.com/2009/05/25/nueva-edicion-de-seedrocket-en-julio-plazo-de-inscripcion-abierto/</link>
+      <pubDate>Mon, 25 May 2009 22:15:31 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/05/25/nueva-edicion-de-seedrocket-en-julio-plazo-de-inscripcion-abierto/</guid>
+      <description>Sin duda el Cloud Computing como IaaS y SaaS está siendo aprovechado por las startups. El IaaS (Infraestructura como Servicio) porque no hay inversiones iniciales en servidores, y el SaaS porque se ha convertido en el modelo de negocio de venta de software más exitoso y que con más facilidad esquiva el problema de la piratería. Por eso creo que esta nueva edición del SeedRocket (la 3ª) veremos como las nuevas empresas se volcarán con el Cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

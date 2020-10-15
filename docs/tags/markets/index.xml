@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markets on Nubeblog</title>
+    <link>https://nubeblog.com/tags/markets/</link>
+    <description>Recent content in markets on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 19 Sep 2007 16:04:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/markets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spain vs USA comparing two Job Boards</title>
+      <link>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</link>
+      <pubDate>Wed, 19 Sep 2007 16:04:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</guid>
+      <description>A few days ago I made a search in Infojobs.es (the most popular Job Board in Spain) for open positions for Ruby On Rails developers. The result was… one! I was very surprised. Only one? With all the hype around RoR? Only one job offer?
+It’s obvious that USA is more developed regarding technology than Spain, but the question is: How far are they? Can we measure the distance? Honestly I think it’s very difficult and probably comparing two countries is not the right way.</description>
+    </item>
+    
+    <item>
+      <title>Sun Changes NASDAQ symbol to JAVA</title>
+      <link>https://nubeblog.com/2007/08/23/sun-changes-nasdaq-symbol-to-java/</link>
+      <pubDate>Thu, 23 Aug 2007 22:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/23/sun-changes-nasdaq-symbol-to-java/</guid>
+      <description>Surprise, Surprise! You can read in Jonathan Schwartz’s Weblog that they will change the NASDAQ symbol of SUN Microsystems SUNW to JAVA!!!!
+The arguments are: ‘… the number of people who know Java swamps the number of people who know Sun…SUNW represents the past, and its not without a nostalgic nod that we’ve decided to look ahead…Most know Java, few know Sun…Java means limitless opportunity – for our software, systems, storage, service and microelectronics businesses.</description>
+    </item>
+    
+    <item>
+      <title>The markets lose the faith in Skype</title>
+      <link>https://nubeblog.com/2007/08/20/the-markets-lose-the-faith-in-skype/</link>
+      <pubDate>Mon, 20 Aug 2007 17:23:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/20/the-markets-lose-the-faith-in-skype/</guid>
+      <description>The Skype affair finally was over, but the price has been huge. While the markets are recovering from the drops of last week, eBay does not follow the trends of the markets. The image and reputation of Skype are now below zero. Just keep in mind that Skype is the one of the biggest (or the biggest) Telecommunications company in the world per number of registered users. Business and pay per use users will think twice before contracting them in the short term.</description>
+    </item>
+    
+  </channel>
+</rss>

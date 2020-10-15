@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arquitectura on Nubeblog</title>
+    <link>https://nubeblog.com/tags/arquitectura/</link>
+    <description>Recent content in arquitectura on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 28 Oct 2010 09:32:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/arquitectura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El caso de éxito de Netflix: cómo una gran corporación migra a la Nube Pública</title>
+      <link>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</guid>
+      <description>Netflix es una empresa que nació prestando DVDs por correo ordinario, y ha evolucionado hacia los servicios de streaming. Hoy presume de tener 15 millones de subscriptores offline y online en los EEUU y Canadá. Por decirlo de alguna manera, es similar lo que sería Imagenio en España en la parte de alquiler de contenidos, pero sin nada que ver con el servicio de Internet. La diferencia es que puede servir contenidos a un conjunto bastante importante de dispositivos: TiVo, AppleTV, PlayStation 3, Wii y XBox entre otros.</description>
+    </item>
+    
+    <item>
+      <title>Qué son los &amp;#8216;tiers&amp;#8217; en un Centro de Datos. El ANSI/TIA-942</title>
+      <link>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</link>
+      <pubDate>Mon, 11 Oct 2010 10:13:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</guid>
+      <description>Si estás buscando un servicio de alojamiento de servidores, colocación, etc. verás que los diferentes proveedores te ofrecen información de lo más variada sobre sus características y te ofrecen datos interesantes como niveles de redundancia, tamaño del centro de datos, tiempos de respuesta y demás.
+Existe un estándar llamado ANSI/TIA-942 Telecommunications Infrastructure Standard for Data Centers, creado por miembros de la industria, consultores y usuarios, que intenta estandarizar el proceso de diseño de los centros de datos.</description>
+    </item>
+    
+    <item>
+      <title>La muerte del Administrador de Sistemas y el nacimiento de los &amp;#8216;Devops&amp;#8217;</title>
+      <link>https://nubeblog.com/2010/04/09/la-muerte-del-administrador-de-sistemas-y-el-nacimiento-de-los-devops/</link>
+      <pubDate>Fri, 09 Apr 2010 10:46:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/09/la-muerte-del-administrador-de-sistemas-y-el-nacimiento-de-los-devops/</guid>
+      <description>He comentado en varias ocasiones que sigo a James Urquhart en su blog. Es un tío interesante, un visionario de verdad. Vale la pena seguirle.
+Hace cosa de un mes empezó una serie de artículos sobre la evolución que se está dando en el perfil de los Administradores de Sistemas, los ‘grandes damnificados’ de la evolución a las Infraestructuras como Servicios. Para ello, introduce un nuevo perfil llamado ‘Devops‘. Este término fue introducido por Jesse Robins, el CEO de Opscode.</description>
+    </item>
+    
+    <item>
+      <title>Los Casos de Uso del Cloud Computing</title>
+      <link>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</link>
+      <pubDate>Sun, 09 Aug 2009 15:53:53 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</guid>
+      <description>Cuando uno trabaja en una startup aprende rápidamente que lo urgente prima sobre lo importante. Y si no lo aprende rápido, la startup prescinde de él, él prescinde de la startup, o bien todo se va a al carajo. Ejemplo: escribir en este blog es importante, pero lo urgente es cerrar funcionalidad del producto necesaria por algunos clientes.
+Otro ejemplo: es importante trabajar en grupos y asociaciones dedicadas a la estandarización del Cloud Computing, pero tu producto no puede esperar a las estandarizaciones.</description>
+    </item>
+    
+    <item>
+      <title>El Cloud Computing sí es tecnología</title>
+      <link>https://nubeblog.com/2009/06/09/el-cloud-computing-si-es-tecnologia/</link>
+      <pubDate>Tue, 09 Jun 2009 09:10:26 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/09/el-cloud-computing-si-es-tecnologia/</guid>
+      <description>Uno de mis bloggers favoritos es James Urquhart. Tras este impronunciable apellido se encuentra uno de los que mueven el cotarro en la blogosfera cloudcomputing. Escritor en CNET y Product Marketing Manager, Cloud Computing and Virtualized Data Centers en Cisco. Vamos, que sabe de qué va esto.
+Hace unas semanas leí este artículo suyo en el que se preguntaba si el Cloud Computing es un nuevo modelo operativo o es una nueva tecnología.</description>
+    </item>
+    
+    <item>
+      <title>Cosas a tener en cuenta cuando desarrollas aplicaciones Cloud</title>
+      <link>https://nubeblog.com/2009/03/13/cosas-a-tener-en-cuenta-cuando-desarrollas-aplicaciones-cloud/</link>
+      <pubDate>Fri, 13 Mar 2009 00:12:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/13/cosas-a-tener-en-cuenta-cuando-desarrollas-aplicaciones-cloud/</guid>
+      <description>No es habitual encontrar gente que hable sobre los desarrolladores en el mundo del Cloud Computing. Estamos tan cegados por las facilidades que nos ofrece, que nos olvidamos que no todas las aplicaciones están preparadas para aprovechar sus ventajas.
+No lo entiendo.
+La única explicación que encuentro a esto es la inmadurez del paradigma. Vamos, que todavía no hay mucha gente que se haya dedicado a desarrollar aplicaciones que aprovechen al máximo la potencia del Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>Por qué AMD apuesta por el Cloud Computing y no por los dispositivos móviles</title>
+      <link>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</link>
+      <pubDate>Tue, 03 Mar 2009 10:26:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</guid>
+      <description>Ayer salió la noticia de AMD por boca de su CEO Dirk Meyer: Los procesadores del futuro de AMD serán parte fundamental de los servidores de los Datacenters del futuro y de los netbooks y mininotebooks, sin embargo pasarán del mercado de los smartphones. El CEO piensa que sus procesadores ayudarán a dar forma a los Cloud Computing Datacenters del mañana. También creo que el Cloud Computing junto a la virtualización ofrece el mejor ROI para las empresas en esta difícil situación económica actual.</description>
+    </item>
+    
+    <item>
+      <title>Arquitecturas Software para el Cloud Computing</title>
+      <link>https://nubeblog.com/2009/02/06/arquitecturas-software-para-el-cloud-computing/</link>
+      <pubDate>Fri, 06 Feb 2009 17:03:05 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/06/arquitecturas-software-para-el-cloud-computing/</guid>
+      <description>Los viernes son un día para cerrar cosas en el trabajo. No dejar cosas abiertas ayuda a planificar las nuevas tareas que se abrirán con el próximo lunes. Además, esta semana ha sido especial porque hay cambios, cambios que anunciaré próximamente.
+Llevo semanas reflexionando sobre cómo afecta a los equipos de desarrollo las nuevas plataformas de escalado dinámico que tenemos en La Nube. No debemos olvidar que una plataforma tiene éxito si es adoptada por los desarrolladores.</description>
+    </item>
+    
+    <item>
+      <title>¿Serán los humanos irrelevantes monitorizando aplicaciones Cloud?</title>
+      <link>https://nubeblog.com/2009/01/14/seran-los-humanos-irrelevantes-monitorizando-aplicaciones-cloud/</link>
+      <pubDate>Wed, 14 Jan 2009 10:27:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/14/seran-los-humanos-irrelevantes-monitorizando-aplicaciones-cloud/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>SOA ha muerto. Larga vida a los Servicios</title>
+      <link>https://nubeblog.com/2009/01/08/soa-ha-muerto-larga-vida-a-los-servicios/</link>
+      <pubDate>Thu, 08 Jan 2009 10:57:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/08/soa-ha-muerto-larga-vida-a-los-servicios/</guid>
+      <description>Se veía venir. Pero me ha sorprendido que haya sido una gran consultora de negocio como El Grupo Burton la que ha destapado la caja de los truenos. Uno de sus analistas ha declarado a SOA formalmente muerto en este 2009. Y leyendo sus argumentos no puedo mas que aceptarlos. Tiene razón. Pero vamos a darle unas vueltas a este asunto:
+La creación del término SOA (Service Oriented Architectures) se atribuye a la consultora de negocio Gartner.</description>
+    </item>
+    
+  </channel>
+</rss>

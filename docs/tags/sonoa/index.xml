@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sonoa on Nubeblog</title>
+    <link>https://nubeblog.com/tags/sonoa/</link>
+    <description>Recent content in sonoa on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 20 Oct 2008 10:07:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/sonoa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sonoa: un modelo de negocio que saca partido a las necesidades del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/20/sonoa-un-modelo-de-negocio-que-saca-partido-a-las-necesidades-del-cloud-computing/</link>
+      <pubDate>Mon, 20 Oct 2008 10:07:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/20/sonoa-un-modelo-de-negocio-que-saca-partido-a-las-necesidades-del-cloud-computing/</guid>
+      <description>Desde hace tiempo viendo dándole vueltas a qué modelos de negocio pueden surgir alrededor del Cloud Computing, y que no sean los ya conocidos relacionados con la Virtualización, Facturación, Provisión, etc… Dado que me ha tocado lidiar con la implantación de Enterprise Services Bus (ESB) para la adopción de SOA dentro de alguna gran organización, la idea de que existiese un ESB específico para las necesidades del Cloud Computing me rondaba la cabeza.</description>
+    </item>
+    
+  </channel>
+</rss>

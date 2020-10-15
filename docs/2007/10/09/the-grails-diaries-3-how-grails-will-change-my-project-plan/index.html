@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>The Grails Diaries #3: How Grails will change my project plan • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="The Grails Diaries #3: How Grails will change my project plan"/>
+<meta name="twitter:description" content="Previous: Setting up the development environment
+The strategy One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project."/>
+
+<meta property="og:title" content="The Grails Diaries #3: How Grails will change my project plan" />
+<meta property="og:description" content="Previous: Setting up the development environment
+The strategy One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/" />
+<meta property="article:published_time" content="2007-10-09T09:43:00+00:00" />
+<meta property="article:modified_time" content="2007-10-09T09:43:00+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>The Grails Diaries #3: How Grails will change my project plan</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Oct 09, 2007
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/uncategorized">UNCATEGORIZED</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/agile">agile</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/designs">designs</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/grails">grails</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/java">java</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/jruby">jruby</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/rails">rails</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/ruby">ruby</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 6 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="http://www.diegoparrilla.com/2007/10/grails-diaries-2-setting-up-development.html">Previous: Setting up the development environment</a></p>
+<h2 id="the-strategy">The strategy</h2>
+<p>One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project. OK, and what ‘strategic decisions’? A strategy is a long term plan of action designed to achieve a particular goal. Examples of strategic decisions planning a project sorted by (my) relevance are:</p>
+<ol>
+<li><strong>What development technology I will use:</strong> A very common mistake when planning a project is the assumption that the development technology does not affect the development processes and workflows. I will show you later how Grails can modify the development workflow compared to Struts.</li>
+<li><strong>How I will assign the resources:</strong> Though I’m a music man playing all the instruments in this project, in bigger projects you should normally find the following resources playing single roles. I will show you later why with Grails I think some of these roles can be redundant or even irrelevant:</li>
+</ol>
+<ul>
+<li>Project Manager</li>
+<li>Software Architect / Technical Lead</li>
+<li>HTML Designers / Developers</li>
+<li>Web layer developers</li>
+<li>Business layer developers</li>
+<li>Testers</li>
+</ul>
+<!-- raw HTML omitted -->
+<p>So yes, I think Grails will change how you plan your project. Here goes the details:</p>
+<h2 id="the-development-technology">The development technology</h2>
+<p>I have seen some really big projects failing because of this naive assumption: a development technology can work just like another ‘similar’ technology. So, even before starting to analyze the project and with my short knowledge of Grails, I can forecast that <strong>Grails will constrain my planning in a way or another</strong>. Due to my lack of knowledge of Grails I cannot budget how much time and resources I will need as a buffer, so I should be conservative and reserve a good development buffer to manage the uncertain.</p>
+<h2 id="the-resources-assignment">The resources assignment</h2>
+<p>In a classical Web project in Java it’s very common to have a HTML Designer/Developer that builds the static pages of the site. Then he/she gives the pages to the Java Web developer. He/she converts them to JSP pages and creates the Action and Form Classes (if he/she works with Struts) and implements the logic regarding HTTP Sessions, cookies and all the web stuff. Finally, the business layer developer(s) build(s) the components that interacts with the database or other third party systems and expose(s) the interfaces to the web developers. This horizontal layered distribution of the developers helps the isolation of roles in teams and encourages the use of clear interfaces and pushes the implementation of automatic unit tests specially in the business layer.<br>
+<strong>Grails forces a different approach: The Vertical Slice.</strong> The Vertical Slice developer works in all the layers crossing the boundaries of the systems. It works changing HTML, GSP, Controllers and Domain classes at once. I guess this is one of the reasons of the productivity of Grails and RoR. Removing the public interfaces between layers avoids repeating unnecessary code. I have always liked the Vertical Slice approach because it fits perfectly with UML Use Cases. A Use Case is normally described crossing different layers, just like the Vertical Slice.<br>
+So, <strong>the roles of Web and Business layer developers can merge</strong>. Hence you need developers with a broader range of knowledge (HTML, Javascript, GSP, Groovy and or Java and HQL) and may be more experienced, but if Grails is more productive you can save in headcounts.<br>
+<strong>The Software Architect role is not clear in a Grails project.</strong> Due to the fact that the configuration is almost null and the architecture is so rigid I think that a full-time architect is an unnecessary resource. I would only consider a full-time architect if I need to integrate Grails with external components or existing Java projects (like OpenID in Sprint 2). If you only need to use the database, you don’t need a full-time architect.</p>
+<h2 id="the-development-workflow">The development workflow</h2>
+<p>As I have said above, the development of a web interface with the classical approach is:</p>
+<ol>
+<li>A designer creates the look and feel, and then draft the CSS.</li>
+<li>The HTML Developer builds the pages and the navigation. Javascript code is also added here.</li>
+<li>The Web developer converts the HTML pages to JSP pages, adding the server side code and creating the Action and Form classes</li>
+<li>(Optional) The Web developer uses the business logic layer or develops the business logic by herself.</li>
+</ol>
+<p>One of the most popular features of Ruby on Rails and Grails is the creation of automatic web controllers for basic CRUD actions, the <em>scaffolding</em>. The dynamic generation of code to manipulate classes of the Domain reduce the repetitive tasks of building Create-Retrieve-Update-Delete logic. And this is one of my doubts about the development workflow. <strong>Should I modify the HTML pages and convert them to GSPs and then create the controllers and their CRUD actions manually? Or should I use the automatically created scaffolding first, and then merge the HTML page and the automatically generated GSP?</strong> I can see pros and cons for both, and I will probably take the decision based on the complexity of the User Story to implement. <strong>Help and advice from experience Rails and Grails developers will be welcomed!<br>
+** There is another workflow that can change: <strong>classic Web development takes the bottom-up approach</strong> to build the applications</strong>. Grails encourages the top-down approach** because of its use of Hibernate and Domain classes. With the bottom-up approach, the database entity-relationship model should be implemented before starting with the business logic. With the top-down, the databases ER model arises as result of the Domain classes. This is not a trivial change in the workflow. In classic web development the Data architect tries to build a very stable version of the ER model before starting with the business logic, because the roundtrips ‘change ER model, change business logic,change ER model, etc.’ are ‘expensive’. Developing with Grails (and with Hibernate too) the top-down approach and the features of Hibernate synchronizing the changes of the Domain classes with the ER model automatically set the developer free of the manual tracking of the changes and can build very fast the Domain classes.<br>
+There is an exception to the top-down approach with Grails: if you are using a legacy database you cannot take this approach. You must map the database to the domain classes, and probably the naming convention won’t match, making necessary the use of hbm.xml Hibernate configuration files or annotations.</p>
+<p>These are my thoughts about how to plan the development.In my next post I will talk about the analysis and design phases of the project.</p>
+<p><a href="http://www.diegoparrilla.com/2008/02/grails-diaries-4-grails-is-it-really.html">Next: Grails, is it really worth it?</a></p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">The Grails Diaries #2: Setting up the development environment</span>
+    </a>
+    
+    
+    <a href="/2007/10/09/linkedin-looking-for-grails-developers/" class="navigation-next">
+      <span class="navigation-tittle">Linkedin looking for Grails developers</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/" >The Grails Diaries #2: Setting up the development environment</a>
+      
+      <time class="pull-right hidden-tablet">Oct 04 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/" >The Grails Diaries: JRuby on Rails or Grails?</a>
+      
+      <time class="pull-right hidden-tablet">Oct 01 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/09/24/ruby-on-rails-hype-the-party-is-over/" >Ruby on Rails hype: the party is over</a>
+      
+      <time class="pull-right hidden-tablet">Sep 24 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/09/19/spain-vs-usa-comparing-two-job-boards/" >Spain vs USA comparing two Job Boards</a>
+      
+      <time class="pull-right hidden-tablet">Sep 19 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/08/27/what-is-slow-jruby-or-mingle/" >What is slow? JRuby or Mingle?</a>
+      
+      <time class="pull-right hidden-tablet">Aug 27 &#39;07</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

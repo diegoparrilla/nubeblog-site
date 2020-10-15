@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>informationweek on Nubeblog</title>
+    <link>https://nubeblog.com/tags/informationweek/</link>
+    <description>Recent content in informationweek on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 19 Oct 2008 18:05:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/informationweek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plugintothecloud.com es la apuesta de InformationWeek por el Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/19/plugintothecloudcom-es-la-apuesta-de-informationweek-por-el-cloud-computing/</link>
+      <pubDate>Sun, 19 Oct 2008 18:05:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/19/plugintothecloudcom-es-la-apuesta-de-informationweek-por-el-cloud-computing/</guid>
+      <description>Plug Into The Cloud es el nuevo sitio web creado por InformationWeek dedicado a las noticias, análisis y opinión sobre Cloud Computing. Tal como anuncian en su sitio web.
+Hemos creado este sitio para atender la creciente demanda entre los profesionales IT, para entender mejor lo que significa esta tendencia para ellos y sus empresas. Esta semana, Gartner ha puesto Cloud Computing como la segunda tecnología estratégica de 2009, después de virtualización.</description>
+    </item>
+    
+  </channel>
+</rss>

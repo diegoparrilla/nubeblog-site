@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twitter on Nubeblog</title>
+    <link>https://nubeblog.com/tags/twitter/</link>
+    <description>Recent content in twitter on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 20 Sep 2010 01:00:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cuidado con Foursquare</title>
+      <link>https://nubeblog.com/2010/09/20/cuidado-con-foursquare/</link>
+      <pubDate>Mon, 20 Sep 2010 01:00:51 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/20/cuidado-con-foursquare/</guid>
+      <description>La semana pasada charlé con varias personas sobre la privacidad en internet y cómo cada vez ofrecemos información que pensamos inocua a completos desconocidos, y en manos de desaprensivos puede resultar peligrosa. Saliendo un poco del tema habitual del blog voy a contar lo que me pasó en Julio durante un ‘roadshow’ que hicimos en Abiquo por los EEUU para hablar con clientes y empresas interesadas en nuestro producto. Dos de estas empresas se encuentran en el Research Triangle de Carolina del Norte, y comprende zonas limítrofes con Raleigh, Durham y Chapell Hill.</description>
+    </item>
+    
+  </channel>
+</rss>

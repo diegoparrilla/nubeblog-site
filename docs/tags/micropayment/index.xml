@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>micropayment on Nubeblog</title>
+    <link>https://nubeblog.com/tags/micropayment/</link>
+    <description>Recent content in micropayment on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Sep 2007 09:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/micropayment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GPay: Google Patent for Mobile micropayments</title>
+      <link>https://nubeblog.com/2007/09/03/gpay-google-patent-for-mobile-micropayments/</link>
+      <pubDate>Mon, 03 Sep 2007 09:56:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/03/gpay-google-patent-for-mobile-micropayments/</guid>
+      <description>Today in several RSS feeds I have found the same news: Google has a new patent for mobile micropayments. Micropayments using a cell phone is not new at all. I have seen some projects in Europe, specially the Spanish Mobipay. It’s a mature technology, but it’s not very successful. There are several reasons but it’s not clear why mobile micropayments are not growing. In my opinion:
+ The fee is charged directly to the customer.</description>
+    </item>
+    
+  </channel>
+</rss>

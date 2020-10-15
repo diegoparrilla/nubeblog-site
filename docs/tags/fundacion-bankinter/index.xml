@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fundacion bankinter on Nubeblog</title>
+    <link>https://nubeblog.com/tags/fundacion-bankinter/</link>
+    <description>Recent content in fundacion bankinter on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 07 Oct 2010 08:49:39 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/fundacion-bankinter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Informe sobre Cloud Computing de la Fundación Bankinter</title>
+      <link>https://nubeblog.com/2010/10/07/informe-sobre-cloud-computing-de-la-fundacion-bankinter/</link>
+      <pubDate>Thu, 07 Oct 2010 08:49:39 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/07/informe-sobre-cloud-computing-de-la-fundacion-bankinter/</guid>
+      <description>No es normal encontrar estudios y documentos de calidad en castellano. Hace unos días descubrí este documento: Cloud Computing: La tercera ola de las Tecnologías de la Información de la Fundación para la Innovación Bankinter.
+Cloud ComputingLa tercera ola de las Tecnologíasde la Información y la verdad es que me ha gustado. No es original, pero es único en nuestro idioma, sin duda. Lo recomiendo especialmente para aquellos que necesiten explicar dentro de sus empresas que es el Cloud Computing en más detalle del habitual discurso capex-opex, pay-as-you-go y demás.</description>
+    </item>
+    
+  </channel>
+</rss>

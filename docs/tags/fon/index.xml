@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fon on Nubeblog</title>
+    <link>https://nubeblog.com/tags/fon/</link>
+    <description>Recent content in fon on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 19 Feb 2008 08:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/fon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Madrid Facebook Developer Garage was pure crap</title>
+      <link>https://nubeblog.com/2008/02/19/madrid-facebook-developer-garage-was-pure-crap/</link>
+      <pubDate>Tue, 19 Feb 2008 08:55:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/19/madrid-facebook-developer-garage-was-pure-crap/</guid>
+      <description>Yesterday I was in the event organized by Facebook in Madrid, The Madrid Facebook Developer Garage. The event was organized by FON, the Wifi company owned by Martin Varsavsky. I think Mr. Varsavsky is doing a great job trying to give visibility of the European and specially Spanish companies in Silicon Valley. The event took place in Teatro Lara, a old-fashioned theater in the heart of Madrid. A nice place, nothing to do with a garage.</description>
+    </item>
+    
+    <item>
+      <title>Is this the new Fon Liberator?</title>
+      <link>https://nubeblog.com/2007/01/21/is-this-the-new-fon-liberator/</link>
+      <pubDate>Sun, 21 Jan 2007 13:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/21/is-this-the-new-fon-liberator/</guid>
+      <description>Looking for information on how to configure the Chillispot in my Soekris net4521 with Voyage Linux, the people from Poblete Wireless has blogged about a device that looks very similar to ‘La Fonera’, POBLETEWIRELESS: �Es esto el posible Fon Liberator?.
+The device has been developed by Accton, and you can check the specs here.</description>
+    </item>
+    
+    <item>
+      <title>&amp;#8216;The shining&amp;#8217; of Mr. Varsavsky</title>
+      <link>https://nubeblog.com/2007/01/15/the-shining-of-mr-varsavsky/</link>
+      <pubDate>Mon, 15 Jan 2007 12:42:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/15/the-shining-of-mr-varsavsky/</guid>
+      <description>Fuckowsky has done it again: the funniest history about how Mr. Varsavsky will do it again, just like he did with Jazztel and Ya.com.
+Read it here (spanish only).</description>
+    </item>
+    
+    <item>
+      <title>The killer app of FON will be access to P2P networks</title>
+      <link>https://nubeblog.com/2007/01/14/the-killer-app-of-fon-will-be-access-to-p2p-networks/</link>
+      <pubDate>Sun, 14 Jan 2007 22:20:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/14/the-killer-app-of-fon-will-be-access-to-p2p-networks/</guid>
+      <description>I have been tracking FON for two years, and I’m a ‘fonero’ since last summer. Recently I read about the ‘FON Liberator’ project, and it seems that finally the mystery of FON is over. If you analyze seriously the business model of this company and you have some basic knowledge about wireless networks, you easily find that something does not match. The original FON business model (and I say original, because now it has changed) was ‘share your bandwidth and you will have access to the enormous WiFi network of FON’.</description>
+    </item>
+    
+  </channel>
+</rss>

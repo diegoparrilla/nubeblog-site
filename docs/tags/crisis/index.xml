@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crisis on Nubeblog</title>
+    <link>https://nubeblog.com/tags/crisis/</link>
+    <description>Recent content in crisis on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 12 Jan 2009 22:35:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/crisis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La crisis económica puede no ser tan buena para el SaaS como parece</title>
+      <link>https://nubeblog.com/2009/01/12/la-crisis-economica-puede-no-ser-tan-buena-para-el-saas-como-parece/</link>
+      <pubDate>Mon, 12 Jan 2009 22:35:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/la-crisis-economica-puede-no-ser-tan-buena-para-el-saas-como-parece/</guid>
+      <description>Ya he hablado con anterioridad sobre los riesgos del Software como Servicio, especialmente qué ocurririría si un proveedor da quiebra. Ayer me encontré con varios artículos que de nuevo tratan el tema pero desde otra perspectiva que no me había planteado: La crisis afectará también a los pequeños proveedores de SaaS, y se estima que el 30% de estas empresas que facturan menos de $5 millones quebrarán en 2010. Menudo panorama.</description>
+    </item>
+    
+    <item>
+      <title>Sequoia Capital: se acabó la fiesta</title>
+      <link>https://nubeblog.com/2008/10/13/sequoia-capital-se-acabo-la-fiesta/</link>
+      <pubDate>Mon, 13 Oct 2008 14:59:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/13/sequoia-capital-se-acabo-la-fiesta/</guid>
+      <description>Magnífica presentación de Sequoia Capital anunciando que vienen tiempos difíciles para las startups.
+Me quedo con la frase final: ‘Get Real or Get Home’. No hace falta traducción, ¿verdad?.</description>
+    </item>
+    
+    <item>
+      <title>Crisis: ¿Buenos o malos tiempos por venir?</title>
+      <link>https://nubeblog.com/2008/10/10/crisis-%c2%bfbuenos-o-malos-tiempos-por-venir/</link>
+      <pubDate>Fri, 10 Oct 2008 00:29:23 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/10/crisis-%c2%bfbuenos-o-malos-tiempos-por-venir/</guid>
+      <description>Ya es viernes y me da por filosofar. Wall Street se desploma como no lo había hecho desde 1987, Barron’s anuncia malos tiempos para Salesforce, y Sequoia capital cierra el grifo y anuncia que los buenos tiempos han terminado. Es decir, la Tormenta Perfecta.
+Pero esto yo ya lo he vivido antes. Viví una debacle en la puntocom donde trabajaba en el 2000 y 2001. Nuestras stock options pasaron de valer 10 veces menos de lo que nos habían dado… a no valer nada.</description>
+    </item>
+    
+  </channel>
+</rss>

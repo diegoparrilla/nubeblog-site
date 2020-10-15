@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>debugmodeon on Nubeblog</title>
+    <link>https://nubeblog.com/tags/debugmodeon/</link>
+    <description>Recent content in debugmodeon on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 29 Jan 2009 16:28:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/debugmodeon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>debug_mode=ON entre los ganadores del Seedrocket</title>
+      <link>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</link>
+      <pubDate>Thu, 29 Jan 2009 16:28:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</guid>
+      <description>Ahora veo quedebug_mode=ON es un proyecto ambicioso, al que se está dedicando suficiente empeño como para presentarlo a SeedRocket y que además llega a ser uno de los tres proyectos ganadores, junto con Habitissimo y Ongest de los que ya hablaré más adelante.
+ Como dice Javier en su blog, no es un proyecto cualquiera. Y no creo que lo sea porque se trate de una red social para desarrolladores o porque hayan sido uno de los ganadores del SeedRocket.</description>
+    </item>
+    
+  </channel>
+</rss>

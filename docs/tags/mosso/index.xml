@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mosso on Nubeblog</title>
+    <link>https://nubeblog.com/tags/mosso/</link>
+    <description>Recent content in mosso on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 23 Oct 2008 09:45:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/mosso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rackspace anuncia sus nuevos servicios de Cloud Hosting</title>
+      <link>https://nubeblog.com/2008/10/23/rackspace-anuncia-sus-nuevos-servicios-de-cloud-hosting/</link>
+      <pubDate>Thu, 23 Oct 2008 09:45:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/23/rackspace-anuncia-sus-nuevos-servicios-de-cloud-hosting/</guid>
+      <description>Rackspace es la mayor empresa de hosting del mundo por ingresos. Ayer (día 22) anunció a bombo y platillo sus nuevos servicios en La Nube denominándolos ‘Cloud Hosting‘ basados en Mosso. A saber:
+ Cloud Sites: Han licenciado la tecnología de Mosso y ofrecen su tecnología a través de su marca. Si conoces Mosso no parece que haya nada nuevo en la oferta. El precio inicial es de $100 por ‘site’, que es el concepto usado por Mosso.</description>
+    </item>
+    
+  </channel>
+</rss>

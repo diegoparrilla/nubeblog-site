@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sun on Nubeblog</title>
+    <link>https://nubeblog.com/tags/sun/</link>
+    <description>Recent content in sun on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 09 Mar 2010 07:53:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/sun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Puede ser Oracle un actor importante en el mundo de la virtualización?</title>
+      <link>https://nubeblog.com/2010/03/09/puede-ser-oracle-un-actor-importante-en-el-mundo-de-la-virtualizacion/</link>
+      <pubDate>Tue, 09 Mar 2010 07:53:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/03/09/puede-ser-oracle-un-actor-importante-en-el-mundo-de-la-virtualizacion/</guid>
+      <description>Una de las preguntas recurrentes en el mundillo de IT empresarial es cual es la estrategia de Oracle respecto a la virtualización y el Cloud Computing. Pese al esfuerzo que han hecho en explicar su estrategia, el consenso general es que tienen una pequeña empanada mental, y lo peor, los clientes se están dando cuenta.
+Pero antes de nada, vamos a hacer un pequeño inventario de qué tiene Oracle en el catálogo-que no es poco- y para qué sirve cada cosa:</description>
+    </item>
+    
+    <item>
+      <title>Resumen Cloud Computing Workshop</title>
+      <link>https://nubeblog.com/2009/04/05/resumen-cloud-computing-workshop/</link>
+      <pubDate>Sun, 05 Apr 2009 15:38:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/05/resumen-cloud-computing-workshop/</guid>
+      <description>El pasado jueves celebramos en las instalaciones de la CAN en Juan Bravo 3 el Cloud Computing Workshop de Madrid.
+En el invitado estelar era Simone Brunozzi, Amazon Web Service Evangelist para Europa, que nos ha mostrado el funcionamiento de los diferentes servicios de Cloud Computing de Amazon. Ha hecho demostraciones en directo de Amazon Elastic Compute Cloud (EC2) y Amazon Simple Storage Service (S3). Muchos de los asistentes al evento ya conocían estos servicios, por lo que se han lanzado a hacer preguntas con bastante nivel técnico, y la verdad es que Simone ha estado a la altura respondiendo a todas con soltura y cintura.</description>
+    </item>
+    
+    <item>
+      <title>SUN Microsystems adquiere Qlayer</title>
+      <link>https://nubeblog.com/2009/01/07/sun-microsystems-adquiere-qlayer/</link>
+      <pubDate>Wed, 07 Jan 2009 15:47:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/07/sun-microsystems-adquiere-qlayer/</guid>
+      <description>Un tweet de Diego Mariño (CEO de Abiquo) me pone sobre la pista: “Sun ha comprado a un competidor directo de Abiquo”. Y esta empresa no es otra que Qlayer. Esta empresa belga son especialistas en nubes privadas y en lo que ellos llaman Datacenter Virtuales Privados (VPDC).
+ Potenciamos las tecnologías de virtualización existentes para crear servicios Cloud como DataCenters Virtuales Privades (VPDC). Los usuarios finales pueden poner en marcha y desplegar sus propios datacenters virtuales ajustados a las necesidades del momento.</description>
+    </item>
+    
+    <item>
+      <title>¿Será Network.com la evolución de Project Caroline de Sun?</title>
+      <link>https://nubeblog.com/2008/11/20/%c2%bfsera-networkcom-la-evolucion-de-project-caroline-de-sun/</link>
+      <pubDate>Thu, 20 Nov 2008 09:12:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/20/%c2%bfsera-networkcom-la-evolucion-de-project-caroline-de-sun/</guid>
+      <description>Buscando más información sobre el Proyecto Caroline, me he topado con esto:
+Así es, el Proyecto Caroline parece que tiene una encarnación profesional bajo la marca de Sun Microsystems Network.com. La única información que aparece en la web es la que se ve en el pantallazo. Es posible apuntarse para recibir información información y participar en betas privadas, cosa que he hecho de inmediato.
+En la web de Sun podemos leer de Network.</description>
+    </item>
+    
+    <item>
+      <title>Project Caroline: El Cloud Computing según Sun Microsystems</title>
+      <link>https://nubeblog.com/2008/11/17/project-caroline-el-cloud-computing-segun-sun-microsystems/</link>
+      <pubDate>Mon, 17 Nov 2008 09:11:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/17/project-caroline-el-cloud-computing-segun-sun-microsystems/</guid>
+      <description>El viernes leí la noticia de nuevos despidos en Sun. Esto no es nuevo, cada 2 años hacen lo mismo. Me acordé de un chiste malo que me contaron hace unos años sobre Sun y Microsoft:
+ – Tio, no se si hacer este proyecto con Java o con C#…
+– Vamos a ver…¿Tu has visto Armageddon?
+– ¿La de Bruce Willis y el asteroide? Sí, la he visto…
+– Pues figúrate que en vez de llamar a Bruce Willis y su banda, tienes que llamar a la mejor empresa de ingeniería informática del mundo: ¿A quién llamarías, a Sun o a Microsoft?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>springsource on Nubeblog</title>
+    <link>https://nubeblog.com/tags/springsource/</link>
+    <description>Recent content in springsource on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 11 Aug 2009 09:20:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/springsource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VMware compra SpringSource por más de $400 millones</title>
+      <link>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</link>
+      <pubDate>Tue, 11 Aug 2009 09:20:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</guid>
+      <description>El anuncio en el blog de VMware no deja lugar a dudas: SpringSource se centra en la operación de la capa de aplicación, y no en la de infraestructura como hace VMware. Son complementarias. VMware quiere convertirse en un proveedor de software de gestión y operación del datacenter de manera completa. La comoditización del hypervisor es un hecho (en Abiquo estamos pasando máquinas de un hypervisor a otro, es un hecho) y deben centrarse en otras partes de la operación.</description>
+    </item>
+    
+  </channel>
+</rss>

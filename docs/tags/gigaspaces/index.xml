@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gigaspaces on Nubeblog</title>
+    <link>https://nubeblog.com/tags/gigaspaces/</link>
+    <description>Recent content in gigaspaces on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 09 Oct 2008 10:31:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/gigaspaces/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gigaspaces y GoGrid lanzan un servicio de Cloud Computing de nivel Empresarial</title>
+      <link>https://nubeblog.com/2008/10/09/gigaspaces-y-gogrid-lanzan-un-servicio-de-cloud-computing-de-nivel-empresarial/</link>
+      <pubDate>Thu, 09 Oct 2008 10:31:19 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/09/gigaspaces-y-gogrid-lanzan-un-servicio-de-cloud-computing-de-nivel-empresarial/</guid>
+      <description>No todo el Cloud Computing va a ser Amazon Web Services. Existen otras propuestas interesantes, y creo GoGrid es una de las que parece más profesional. Por poner un ejemplo, ofrecen balanceadores F5 dentro de su infraestructura, lo que en mi opinión es fundamental para poner en marcha tolerante a fallos. También el servicio de monitorización y soporte 24×7 es algo fundamental a la hora de establecer los niveles de servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

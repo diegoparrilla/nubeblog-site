@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trabajo outsourcing on Nubeblog</title>
+    <link>https://nubeblog.com/tags/trabajo-outsourcing/</link>
+    <description>Recent content in trabajo outsourcing on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 10 Dec 2008 10:23:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/trabajo-outsourcing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Perderé mi trabajo por culpa del Cloud Computing?</title>
+      <link>https://nubeblog.com/2008/12/10/perdere-mi-trabajo-por-culpa-del-cloud-computing/</link>
+      <pubDate>Wed, 10 Dec 2008 10:23:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/10/perdere-mi-trabajo-por-culpa-del-cloud-computing/</guid>
+      <description>¿Cómo afectará el Cloud Computing a los equipos de IT que ahora mantienen los sistemas en las empresas? Casi todos los analistas apuntan a la reducción de costes de explotación de los sistemas de manera apreciable (entre otras cosas…) como uno de los factores que explican esta explosión de La Nube. Evidentemente estos costes de explotación también incluyen a los recursos humanos. Así que en mi opinión el Cloud Computing hará que el número de Ingenieros de Sistemas que mantienen los sistemas en las empresas disminuya en el futuro.</description>
+    </item>
+    
+  </channel>
+</rss>

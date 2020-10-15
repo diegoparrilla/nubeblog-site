@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wimax on Nubeblog</title>
+    <link>https://nubeblog.com/tags/wimax/</link>
+    <description>Recent content in wimax on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 19 Apr 2007 00:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/wimax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meraki: Mesh networks can kill Wimax</title>
+      <link>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</guid>
+      <description>One of the most interesting technologies to come are mesh networks. In Amplia we are making some prospects on these technology applied to the M2M (machine to machine) communication. Zigbeefits perfectly for small amount of data, but it’s not good when dealing with mobile communications (PDAs, laptops, MP3 players… anything interactive and portable).
+The only real ubiquitousnetworks today are the mobile operators networks. GPRShas an acceptable deployment, closer to 100% of the population in developed countries, but 3G technologies are still far from being everywhere.</description>
+    </item>
+    
+  </channel>
+</rss>

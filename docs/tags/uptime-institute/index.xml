@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uptime institute on Nubeblog</title>
+    <link>https://nubeblog.com/tags/uptime-institute/</link>
+    <description>Recent content in uptime institute on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 11 Oct 2010 10:13:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/uptime-institute/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qué son los &amp;#8216;tiers&amp;#8217; en un Centro de Datos. El ANSI/TIA-942</title>
+      <link>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</link>
+      <pubDate>Mon, 11 Oct 2010 10:13:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</guid>
+      <description>Si estás buscando un servicio de alojamiento de servidores, colocación, etc. verás que los diferentes proveedores te ofrecen información de lo más variada sobre sus características y te ofrecen datos interesantes como niveles de redundancia, tamaño del centro de datos, tiempos de respuesta y demás.
+Existe un estándar llamado ANSI/TIA-942 Telecommunications Infrastructure Standard for Data Centers, creado por miembros de la industria, consultores y usuarios, que intenta estandarizar el proceso de diseño de los centros de datos.</description>
+    </item>
+    
+  </channel>
+</rss>

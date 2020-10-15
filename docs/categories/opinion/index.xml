@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opinion on Nubeblog</title>
+    <link>https://nubeblog.com/categories/opinion/</link>
+    <description>Recent content in opinion on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 28 Mar 2011 11:04:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/opinion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proveedores de Cloud Computing mágicos</title>
+      <link>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</guid>
+      <description>Es sorprendente como empresas que llevan muchos años haciendo software tradicional de repente y de manera mágica resulta que su software está ‘En la Nube’. No solo eso, sino que algunos dicen que fueron ellos los que inventaron el Cloud Computing, pero que como siempre los americanos llegaron y le pusieron un nombre ‘chulo’. Lo del Software as a Service es un auténtico escándalo. Aquí ahora todo es Cloud. Tonto el último.</description>
+    </item>
+    
+    <item>
+      <title>Amazoned</title>
+      <link>https://nubeblog.com/2011/02/08/amazoned/</link>
+      <pubDate>Tue, 08 Feb 2011 13:33:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/02/08/amazoned/</guid>
+      <description>Hace unos días recibí un correo de una empresa bastante conocida que rayaba en el SPAM. Nada del otro mundo, pero leyendo la entrada del blog que recomendaban, me quedé con una frase que vengo dando vueltas desde hace varios días:
+ No one wants to be amazoned.
+ ¿Amazoned? Y entonces vinieron a mi mente recuerdos de épocas pasadas, de burbujas puntocom, de Consejeros Delegados de bancos sin corbata en First Tuesdays glamurosos y no como los de ahora, de Business 2.</description>
+    </item>
+    
+    <item>
+      <title>¿Y si González Pons tiene razón?</title>
+      <link>https://nubeblog.com/2011/01/13/y-si-gonzalez-pons-tiene-razon/</link>
+      <pubDate>Thu, 13 Jan 2011 23:03:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/13/y-si-gonzalez-pons-tiene-razon/</guid>
+      <description>Hace ahora unos dos años, un Diego Mariño más delgado (no mucho más, pero bueno) estaba muy nervioso haciendo la primera presentación del producto que estábamos desarrollando en un evento en San Francisco. Aunque sabíamos que no teníamos ninguna posibilidad en el concurso, por lo menos hicimos ruido. Al bueno de Diego le hicieron una pregunta muy hijaputa:
+ ¿Cómo movéis los datos de una Nube de Computación a otra?</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Abiquo, hello new projects</title>
+      <link>https://nubeblog.com/2011/01/12/goodbye-abiquo-hello-new-projects/</link>
+      <pubDate>Wed, 12 Jan 2011 11:29:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/12/goodbye-abiquo-hello-new-projects/</guid>
+      <description>Last December my working relationship with Abiquo terminated. I must admit that it was a fantastic experience to be involved in first-person role in creating a product that had real potential to become a world reference for a new industry. I’ve met people with an unusual talent that certainly has enriched me as a person and professional. But mostly I stay with the team with whom I had the honor of working and managing Abiquo: Xavi, Helena, Diego, Monleón … really, thank you for having been me involved in this.</description>
+    </item>
+    
+    <item>
+      <title>Adios Abiquo, hola nuevos proyectos</title>
+      <link>https://nubeblog.com/2011/01/12/adios-abiquo-hola-nuevos-proyectos/</link>
+      <pubDate>Wed, 12 Jan 2011 10:59:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/12/adios-abiquo-hola-nuevos-proyectos/</guid>
+      <description>El pasado mes de diciembre termino mi relación laboral con Abiquo. Reconozco que ha sido una experiencia fantástica en la que he podido participar en primera persona y con papel protagonista en la creación de un producto que tenía verdaderas posibilidades de convertirse en un referente mundial de una nueva industria. He conocido a gente con un talento fuera de lo común que sin duda me ha enriquecido como persona y como profesional.</description>
+    </item>
+    
+    <item>
+      <title>Un vistazo rápido a la historia de OpenStack</title>
+      <link>https://nubeblog.com/2011/01/10/un-vistazo-rapido-a-la-historia-de-openstack/</link>
+      <pubDate>Mon, 10 Jan 2011 08:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/10/un-vistazo-rapido-a-la-historia-de-openstack/</guid>
+      <description>A mediados de 2010 se produjo un ‘evento sistémico’ en el mundo del software de Infraestructura como Servicio (IaaS). Rackspace y la NASA anunciaban de manera conjunta que estaban desarrollando un nuevo software de IaaS que venía a solucionar los problemas que la NASA le había encontrado a Eucalyptus, y a convertirse en una alternativa real a Amazon Web Services.
+Que Rackspace esté interesado en competir con Amazon Web Services es lógico, pero ¿la NASA?</description>
+    </item>
+    
+    <item>
+      <title>¡Es la Agilidad, estúpido!</title>
+      <link>https://nubeblog.com/2010/12/15/es-la-agilidad-estupido/</link>
+      <pubDate>Wed, 15 Dec 2010 10:47:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/15/es-la-agilidad-estupido/</guid>
+      <description>La semana pasada tuve una comida de hermanamiento con grandes Gurús del Cloud Computing patrio. Compartir mesa, mantel y Ribera del Duero con tan insignes personalidades, además de un honor es un privilegio. Creo recordar que no conseguimos resolver los problemas de portabilidad y de interoperabilidad entre las Nubes de diferentes fabricantes (¿o igual si? Bueno, no me acuerdo…), pero pasamos un buen rato.
+Entre mil batallitas e historias memorables, surgió una cuestión: los modelos económicos para ‘vender’ el Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>Wikileaks expulsado de Amazon: Las Nubes no son ni neutrales ni abiertas</title>
+      <link>https://nubeblog.com/2010/12/02/wikileaks-expulsado-de-amazon-las-nubes-no-son-ni-neutrales-ni-libres/</link>
+      <pubDate>Thu, 02 Dec 2010 10:46:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/02/wikileaks-expulsado-de-amazon-las-nubes-no-son-ni-neutrales-ni-libres/</guid>
+      <description>Llevamos varios días descubriendo gracias a las filtraciones de Wikileaks que hay mucho mamoneo en el mundo de la diplomacia. Creo que esto no es como para caerse de un guindo, y bueno, tiene más gracia que Gran Hermano 12 y es menos deprimente que las noticias sobre la economía española.
+Hace ya varias semanas supimos que Wikileaks había desplegado parte de sus servidores en Amazon Web Services. Tanto en sus zonas Europeas como en USA.</description>
+    </item>
+    
+    <item>
+      <title>Manifiesto por una Red Neutral</title>
+      <link>https://nubeblog.com/2010/11/30/manifiesto-por-una-red-neutral/</link>
+      <pubDate>Tue, 30 Nov 2010 17:28:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/30/manifiesto-por-una-red-neutral/</guid>
+      <description>Los ciudadanos y las empresas usuarias de Internet adheridas a este texto manifestamos:
+ Que Internet es una Red Neutral por diseño, desde su creación hasta su actual implementación, en la que la información fluye de manera libre, sin discriminación alguna en función de origen, destino, protocolo o contenido. Que las empresas, emprendedores y usuarios de Internet han podido crear servicios y productos en esa Red Neutral sin necesidad de autorizaciones ni acuerdos previos, dando lugar a una barrera de entrada prácticamente inexistente que ha permitido la explosión creativa, de innovación y de servicios que define el estado de la red actual.</description>
+    </item>
+    
+    <item>
+      <title>Entrevista a Adrian Cockcroft, Cloud Architect de Netflix en el blog de Cloudscaling</title>
+      <link>https://nubeblog.com/2010/11/28/entrevista-a-adrian-cockcroft-cloud-architect-de-netflix-en-el-blog-de-cloudscaling/</link>
+      <pubDate>Sun, 28 Nov 2010 15:04:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/28/entrevista-a-adrian-cockcroft-cloud-architect-de-netflix-en-el-blog-de-cloudscaling/</guid>
+      <description>Randy Bias, un sospechoso habitual de las Infraestructuras como Servicio, entrevista para el blog de su empresa CloudScaling a Adrian Cockcroft, Cloud Architect de Netflix. Ya he hablado con anterioridad de Netflix, por lo que vale la pena que antes de leer la entrevista eches un vistazo a lo que escribí.
+En esta entrevista Adrian Cockcroft explica lo que unos cuantos llevamos tiempo diciendo: La Nube Pública no sólo es una opción válida, sino que puede ser la mejor opción de largo.</description>
+    </item>
+    
+    <item>
+      <title>Neutralidad de Red: ejemplos prácticos para destruir competidores</title>
+      <link>https://nubeblog.com/2010/11/22/neutralidad-de-red-ejemplos-practicos-para-destruir-competidores/</link>
+      <pubDate>Mon, 22 Nov 2010 18:53:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/22/neutralidad-de-red-ejemplos-practicos-para-destruir-competidores/</guid>
+      <description>La semana pasada se me escapó un exabrupto en twitter. Y creo que con toda la razón del mundo. Después de que el Senado rechazase una votación a favor de la Neutralidad de la Red, las redes sociales se calentaron y empezaron a mostrar la indignación de los internautas. En estas que Ignasi Guardans dejó una auténtica perla en su timeline de twitter:
+ “La absoluta y total#redneutralsupone q mi tráfico d mails compite con la conexion entre hospitales d un trasplante online”</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing 3 años en lo alto del hype cycle de Gartner</title>
+      <link>https://nubeblog.com/2010/10/13/cloud-computing-3-anos-en-lo-alto-del-hype-cycle-de-gartner/</link>
+      <pubDate>Wed, 13 Oct 2010 10:25:40 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/13/cloud-computing-3-anos-en-lo-alto-del-hype-cycle-de-gartner/</guid>
+      <description>Como cada año, Gartner publica un estudio que se ha convertido en un clásico: el Gartner Hype Cycle de tecnologías emergentes. En este estudio se intenta analizar aquellas tecnologías emergentes que estando aún en una fase de adopción generan gran entusiasmo y promoción exagerada, y su posterior tránsito por etapas de desilusión y de decepción. Según Gartner lo que quieren es tratar de separar lo que es una promoción exagerada de la realidad y por lo tanto ayudar a los decisores en la toma de decisiones para su adopción.</description>
+    </item>
+    
+    <item>
+      <title>Talento</title>
+      <link>https://nubeblog.com/2010/10/05/talento/</link>
+      <pubDate>Tue, 05 Oct 2010 00:42:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/05/talento/</guid>
+      <description>Hace muchos años me dieron un buen consejo: Lo peor que puedes hacer en esta vida es desperdiciar tu talento. Años después me encontré a este jefe y le dije que ese consejo me ayudó mucho. Ante mi sorpresa me dijo: No solo hablaba de desperdiciar tu propio talento, sino que como jefe yo desperdiciase tu talento y el de todos tus compañeros…
+__Hoy me he reunido con un ex compañero de trabajo.</description>
+    </item>
+    
+    <item>
+      <title>Cuidado con Foursquare</title>
+      <link>https://nubeblog.com/2010/09/20/cuidado-con-foursquare/</link>
+      <pubDate>Mon, 20 Sep 2010 01:00:51 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/20/cuidado-con-foursquare/</guid>
+      <description>La semana pasada charlé con varias personas sobre la privacidad en internet y cómo cada vez ofrecemos información que pensamos inocua a completos desconocidos, y en manos de desaprensivos puede resultar peligrosa. Saliendo un poco del tema habitual del blog voy a contar lo que me pasó en Julio durante un ‘roadshow’ que hicimos en Abiquo por los EEUU para hablar con clientes y empresas interesadas en nuestro producto. Dos de estas empresas se encuentran en el Research Triangle de Carolina del Norte, y comprende zonas limítrofes con Raleigh, Durham y Chapell Hill.</description>
+    </item>
+    
+    <item>
+      <title>Cambio de rumbo en el blog</title>
+      <link>https://nubeblog.com/2010/08/31/cambio-de-rumbo-en-el-blog/</link>
+      <pubDate>Tue, 31 Aug 2010 14:48:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/08/31/cambio-de-rumbo-en-el-blog/</guid>
+      <description>Durante los últimos meses no he escrito prácticamente nada en el blog. Mucho trabajo y muchos cambios en Abiquo. Pero también muchos cambios en el mundo del Cloud Computing.
+Cuando empecé el blog, casi nadie tenía ni idea de lo que era esto, así que era pisar territorio virgen. Ahora, las cosas son diferentes. El Cloud Computing se ha convertido para muchos en la nueva burbuja tecnológica, y para otros en una nueva y floreciente industria.</description>
+    </item>
+    
+    <item>
+      <title>Me entrevistan en Channel Planet en la Cloud Expo de Nueva York</title>
+      <link>https://nubeblog.com/2010/05/18/me-entrevistan-en-channel-planet-en-la-cloud-expo-de-nueva-york/</link>
+      <pubDate>Tue, 18 May 2010 11:22:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/18/me-entrevistan-en-channel-planet-en-la-cloud-expo-de-nueva-york/</guid>
+      <description>Channel Planet es un portal dedicado a los profesionales de las TI con base en Colombia. Me hicieron una serie de entrevistas en la Cloud Computing Expo de Nueva York, que podéis ver entrando en este enlace. Vale la pena echar un vistazo al portal, muy enfocado a profesionales.
+Además, podéis ver el uniforme oficial de Abiquo, casualmente igualito que mi uniforme de Ranger cuando era miembro de un Grupo Scout Católico.</description>
+    </item>
+    
+    <item>
+      <title>Las mejores definiciones del Cloud Computing [Humor]</title>
+      <link>https://nubeblog.com/2009/09/01/las-mejores-definiciones-del-cloud-computing-humor/</link>
+      <pubDate>Tue, 01 Sep 2009 00:43:31 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/01/las-mejores-definiciones-del-cloud-computing-humor/</guid>
+      <description>No he podido resistir a publicar este video de Cisco con las respuestas de los visitantes a su stand en el Cisco Live conference pasado. El video es inglés, pero con un poco de paciencia se entiende bastante bien. Algunas de las mejores frases son:
+ “Cloud Computing era cuando fumaba en la universidad, en la sala de ordenadores” “Cloud Computing es cuando Dios deja que todas las nubes se conecten unas con otras por los ángeles” “Cloud Computing es cuando vas con una alfombra mágica volando, con un portátil…” “Cloud Computing es… cuando venía volando a esta conferencia había un puñado de computadoras en las nubes, con palomas sobre ellas” “Cloud Computing son computadoras que flotan con paracaídas en las nubes, o puede que con dirigibles…si, con dirigibles… eso es.</description>
+    </item>
+    
+    <item>
+      <title>Blog Day 2009 – Mis Blogs Favoritos</title>
+      <link>https://nubeblog.com/2009/08/31/blog-day-2009-mis-blogs-favoritos/</link>
+      <pubDate>Mon, 31 Aug 2009 21:20:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/31/blog-day-2009-mis-blogs-favoritos/</guid>
+      <description>¡¡¡Casi acaba el día y no he escrito mi post sobre el Blog Day!!! Estamos ya en la 5ª edición de Blog Day. Es el 31 de Agosto porque este día 31-08 es lo más parecido a la palabra BLOG que hay.
+Mis recomendaciones para el día de hoy son:
+Blog de JoseMPeláez: Jose María Peláez escribe de forma atípica, no es un blogger tradicional. Ideas y mensajes para la reflexión, búscate unos minutos tranquilos para leerlos y reflexionar sobre ellos.</description>
+    </item>
+    
+    <item>
+      <title>Me entrevistan en OurCloudBlog.com</title>
+      <link>https://nubeblog.com/2009/08/28/me-entrevistan-en-ourcloudblogcom/</link>
+      <pubDate>Fri, 28 Aug 2009 13:48:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/28/me-entrevistan-en-ourcloudblogcom/</guid>
+      <description>Seguimos con el autobombo.
+Gerard Prats es un evangelista del Cloud Computing en el mundo hispano. Tiene una empresa dedicada a dar servicios de consultoría Cloud llamada InCloud, y tiene un blog dedicado a tecnologías alrededor de La Nube llamado ourcloudblog.com.
+Gerard está haciendo una serie de entrevista a gente que andamos ‘en las nubes’. Sin más preámbulos, aquí va la entrevista.</description>
+    </item>
+    
+    <item>
+      <title>El Cloud Computing gana adeptos en la empresa, según F5 Networks</title>
+      <link>https://nubeblog.com/2009/08/25/el-cloud-computing-gana-adeptos-en-la-empresa-segun-f5-networks/</link>
+      <pubDate>Tue, 25 Aug 2009 09:35:48 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/25/el-cloud-computing-gana-adeptos-en-la-empresa-segun-f5-networks/</guid>
+      <description>F5 Networks ha anunciado los resultados de un estudio que demuestra que las grandes empresas están implementando el Cloud Computing. Algunos datos de este estudio, en mi opinión, son sorprendentes:
+ Más del 80% están probando Nubes públicas o privadas. Hay una gran confusión sobre lo que es Cloud Computing. Los grandes puntos a resolver son el acceso, seguridad y rendimiento. El 50% ya ha implementado algo en una Nube Pública.</description>
+    </item>
+    
+    <item>
+      <title>Google ChromeOS y el cambio de paradigma en la computación</title>
+      <link>https://nubeblog.com/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/</link>
+      <pubDate>Wed, 08 Jul 2009 11:04:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/</guid>
+      <description>Parece que Google quiere darnos unas cuantas noticias interesantes estos días. Hoy anuncia que sí, que está desarrollando un Sistema Operativo, y que se llamará ChromeOS porque estará pensado para las aplicaciones en la red. Según dicen ellos, será un SO pensando en las nuevas necesidades de los usuarios: rápido, simple y seguro. El arranque será ultrarápido y se podrá navegar en segundos. La interfaz será mínima, delegando todo el trabajo al navegador, Google Chrome, claro está.</description>
+    </item>
+    
+    <item>
+      <title>El Cloud Computing sí es tecnología</title>
+      <link>https://nubeblog.com/2009/06/09/el-cloud-computing-si-es-tecnologia/</link>
+      <pubDate>Tue, 09 Jun 2009 09:10:26 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/09/el-cloud-computing-si-es-tecnologia/</guid>
+      <description>Uno de mis bloggers favoritos es James Urquhart. Tras este impronunciable apellido se encuentra uno de los que mueven el cotarro en la blogosfera cloudcomputing. Escritor en CNET y Product Marketing Manager, Cloud Computing and Virtualized Data Centers en Cisco. Vamos, que sabe de qué va esto.
+Hace unas semanas leí este artículo suyo en el que se preguntaba si el Cloud Computing es un nuevo modelo operativo o es una nueva tecnología.</description>
+    </item>
+    
+    <item>
+      <title>¿El Cloud Computing es la nueva burbuja puntocom?</title>
+      <link>https://nubeblog.com/2009/03/02/cloud-computing-la-nueva-burbuja-puntocom/</link>
+      <pubDate>Mon, 02 Mar 2009 00:29:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/02/cloud-computing-la-nueva-burbuja-puntocom/</guid>
+      <description>Techcrunch ha patrocinado un evento en Mountain View (California) llamado ‘Whose Cloud is it anyway?‘ para discutir sobre Cloud Computing, y de paso ver unas demos de aplicaciones interesantes corriendo en La Nube. Entre los ponentes se encontraban Marco Benioff (CEO de Salesforce.com), Werner Vogels (CTO de Amazon), Vic Gundotra (Vicepresidente de Ingeniería en Google) y Gina Bianchini (CEO de Ning). Y entre los asistentes Diego Mariño, CEO de Abiquo.</description>
+    </item>
+    
+    <item>
+      <title>¿Podrá soportar España 4.000.000 de bajas de clientes la banda ancha?</title>
+      <link>https://nubeblog.com/2009/02/12/%c2%bfpodra-soportar-espana-4000000-de-bajas-de-clientes-la-banda-ancha/</link>
+      <pubDate>Thu, 12 Feb 2009 11:15:43 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/12/%c2%bfpodra-soportar-espana-4000000-de-bajas-de-clientes-la-banda-ancha/</guid>
+      <description>Cerca de cuatro millones de ciudadanos no pueden acceder a la banda ancha en España en función de su sitio de residencia. A este indicador negativo para el desarrollo de la Sociedad de la Información en España se le podrían sumar bajas masivas de clientes del ADSL más lento y caro de Europa.
+Las entidades representativas de la comunidad internauta, los profesionales y los consumidores informáticos en España estiman en cuatro millones la cifra de clientes de banda ancha -ADSL y cable- que podrían darse de baja si finalmente se confirma el acuerdo que REDTEL está negociando con las sociedades de gestión de los derechos de autor abanderadas por la SGAE, para que en España se den tres avisos antes de desconectar o ralentizar la conexión a Internet por usar redes P2P.</description>
+    </item>
+    
+    <item>
+      <title>Arquitecturas Software para el Cloud Computing</title>
+      <link>https://nubeblog.com/2009/02/06/arquitecturas-software-para-el-cloud-computing/</link>
+      <pubDate>Fri, 06 Feb 2009 17:03:05 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/06/arquitecturas-software-para-el-cloud-computing/</guid>
+      <description>Los viernes son un día para cerrar cosas en el trabajo. No dejar cosas abiertas ayuda a planificar las nuevas tareas que se abrirán con el próximo lunes. Además, esta semana ha sido especial porque hay cambios, cambios que anunciaré próximamente.
+Llevo semanas reflexionando sobre cómo afecta a los equipos de desarrollo las nuevas plataformas de escalado dinámico que tenemos en La Nube. No debemos olvidar que una plataforma tiene éxito si es adoptada por los desarrolladores.</description>
+    </item>
+    
+    <item>
+      <title>Las PYMES en USA y UK pasan del Cloud Hosting</title>
+      <link>https://nubeblog.com/2009/02/05/las-pymes-en-usa-y-uk-pasan-del-cloud-hosting/</link>
+      <pubDate>Thu, 05 Feb 2009 15:00:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/05/las-pymes-en-usa-y-uk-pasan-del-cloud-hosting/</guid>
+      <description>El 14% en USA y el 11% en UK de las medianas empresas usan el Cloud Hosting, mientras que sólo el 5% lo hacen en las pequeñas empresas. Menos de un tercio de las pequeñas empresas ni han contemplado la posibilidad de pasarse a Cloud Hosting. Más de la mitad de las medianas empresas tienen planes para incorporar el Cloud Hosting en su configuración actual de Hosting, pero las pequeñas empresas casi el 60% no tiene ningún plan al respecto.</description>
+    </item>
+    
+    <item>
+      <title>¿Para qué quiere Google GDrive?</title>
+      <link>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</link>
+      <pubDate>Mon, 02 Feb 2009 00:24:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</guid>
+      <description>Uno de mis blogs favoritos es SmoothSpan Blog. Su autor, Bob Warfield es un exempleado de Borland, con larga experiencia en el mundo de las ITs, especialmente en el SaaS y el Cloud Computing. Ha dado una vuelta de tuerca a la inminente aparición de GDrive, y sus conclusiones son sorprendentes.
+El concepto detrás de Google GDrive no es nuevo, hay productos similares en el mercado, a saber:
+ Skybox de Microsoft MobileMe de Apple Mozy de EMC (ahora Decho) Jundle Disk (comprado recientemente por Rackspace) Dropbox  Y hay más.</description>
+    </item>
+    
+    <item>
+      <title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</title>
+      <link>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</link>
+      <pubDate>Fri, 23 Jan 2009 10:04:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</guid>
+      <description>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</description>
+    </item>
+    
+    <item>
+      <title>Abogados, Lecheras, Cuentos y Nubes</title>
+      <link>https://nubeblog.com/2009/01/20/abogados-lecheras-cuentos-y-nubes/</link>
+      <pubDate>Tue, 20 Jan 2009 10:17:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/20/abogados-lecheras-cuentos-y-nubes/</guid>
+      <description>Supongo que a todos nos han contado el cuento de la lechera. Ya sabéis, ese tan bonito en que una lechera aspirante a broker de derivados en la City lo pierde todo por tropezar en una piedra. La semana pasada un abogado nos contó una nueva versión del cuento: ‘El cuento de la lechera 2.0’. En esta nueva versión del cuento, el prestigioso abogado Javier Mestre se mete en la piel de Pepito Grillo y nos muestra lo malos que son los consultores tecnológicos sin escrúpulos, y lo malo, malísimo que es Google y sus aplicaciones en La Nube: Google Apps Premier Edition.</description>
+    </item>
+    
+    <item>
+      <title>Nubeblog links del 12/01 al 18/01</title>
+      <link>https://nubeblog.com/2009/01/18/delicious-7/</link>
+      <pubDate>Sun, 18 Jan 2009 10:46:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/18/delicious-7/</guid>
+      <description>Enlaces compartidos en del.icio.us por nubeblog
+  Security By Default: Cloud Antivirus 1.0 —
+Etiquetas: [cloud antivirus]
+  E-Commerce News: SaaS: Cloud Wars: A New Hope —
+Etiquetas: [cloud, tendencias]
+  There’s No Such Thing As A Private Cloud – Plug Into The Cloud – InformationWeek —
+Etiquetas: [cloud private hybrid opinion]
+  Eli Lilly On What’s Next In Cloud Computing – Plug Into The Cloud – InformationWeek —</description>
+    </item>
+    
+    <item>
+      <title>¿Serán los humanos irrelevantes monitorizando aplicaciones Cloud?</title>
+      <link>https://nubeblog.com/2009/01/14/seran-los-humanos-irrelevantes-monitorizando-aplicaciones-cloud/</link>
+      <pubDate>Wed, 14 Jan 2009 10:27:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/14/seran-los-humanos-irrelevantes-monitorizando-aplicaciones-cloud/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>La crisis económica puede no ser tan buena para el SaaS como parece</title>
+      <link>https://nubeblog.com/2009/01/12/la-crisis-economica-puede-no-ser-tan-buena-para-el-saas-como-parece/</link>
+      <pubDate>Mon, 12 Jan 2009 22:35:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/la-crisis-economica-puede-no-ser-tan-buena-para-el-saas-como-parece/</guid>
+      <description>Ya he hablado con anterioridad sobre los riesgos del Software como Servicio, especialmente qué ocurririría si un proveedor da quiebra. Ayer me encontré con varios artículos que de nuevo tratan el tema pero desde otra perspectiva que no me había planteado: La crisis afectará también a los pequeños proveedores de SaaS, y se estima que el 30% de estas empresas que facturan menos de $5 millones quebrarán en 2010. Menudo panorama.</description>
+    </item>
+    
+    <item>
+      <title>Nueva consola de gestión de Amazon EC2: la difícil tarea de sobrevivir en el ecosistema AWS</title>
+      <link>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</link>
+      <pubDate>Mon, 12 Jan 2009 15:14:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</guid>
+      <description>El pasado viernes recibí un bonito correo que me invitaba a probar la nueva beta de la consola de gestión de Amazon Web Services. La primera versión es una consola para EC2, aunque quieren expandirla a todos los servicios de Amazon Web Services. Luego mi vida paso a ser un infierno de nieve y atascos, y así nos quedamos durante buena parte del día.
+Lo cierto es que ya se ha hablado de ella bastante en los últimos días, así que hoy no voy a hacer una revisión en profundidad.</description>
+    </item>
+    
+    <item>
+      <title>Nubeblog links del 5/01 al 11/01</title>
+      <link>https://nubeblog.com/2009/01/11/delicious-6/</link>
+      <pubDate>Sun, 11 Jan 2009 19:33:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/11/delicious-6/</guid>
+      <description>Enlaces compartidos en del.icio.us por nubeblog
+  ElasticVapor :: Life in the Cloud: Amazon Crushes Ecosystem – Launches AWS Management Console —
+Etiquetas: [cloud amazon console]
+  Cloudcenters are Datacenters in the Sky | GoGrid Blog —
+A document that must be dissected Etiquetas: [cloud,datacenter,gogrid]
+  Cloud computing scenarios – CloudWiki —
+Etiquetas: [cloud business scenarios]
+  Main Page – CloudWiki —
+Etiquetas: [cloud research wiki]</description>
+    </item>
+    
+    <item>
+      <title>Negocios y sentimientos no casan: Martín Varsavsky tiene razón</title>
+      <link>https://nubeblog.com/2009/01/09/negocios-y-sentimientos-no-casan-martin-varsavsky-tiene-razon/</link>
+      <pubDate>Fri, 09 Jan 2009 13:58:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/09/negocios-y-sentimientos-no-casan-martin-varsavsky-tiene-razon/</guid>
+      <description>Aunque esto igual lo debería twittear, y pese a no ser un gran fan de Martin Varsavsky, creo que tiene razón cuando dice que hay que evitar hacer negocios por razones sentimentales.
+http://spanish.martinvarsavsky.net/general/hacer-negocios-por-razones-sentimentales.html</description>
+    </item>
+    
+    <item>
+      <title>SOA ha muerto. Larga vida a los Servicios</title>
+      <link>https://nubeblog.com/2009/01/08/soa-ha-muerto-larga-vida-a-los-servicios/</link>
+      <pubDate>Thu, 08 Jan 2009 10:57:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/08/soa-ha-muerto-larga-vida-a-los-servicios/</guid>
+      <description>Se veía venir. Pero me ha sorprendido que haya sido una gran consultora de negocio como El Grupo Burton la que ha destapado la caja de los truenos. Uno de sus analistas ha declarado a SOA formalmente muerto en este 2009. Y leyendo sus argumentos no puedo mas que aceptarlos. Tiene razón. Pero vamos a darle unas vueltas a este asunto:
+La creación del término SOA (Service Oriented Architectures) se atribuye a la consultora de negocio Gartner.</description>
+    </item>
+    
+    <item>
+      <title>Nubeblog links del 29/12 al 4/1</title>
+      <link>https://nubeblog.com/2009/01/05/delicious-5/</link>
+      <pubDate>Mon, 05 Jan 2009 00:32:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/05/delicious-5/</guid>
+      <description>Enlaces compartidos en del.icio.us por nubeblog
+  Integration Developers News —
+Etiquetas: [cloud hp vmware]
+  EMC reportedly buys SourceLabs, but for what purpose? | Business Tech – CNET News —
+Etiquetas: [emc business sourcelabs]
+  Top 10 Macworld rumors for 2009 – Apple 2.0 —
+Etiquetas: [predictions apple macworld]
+  MacWorld 2009: iWork Cloud Apps are coming! | Avastu Blog – Sustainable Global Clouds —</description>
+    </item>
+    
+    <item>
+      <title>Android puede ser el Sistema Operativo para La Nube de Google</title>
+      <link>https://nubeblog.com/2009/01/03/android-puede-ser-el-sistema-operativo-para-la-nube-de-google/</link>
+      <pubDate>Sat, 03 Jan 2009 17:10:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/03/android-puede-ser-el-sistema-operativo-para-la-nube-de-google/</guid>
+      <description>Leo en VentureBeat (un buen blog sobre inversiones en tecnología) y en el Blog de Enrique Dans (vale, lo admito, de vez en cuando también leo a Enrique Dans: ya podéis crucificarme) que unos ingenieros alemanes, Matthaus Krzykowski y Daniel Hartmann, han compilado Google Android para un netbook Asus EeePC 1000H.
+Pero oiga, ¿Android no es un sistema operativo para móviles? Bueno, no exactamente. Google ya dijo que su idea era usarlo en cualquier tipo de dispositivo, y una arquitectura x86 es un dispositivo como otro cualquiera.</description>
+    </item>
+    
+    <item>
+      <title>Los artículos más vistos en Nubeblog en 2008</title>
+      <link>https://nubeblog.com/2009/01/02/los-articulos-mas-vistos-en-nubeblog-en-2008/</link>
+      <pubDate>Fri, 02 Jan 2009 18:51:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/02/los-articulos-mas-vistos-en-nubeblog-en-2008/</guid>
+      <description>Un poco de autobombo no está mal de vez en cuando. Para empezar el año suave y aprovechando que no hay muchas noticias, aquí tenéis la lista de los 10 artículos más vistos en 2008 según Google Analytics:
+ Por fin llegó: CloudFront, la Content Delivery Network de Amazon SaaS, IaaS y PaaS: Las tres clases de Cloud Computing Project Caroline: El Cloud Computing según Sun Microsystems Amazon EC2 desembarca en Europa con dos nuevas zonas Eucalyptus: el camino de código abierto a seguir en la estandarización de La Nube Las mareantes predicciones de Microsoft para su negocio SaaS Cloud Computing in Plain English con subtítulos en Español Microsoft Azure Services Platform, la apuesta PaaS de Microsoft Windows Azure: qué es real y qué es vapor “El Cloud puede explicar la Web 2.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué nos traerá el 2009?</title>
+      <link>https://nubeblog.com/2008/12/30/que-nos-traera-el-2009/</link>
+      <pubDate>Tue, 30 Dec 2008 18:32:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/30/que-nos-traera-el-2009/</guid>
+      <description>No se me da bien hacer de oráculo. Y como he comentado en alguna ocasión, aquellos que lo hacen suelen quedar luego en evidencia si se tira de hemeroteca. Pese a ello, me gustaría compartir algunas de las cosas que creo que veremos en el 2009 en el mundo alrededor del Cloud Computing.
+ Estandarización: Sin duda una de las razones para no adoptar servicios en La Nube es el miedo a convertirse en un cliente cautivo (vendor lock-in) de tus proveedores.</description>
+    </item>
+    
+    <item>
+      <title>Mi resumen del año 2008</title>
+      <link>https://nubeblog.com/2008/12/29/mi-resumen-del-ano-2008/</link>
+      <pubDate>Mon, 29 Dec 2008 17:26:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/29/mi-resumen-del-ano-2008/</guid>
+      <description>Se acaba el 2008, un año que probablemente marcará un punto de inflexión en el mercado del Cloud Computing. Para empezar, es el año en que el término Cloud Computing ha pasado de los medios más techies a los medios de masas. Las razones para explicar esto son muchas, y variadas. Casi seguro que cada persona tendrá su opinión sobre cual ha sido la razón para esta explosión, así que aquí voy con la mía.</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;No apoyar el Cloud Computing es antipatriota&amp;quot; asegura el Presidente Rodríguez Zapatero</title>
+      <link>https://nubeblog.com/2008/12/28/no-apoyar-el-cloud-computing-es-antipatriota-asegura-el-presidente-rodriguez-zapatero/</link>
+      <pubDate>Sun, 28 Dec 2008 10:50:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/28/no-apoyar-el-cloud-computing-es-antipatriota-asegura-el-presidente-rodriguez-zapatero/</guid>
+      <description>Hoy día 28 de Diciembre fuentes libres de toda inocencia aseguran que José Luis Rodríguez Zapatero ha dicho que: En esta época de decrecimiento económico sostenido -culpa de Bush y de Aznar-, este gobierno ha decidido que ya es hora de que se tomen medidas para cambiar el modelo de crecimiento Español. Por eso, hemos decidido que ahora que tenemos más Hogares del Jubilado que jubilados y en cada pueblo hay un polideportivo, es hora de que en cada pueblo de nuestra nación de Naciones se construya un DataCenter.</description>
+    </item>
+    
+    <item>
+      <title>¡Feliz Navidad a todos!</title>
+      <link>https://nubeblog.com/2008/12/24/%c2%a1feliz-navidad-a-todos/</link>
+      <pubDate>Wed, 24 Dec 2008 10:24:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/24/%c2%a1feliz-navidad-a-todos/</guid>
+      <description>Hoy no voy a comentar noticias del otro lado del atlántico, ni os aburriré con mis ideas sobre el negocio alrededor de La Nube. Hoy es el día de olvidarse de todo eso y simplemente decir:</description>
+    </item>
+    
+    <item>
+      <title>Nubeblog links 15/12 al 21/12</title>
+      <link>https://nubeblog.com/2008/12/22/delicious-3/</link>
+      <pubDate>Mon, 22 Dec 2008 22:07:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/22/delicious-3/</guid>
+      <description>Enlaces compartidos en del.icio.us por nubeblog
+  Java Parallel Processing Framework Home Page —
+Etiquetas: [java grid]
+  i-Technology Predictions for 2009: Clouds and Tightened Belts —
+Etiquetas: [cloud predictions 2009]
+  Online file storage | Livedrive —
+DiskJungle alternative? Etiquetas: [cloud hosting storage tools software]
+  Nati Shalom’s Blog: Risk Analysis on the Cloud (Using Excel and GigaSpaces) —
+Etiquetas: [cloud performance gigaspaces]
+  Process Perfection —</description>
+    </item>
+    
+    <item>
+      <title>Nubeblog links 8/12 al 14/12</title>
+      <link>https://nubeblog.com/2008/12/15/delicious-2/</link>
+      <pubDate>Mon, 15 Dec 2008 10:03:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/15/delicious-2/</guid>
+      <description>Enlaces compartidos en del.icio.us por nubeblog
+  Handicapping cloud computing: The big picture | Between the Lines —
+Etiquetas: [cloud definition]
+  Sun to upgrade its general purpose cloud computing facility (with xVM Server?) | virtualization.info —
+xVM will be the next generation technology for Sun virtualizacion? Etiquetas: [cloud sun xvm]
+  More than cost savings alone, cloud computing will transform business, say HP and Capgemini | Dana Gardner’s BriefingsDirect | ZDNet.</description>
+    </item>
+    
+    <item>
+      <title>¿Perderé mi trabajo por culpa del Cloud Computing?</title>
+      <link>https://nubeblog.com/2008/12/10/perdere-mi-trabajo-por-culpa-del-cloud-computing/</link>
+      <pubDate>Wed, 10 Dec 2008 10:23:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/10/perdere-mi-trabajo-por-culpa-del-cloud-computing/</guid>
+      <description>¿Cómo afectará el Cloud Computing a los equipos de IT que ahora mantienen los sistemas en las empresas? Casi todos los analistas apuntan a la reducción de costes de explotación de los sistemas de manera apreciable (entre otras cosas…) como uno de los factores que explican esta explosión de La Nube. Evidentemente estos costes de explotación también incluyen a los recursos humanos. Así que en mi opinión el Cloud Computing hará que el número de Ingenieros de Sistemas que mantienen los sistemas en las empresas disminuya en el futuro.</description>
+    </item>
+    
+    <item>
+      <title>Nubeblog links 1/12 al 7/12</title>
+      <link>https://nubeblog.com/2008/12/08/delicious/</link>
+      <pubDate>Mon, 08 Dec 2008 23:53:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/08/delicious/</guid>
+      <description>Enlaces compartidos en del.icio.us por nubeblog
+  Tech predictions 2009: Dead of the money making core product | Capping IT Off | Capgemini | Consulting, Technology, Outsourcing —
+Etiquetas: [predictions]
+  Capital Efficiency Finds Its Moment —
+Etiquetas: [cloud economics web2.0]
+  Hosting.com Announces Cloud Computing Solution CloudNine at Gartner’s Conference | Top 10 Dedicated Server Hosting Reviews, News and Articles —
+Etiquetas: [cloud hosting]
+  IBM launches first Linux-OpenOffice desktop with virtualization features | Open Source | ZDNet.</description>
+    </item>
+    
+    <item>
+      <title>&amp;quot;El Cloud puede explicar la Web 2.0, pero la Web 2.0 no puede explicar el Cloud&amp;quot;</title>
+      <link>https://nubeblog.com/2008/12/01/el-cloud-puede-explicar-la-web-20-pero-la-web-20-no-puede-explicar-el-cloud/</link>
+      <pubDate>Mon, 01 Dec 2008 10:05:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/01/el-cloud-puede-explicar-la-web-20-pero-la-web-20-no-puede-explicar-el-cloud/</guid>
+      <description>Esta frase no es mía, es de Nicholas Carr, el autor de “The Big Switch“. Pero la subscribo por completo. Es exactamente lo que llevo meses tratando de explicar a todos aquellos que se acercan a preguntarme sobre la Web 2.0 y el Cloud Computing. Muy gentilmente les respondo que ‘Yo de la Web 2.0 no se nada’. Y se quedan sorprendidos.
+Bueno, algo se. Se que todas las chorradas que me envían por el Facebook son una pérdida de tiempo, que para Tuenti se me pasó el arroz, que Youtube lo visito cuando me pasan algo, menéame lo uso menos que reddit y solo para perder mi tiempo (escaso, la verdad).</description>
+    </item>
+    
+    <item>
+      <title>Amazon Hosted Public Datasets: Vislumbrando nuevos modelos de negocio</title>
+      <link>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</link>
+      <pubDate>Tue, 25 Nov 2008 09:05:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</guid>
+      <description>Amazon ha anunciado la publicación de repositorios públicos de datos, accesibles únicamente desde sus entornos EC2. Es decir, puedes montar estos datos en su ‘Nube’ y usarlos como quieras sin pagar nada, únicamente el tiempo de uso de las instancias EC2. Según dicen:
+ Nuestra meta es proveer un acceso sencillo a datos de datos públicos y comunes como el genoma humano, astronomía y al censo de los USA.
+ Además si tienes un conjunto de datos interesante, puedes solicitar su publicación y donar los datos a la comunidad.</description>
+    </item>
+    
+    <item>
+      <title>Nuevo calendario de eventos en Nubeblog</title>
+      <link>https://nubeblog.com/2008/11/19/nuevo-calendario-de-eventos-en-nubeblog/</link>
+      <pubDate>Wed, 19 Nov 2008 00:03:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/19/nuevo-calendario-de-eventos-en-nubeblog/</guid>
+      <description>En nuestro imparable ascenso al Olimpo de los Bloggers de Élite, hemos añadido un nuevo servicio de Calendario de Eventos que ayude a dar a conocer las actividades de Cloud Computing. Si conoces algún evento y quieres que se anuncie, no dudes en escribirme a nubeblog#nubeblog.com con los datos sobre el evento. Lo publicaremos en el calendario de eventos.
+La url es </description>
+    </item>
+    
+    <item>
+      <title>&amp;#039;The Big Switch&amp;#039; de Nicholas Carr, el libro de cabecera del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/11/04/the-big-switch-de-nicholas-carr-el-libro-de-cabecera-del-cloud-computing/</link>
+      <pubDate>Tue, 04 Nov 2008 08:57:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/04/the-big-switch-de-nicholas-carr-el-libro-de-cabecera-del-cloud-computing/</guid>
+      <description>A veces me preguntan sobre algún libro que trate el tema de La Nube. Aunque la mayoría lo que me pide en realidad es un libro que explique la parte técnica, lo cierto es que la computación en La Nube no es una revolución, sino una evolución tecnológica. Por lo tanto, todo está ya ahí fuera en lo que a tecnología se refiere. Sin embargo, en la parte del ‘negocio’, sí podemos hablar de revolución.</description>
+    </item>
+    
+    <item>
+      <title>El Cloud Computing y los cansinos de la web 2.0</title>
+      <link>https://nubeblog.com/2008/10/31/el-cloud-computing-y-los-cansinos-de-la-web-20/</link>
+      <pubDate>Fri, 31 Oct 2008 18:27:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/31/el-cloud-computing-y-los-cansinos-de-la-web-20/</guid>
+      <description>Si algo tengo claro es que cualquier intento de adivinar el futuro en el mundo de las IT es una tarea inútil.
+Hay que ver la facilidad con que se mezclan conceptos y palabros en esto de las Tecnologías de Información. Llevo bastante tiempo metido en cosas como el Cloud Computing (el palabro es nuevo, el concepto no) y mi vida lleva varios años inmersa de una manera u otra dentro de la web 2.</description>
+    </item>
+    
+    <item>
+      <title>¿Influirá la entrada de Amazon en el mercado de Cloud Computing en sus resultados?</title>
+      <link>https://nubeblog.com/2008/10/21/%c2%bfinfluira-la-entrada-de-amazon-en-el-mercado-de-cloud-computing-en-sus-resultados/</link>
+      <pubDate>Tue, 21 Oct 2008 23:55:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/21/%c2%bfinfluira-la-entrada-de-amazon-en-el-mercado-de-cloud-computing-en-sus-resultados/</guid>
+      <description>Mañana 22 de Octubre Amazon publicará los resultados para el tercer cuarto del año. Todos los indicios apuntan a que tras un espectacular segundo cuarto los resultados del tercero van a ser negativos. Los analistas han tomado como referencia al otro grande del E-commerce, Ebay, que ha tenido unos resultados muy discretos y que ha anunciado una importante reducción de plantilla.
+Creo que es injusto comparar Ebay con Amazon. Ebay es y ha sido un desastre, fueron los primeros que usaron internet para sacar beneficio de la larga cola, los primeros que fueron web 2.</description>
+    </item>
+    
+    <item>
+      <title>Sequoia Capital: se acabó la fiesta</title>
+      <link>https://nubeblog.com/2008/10/13/sequoia-capital-se-acabo-la-fiesta/</link>
+      <pubDate>Mon, 13 Oct 2008 14:59:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/13/sequoia-capital-se-acabo-la-fiesta/</guid>
+      <description>Magnífica presentación de Sequoia Capital anunciando que vienen tiempos difíciles para las startups.
+Me quedo con la frase final: ‘Get Real or Get Home’. No hace falta traducción, ¿verdad?.</description>
+    </item>
+    
+    <item>
+      <title>Gartner dice que es bueno promocionar a bombo y platillo el Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/13/gartner-dice-que-es-bueno-promocionar-a-bombo-y-platillo-el-cloud-computing/</link>
+      <pubDate>Mon, 13 Oct 2008 10:16:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/13/gartner-dice-que-es-bueno-promocionar-a-bombo-y-platillo-el-cloud-computing/</guid>
+      <description>En el blog Mastering the Hype Cycle nos encontramos una curioso entrada en la que se justifica el ‘hype’ (promocionar a bombo y platillo) alrededor del Cloud Computing.
+ Tenemos que simplificar la propuesta de negocio tras el ‘big switch‘, explicarlo bien y socializarlo profundamente para que los líderes no técnicos nos lo compren.
+ Vamos, lo que en mi pueblo han llamado de toda la vida ‘vender la moto’.</description>
+    </item>
+    
+    <item>
+      <title>Crisis: ¿Buenos o malos tiempos por venir?</title>
+      <link>https://nubeblog.com/2008/10/10/crisis-%c2%bfbuenos-o-malos-tiempos-por-venir/</link>
+      <pubDate>Fri, 10 Oct 2008 00:29:23 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/10/crisis-%c2%bfbuenos-o-malos-tiempos-por-venir/</guid>
+      <description>Ya es viernes y me da por filosofar. Wall Street se desploma como no lo había hecho desde 1987, Barron’s anuncia malos tiempos para Salesforce, y Sequoia capital cierra el grifo y anuncia que los buenos tiempos han terminado. Es decir, la Tormenta Perfecta.
+Pero esto yo ya lo he vivido antes. Viví una debacle en la puntocom donde trabajaba en el 2000 y 2001. Nuestras stock options pasaron de valer 10 veces menos de lo que nos habían dado… a no valer nada.</description>
+    </item>
+    
+    <item>
+      <title>El CTO de Enomaly es el terror de los Capital Riesgo</title>
+      <link>https://nubeblog.com/2008/10/08/el-cto-de-enomaly-es-el-terror-de-los-capital-riesgo/</link>
+      <pubDate>Wed, 08 Oct 2008 09:45:44 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/08/el-cto-de-enomaly-es-el-terror-de-los-capital-riesgo/</guid>
+      <description>Después de leer esta entrada en el Blog de Reuven Cohen -Fundador y CTO de Enomaly– uno la verdad es que se siente pequeño en esta España de Zapatero y pandereta.
+Para empezar el pobrecito está cansado de hablar con inversores de Capital Riesgo que se mueren por invertir en su empresa:
+ Muchos de estos Capital Riesgo utilizan a sus asociados de bajo nivel para realizar sus investigaciones en startups prometedoras en áreas emergentes como el cloud computing.</description>
+    </item>
+    
+    <item>
+      <title>Richard Stallman nos avisa de los peligros del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/04/richard-stallman-nos-avisa-de-los-peligros-del-cloud-computing/</link>
+      <pubDate>Sat, 04 Oct 2008 17:07:41 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/04/richard-stallman-nos-avisa-de-los-peligros-del-cloud-computing/</guid>
+      <description>Si tuviera que hacer caso de las opiniones y comentarios de algunos personajes relevantes del mundo de las TI sobre el Cloud Computing probablemente tuviera que cerrar el blog y abrir otro de punto de cruz…
+Aprovechando que le habían puesto un micrófono delante los de The Guardian, Richard Stallman dio su opinión sobre el Cloud Computing:
+ Es una estupidez. Es peor que una estupidez. Es una campaña de marketing.</description>
+    </item>
+    
+    <item>
+      <title>Larry Ellison (CEO Oracle) dice cuatro verdades sobre el Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/02/larry-ellison-ceo-oracle-dice-cuatro-verdades-sobre-el-cloud-computing/</link>
+      <pubDate>Thu, 02 Oct 2008 14:49:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/02/larry-ellison-ceo-oracle-dice-cuatro-verdades-sobre-el-cloud-computing/</guid>
+      <description>Larry Ellison es una de esas personas que no se puede tildar de pusilánime, desde luego. En el evento Oracle Openworld se soltó la melena y dijo cuatro verdades sobre el Cloud Computing y la industría de las Tecnologías de la Información. Ahí van las perlas:
+ Lo interesante de esto del Cloud Computing es que hemos redefinido Cloud Computing para que incluya todo aquello que ya hacemos. No puedo pensar en algo que no sea cloud computing con todos estos anuncios.</description>
+    </item>
+    
+  </channel>
+</rss>

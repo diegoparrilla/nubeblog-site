@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on Nubeblog</title>
+    <link>https://nubeblog.com/tags/architecture/</link>
+    <description>Recent content in architecture on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 20 Feb 2008 00:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The grails diaries #5: Do you need a software architect?</title>
+      <link>https://nubeblog.com/2008/02/20/the-grails-diaries-5-do-you-need-a-software-architect/</link>
+      <pubDate>Wed, 20 Feb 2008 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/20/the-grails-diaries-5-do-you-need-a-software-architect/</guid>
+      <description>Previous: Grails, is it really worth it?
+I think there is a general misunderstanding of what kind of value can give Grails to a development shop. It seems that there are people out there that believe Grails, RoR and other breeds mean the end of Software Architectures in the web layer. The reasoning is: if the workload to develop a web application is shorter probably it means we need less skilled developers to code our applications.</description>
+    </item>
+    
+    <item>
+      <title>Google Chart API or how Google gives raw performance for free</title>
+      <link>https://nubeblog.com/2007/12/07/google-chart-api-or-how-google-gives-raw-performance-for-free/</link>
+      <pubDate>Fri, 07 Dec 2007 11:40:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/12/07/google-chart-api-or-how-google-gives-raw-performance-for-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</title>
+      <link>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</guid>
+      <description>Sometimes you only need to wait to understand why things happen. When Steve Jobs said ‘Java is not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’, we were surprised and disappointed because like me a lot of people think that there is still room for Java in the mobile platforms. Of course we have J2ME, but we can do very few things with it. What we need is a full J2SE stack for mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 for europeans: Bye bye latency issues</title>
+      <link>https://nubeblog.com/2007/11/06/amazon-s3-for-europeans-bye-bye-latency-issues/</link>
+      <pubDate>Tue, 06 Nov 2007 13:06:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/06/amazon-s3-for-europeans-bye-bye-latency-issues/</guid>
+      <description>Werner Vogels -the Amazon CTO- has just announced in his blog the availability of the S3 storage for Amazon European servers. This is good news because it means that Amazon thinks globally. The customer experience can improve if the latency is very low because of the fastest load of pages and static content.</description>
+    </item>
+    
+    <item>
+      <title>Leaving AMPLIA and starting as a Freelance IT Consultant</title>
+      <link>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</link>
+      <pubDate>Mon, 29 Oct 2007 12:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</guid>
+      <description>Last years have been a wonderful time in Amplía Soluciones S.L., but nothing is forever and I think it’s time for a change. I will continue as a partner of the company but I will look for new challenges and adventures out there. You can read my public linkedin profile if you want to know a bit about my skills and experience.</description>
+    </item>
+    
+    <item>
+      <title>Rise and fall of DBAs: The tyranny of the ORM</title>
+      <link>https://nubeblog.com/2007/09/14/rise-and-fall-of-dbas-the-tyranny-of-the-orm/</link>
+      <pubDate>Fri, 14 Sep 2007 11:32:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/14/rise-and-fall-of-dbas-the-tyranny-of-the-orm/</guid>
+      <description>There was a time when DBAs dictate how developers should use Their databases. It was early and mid-nineties and Their Word was The Truth. Those poor guys building client-server applications had to bow down before Him/Her and implement the Business Logic inside The Database Manager. Database hardware was expensive, but His/Her Highness could size the system easily because the number of clients connected was predictable. And that’s what the IT Manager wanted; predictable figures.</description>
+    </item>
+    
+    <item>
+      <title>Why developers hate bug-fixing</title>
+      <link>https://nubeblog.com/2007/09/10/why-developers-hate-bug-fixing/</link>
+      <pubDate>Mon, 10 Sep 2007 12:35:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/10/why-developers-hate-bug-fixing/</guid>
+      <description>Probably the only common thing among all developers I have worked with is the hate to bug-fixing. No matter if bugs belong to them or not. As a developer and as a manager I have quite contradictory feelings.
+As a developer there was nothing more irritating than the hateful Bugzillaemails. When I was working as Technical Lead of a development team in Madrid with a QAteam in the West Coast of USA they usually started to work at our 18:00 and we usually left at 19:00 (Madrid is GMT+2 summer time).</description>
+    </item>
+    
+    <item>
+      <title>Data normalization is not for sissies, it&amp;#8217;s just common sense</title>
+      <link>https://nubeblog.com/2007/09/05/data-normalization-is-not-for-sissies-its-just-common-sense/</link>
+      <pubDate>Wed, 05 Sep 2007 08:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/05/data-normalization-is-not-for-sissies-its-just-common-sense/</guid>
+      <description>And I must be the biggest sissy of all. There is a lot of buzz{#ddz7} about designing your databases thinking in data normalized or denormalized. Now that everybody is building the next Google or YouTube the database design has to support trillions of transactions per second and millions of terabytes, of course running on a multidimensional computing grid of zillions of nodes of databases written in Erlang… Data normalization is common sense because helps you to avoid the Data Inconsistency Hell when data is repeated across different tables.</description>
+    </item>
+    
+    <item>
+      <title>Beutiful photographs of MareNostrum, Europe&amp;#8217;s #1 Supercomputer</title>
+      <link>https://nubeblog.com/2007/08/28/beutiful-photographs-of-marenostrum-europes-1-supercomputer/</link>
+      <pubDate>Tue, 28 Aug 2007 15:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/28/beutiful-photographs-of-marenostrum-europes-1-supercomputer/</guid>
+      <description>Marenostrum is installed inside Barcelona Supercomputing Center. The building used to be an old church! The pictures here.</description>
+    </item>
+    
+    <item>
+      <title>Birthmarking: How to detect and prove GPL violations in Java propietary code</title>
+      <link>https://nubeblog.com/2007/08/26/birthmarking-how-to-detect-and-prove-gpl-violations-in-java-propietary-code/</link>
+      <pubDate>Sun, 26 Aug 2007 09:54:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/26/birthmarking-how-to-detect-and-prove-gpl-violations-in-java-propietary-code/</guid>
+      <description>I have just read the news in Slashdot (Yes, I still read Slashdot) and I found this very interesting article about a new technique to detect GPL violations in proprietary obfuscated code. The technique is called Birthmarking and basically it ‘observes short sequences of method calls received by individual objects from the Java Platform Standard API, which is part of the Java Runtime Environment. By aggregating sets of short call sequences the otherwise overwhelming volume of trace data becomes manageable.</description>
+    </item>
+    
+    <item>
+      <title>Bad times for J2ME. How the iPhone with Web 2.0 apps can rule in the mobile world</title>
+      <link>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</link>
+      <pubDate>Wed, 22 Aug 2007 12:46:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</guid>
+      <description>The day Steve Jobs said ‘Java’s not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’ . Being a Java Zealot as I am, I should find easily a fist full of arguments, but may be he is right.
+I have been working in the embedded and mobile world for almost four years in Amplia, and I can tell you that Java is far from being the best option for mobile and embedded development.</description>
+    </item>
+    
+    <item>
+      <title>The 95 percent syndrome in Software Development</title>
+      <link>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</link>
+      <pubDate>Mon, 13 Aug 2007 14:17:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</guid>
+      <description>Being a Project Manager, Architect, Analyst, Developer or anybody involved in the development of software, you have probably suffered the 95 percent syndrome.Imagine a software development project where things are going reasonably well: things are on schedule, Quality Assurance says things delivered are OK, the customer feel the progress, people are happy because they don’t have to work overtime and they architect and developers can apply the Best Practises. You are very close to the end of the development cycle (if you are working with an iterative and incremental methodology) and confident about the result.</description>
+    </item>
+    
+    <item>
+      <title>Managers: if you can&amp;#8217;t code don&amp;#8217;t apply for this job</title>
+      <link>https://nubeblog.com/2007/08/06/managers-if-you-cant-code-dont-apply-for-this-job/</link>
+      <pubDate>Mon, 06 Aug 2007 12:51:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/06/managers-if-you-cant-code-dont-apply-for-this-job/</guid>
+      <description>I have read this post: ‘Architects: If you can’t code, don’t apply for senior dev jobs‘ and I can’t wait to share something happened to me not so long time ago.
+I was interviewed for a position of Chief of Development in a start up. I passed two interviews with Human Resources and I only had left a face to face interview with the CEO of the company. He was(is) a very well known IT professional with an impressive technical background, but he moved to the dark side: management.</description>
+    </item>
+    
+    <item>
+      <title>Meraki: Mesh networks can kill Wimax</title>
+      <link>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</guid>
+      <description>One of the most interesting technologies to come are mesh networks. In Amplia we are making some prospects on these technology applied to the M2M (machine to machine) communication. Zigbeefits perfectly for small amount of data, but it’s not good when dealing with mobile communications (PDAs, laptops, MP3 players… anything interactive and portable).
+The only real ubiquitousnetworks today are the mobile operators networks. GPRShas an acceptable deployment, closer to 100% of the population in developed countries, but 3G technologies are still far from being everywhere.</description>
+    </item>
+    
+    <item>
+      <title>Going live with JEE 5: Congrats SOUKI</title>
+      <link>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</link>
+      <pubDate>Wed, 11 Apr 2007 00:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</guid>
+      <description>Building a project for an start-up has nothing to do with building a project for a big company: people in the start-ups normally are betting their pocket money in the project, and this means that delays, unexpected issues and bad performance of the development team have direct impact in the life of the entrepreneurs. This is the reason why I don’t want to build software for start-ups: if you have a little of empathy with them, you will carry the heavy load of their personal problems, besides of your own company troubles.</description>
+    </item>
+    
+    <item>
+      <title>My #1 book for architects: The data model resource book vol1 and 2</title>
+      <link>https://nubeblog.com/2006/12/03/my-1-book-for-architects-the-data-model-resource-book-vol1-and-2/</link>
+      <pubDate>Sun, 03 Dec 2006 23:21:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2006/12/03/my-1-book-for-architects-the-data-model-resource-book-vol1-and-2/</guid>
+      <description>Since I started developing enterprise applications professionally (I developed video games when I was a teenager, but that’s another story…), I usually design the first version of the data models implemented in the applications developed (may be that’s the reason some people say my applications sucks…). I have worked with DBAs and Business Analysts, but it seems that the responsibility of putting in a E/R model the concepts it’s mine (well, except when I was the Technical Lead of Xpert Online in Adecco that I had the chance to recruit an excellent professional to perform this task).</description>
+    </item>
+    
+  </channel>
+</rss>

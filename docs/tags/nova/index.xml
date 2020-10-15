@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nova on Nubeblog</title>
+    <link>https://nubeblog.com/tags/nova/</link>
+    <description>Recent content in nova on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 29 Mar 2011 23:14:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/nova/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taller de Openstack en Madrid el 14 de Abril</title>
+      <link>https://nubeblog.com/2011/03/29/taller-de-openstack-en-madrid-el-14-de-abril/</link>
+      <pubDate>Tue, 29 Mar 2011 23:14:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/29/taller-de-openstack-en-madrid-el-14-de-abril/</guid>
+      <description>Actualización: debido al éxito de la convocatoria (más de 100 registrados para un aforo de 70 personas), nuestro cliente de referencia ACENS copatrocinará el evento y el catering posterior.
+La información para apuntarse y direccón la tenéis aquí
+Las plazas son limitadas, por lo que mejor apuntarse cuanto antes no sea que se agoten.</description>
+    </item>
+    
+    <item>
+      <title>Stackops Distro &amp;#038; Smart Installer: despliega Openstack en tu centro de datos</title>
+      <link>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</guid>
+      <description>Durante estas últimas semanas nos hemos reunido con unas cuantas empresas interesadas en Infraestructuras como Servicios, y a todas les encantaba lo que Openstack Nova promete. La idea de tener una plataforma verdaderamente abierta y que haya un ecosistema de empresas a su alrededor es muy atractivo. Los participantes en Openstack son empresas con una reputación más que consolidada y reconocida por los profesionales. Todo parece perfecto… ¿Todo? No…
+En un momento dado de la conversación, siempre sale la siguiente pregunta:</description>
+    </item>
+    
+  </channel>
+</rss>

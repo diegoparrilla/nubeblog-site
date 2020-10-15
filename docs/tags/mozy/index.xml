@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mozy on Nubeblog</title>
+    <link>https://nubeblog.com/tags/mozy/</link>
+    <description>Recent content in mozy on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 28 Nov 2008 10:16:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/mozy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decho: La nueva marca de EMC para los servicios de Cloud orientados al consumidor</title>
+      <link>https://nubeblog.com/2008/11/28/decho-la-nueva-marca-de-emc-para-los-servicios-de-cloud-orientados-al-consumidor/</link>
+      <pubDate>Fri, 28 Nov 2008 10:16:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/28/decho-la-nueva-marca-de-emc-para-los-servicios-de-cloud-orientados-al-consumidor/</guid>
+      <description>Decho es el nombre de una nueva compañía que EMC ha creado y que se centrará en los Servicios de Información orientados a consumidores. Esta compañía se ha creado gracias a la combinación de dos empresas de EMC, Mozy y Pi. El nombre elegido, Decho, es la combinación de dos palabras: Digital y Echo.
+Esta nueva unidad de negocio ofrecerá servicios en La Nube de compartición y almacenaje de información en la Web.</description>
+    </item>
+    
+  </channel>
+</rss>

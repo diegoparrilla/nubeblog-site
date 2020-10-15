@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aws on Nubeblog</title>
+    <link>https://nubeblog.com/tags/aws/</link>
+    <description>Recent content in aws on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 10 Aug 2011 10:55:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El otro efecto Menéame</title>
+      <link>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</guid>
+      <description>Reconozco que una de mis aficiones favoritas es procrastinar trolleando en los comentarios de las noticias de Menéame. Aunque supongo que todo el mundo lo sabe, Menéame es el conocido clon hispano de Digg, el servicio a enlace de noticias gestionado por los usuarios (envían las que le gustan, y votan otras que les interesan). El pasado domingo intenté conectarme a Menéame después de pasar por varios periódicos online, y me encuentro con el sitio caído.</description>
+    </item>
+    
+    <item>
+      <title>Proveedores de Cloud Computing mágicos</title>
+      <link>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</guid>
+      <description>Es sorprendente como empresas que llevan muchos años haciendo software tradicional de repente y de manera mágica resulta que su software está ‘En la Nube’. No solo eso, sino que algunos dicen que fueron ellos los que inventaron el Cloud Computing, pero que como siempre los americanos llegaron y le pusieron un nombre ‘chulo’. Lo del Software as a Service es un auténtico escándalo. Aquí ahora todo es Cloud. Tonto el último.</description>
+    </item>
+    
+    <item>
+      <title>Wikileaks expulsado de Amazon: Las Nubes no son ni neutrales ni abiertas</title>
+      <link>https://nubeblog.com/2010/12/02/wikileaks-expulsado-de-amazon-las-nubes-no-son-ni-neutrales-ni-libres/</link>
+      <pubDate>Thu, 02 Dec 2010 10:46:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/02/wikileaks-expulsado-de-amazon-las-nubes-no-son-ni-neutrales-ni-libres/</guid>
+      <description>Llevamos varios días descubriendo gracias a las filtraciones de Wikileaks que hay mucho mamoneo en el mundo de la diplomacia. Creo que esto no es como para caerse de un guindo, y bueno, tiene más gracia que Gran Hermano 12 y es menos deprimente que las noticias sobre la economía española.
+Hace ya varias semanas supimos que Wikileaks había desplegado parte de sus servidores en Amazon Web Services. Tanto en sus zonas Europeas como en USA.</description>
+    </item>
+    
+    <item>
+      <title>AWS Free Usage Tier, prueba Amazon Web Services gratis durante un año</title>
+      <link>https://nubeblog.com/2010/10/22/aws-free-usage-tier-prueba-amazon-web-services-gratis-durante-un-ano/</link>
+      <pubDate>Fri, 22 Oct 2010 11:18:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/22/aws-free-usage-tier-prueba-amazon-web-services-gratis-durante-un-ano/</guid>
+      <description>Menudo revuelo que ha causado la nueva estrategia de marketing de Amazon Web Services. Sí, he escrito bien: Marketing. Ayer anunció un ‘menú degustación’ de sus servicios en la nube llamado AWS Free Usage Tier durante un año.
+En un cambio de política por sorpresa (y tal vez sorprendente), Amazon ofrece los nuevos clientes creados a partir del 20 de octubre de 2010 la posibilidad de usar uno conjunto de recursos de manera gratuita.</description>
+    </item>
+    
+    <item>
+      <title>Amazon anuncia nuevas instancias desde $7 al mes</title>
+      <link>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</guid>
+      <description>La semana pasada Amazon anunció unas nuevas instancias denominadas ‘microinstancias’ en su servicio de computación en la nube Amazon EC2. Estas nuevas instancias ofrecen 613MB de RAM por un precio $0.02 la hora. Es decir, unos $14 al mes, unos €11 mensuales.
+¿Pero cómo consiguen esta gente ofrecer un precio como este? Bueno, hay letra pequeña y no tan pequeña. Se puede hacer porque este servicio tiene ciertas características que lo diferencian de una instancia tradicional EC2:</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 for europeans: Bye bye latency issues</title>
+      <link>https://nubeblog.com/2007/11/06/amazon-s3-for-europeans-bye-bye-latency-issues/</link>
+      <pubDate>Tue, 06 Nov 2007 13:06:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/06/amazon-s3-for-europeans-bye-bye-latency-issues/</guid>
+      <description>Werner Vogels -the Amazon CTO- has just announced in his blog the availability of the S3 storage for Amazon European servers. This is good news because it means that Amazon thinks globally. The customer experience can improve if the latency is very low because of the fastest load of pages and static content.</description>
+    </item>
+    
+  </channel>
+</rss>

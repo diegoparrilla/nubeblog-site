@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on Nubeblog</title>
+    <link>https://nubeblog.com/categories/google/</link>
+    <description>Recent content in google on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 20 May 2010 07:22:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Storage for Developers ya disponible bajo petición</title>
+      <link>https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/</link>
+      <pubDate>Thu, 20 May 2010 07:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/</guid>
+      <description>Se rumoreaba que el anuncio del Amazon S3 ‘light’ presentado ayer era pura contraprogramación de Amazon. En el Google I/O 2010, se ha anunciado la disponibilidad del nuevo servicio Google Storage for Developers. Resumiendo, si conoces Amazon S3 o cualquier otro servicio de almacenaje en la nube de objetos, es lo mismo, pero hecho por Google.
+Cuando veo la etiqueta ‘for Developers’, me hecho a temblar. ¿Esta coletilla se pone para indicar que el servicio no es lo suficientemente estable para el uso por el público general?</description>
+    </item>
+    
+    <item>
+      <title>Google AppEngine para Java. Ya está aquí</title>
+      <link>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</link>
+      <pubDate>Wed, 08 Apr 2009 08:34:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</guid>
+      <description>Si hubo una petición que se repitió hasta la saciedad en el último Google Developers Day en Madrid fue que Google AppEngine soportara Java. Bueno, pues ya está. En el blog de Google App Engine podemos leer que ahora va en serio: Tenemos Java dentro del Google AppEngine.
+Dicen que Java ha sido el lenguaje que más se ha solicitado. Hay otros, pero está claro que el Rey de los lenguajes es Java desde hace unos 10 años.</description>
+    </item>
+    
+    <item>
+      <title>Google App Engine ya tiene planes de precios</title>
+      <link>https://nubeblog.com/2009/02/25/google-app-engine-ya-tiene-planes-de-precios/</link>
+      <pubDate>Wed, 25 Feb 2009 00:14:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/25/google-app-engine-ya-tiene-planes-de-precios/</guid>
+      <description>Parece que hoy Google quiere ser el protagonista de los medios. Después de los problemas con GfailGmail, Google anuncia sus planes de precios para Google App Engine. Después de casi un año desde que se abrió la plataforma de Cloud Computing de Google al publico, por fin podemos usarla para algo más que las aplicaciones que su limitada cuota gratuita ofrecía. La lista es la siguiente:
+ $ .10 por CPU a la hora (Amazon Web Services (AWS) carga desde $.</description>
+    </item>
+    
+    <item>
+      <title>El día que GMail falló y el mundo aprendió lo que significa &amp;quot;Beta&amp;quot;</title>
+      <link>https://nubeblog.com/2009/02/24/el-dia-que-gmail-fallo-y-el-mundo-aprendio-lo-que-significa-beta/</link>
+      <pubDate>Tue, 24 Feb 2009 19:47:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/24/el-dia-que-gmail-fallo-y-el-mundo-aprendio-lo-que-significa-beta/</guid>
+      <description>Salía de una reunión y me pareció oír una conversación de fondo ‘Creo que GMail no funciona’, decían. Pero uno no da crédito a esas y cosas, y piensas: “Serán ellos, su red o su proveedor”.
+Al llegar a la oficina, nos lo confirman: “GMail” está caído desde las 10 y pico de la mañana. Intento entrar en mi cuenta, y efectivamente, no puedo. Un bonito error me lo confirma.</description>
+    </item>
+    
+    <item>
+      <title>10 millones de usuarios corporativos en Google Apps</title>
+      <link>https://nubeblog.com/2009/02/03/10-millones-de-usuarios-corporativos-en-google-apps/</link>
+      <pubDate>Tue, 03 Feb 2009 15:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/03/10-millones-de-usuarios-corporativos-en-google-apps/</guid>
+      <description>Sorprendente lo que leo en eWeek. ¿10 millones de usuarios corporativos en Google Apps? ¿Un millon de empresas? Si un asiento de pago son $50, ¿están facturando $50 millones? ¿Los asientos son de pago?
+Vale, pero de estos, ¿cuantos pagan?
+Vamos en primer lugar a ver lo del millon de empresas. ¿cómo saben que es una empresa? Que yo sepa para registrarse en Google Apps solo se necesita un dominio, no te piden información fiscal ni financiera.</description>
+    </item>
+    
+    <item>
+      <title>¿Para qué quiere Google GDrive?</title>
+      <link>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</link>
+      <pubDate>Mon, 02 Feb 2009 00:24:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</guid>
+      <description>Uno de mis blogs favoritos es SmoothSpan Blog. Su autor, Bob Warfield es un exempleado de Borland, con larga experiencia en el mundo de las ITs, especialmente en el SaaS y el Cloud Computing. Ha dado una vuelta de tuerca a la inminente aparición de GDrive, y sus conclusiones son sorprendentes.
+El concepto detrás de Google GDrive no es nuevo, hay productos similares en el mercado, a saber:
+ Skybox de Microsoft MobileMe de Apple Mozy de EMC (ahora Decho) Jundle Disk (comprado recientemente por Rackspace) Dropbox  Y hay más.</description>
+    </item>
+    
+  </channel>
+</rss>

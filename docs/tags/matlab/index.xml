@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matlab on Nubeblog</title>
+    <link>https://nubeblog.com/tags/matlab/</link>
+    <description>Recent content in matlab on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 21 Oct 2008 09:55:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cómo configurar MATLAB sobre Amazon EC2, Mathworks lo explica en un White Paper</title>
+      <link>https://nubeblog.com/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/</link>
+      <pubDate>Tue, 21 Oct 2008 09:55:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/</guid>
+      <description>Hace unos días en la lista de correo de cloud-computing alguien preguntaba sobre experiencias con MATLAB en La Nube. Cualquier que visite la lista verá que MATLAB soporta soluciones variopintas, con implementaciones de todos los colores en Grid.
+Hoy leo que la misma persona que inició la conversación anunciaba que Mathworks había liberado un white paper explicando cómo usar MATLAB con Amazon Elastic Compute Cloud (EC2). El documento te lo puedes bajar aquí.</description>
+    </item>
+    
+  </channel>
+</rss>

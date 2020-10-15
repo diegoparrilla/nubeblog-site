@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloudscaling on Nubeblog</title>
+    <link>https://nubeblog.com/tags/cloudscaling/</link>
+    <description>Recent content in cloudscaling on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 28 Nov 2010 15:04:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/cloudscaling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entrevista a Adrian Cockcroft, Cloud Architect de Netflix en el blog de Cloudscaling</title>
+      <link>https://nubeblog.com/2010/11/28/entrevista-a-adrian-cockcroft-cloud-architect-de-netflix-en-el-blog-de-cloudscaling/</link>
+      <pubDate>Sun, 28 Nov 2010 15:04:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/28/entrevista-a-adrian-cockcroft-cloud-architect-de-netflix-en-el-blog-de-cloudscaling/</guid>
+      <description>Randy Bias, un sospechoso habitual de las Infraestructuras como Servicio, entrevista para el blog de su empresa CloudScaling a Adrian Cockcroft, Cloud Architect de Netflix. Ya he hablado con anterioridad de Netflix, por lo que vale la pena que antes de leer la entrevista eches un vistazo a lo que escribí.
+En esta entrevista Adrian Cockcroft explica lo que unos cuantos llevamos tiempo diciendo: La Nube Pública no sólo es una opción válida, sino que puede ser la mejor opción de largo.</description>
+    </item>
+    
+  </channel>
+</rss>

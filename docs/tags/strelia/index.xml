@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strelia on Nubeblog</title>
+    <link>https://nubeblog.com/tags/strelia/</link>
+    <description>Recent content in strelia on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 16 Jun 2011 11:46:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/strelia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evento &amp;#8220;Tecnologías Cloud al alcance de la mano&amp;#8221; el próximo 29 de junio</title>
+      <link>https://nubeblog.com/2011/06/16/evento-tecnologias-cloud-al-alcance-de-la-mano-el-proximo-29-de-junio/</link>
+      <pubDate>Thu, 16 Jun 2011 11:46:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/06/16/evento-tecnologias-cloud-al-alcance-de-la-mano-el-proximo-29-de-junio/</guid>
+      <description>Stackops participamos como ponentes en una jornada donde de una forma práctica podremos ver como evolucionar nuestra arquitectura de sistemas y aplicaciones, a un entorno cloud de servicio, incidiendo en cómo aplicar conceptos de pago por uso y estrategias Down cost technology que permiten acelerar el ROI.
+Las soluciones de virtualización Open source, las alternativas tecnológicas que responden a las demandas incrementales de almacenamiento con Open Storage, El desarrollo de aplicaciones de Software corporativo pensado en los procesos y en cómo pueden desplegarse en Cloud privadas o Públicas, son parte del objetivo de la Jornada.</description>
+    </item>
+    
+    <item>
+      <title>Jornada Strelia Cloud Computing el próximo 23 de noviembre</title>
+      <link>https://nubeblog.com/2010/11/16/jornada-strelia-cloud-computing-el-proximo-23-de-noviembre/</link>
+      <pubDate>Tue, 16 Nov 2010 16:17:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/16/jornada-strelia-cloud-computing-el-proximo-23-de-noviembre/</guid>
+      <description>El próximo 23 de Noviembre en el Palacio Euskalduna Jauregia de Bilbao Strelia se presentará en sociedad para ofrecer sus servicios de Cloud Computing. Strelia es la nueva apuesta empresarial de Jesús Angel Bravo y el Grupo Aernnova. Jesús ha sido un referente en la industria TIC del País Vasco desde sus tiempos de fundador de SOFTEC. AERNNOVA se creó en Abril del 2006 como resultado de la segregación de la división aeronáutica del Grupo Gamesa Corporación Tecnológica.</description>
+    </item>
+    
+  </channel>
+</rss>

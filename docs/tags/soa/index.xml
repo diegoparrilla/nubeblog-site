@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soa on Nubeblog</title>
+    <link>https://nubeblog.com/tags/soa/</link>
+    <description>Recent content in soa on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 08 Jan 2009 10:57:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/soa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SOA ha muerto. Larga vida a los Servicios</title>
+      <link>https://nubeblog.com/2009/01/08/soa-ha-muerto-larga-vida-a-los-servicios/</link>
+      <pubDate>Thu, 08 Jan 2009 10:57:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/08/soa-ha-muerto-larga-vida-a-los-servicios/</guid>
+      <description>Se veía venir. Pero me ha sorprendido que haya sido una gran consultora de negocio como El Grupo Burton la que ha destapado la caja de los truenos. Uno de sus analistas ha declarado a SOA formalmente muerto en este 2009. Y leyendo sus argumentos no puedo mas que aceptarlos. Tiene razón. Pero vamos a darle unas vueltas a este asunto:
+La creación del término SOA (Service Oriented Architectures) se atribuye a la consultora de negocio Gartner.</description>
+    </item>
+    
+    <item>
+      <title>Java SOA increases and .NET declines, survey says</title>
+      <link>https://nubeblog.com/2007/08/27/java-soa-increases-and-net-declines-survey-says/</link>
+      <pubDate>Mon, 27 Aug 2007 17:09:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/27/java-soa-increases-and-net-declines-survey-says/</guid>
+      <description>Evans data on his semi-annual Web Services Development Survey conducted in June says that companies planning the deployment of SOAwith a Java platform has increased slightly, but the companies deploying on .NET have declinedby almost 20%. .NET is still ahead with a 31% and Java in second place with 28%. 25% will support both.
+It seems the reason is the increase of the activity of the Open Source world, specially Eclipse, around SOA.</description>
+    </item>
+    
+  </channel>
+</rss>

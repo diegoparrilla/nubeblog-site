@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackers on Nubeblog</title>
+    <link>https://nubeblog.com/tags/hackers/</link>
+    <description>Recent content in hackers on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Sep 2007 13:03:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/hackers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to embed Adsense ads inside a Blogger.com post</title>
+      <link>https://nubeblog.com/2007/09/03/how-to-embed-adsense-ads-inside-a-blogger-com-post/</link>
+      <pubDate>Mon, 03 Sep 2007 13:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/03/how-to-embed-adsense-ads-inside-a-blogger-com-post/</guid>
+      <description>One of the most annoying things of a Blogger.com blog was how difficult was to add AdSense ads in your blog. Currently this is not an issue anymore because you can add automatically AdSense ads in your page thanks to the Blogger dashboard. But if you read blogs you will realize that some blogs embed Google AdSense ads inside the post. Most tutorials on how to monetize your blog recommends it.</description>
+    </item>
+    
+    <item>
+      <title>Birthmarking: How to detect and prove GPL violations in Java propietary code</title>
+      <link>https://nubeblog.com/2007/08/26/birthmarking-how-to-detect-and-prove-gpl-violations-in-java-propietary-code/</link>
+      <pubDate>Sun, 26 Aug 2007 09:54:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/26/birthmarking-how-to-detect-and-prove-gpl-violations-in-java-propietary-code/</guid>
+      <description>I have just read the news in Slashdot (Yes, I still read Slashdot) and I found this very interesting article about a new technique to detect GPL violations in proprietary obfuscated code. The technique is called Birthmarking and basically it ‘observes short sequences of method calls received by individual objects from the Java Platform Standard API, which is part of the Java Runtime Environment. By aggregating sets of short call sequences the otherwise overwhelming volume of trace data becomes manageable.</description>
+    </item>
+    
+    <item>
+      <title>Skype outage has cost more than $11000 per second to eBay</title>
+      <link>https://nubeblog.com/2007/08/17/skype-outage-has-cost-more-than-11000-per-second-to-ebay/</link>
+      <pubDate>Fri, 17 Aug 2007 12:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/17/skype-outage-has-cost-more-than-11000-per-second-to-ebay/</guid>
+      <description>I have not been able to use Skypefor more than 24 hours, just like the rest of the world. It seems that the problem is serious. It has been reported that it’s an issue with a new version of the application. But it’s not so clear. Such a long outage must come from (and I’m speculating):
+ A failure in the data migration from the early version of the application and a bad (or nonexistent) rollback process.</description>
+    </item>
+    
+    <item>
+      <title>The difference between an Excellent Programmer and a Natural Born Programmer</title>
+      <link>https://nubeblog.com/2007/07/12/the-difference-between-an-excellent-programmer-and-a-natural-born-programmer/</link>
+      <pubDate>Thu, 12 Jul 2007 13:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/07/12/the-difference-between-an-excellent-programmer-and-a-natural-born-programmer/</guid>
+      <description>Reading this blog about what he thinks a Natural Born Programmer is came to my mind a discussion about what is an excellent programmer and a natural born programmer.
+The example given (detect if a number is odd or even) should be enough to differentiate between a natural born programmers and the rest.
+But he is wrong.
+This is the kind of solutions that people trained in Maths, Engineering or Physics can give, because they are smart people.</description>
+    </item>
+    
+    <item>
+      <title>The killer app of FON will be access to P2P networks</title>
+      <link>https://nubeblog.com/2007/01/14/the-killer-app-of-fon-will-be-access-to-p2p-networks/</link>
+      <pubDate>Sun, 14 Jan 2007 22:20:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/14/the-killer-app-of-fon-will-be-access-to-p2p-networks/</guid>
+      <description>I have been tracking FON for two years, and I’m a ‘fonero’ since last summer. Recently I read about the ‘FON Liberator’ project, and it seems that finally the mystery of FON is over. If you analyze seriously the business model of this company and you have some basic knowledge about wireless networks, you easily find that something does not match. The original FON business model (and I say original, because now it has changed) was ‘share your bandwidth and you will have access to the enormous WiFi network of FON’.</description>
+    </item>
+    
+    <item>
+      <title>Don&amp;#8217;t contract hackers to change your university grade average</title>
+      <link>https://nubeblog.com/2006/12/29/dont-contract-hackers-to-change-your-university-grade-average/</link>
+      <pubDate>Fri, 29 Dec 2006 00:49:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2006/12/29/dont-contract-hackers-to-change-your-university-grade-average/</guid>
+      <description>This is the best story I have read in years. This poor asshole was the communications director for U.S. Rep. Denny Rehberg, R-Mont tried to hire hackers to raise his recorded grade point average[1].Sounds like something that only could happen in a sit-com, not in real life.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008 on Nubeblog</title>
+    <link>https://nubeblog.com/tags/2008/</link>
+    <description>Recent content in 2008 on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 02 Jan 2009 18:51:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/2008/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los artículos más vistos en Nubeblog en 2008</title>
+      <link>https://nubeblog.com/2009/01/02/los-articulos-mas-vistos-en-nubeblog-en-2008/</link>
+      <pubDate>Fri, 02 Jan 2009 18:51:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/02/los-articulos-mas-vistos-en-nubeblog-en-2008/</guid>
+      <description>Un poco de autobombo no está mal de vez en cuando. Para empezar el año suave y aprovechando que no hay muchas noticias, aquí tenéis la lista de los 10 artículos más vistos en 2008 según Google Analytics:
+ Por fin llegó: CloudFront, la Content Delivery Network de Amazon SaaS, IaaS y PaaS: Las tres clases de Cloud Computing Project Caroline: El Cloud Computing según Sun Microsystems Amazon EC2 desembarca en Europa con dos nuevas zonas Eucalyptus: el camino de código abierto a seguir en la estandarización de La Nube Las mareantes predicciones de Microsoft para su negocio SaaS Cloud Computing in Plain English con subtítulos en Español Microsoft Azure Services Platform, la apuesta PaaS de Microsoft Windows Azure: qué es real y qué es vapor “El Cloud puede explicar la Web 2.</description>
+    </item>
+    
+    <item>
+      <title>Mi resumen del año 2008</title>
+      <link>https://nubeblog.com/2008/12/29/mi-resumen-del-ano-2008/</link>
+      <pubDate>Mon, 29 Dec 2008 17:26:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/29/mi-resumen-del-ano-2008/</guid>
+      <description>Se acaba el 2008, un año que probablemente marcará un punto de inflexión en el mercado del Cloud Computing. Para empezar, es el año en que el término Cloud Computing ha pasado de los medios más techies a los medios de masas. Las razones para explicar esto son muchas, y variadas. Casi seguro que cada persona tendrá su opinión sobre cual ha sido la razón para esta explosión, así que aquí voy con la mía.</description>
+    </item>
+    
+  </channel>
+</rss>

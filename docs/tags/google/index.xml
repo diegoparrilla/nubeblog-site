@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on Nubeblog</title>
+    <link>https://nubeblog.com/tags/google/</link>
+    <description>Recent content in google on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 20 May 2010 07:22:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Storage for Developers ya disponible bajo petición</title>
+      <link>https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/</link>
+      <pubDate>Thu, 20 May 2010 07:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/</guid>
+      <description>Se rumoreaba que el anuncio del Amazon S3 ‘light’ presentado ayer era pura contraprogramación de Amazon. En el Google I/O 2010, se ha anunciado la disponibilidad del nuevo servicio Google Storage for Developers. Resumiendo, si conoces Amazon S3 o cualquier otro servicio de almacenaje en la nube de objetos, es lo mismo, pero hecho por Google.
+Cuando veo la etiqueta ‘for Developers’, me hecho a temblar. ¿Esta coletilla se pone para indicar que el servicio no es lo suficientemente estable para el uso por el público general?</description>
+    </item>
+    
+    <item>
+      <title>Google ChromeOS y el cambio de paradigma en la computación</title>
+      <link>https://nubeblog.com/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/</link>
+      <pubDate>Wed, 08 Jul 2009 11:04:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/</guid>
+      <description>Parece que Google quiere darnos unas cuantas noticias interesantes estos días. Hoy anuncia que sí, que está desarrollando un Sistema Operativo, y que se llamará ChromeOS porque estará pensado para las aplicaciones en la red. Según dicen ellos, será un SO pensando en las nuevas necesidades de los usuarios: rápido, simple y seguro. El arranque será ultrarápido y se podrá navegar en segundos. La interfaz será mínima, delegando todo el trabajo al navegador, Google Chrome, claro está.</description>
+    </item>
+    
+    <item>
+      <title>Google Apps (Gmail, Calendar, Docs and Talk) dejarán hoy de estar en Beta</title>
+      <link>https://nubeblog.com/2009/07/07/google-apps-gmail-calendar-docs-and-talk-dejaran-hoy-de-estar-en-beta/</link>
+      <pubDate>Tue, 07 Jul 2009 20:21:38 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/07/07/google-apps-gmail-calendar-docs-and-talk-dejaran-hoy-de-estar-en-beta/</guid>
+      <description>¡Qué bueno volver de vacaciones y encontrar que la gente sigue trabajando! entre los más de 500 correos pendientes y los varios miles de feeds, descubro en el Blog oficial de Google que sus servicios de Google Apps dejarán hoy día 7 de Julio (San Fermín) de estar en Beta.
+GMail por ejemplo llevaba cinco años en Beta. Se ve que los chicos de Google son concienzudos. Y según parece se han dado cuenta de algo que si trabajas en el mundo del software sabes desde hace tiempo:</description>
+    </item>
+    
+    <item>
+      <title>Google AppEngine para Java. Ya está aquí</title>
+      <link>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</link>
+      <pubDate>Wed, 08 Apr 2009 08:34:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</guid>
+      <description>Si hubo una petición que se repitió hasta la saciedad en el último Google Developers Day en Madrid fue que Google AppEngine soportara Java. Bueno, pues ya está. En el blog de Google App Engine podemos leer que ahora va en serio: Tenemos Java dentro del Google AppEngine.
+Dicen que Java ha sido el lenguaje que más se ha solicitado. Hay otros, pero está claro que el Rey de los lenguajes es Java desde hace unos 10 años.</description>
+    </item>
+    
+    <item>
+      <title>Google App Engine ya tiene planes de precios</title>
+      <link>https://nubeblog.com/2009/02/25/google-app-engine-ya-tiene-planes-de-precios/</link>
+      <pubDate>Wed, 25 Feb 2009 00:14:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/25/google-app-engine-ya-tiene-planes-de-precios/</guid>
+      <description>Parece que hoy Google quiere ser el protagonista de los medios. Después de los problemas con GfailGmail, Google anuncia sus planes de precios para Google App Engine. Después de casi un año desde que se abrió la plataforma de Cloud Computing de Google al publico, por fin podemos usarla para algo más que las aplicaciones que su limitada cuota gratuita ofrecía. La lista es la siguiente:
+ $ .10 por CPU a la hora (Amazon Web Services (AWS) carga desde $.</description>
+    </item>
+    
+    <item>
+      <title>El día que GMail falló y el mundo aprendió lo que significa &amp;quot;Beta&amp;quot;</title>
+      <link>https://nubeblog.com/2009/02/24/el-dia-que-gmail-fallo-y-el-mundo-aprendio-lo-que-significa-beta/</link>
+      <pubDate>Tue, 24 Feb 2009 19:47:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/24/el-dia-que-gmail-fallo-y-el-mundo-aprendio-lo-que-significa-beta/</guid>
+      <description>Salía de una reunión y me pareció oír una conversación de fondo ‘Creo que GMail no funciona’, decían. Pero uno no da crédito a esas y cosas, y piensas: “Serán ellos, su red o su proveedor”.
+Al llegar a la oficina, nos lo confirman: “GMail” está caído desde las 10 y pico de la mañana. Intento entrar en mi cuenta, y efectivamente, no puedo. Un bonito error me lo confirma.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte IV y final</title>
+      <link>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</link>
+      <pubDate>Thu, 19 Feb 2009 13:54:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte III
+Para concluir, los autores nos muestran el ‘Top Ten’ de los impedimentos para la adopción del Cloud Computing, tanto tecnológicos como de negocio:
+1.- Disponibilidad del Servicio
+Según los autores, los clientes tienen miedo a no tener un nivel de servicio adecuado.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte III</title>
+      <link>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</link>
+      <pubDate>Wed, 18 Feb 2009 10:46:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+La migración a un modelo de Cloud Computing o bien empezar una empresa directamente aprovechando las ventajas de este modelo no solo es una cuestión técnica; es también una cuestión de recursos económicos.
+La elasticidad y la transferencia del riesgo
+Los autores argumentan que la frase “Convertir CapEx a OpEx” se usa habitualmente como argumento de venta del Cloud Computing, “pay as you go” (paga por lo que usas no es una traducción exacta, pero nos vale…) captura mejor la esencia de los beneficios económicos del Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte II</title>
+      <link>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</link>
+      <pubDate>Tue, 17 Feb 2009 00:05:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Los siguientes capítulos del documento tratan un asunto que suele salir en conversaciones informales pero que normalmente pasamos por alto: Por qué despega ahora el Cloud Computing, y por qué fallo antes.
+**¿Por qué ahora Cloud Computing y antes no?
+**
+Para los autores la razón está detras de algo que según ellos acompaña a los modelos de negocio Web 2.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte I</title>
+      <link>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</link>
+      <pubDate>Mon, 16 Feb 2009 11:27:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</guid>
+      <description>Hace unos días recibí un correo indicándome que debía comentar un estudio que circula por la red hecho por la Universidad de Berkeley sobre el estado actual del Cloud Computing. Al leerlo me di cuenta que era un documento que necesita un análisis más detallado que mis habituales 300-500 palabras por post. Por suerte, muchos de los temas tratados ya han sido comentados en el blog, pero merece la pena dar un repaso.</description>
+    </item>
+    
+    <item>
+      <title>10 millones de usuarios corporativos en Google Apps</title>
+      <link>https://nubeblog.com/2009/02/03/10-millones-de-usuarios-corporativos-en-google-apps/</link>
+      <pubDate>Tue, 03 Feb 2009 15:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/03/10-millones-de-usuarios-corporativos-en-google-apps/</guid>
+      <description>Sorprendente lo que leo en eWeek. ¿10 millones de usuarios corporativos en Google Apps? ¿Un millon de empresas? Si un asiento de pago son $50, ¿están facturando $50 millones? ¿Los asientos son de pago?
+Vale, pero de estos, ¿cuantos pagan?
+Vamos en primer lugar a ver lo del millon de empresas. ¿cómo saben que es una empresa? Que yo sepa para registrarse en Google Apps solo se necesita un dominio, no te piden información fiscal ni financiera.</description>
+    </item>
+    
+    <item>
+      <title>¿Para qué quiere Google GDrive?</title>
+      <link>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</link>
+      <pubDate>Mon, 02 Feb 2009 00:24:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</guid>
+      <description>Uno de mis blogs favoritos es SmoothSpan Blog. Su autor, Bob Warfield es un exempleado de Borland, con larga experiencia en el mundo de las ITs, especialmente en el SaaS y el Cloud Computing. Ha dado una vuelta de tuerca a la inminente aparición de GDrive, y sus conclusiones son sorprendentes.
+El concepto detrás de Google GDrive no es nuevo, hay productos similares en el mercado, a saber:
+ Skybox de Microsoft MobileMe de Apple Mozy de EMC (ahora Decho) Jundle Disk (comprado recientemente por Rackspace) Dropbox  Y hay más.</description>
+    </item>
+    
+    <item>
+      <title>debug_mode=ON entre los ganadores del Seedrocket</title>
+      <link>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</link>
+      <pubDate>Thu, 29 Jan 2009 16:28:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</guid>
+      <description>Ahora veo quedebug_mode=ON es un proyecto ambicioso, al que se está dedicando suficiente empeño como para presentarlo a SeedRocket y que además llega a ser uno de los tres proyectos ganadores, junto con Habitissimo y Ongest de los que ya hablaré más adelante.
+ Como dice Javier en su blog, no es un proyecto cualquiera. Y no creo que lo sea porque se trate de una red social para desarrolladores o porque hayan sido uno de los ganadores del SeedRocket.</description>
+    </item>
+    
+    <item>
+      <title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</title>
+      <link>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</link>
+      <pubDate>Fri, 23 Jan 2009 10:04:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</guid>
+      <description>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</description>
+    </item>
+    
+    <item>
+      <title>Abogados, Lecheras, Cuentos y Nubes</title>
+      <link>https://nubeblog.com/2009/01/20/abogados-lecheras-cuentos-y-nubes/</link>
+      <pubDate>Tue, 20 Jan 2009 10:17:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/20/abogados-lecheras-cuentos-y-nubes/</guid>
+      <description>Supongo que a todos nos han contado el cuento de la lechera. Ya sabéis, ese tan bonito en que una lechera aspirante a broker de derivados en la City lo pierde todo por tropezar en una piedra. La semana pasada un abogado nos contó una nueva versión del cuento: ‘El cuento de la lechera 2.0’. En esta nueva versión del cuento, el prestigioso abogado Javier Mestre se mete en la piel de Pepito Grillo y nos muestra lo malos que son los consultores tecnológicos sin escrúpulos, y lo malo, malísimo que es Google y sus aplicaciones en La Nube: Google Apps Premier Edition.</description>
+    </item>
+    
+    <item>
+      <title>Google busca distribuidores para Google Apps</title>
+      <link>https://nubeblog.com/2009/01/19/google-busca-distribuidores-para-google-apps/</link>
+      <pubDate>Mon, 19 Jan 2009 10:15:29 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/19/google-busca-distribuidores-para-google-apps/</guid>
+      <description>Hace un par de meses hablé con un emprendedor de Madrid sobre qué era necesario para que se adopte el SaaS y especialmente el IaaS (hablábamos de Amazon Web Services) en España. Mi planteamiento era que para entrar en el mercado en España es necesario revendedores de Servicios: el famoso ‘canal’. Él opinaba todo lo contrario: el SaaS permite quitarte de encima el canal, solo hay que aprovechar los medios online existentes para hacerlo.</description>
+    </item>
+    
+    <item>
+      <title>Android puede ser el Sistema Operativo para La Nube de Google</title>
+      <link>https://nubeblog.com/2009/01/03/android-puede-ser-el-sistema-operativo-para-la-nube-de-google/</link>
+      <pubDate>Sat, 03 Jan 2009 17:10:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/03/android-puede-ser-el-sistema-operativo-para-la-nube-de-google/</guid>
+      <description>Leo en VentureBeat (un buen blog sobre inversiones en tecnología) y en el Blog de Enrique Dans (vale, lo admito, de vez en cuando también leo a Enrique Dans: ya podéis crucificarme) que unos ingenieros alemanes, Matthaus Krzykowski y Daniel Hartmann, han compilado Google Android para un netbook Asus EeePC 1000H.
+Pero oiga, ¿Android no es un sistema operativo para móviles? Bueno, no exactamente. Google ya dijo que su idea era usarlo en cualquier tipo de dispositivo, y una arquitectura x86 es un dispositivo como otro cualquiera.</description>
+    </item>
+    
+    <item>
+      <title>Google App Engine pronto en tu propio Centro de Datos</title>
+      <link>https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/</link>
+      <pubDate>Fri, 05 Dec 2008 10:25:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/</guid>
+      <description>En el evento Google Developer Day 2008 en Madrid, una de las preguntas que más sonaron entre las asistentes era si es posible ejecutar Google App Engine fuera de La Nube de Google. Bueno, más bien si es posible montar tu propia Nube en tus servidores o en tu Centro de Datos y ejecutar tus aplicaciones desarrolladas para Google App Engine en tu propia infraestructura. Hubo gente que comentó que al parecer ya hay gente corriendo el App Engine sobre Amazon EC2.</description>
+    </item>
+    
+    <item>
+      <title>Google Online Storage System rumours</title>
+      <link>https://nubeblog.com/2007/12/12/google-online-storage-system-rumours/</link>
+      <pubDate>Wed, 12 Dec 2007 09:51:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/12/12/google-online-storage-system-rumours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the Google Chart API from the server side</title>
+      <link>https://nubeblog.com/2007/12/09/using-the-google-chart-api-from-the-server-side/</link>
+      <pubDate>Sun, 09 Dec 2007 01:30:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/12/09/using-the-google-chart-api-from-the-server-side/</guid>
+      <description>&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; commons-logging.jar &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; commons-httpclient-3.1.jar &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; commons-codec-1.3.jar &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;p&amp;gt; The piece of code to perform the HTTP request is about 20 lines. You need to pass as an argument the parameters at the right hand side of this url&amp;lt;br /&amp;gt; &amp;lt;blockquote style=&amp;quot;font-family: courier new;&amp;quot;&amp;gt; http://chart.apis.google.com/chart?&amp;lt;/p&amp;gt; &amp;lt;/blockquote&amp;gt; &amp;lt;p&amp;gt; It returns an array of bytes with the image in PNG format. You only need to push it into the output stream of a servlet, or save it in a file like I do.</description>
+    </item>
+    
+    <item>
+      <title>Google Chart API or how Google gives raw performance for free</title>
+      <link>https://nubeblog.com/2007/12/07/google-chart-api-or-how-google-gives-raw-performance-for-free/</link>
+      <pubDate>Fri, 07 Dec 2007 11:40:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/12/07/google-chart-api-or-how-google-gives-raw-performance-for-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</title>
+      <link>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</guid>
+      <description>Sometimes you only need to wait to understand why things happen. When Steve Jobs said ‘Java is not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’, we were surprised and disappointed because like me a lot of people think that there is still room for Java in the mobile platforms. Of course we have J2ME, but we can do very few things with it. What we need is a full J2SE stack for mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Massive refactoring of Gmail breaks my Greasemonkey scripts</title>
+      <link>https://nubeblog.com/2007/10/30/massive-refactoring-of-gmail-breaks-my-greasemonkey-scripts/</link>
+      <pubDate>Tue, 30 Oct 2007 01:15:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/30/massive-refactoring-of-gmail-breaks-my-greasemonkey-scripts/</guid>
+      <description>This evening I was surprised with a message in my GMail screen: in red and bold the application advised me to switch off Firebug to improve the performance of the application. First I thought it was another update from Google, but when I saw at the top left ‘Older version’ then it was clear: Google has just released a new version of GMail.
+And here comes the bad news: my own developed Greasemonkey scripts stopped working because of the massive changes in the inners of the application.</description>
+    </item>
+    
+    <item>
+      <title>Google Phone OS Java based?</title>
+      <link>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</link>
+      <pubDate>Tue, 04 Sep 2007 18:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</guid>
+      <description>I have just read this post in Engadget about rumours of the Google Phone. I will highlight this: ‘…the phone will run on a Linux variant (which is nothing new), and will be Java Virtual Machine-capable. Additionally, the OS of the phone will be Java-based (as well as the all phone apps itself), and performance is said to be “very responsive.”‘It seems the GPhone will look like a Palm Treo or Blackberry with a screen smaller than the IPhone.</description>
+    </item>
+    
+    <item>
+      <title>GPay: Google Patent for Mobile micropayments</title>
+      <link>https://nubeblog.com/2007/09/03/gpay-google-patent-for-mobile-micropayments/</link>
+      <pubDate>Mon, 03 Sep 2007 09:56:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/03/gpay-google-patent-for-mobile-micropayments/</guid>
+      <description>Today in several RSS feeds I have found the same news: Google has a new patent for mobile micropayments. Micropayments using a cell phone is not new at all. I have seen some projects in Europe, specially the Spanish Mobipay. It’s a mature technology, but it’s not very successful. There are several reasons but it’s not clear why mobile micropayments are not growing. In my opinion:
+ The fee is charged directly to the customer.</description>
+    </item>
+    
+    <item>
+      <title>TouchGraph: a tool to graph how Google connect your website with many others by affinity</title>
+      <link>https://nubeblog.com/2007/09/02/touchgraph-a-tool-to-graph-how-google-connect-your-website-with-many-others-by-affinity/</link>
+      <pubDate>Sun, 02 Sep 2007 23:34:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/02/touchgraph-a-tool-to-graph-how-google-connect-your-website-with-many-others-by-affinity/</guid>
+      <description>Recently I have discovered TouchGraph, a tool that reveals the network of connectivity between websites, as reported by Google’s database of related sites. I have tested it with this blog and the result is this:
+The www.javablogs.com looks like this:
+This tool can reveal how google see your website. Analyzing this information you can find out if your site is seen as a Java Blog or a Wireless network Blog, which is my case.</description>
+    </item>
+    
+    <item>
+      <title>VMWare challenges Google for developers</title>
+      <link>https://nubeblog.com/2007/08/22/vmware-challenges-google-for-developers/</link>
+      <pubDate>Wed, 22 Aug 2007 10:44:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/vmware-challenges-google-for-developers/</guid>
+      <description>Since the successful IPO of VMWare, it seems everybody is talking about them. Today we can read in Bloomberg that they are competing with Google for the best programmers. VMWare is paying $120.000-$130.000 plus stock ops to talented developers. Compared to the spanish salaries that’s really a huge amount of money. They have right now 500 open positions in Palo Alto offices.</description>
+    </item>
+    
+    <item>
+      <title>YouTube comprises 10% traffic on the Internet</title>
+      <link>https://nubeblog.com/2007/06/20/youtube-comprises-10-traffic-on-the-internet/</link>
+      <pubDate>Wed, 20 Jun 2007 16:45:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/06/20/youtube-comprises-10-traffic-on-the-internet/</guid>
+      <description>I have just read this report from ellacoya networks. It explains how http traffic has overtaken p2p traffic thanks to video and audio streaming. And YouTube comprises 10% of whole internet traffic, and more than 20% of http!
+I could never imagine that YouTube is so big. But what it makes me wonder how much time people waste in YouTube daily, and how it affects productivity.</description>
+    </item>
+    
+    <item>
+      <title>Meraki: Mesh networks can kill Wimax</title>
+      <link>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</guid>
+      <description>One of the most interesting technologies to come are mesh networks. In Amplia we are making some prospects on these technology applied to the M2M (machine to machine) communication. Zigbeefits perfectly for small amount of data, but it’s not good when dealing with mobile communications (PDAs, laptops, MP3 players… anything interactive and portable).
+The only real ubiquitousnetworks today are the mobile operators networks. GPRShas an acceptable deployment, closer to 100% of the population in developed countries, but 3G technologies are still far from being everywhere.</description>
+    </item>
+    
+    <item>
+      <title>Is Google going to fire Isabel Aguilera soon?</title>
+      <link>https://nubeblog.com/2007/04/16/is-google-going-to-fire-isabel-aguilera-soon/</link>
+      <pubDate>Mon, 16 Apr 2007 16:09:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/16/is-google-going-to-fire-isabel-aguilera-soon/</guid>
+      <description>Today an online Spanishnewspaper congrats Isabel Aguilera(Google Spanish CEO) for not screwing up the purchase of DoubleClickby Google. Besides the sarcasm of the headlines, the newspaper says that the time of Isabel Aguilerain Google is running out, and she could leave the company very soon.
+It’s not a surprise that she will leave the company (the surprise is she has not been fired yet). Reading the profile and curricula of this women, I wonder myself if Google contracted the wrong headhunter.</description>
+    </item>
+    
+  </channel>
+</rss>

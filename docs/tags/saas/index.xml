@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saas on Nubeblog</title>
+    <link>https://nubeblog.com/tags/saas/</link>
+    <description>Recent content in saas on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 28 Mar 2011 11:04:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/saas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proveedores de Cloud Computing mágicos</title>
+      <link>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</guid>
+      <description>Es sorprendente como empresas que llevan muchos años haciendo software tradicional de repente y de manera mágica resulta que su software está ‘En la Nube’. No solo eso, sino que algunos dicen que fueron ellos los que inventaron el Cloud Computing, pero que como siempre los americanos llegaron y le pusieron un nombre ‘chulo’. Lo del Software as a Service es un auténtico escándalo. Aquí ahora todo es Cloud. Tonto el último.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte IV y final</title>
+      <link>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</link>
+      <pubDate>Thu, 19 Feb 2009 13:54:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte III
+Para concluir, los autores nos muestran el ‘Top Ten’ de los impedimentos para la adopción del Cloud Computing, tanto tecnológicos como de negocio:
+1.- Disponibilidad del Servicio
+Según los autores, los clientes tienen miedo a no tener un nivel de servicio adecuado.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte III</title>
+      <link>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</link>
+      <pubDate>Wed, 18 Feb 2009 10:46:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+La migración a un modelo de Cloud Computing o bien empezar una empresa directamente aprovechando las ventajas de este modelo no solo es una cuestión técnica; es también una cuestión de recursos económicos.
+La elasticidad y la transferencia del riesgo
+Los autores argumentan que la frase “Convertir CapEx a OpEx” se usa habitualmente como argumento de venta del Cloud Computing, “pay as you go” (paga por lo que usas no es una traducción exacta, pero nos vale…) captura mejor la esencia de los beneficios económicos del Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte II</title>
+      <link>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</link>
+      <pubDate>Tue, 17 Feb 2009 00:05:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Los siguientes capítulos del documento tratan un asunto que suele salir en conversaciones informales pero que normalmente pasamos por alto: Por qué despega ahora el Cloud Computing, y por qué fallo antes.
+**¿Por qué ahora Cloud Computing y antes no?
+**
+Para los autores la razón está detras de algo que según ellos acompaña a los modelos de negocio Web 2.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte I</title>
+      <link>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</link>
+      <pubDate>Mon, 16 Feb 2009 11:27:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</guid>
+      <description>Hace unos días recibí un correo indicándome que debía comentar un estudio que circula por la red hecho por la Universidad de Berkeley sobre el estado actual del Cloud Computing. Al leerlo me di cuenta que era un documento que necesita un análisis más detallado que mis habituales 300-500 palabras por post. Por suerte, muchos de los temas tratados ya han sido comentados en el blog, pero merece la pena dar un repaso.</description>
+    </item>
+    
+    <item>
+      <title>10 millones de usuarios corporativos en Google Apps</title>
+      <link>https://nubeblog.com/2009/02/03/10-millones-de-usuarios-corporativos-en-google-apps/</link>
+      <pubDate>Tue, 03 Feb 2009 15:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/03/10-millones-de-usuarios-corporativos-en-google-apps/</guid>
+      <description>Sorprendente lo que leo en eWeek. ¿10 millones de usuarios corporativos en Google Apps? ¿Un millon de empresas? Si un asiento de pago son $50, ¿están facturando $50 millones? ¿Los asientos son de pago?
+Vale, pero de estos, ¿cuantos pagan?
+Vamos en primer lugar a ver lo del millon de empresas. ¿cómo saben que es una empresa? Que yo sepa para registrarse en Google Apps solo se necesita un dominio, no te piden información fiscal ni financiera.</description>
+    </item>
+    
+    <item>
+      <title>La crisis económica puede no ser tan buena para el SaaS como parece</title>
+      <link>https://nubeblog.com/2009/01/12/la-crisis-economica-puede-no-ser-tan-buena-para-el-saas-como-parece/</link>
+      <pubDate>Mon, 12 Jan 2009 22:35:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/la-crisis-economica-puede-no-ser-tan-buena-para-el-saas-como-parece/</guid>
+      <description>Ya he hablado con anterioridad sobre los riesgos del Software como Servicio, especialmente qué ocurririría si un proveedor da quiebra. Ayer me encontré con varios artículos que de nuevo tratan el tema pero desde otra perspectiva que no me había planteado: La crisis afectará también a los pequeños proveedores de SaaS, y se estima que el 30% de estas empresas que facturan menos de $5 millones quebrarán en 2010. Menudo panorama.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com deja sin servicio a casi un millon de usuarios durante una hora</title>
+      <link>https://nubeblog.com/2009/01/07/salesforcecom-deja-sin-servicio-a-casi-un-millon-de-usuarios-durante-una-hora/</link>
+      <pubDate>Wed, 07 Jan 2009 10:32:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/07/salesforcecom-deja-sin-servicio-a-casi-un-millon-de-usuarios-durante-una-hora/</guid>
+      <description>Bonito regalo para los usuarios de Salesforce.com. Ayer día de Reyes el servicio estuvo caído durante una hora aproximadamente a las 12.00AM hora del Pacífico. Supongo que a los usuarios europeos y asiáticos no les habrá afectado mucho, pero eso es hora punta en los USA.
+La cosa estuvo tan malita que hasta el panel que informa sobre la calidad del servicio estuvo caído. Y todavía no se ha informado sobre las causas de esta caída, lo cual en mi opinión es mil veces peor que estar sin servicio durante una hora.</description>
+    </item>
+    
+    <item>
+      <title>Mi resumen del año 2008</title>
+      <link>https://nubeblog.com/2008/12/29/mi-resumen-del-ano-2008/</link>
+      <pubDate>Mon, 29 Dec 2008 17:26:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/29/mi-resumen-del-ano-2008/</guid>
+      <description>Se acaba el 2008, un año que probablemente marcará un punto de inflexión en el mercado del Cloud Computing. Para empezar, es el año en que el término Cloud Computing ha pasado de los medios más techies a los medios de masas. Las razones para explicar esto son muchas, y variadas. Casi seguro que cada persona tendrá su opinión sobre cual ha sido la razón para esta explosión, así que aquí voy con la mía.</description>
+    </item>
+    
+    <item>
+      <title>Fraud-as-a-Service, el lado oscuro del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/11/12/fraud-as-a-service-el-lado-oscuro-del-cloud-computing/</link>
+      <pubDate>Wed, 12 Nov 2008 09:13:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/12/fraud-as-a-service-el-lado-oscuro-del-cloud-computing/</guid>
+      <description>Uri Rivner de la empresa de seguridad RSA ha avisado de una nueva tendencia criminal donde se ofrecen Servicios de Fraude como SaaS. Este así denominado Fraud-as-a-Service ofrecido a través de servicios chat y foros se puede contratar en paquetes que incluyen Troyanos para el robo de información, alojamiento en servidores bastionados con disponibilidades de 4 nueves, y un servicio de infección con actualizaciones y parches continuos para evitar su detección por parte del software de seguridad.</description>
+    </item>
+    
+    <item>
+      <title>Y si quiebra mi proveedor de SaaS, ¿qué hago?</title>
+      <link>https://nubeblog.com/2008/10/24/y-si-quiebra-mi-proveedor-de-saas-%c2%bfque-hago/</link>
+      <pubDate>Fri, 24 Oct 2008 09:41:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/24/y-si-quiebra-mi-proveedor-de-saas-%c2%bfque-hago/</guid>
+      <description>Me ha surgido esta duda cuando me han comentado hoy que hay algún ministerio y/o administración que está usando Google Maps -además sustituyendo a software propietario de primer nivel-. Y me he preguntado, ¿qué pasa si quiebra Google?
+Evidentemente Google no va a quebrar a corto plazo (ni a medio, ni a largo), pero esto me sirve para sacar un tema recurrente en el mundo del IaaS y SaaS: ¿Qué pasa si mi proveedor por cualquier causa ajena a mi voluntad deja de darme el servicio?</description>
+    </item>
+    
+    <item>
+      <title>SaaS, IaaS y PaaS: Las tres clases de Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/15/saas-iaas-y-paas-las-tres-clases-de-cloud-computing/</link>
+      <pubDate>Wed, 15 Oct 2008 09:00:24 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/15/saas-iaas-y-paas-las-tres-clases-de-cloud-computing/</guid>
+      <description>Cloud Computing se ha convertido en un concepto comodín. Se puede usar en múltiples contextos para referirse a cosas de lo más dispares. Pero parece que hay consenso respecto a las tres clases fundamentales del Cloud Computing. A saber:
+  Software as a Service (SaaS): En español Software como Servicio. Modelo de distribución de software donde una empresa sirve el mantenimiento, soporte y operación que usará el cliente durante el tiempo que haya contratado el servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

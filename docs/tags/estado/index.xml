@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estado on Nubeblog</title>
+    <link>https://nubeblog.com/tags/estado/</link>
+    <description>Recent content in estado on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 07 Nov 2008 09:19:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/estado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alatum.com: Singapur apuesta por el Cloud</title>
+      <link>https://nubeblog.com/2008/11/07/alatumcom-singapur-apuesta-por-el-cloud/</link>
+      <pubDate>Fri, 07 Nov 2008 09:19:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/07/alatumcom-singapur-apuesta-por-el-cloud/</guid>
+      <description>Alatum es una iniciativa de laInfocomm Development Authority (IDA) de Singapur. Es la responsable del crecimiento del sector de las comunicaciones y de la tecnología de la información. Es un poco como el Director de Sistemas de información y de la estrategia de largo recorrido del pais (¿Se os ocurre un equivalente similar en España? A mi no…). Alatum nació a finales de 2007 y comprende tres consorcios:
+ Provicionamiento de capacidad de proceso: formado por SCS y HP.</description>
+    </item>
+    
+  </channel>
+</rss>

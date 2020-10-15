@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infraestructura on Nubeblog</title>
+    <link>https://nubeblog.com/tags/infraestructura/</link>
+    <description>Recent content in infraestructura on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 04 Apr 2010 17:51:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/infraestructura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supermicro mete 96 cores y 1TB de RAM en una caja 2U</title>
+      <link>https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/</link>
+      <pubDate>Sun, 04 Apr 2010 17:51:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/</guid>
+      <description>Hace ya más de un año que Cisco anunció la gama de productos herederos de su Proyecto California, los UCS (Unified Computing System). El proyecto California significó el desembarco de Cisco en el mercado de los servidores, aunque en realidad lo que hizo es una plataforma completa para el Centro de Datos: servidores, redes y gestión (espera… ¿y el almacenamiento?). Una cosa que llamó la atención enseguida era que los servidores UCS se anunciaban como ‘blades’ pero venían en un formato horizontal en vez de vertical.</description>
+    </item>
+    
+  </channel>
+</rss>

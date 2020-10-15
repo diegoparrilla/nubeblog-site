@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blackhat on Nubeblog</title>
+    <link>https://nubeblog.com/tags/blackhat/</link>
+    <description>Recent content in blackhat on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 Sep 2009 13:06:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/blackhat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Magnífico post sobre cómo comprometer la seguridad de Amazon Web Services</title>
+      <link>https://nubeblog.com/2009/09/01/magnifico-post-sobre-como-comprometer-la-seguridad-de-amazon-web-services/</link>
+      <pubDate>Tue, 01 Sep 2009 13:06:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/01/magnifico-post-sobre-como-comprometer-la-seguridad-de-amazon-web-services/</guid>
+      <description>Yago Jesús, uno de los bloggers de SecurityByDefault y enorme experto en seguridad me pasa un post de una presentación que se hizo en el Black Hat’09 en la que se muestra como implementar un ataque DoS contra la Nube de Amazon (Amazon EC2) y cómo meter una imagen AMI maliciosa en su repositorio de imágenes.
+Para el Denial of Service lo que hacen es generar de manera automática cuentas nuevas de usuario en Amazon AWS, y lanzar las 20 máquinas que tiene cada servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

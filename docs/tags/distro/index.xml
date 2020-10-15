@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distro on Nubeblog</title>
+    <link>https://nubeblog.com/tags/distro/</link>
+    <description>Recent content in distro on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 23 Mar 2011 13:33:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/distro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stackops Distro &amp;#038; Smart Installer: despliega Openstack en tu centro de datos</title>
+      <link>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</guid>
+      <description>Durante estas últimas semanas nos hemos reunido con unas cuantas empresas interesadas en Infraestructuras como Servicios, y a todas les encantaba lo que Openstack Nova promete. La idea de tener una plataforma verdaderamente abierta y que haya un ecosistema de empresas a su alrededor es muy atractivo. Los participantes en Openstack son empresas con una reputación más que consolidada y reconocida por los profesionales. Todo parece perfecto… ¿Todo? No…
+En un momento dado de la conversación, siempre sale la siguiente pregunta:</description>
+    </item>
+    
+  </channel>
+</rss>

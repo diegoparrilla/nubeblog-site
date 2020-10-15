@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>appengine on Nubeblog</title>
+    <link>https://nubeblog.com/tags/appengine/</link>
+    <description>Recent content in appengine on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 08 Apr 2009 08:34:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/appengine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google AppEngine para Java. Ya está aquí</title>
+      <link>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</link>
+      <pubDate>Wed, 08 Apr 2009 08:34:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</guid>
+      <description>Si hubo una petición que se repitió hasta la saciedad en el último Google Developers Day en Madrid fue que Google AppEngine soportara Java. Bueno, pues ya está. En el blog de Google App Engine podemos leer que ahora va en serio: Tenemos Java dentro del Google AppEngine.
+Dicen que Java ha sido el lenguaje que más se ha solicitado. Hay otros, pero está claro que el Rey de los lenguajes es Java desde hace unos 10 años.</description>
+    </item>
+    
+    <item>
+      <title>Google App Engine ya tiene planes de precios</title>
+      <link>https://nubeblog.com/2009/02/25/google-app-engine-ya-tiene-planes-de-precios/</link>
+      <pubDate>Wed, 25 Feb 2009 00:14:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/25/google-app-engine-ya-tiene-planes-de-precios/</guid>
+      <description>Parece que hoy Google quiere ser el protagonista de los medios. Después de los problemas con GfailGmail, Google anuncia sus planes de precios para Google App Engine. Después de casi un año desde que se abrió la plataforma de Cloud Computing de Google al publico, por fin podemos usarla para algo más que las aplicaciones que su limitada cuota gratuita ofrecía. La lista es la siguiente:
+ $ .10 por CPU a la hora (Amazon Web Services (AWS) carga desde $.</description>
+    </item>
+    
+    <item>
+      <title>debug_mode=ON entre los ganadores del Seedrocket</title>
+      <link>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</link>
+      <pubDate>Thu, 29 Jan 2009 16:28:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</guid>
+      <description>Ahora veo quedebug_mode=ON es un proyecto ambicioso, al que se está dedicando suficiente empeño como para presentarlo a SeedRocket y que además llega a ser uno de los tres proyectos ganadores, junto con Habitissimo y Ongest de los que ya hablaré más adelante.
+ Como dice Javier en su blog, no es un proyecto cualquiera. Y no creo que lo sea porque se trate de una red social para desarrolladores o porque hayan sido uno de los ganadores del SeedRocket.</description>
+    </item>
+    
+    <item>
+      <title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</title>
+      <link>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</link>
+      <pubDate>Fri, 23 Jan 2009 10:04:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</guid>
+      <description>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</description>
+    </item>
+    
+    <item>
+      <title>Google App Engine pronto en tu propio Centro de Datos</title>
+      <link>https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/</link>
+      <pubDate>Fri, 05 Dec 2008 10:25:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/</guid>
+      <description>En el evento Google Developer Day 2008 en Madrid, una de las preguntas que más sonaron entre las asistentes era si es posible ejecutar Google App Engine fuera de La Nube de Google. Bueno, más bien si es posible montar tu propia Nube en tus servidores o en tu Centro de Datos y ejecutar tus aplicaciones desarrolladas para Google App Engine en tu propia infraestructura. Hubo gente que comentó que al parecer ya hay gente corriendo el App Engine sobre Amazon EC2.</description>
+    </item>
+    
+  </channel>
+</rss>

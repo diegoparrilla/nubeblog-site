@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hosting on Nubeblog</title>
+    <link>https://nubeblog.com/tags/hosting/</link>
+    <description>Recent content in hosting on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 11 Jan 2011 08:55:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evento de networking sobre el negocio del hosting</title>
+      <link>https://nubeblog.com/2011/01/11/evento-de-networking-sobre-el-negocio-del-hosting/</link>
+      <pubDate>Tue, 11 Jan 2011 08:55:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/11/evento-de-networking-sobre-el-negocio-del-hosting/</guid>
+      <description>El próximo 19 de Enero 2011 participaré en Madrid en un evento de networking dedicado a empresas de hosting, ISP´s y Cloud Computing. Participarán algunos de los directivos de las principales empresas de hosting de España y se tratará sobre los temas más relevantes del negocio del hosting en la actualidad. Se trata de un desayuno de trabajo, organizado para aprovechar al máximo el tiempo de cara a conocer la opinión de todos los asistentes y entablar contactos profesionales que puedan ir encaminados a la realización de negocios.</description>
+    </item>
+    
+    <item>
+      <title>Amazon y su nuevo servicio de reserva de instancias para EC2</title>
+      <link>https://nubeblog.com/2009/03/17/amazon-y-su-nuevo-servicio-de-reserva-de-instancias-para-ec2/</link>
+      <pubDate>Tue, 17 Mar 2009 11:10:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/17/amazon-y-su-nuevo-servicio-de-reserva-de-instancias-para-ec2/</guid>
+      <description>Ya se que han pasado unos cuantos días de esta noticia, pero quería escribir un poco sobre ella ya que implica un cambio radical en el posicionamiento de Amazon Web Services, y creo que vale la pena analizarlo.
+La semana pasada Amazon Web Services anunció que permitirá reservar instancias de su servicio Elastic Computing Cloud (EC2 para los amigos) mediante prepagos por período de uno y tres años. La newsletter dice: “Es una opción para hacer un pago único más barato para reservar capacidad y por lo tanto reducir los cargos por hora de uso.</description>
+    </item>
+    
+    <item>
+      <title>Las PYMES en USA y UK pasan del Cloud Hosting</title>
+      <link>https://nubeblog.com/2009/02/05/las-pymes-en-usa-y-uk-pasan-del-cloud-hosting/</link>
+      <pubDate>Thu, 05 Feb 2009 15:00:56 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/05/las-pymes-en-usa-y-uk-pasan-del-cloud-hosting/</guid>
+      <description>El 14% en USA y el 11% en UK de las medianas empresas usan el Cloud Hosting, mientras que sólo el 5% lo hacen en las pequeñas empresas. Menos de un tercio de las pequeñas empresas ni han contemplado la posibilidad de pasarse a Cloud Hosting. Más de la mitad de las medianas empresas tienen planes para incorporar el Cloud Hosting en su configuración actual de Hosting, pero las pequeñas empresas casi el 60% no tiene ningún plan al respecto.</description>
+    </item>
+    
+    <item>
+      <title>Google App Engine pronto en tu propio Centro de Datos</title>
+      <link>https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/</link>
+      <pubDate>Fri, 05 Dec 2008 10:25:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/</guid>
+      <description>En el evento Google Developer Day 2008 en Madrid, una de las preguntas que más sonaron entre las asistentes era si es posible ejecutar Google App Engine fuera de La Nube de Google. Bueno, más bien si es posible montar tu propia Nube en tus servidores o en tu Centro de Datos y ejecutar tus aplicaciones desarrolladas para Google App Engine en tu propia infraestructura. Hubo gente que comentó que al parecer ya hay gente corriendo el App Engine sobre Amazon EC2.</description>
+    </item>
+    
+    <item>
+      <title>Rackspace anuncia sus nuevos servicios de Cloud Hosting</title>
+      <link>https://nubeblog.com/2008/10/23/rackspace-anuncia-sus-nuevos-servicios-de-cloud-hosting/</link>
+      <pubDate>Thu, 23 Oct 2008 09:45:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/23/rackspace-anuncia-sus-nuevos-servicios-de-cloud-hosting/</guid>
+      <description>Rackspace es la mayor empresa de hosting del mundo por ingresos. Ayer (día 22) anunció a bombo y platillo sus nuevos servicios en La Nube denominándolos ‘Cloud Hosting‘ basados en Mosso. A saber:
+ Cloud Sites: Han licenciado la tecnología de Mosso y ofrecen su tecnología a través de su marca. Si conoces Mosso no parece que haya nada nuevo en la oferta. El precio inicial es de $100 por ‘site’, que es el concepto usado por Mosso.</description>
+    </item>
+    
+  </channel>
+</rss>

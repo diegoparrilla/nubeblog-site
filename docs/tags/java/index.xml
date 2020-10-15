@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on Nubeblog</title>
+    <link>https://nubeblog.com/tags/java/</link>
+    <description>Recent content in java on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 08 Apr 2009 08:34:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google AppEngine para Java. Ya está aquí</title>
+      <link>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</link>
+      <pubDate>Wed, 08 Apr 2009 08:34:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/08/google-appengine-para-java-ya-esta-aqui/</guid>
+      <description>Si hubo una petición que se repitió hasta la saciedad en el último Google Developers Day en Madrid fue que Google AppEngine soportara Java. Bueno, pues ya está. En el blog de Google App Engine podemos leer que ahora va en serio: Tenemos Java dentro del Google AppEngine.
+Dicen que Java ha sido el lenguaje que más se ha solicitado. Hay otros, pero está claro que el Rey de los lenguajes es Java desde hace unos 10 años.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #4: Grails, is it really worth it?</title>
+      <link>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</guid>
+      <description>Previous: How Grails will change my project plan
+I wanted to post my impressions and thoughts about Grails before, but you don’t know how the events in your life can twist your plans: a delay in the delivery of the HTML designer, a flu followed by a nephritic colic, a laptop dying with all your development environment inside, the wrap up in Amplía, the Christmas holidays and my new start in The Server Labs.</description>
+    </item>
+    
+    <item>
+      <title>Flux benefits for java developers rocks: All Expense Paid Vacation for Two, Anywhere in the World</title>
+      <link>https://nubeblog.com/2008/01/11/flux-benefits-for-java-developers-rocks-all-expense-paid-vacation-for-two-anywhere-in-the-world/</link>
+      <pubDate>Fri, 11 Jan 2008 12:06:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/01/11/flux-benefits-for-java-developers-rocks-all-expense-paid-vacation-for-two-anywhere-in-the-world/</guid>
+      <description>&amp;lt;ul&amp;gt; &amp;lt;li&amp;gt; life insurance &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; retirement plan &amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; rented car (well, higher management positions&amp;amp;#8230;) &amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;p&amp;gt; Normally, these benefits are around 10% to 15% of your salary, so higher the salary (and the position) the more and better the benefits. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; I&amp;amp;#8217;m very interested in knowing what are the benefits your employers (or you if your are an employer) give to talented people to attract them. &amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; &amp;lt;span style=&amp;quot;font-weight: bold;&amp;quot;&amp;gt;What are your benefits at your company and where is it located?</description>
+    </item>
+    
+    <item>
+      <title>The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</title>
+      <link>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</guid>
+      <description>Sometimes you only need to wait to understand why things happen. When Steve Jobs said ‘Java is not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’, we were surprised and disappointed because like me a lot of people think that there is still room for Java in the mobile platforms. Of course we have J2ME, but we can do very few things with it. What we need is a full J2SE stack for mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Leaving AMPLIA and starting as a Freelance IT Consultant</title>
+      <link>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</link>
+      <pubDate>Mon, 29 Oct 2007 12:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</guid>
+      <description>Last years have been a wonderful time in Amplía Soluciones S.L., but nothing is forever and I think it’s time for a change. I will continue as a partner of the company but I will look for new challenges and adventures out there. You can read my public linkedin profile if you want to know a bit about my skills and experience.</description>
+    </item>
+    
+    <item>
+      <title>G2One.com: following the path of Interface21 and 37Signals for Grails</title>
+      <link>https://nubeblog.com/2007/10/11/g2one-com-following-the-path-of-interface21-and-37signals-for-grails/</link>
+      <pubDate>Thu, 11 Oct 2007 09:37:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/11/g2one-com-following-the-path-of-interface21-and-37signals-for-grails/</guid>
+      <description>Today I have discovered the existence of G2One.com. This is the company created by the people behind Grails. Following the business model ‘It is all about the Services, stupid!’ they have jumped into the bandwagon of companies that:
+ create a framework work hard to make it first class create or find a necessity in the community offer their services as gurus to the companies  37signals is the paradigm of this approach (they created Rails).</description>
+    </item>
+    
+    <item>
+      <title>Linkedin looking for Grails developers</title>
+      <link>https://nubeblog.com/2007/10/09/linkedin-looking-for-grails-developers/</link>
+      <pubDate>Tue, 09 Oct 2007 10:15:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/09/linkedin-looking-for-grails-developers/</guid>
+      <description>I have received information about open positions in Linkedin for Grails developers. This is very interesting because it seems that big companies have realized of the potential of Grails.
+I think Linkedin is the biggest professional network site with more than 14 million users (Via wikipedia).
+It sounds like a very interesting place to work, a pity I’m not in the Bay Area. 🙁</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #3: How Grails will change my project plan</title>
+      <link>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</link>
+      <pubDate>Tue, 09 Oct 2007 09:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</guid>
+      <description>Previous: Setting up the development environment
+The strategy One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #2: Setting up the development environment</title>
+      <link>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</link>
+      <pubDate>Thu, 04 Oct 2007 01:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</guid>
+      <description>Previous: JRuby on Rails or Grails?
+Once I have explained why I will use Grails I will go deeper in the development environment.
+Methodology: Scrum One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries: JRuby on Rails or Grails?</title>
+      <link>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</link>
+      <pubDate>Mon, 01 Oct 2007 15:27:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</guid>
+      <description>I must admit it: I’m weak. During last two years I have been trying to avoid the dark attraction of Ruby on Rails. And it was hard. I have been searching for almost seven years something that alleviates my feeling of waste of time when developing a Web user interface. And I have been promiscuous, believe me. I have tried everything in the Java world: Tapestry, Velocity, Cocoon,Altio, GWT, Flex, Laszlo… I even tried ASP.</description>
+    </item>
+    
+    <item>
+      <title>Ruby on Rails hype: the party is over</title>
+      <link>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</link>
+      <pubDate>Mon, 24 Sep 2007 18:23:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</guid>
+      <description>Finally it seems that Ruby on Rails is starting to show its real face. Two years of RoR development put into the trash. Wow! Being seven times more productive than Java that means fourteen years of development! Seriously, it’s not common to hear of failures of a new and cool software stuff -you can look stupid- so I guess this is the peak of the iceberg of Ruby On Rails projects.</description>
+    </item>
+    
+    <item>
+      <title>Spain vs USA comparing two Job Boards</title>
+      <link>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</link>
+      <pubDate>Wed, 19 Sep 2007 16:04:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/19/spain-vs-usa-comparing-two-job-boards/</guid>
+      <description>A few days ago I made a search in Infojobs.es (the most popular Job Board in Spain) for open positions for Ruby On Rails developers. The result was… one! I was very surprised. Only one? With all the hype around RoR? Only one job offer?
+It’s obvious that USA is more developed regarding technology than Spain, but the question is: How far are they? Can we measure the distance? Honestly I think it’s very difficult and probably comparing two countries is not the right way.</description>
+    </item>
+    
+    <item>
+      <title>Rise and fall of DBAs: The tyranny of the ORM</title>
+      <link>https://nubeblog.com/2007/09/14/rise-and-fall-of-dbas-the-tyranny-of-the-orm/</link>
+      <pubDate>Fri, 14 Sep 2007 11:32:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/14/rise-and-fall-of-dbas-the-tyranny-of-the-orm/</guid>
+      <description>There was a time when DBAs dictate how developers should use Their databases. It was early and mid-nineties and Their Word was The Truth. Those poor guys building client-server applications had to bow down before Him/Her and implement the Business Logic inside The Database Manager. Database hardware was expensive, but His/Her Highness could size the system easily because the number of clients connected was predictable. And that’s what the IT Manager wanted; predictable figures.</description>
+    </item>
+    
+    <item>
+      <title>Google Phone OS Java based?</title>
+      <link>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</link>
+      <pubDate>Tue, 04 Sep 2007 18:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</guid>
+      <description>I have just read this post in Engadget about rumours of the Google Phone. I will highlight this: ‘…the phone will run on a Linux variant (which is nothing new), and will be Java Virtual Machine-capable. Additionally, the OS of the phone will be Java-based (as well as the all phone apps itself), and performance is said to be “very responsive.”‘It seems the GPhone will look like a Palm Treo or Blackberry with a screen smaller than the IPhone.</description>
+    </item>
+    
+    <item>
+      <title>Java Cell phones to drive demand for Sun servers? Who can explain this to me?</title>
+      <link>https://nubeblog.com/2007/08/30/java-cell-phones-to-drive-demand-for-sun-servers-who-can-explain-this-to-me/</link>
+      <pubDate>Thu, 30 Aug 2007 14:01:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/30/java-cell-phones-to-drive-demand-for-sun-servers-who-can-explain-this-to-me/</guid>
+      <description>Jonathan Schwartz says in SD-Asia: “…consumer cell phones on the Java software platform will drive demand for Sun servers…”. “The marketplace is going to be defined by the consuming public as much as by the traditional IT decision-maker”.Can anybody explain to me how does Sun think this is happening? How end-consumers can drive the adoption of a transparent server-side technology? End-consumer sees server side services as a commodity, they don’t care about the technology running the service if the service is good, reliable and cheap.</description>
+    </item>
+    
+    <item>
+      <title>Java SOA increases and .NET declines, survey says</title>
+      <link>https://nubeblog.com/2007/08/27/java-soa-increases-and-net-declines-survey-says/</link>
+      <pubDate>Mon, 27 Aug 2007 17:09:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/27/java-soa-increases-and-net-declines-survey-says/</guid>
+      <description>Evans data on his semi-annual Web Services Development Survey conducted in June says that companies planning the deployment of SOAwith a Java platform has increased slightly, but the companies deploying on .NET have declinedby almost 20%. .NET is still ahead with a 31% and Java in second place with 28%. 25% will support both.
+It seems the reason is the increase of the activity of the Open Source world, specially Eclipse, around SOA.</description>
+    </item>
+    
+    <item>
+      <title>What is slow? JRuby or Mingle?</title>
+      <link>https://nubeblog.com/2007/08/27/what-is-slow-jruby-or-mingle/</link>
+      <pubDate>Mon, 27 Aug 2007 15:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/27/what-is-slow-jruby-or-mingle/</guid>
+      <description>I have been testing Mingle, the new tool from Thoughtworks to manage Agile developments. The application really looks promising, and have a lot of new features that I’m discovering, but it’s taking me more time than I expected because it’s slow, very slow.
+The guys from Thoughtworksclaim they have built the first JRubycommercial application. Probably true, but the price they have paid is high. The application is slow, and it’s slow even on a 2.</description>
+    </item>
+    
+    <item>
+      <title>Birthmarking: How to detect and prove GPL violations in Java propietary code</title>
+      <link>https://nubeblog.com/2007/08/26/birthmarking-how-to-detect-and-prove-gpl-violations-in-java-propietary-code/</link>
+      <pubDate>Sun, 26 Aug 2007 09:54:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/26/birthmarking-how-to-detect-and-prove-gpl-violations-in-java-propietary-code/</guid>
+      <description>I have just read the news in Slashdot (Yes, I still read Slashdot) and I found this very interesting article about a new technique to detect GPL violations in proprietary obfuscated code. The technique is called Birthmarking and basically it ‘observes short sequences of method calls received by individual objects from the Java Platform Standard API, which is part of the Java Runtime Environment. By aggregating sets of short call sequences the otherwise overwhelming volume of trace data becomes manageable.</description>
+    </item>
+    
+    <item>
+      <title>Sun Changes NASDAQ symbol to JAVA</title>
+      <link>https://nubeblog.com/2007/08/23/sun-changes-nasdaq-symbol-to-java/</link>
+      <pubDate>Thu, 23 Aug 2007 22:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/23/sun-changes-nasdaq-symbol-to-java/</guid>
+      <description>Surprise, Surprise! You can read in Jonathan Schwartz’s Weblog that they will change the NASDAQ symbol of SUN Microsystems SUNW to JAVA!!!!
+The arguments are: ‘… the number of people who know Java swamps the number of people who know Sun…SUNW represents the past, and its not without a nostalgic nod that we’ve decided to look ahead…Most know Java, few know Sun…Java means limitless opportunity – for our software, systems, storage, service and microelectronics businesses.</description>
+    </item>
+    
+    <item>
+      <title>Bad times for J2ME. How the iPhone with Web 2.0 apps can rule in the mobile world</title>
+      <link>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</link>
+      <pubDate>Wed, 22 Aug 2007 12:46:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</guid>
+      <description>The day Steve Jobs said ‘Java’s not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’ . Being a Java Zealot as I am, I should find easily a fist full of arguments, but may be he is right.
+I have been working in the embedded and mobile world for almost four years in Amplia, and I can tell you that Java is far from being the best option for mobile and embedded development.</description>
+    </item>
+    
+    <item>
+      <title>The 95 percent syndrome in Software Development</title>
+      <link>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</link>
+      <pubDate>Mon, 13 Aug 2007 14:17:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</guid>
+      <description>Being a Project Manager, Architect, Analyst, Developer or anybody involved in the development of software, you have probably suffered the 95 percent syndrome.Imagine a software development project where things are going reasonably well: things are on schedule, Quality Assurance says things delivered are OK, the customer feel the progress, people are happy because they don’t have to work overtime and they architect and developers can apply the Best Practises. You are very close to the end of the development cycle (if you are working with an iterative and incremental methodology) and confident about the result.</description>
+    </item>
+    
+    <item>
+      <title>Why .NET will never be cross-platform</title>
+      <link>https://nubeblog.com/2007/05/02/why-net-will-never-be-cross-platform/</link>
+      <pubDate>Wed, 02 May 2007 19:25:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/05/02/why-net-will-never-be-cross-platform/</guid>
+      <description>When I read this post asking Microsoft to make .NET cross-platform, I wondered myself why they did not use Java -the one and only trulycross-platform environment-. Apart from the the obvious, Microsoft has very good reason to avoid making .NET cross-platform:
+ The jewel of the crown is Windows, so opening .NET to OS X and Linux is like shooting on your feet. As Steve Ballmersaid he loves ‘developers’… because they build ‘applications’…for the Windows OS.</description>
+    </item>
+    
+    <item>
+      <title>Going live with JEE 5: Congrats SOUKI</title>
+      <link>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</link>
+      <pubDate>Wed, 11 Apr 2007 00:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</guid>
+      <description>Building a project for an start-up has nothing to do with building a project for a big company: people in the start-ups normally are betting their pocket money in the project, and this means that delays, unexpected issues and bad performance of the development team have direct impact in the life of the entrepreneurs. This is the reason why I don’t want to build software for start-ups: if you have a little of empathy with them, you will carry the heavy load of their personal problems, besides of your own company troubles.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft mails about java and the fear to cross-platform</title>
+      <link>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</link>
+      <pubDate>Sun, 04 Feb 2007 12:18:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</guid>
+      <description>When I read the slashdot post about internal emails from Microsoft, I did not realize of the content of this email until it was posted in javalobby.
+The content is scary. The mail thread comes from 1997, so after reading this emails, you can interpret the history of Java, .NET and Microsoft-Sun trial upon a several clear facts:
+ Microsoft did not ever want to suport Java. Microsoft does not care about cross-platform.</description>
+    </item>
+    
+    <item>
+      <title>My #1 book for architects: The data model resource book vol1 and 2</title>
+      <link>https://nubeblog.com/2006/12/03/my-1-book-for-architects-the-data-model-resource-book-vol1-and-2/</link>
+      <pubDate>Sun, 03 Dec 2006 23:21:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2006/12/03/my-1-book-for-architects-the-data-model-resource-book-vol1-and-2/</guid>
+      <description>Since I started developing enterprise applications professionally (I developed video games when I was a teenager, but that’s another story…), I usually design the first version of the data models implemented in the applications developed (may be that’s the reason some people say my applications sucks…). I have worked with DBAs and Business Analysts, but it seems that the responsibility of putting in a E/R model the concepts it’s mine (well, except when I was the Technical Lead of Xpert Online in Adecco that I had the chance to recruit an excellent professional to perform this task).</description>
+    </item>
+    
+    <item>
+      <title>God bless java ignorants&amp;#8230;</title>
+      <link>https://nubeblog.com/2006/11/20/god-bless-java-ignorants/</link>
+      <pubDate>Mon, 20 Nov 2006 00:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2006/11/20/god-bless-java-ignorants/</guid>
+      <description>… because they will help me to feed my sons.This is what we found in a project we recently have taken over.</description>
+    </item>
+    
+  </channel>
+</rss>

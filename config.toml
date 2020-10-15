@@ -1,4 +1,5 @@
 baseurl = "https://nubeblog.com/"
+publishDir = "docs"
 
 languageCode = "es-es"
 title = "Nubeblog"

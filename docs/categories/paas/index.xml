@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paas on Nubeblog</title>
+    <link>https://nubeblog.com/categories/paas/</link>
+    <description>Recent content in paas on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 03 Feb 2009 00:16:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/paas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Cloud Computing necesitará 7 años para madurar según Gartner</title>
+      <link>https://nubeblog.com/2009/02/03/el-cloud-computing-necesitara-7-anos-para-madurar-segun-gartner/</link>
+      <pubDate>Tue, 03 Feb 2009 00:16:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/03/el-cloud-computing-necesitara-7-anos-para-madurar-segun-gartner/</guid>
+      <description>La consultora Gartner ha publicado un documento en el que intenta poner fechas a la evolución y madurez del Cloud Computing. Son unos valientes estos chicos. El mercado del Cloud Computing se encuentra en un período de excitación, crecimiento y alto potencial. Pero aún necesita un periodo de maduración hasta que se convierta en algo popular y común, de acuerdo a las previsiones de Gartner.
+Han dividido esta maduración en tres períodos:</description>
+    </item>
+    
+    <item>
+      <title>debug_mode=ON entre los ganadores del Seedrocket</title>
+      <link>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</link>
+      <pubDate>Thu, 29 Jan 2009 16:28:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/29/debug_modeon-entre-los-ganadores-del-seedrocket/</guid>
+      <description>Ahora veo quedebug_mode=ON es un proyecto ambicioso, al que se está dedicando suficiente empeño como para presentarlo a SeedRocket y que además llega a ser uno de los tres proyectos ganadores, junto con Habitissimo y Ongest de los que ya hablaré más adelante.
+ Como dice Javier en su blog, no es un proyecto cualquiera. Y no creo que lo sea porque se trate de una red social para desarrolladores o porque hayan sido uno de los ganadores del SeedRocket.</description>
+    </item>
+    
+    <item>
+      <title>Por fin llegó: CloudFront, la Content Delivery Network de Amazon</title>
+      <link>https://nubeblog.com/2008/11/19/por-fin-llego-cloudfront-la-content-delivery-network-de-amazon/</link>
+      <pubDate>Wed, 19 Nov 2008 10:02:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/19/por-fin-llego-cloudfront-la-content-delivery-network-de-amazon/</guid>
+      <description>El servicio ya se había anunciado hace tiempo, pero ya está aquí la versión Beta de CloudFront, la Content Delivery Network (CDN) de Amazon. Es casi transparente para los usuarios actuales de Amazon S3, y permite distribuir contenido con tasas muy altas de transferencia a través de una red global de servidores de contenido en redes extremo. Siguiendo el esquema de otros servicios Amazon, el modelo es un puro pago por uso, sin desembolso inicial.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com renueva Force.com gracias a Google, Amazon y Facebook</title>
+      <link>https://nubeblog.com/2008/11/05/salesforcecom-supervitamina-forcecom-gracias-a-google-amazon-y-facebook/</link>
+      <pubDate>Wed, 05 Nov 2008 08:38:40 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/05/salesforcecom-supervitamina-forcecom-gracias-a-google-amazon-y-facebook/</guid>
+      <description>Si hay una empresa que simboliza la fuerza del SaaS esa es Salesforce.com. Su CEO, Marc Benioff, ha sido y es el mayor evangelizador del Software as a Service. Su ya famoso logo ‘No Software‘ es toda una declaración de principios.
+Durante el evento Dreamforce 2008, dijo refiriéndose a la mala coyuntura económica que “Nunca ha habido un momento mejor para el Cloud Computing y Salesforce.com”, en lo que ya parece el habitual discurso de los defensores de La Nube en estos tiempos de crisis, frente a los modelos tradicionales.</description>
+    </item>
+    
+  </channel>
+</rss>

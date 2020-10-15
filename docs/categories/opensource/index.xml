@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on Nubeblog</title>
+    <link>https://nubeblog.com/categories/opensource/</link>
+    <description>Recent content in opensource on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 20 Jul 2011 13:42:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Openstack Año I</title>
+      <link>https://nubeblog.com/2011/07/20/openstack-ano-i/</link>
+      <pubDate>Wed, 20 Jul 2011 13:42:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/07/20/openstack-ano-i/</guid>
+      <description>Hace un año que estaba yo disfrutando de unas merecidas vacaciones en Cádiz, cuando recibí un correo y una llamada que me anunciaba que ‘algo gordo en el mundo del Cloud había pasado’. Rackspace y la NASA anunciaban que lanzaban un proyecto abierto conjunto para crear IaaS de computación y de almacenamiento de objetos. ¿La NASA y Rackspace? Flipé un poco. Luego me di media vuelta en la hamaca y seguí con mi siesta.</description>
+    </item>
+    
+    <item>
+      <title>Evento &amp;#8220;Tecnologías Cloud al alcance de la mano&amp;#8221; el próximo 29 de junio</title>
+      <link>https://nubeblog.com/2011/06/16/evento-tecnologias-cloud-al-alcance-de-la-mano-el-proximo-29-de-junio/</link>
+      <pubDate>Thu, 16 Jun 2011 11:46:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/06/16/evento-tecnologias-cloud-al-alcance-de-la-mano-el-proximo-29-de-junio/</guid>
+      <description>Stackops participamos como ponentes en una jornada donde de una forma práctica podremos ver como evolucionar nuestra arquitectura de sistemas y aplicaciones, a un entorno cloud de servicio, incidiendo en cómo aplicar conceptos de pago por uso y estrategias Down cost technology que permiten acelerar el ROI.
+Las soluciones de virtualización Open source, las alternativas tecnológicas que responden a las demandas incrementales de almacenamiento con Open Storage, El desarrollo de aplicaciones de Software corporativo pensado en los procesos y en cómo pueden desplegarse en Cloud privadas o Públicas, son parte del objetivo de la Jornada.</description>
+    </item>
+    
+    <item>
+      <title>Taller de Openstack en Madrid el 14 de Abril</title>
+      <link>https://nubeblog.com/2011/03/29/taller-de-openstack-en-madrid-el-14-de-abril/</link>
+      <pubDate>Tue, 29 Mar 2011 23:14:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/29/taller-de-openstack-en-madrid-el-14-de-abril/</guid>
+      <description>Actualización: debido al éxito de la convocatoria (más de 100 registrados para un aforo de 70 personas), nuestro cliente de referencia ACENS copatrocinará el evento y el catering posterior.
+La información para apuntarse y direccón la tenéis aquí
+Las plazas son limitadas, por lo que mejor apuntarse cuanto antes no sea que se agoten.</description>
+    </item>
+    
+    <item>
+      <title>Stackops Distro &amp;#038; Smart Installer: despliega Openstack en tu centro de datos</title>
+      <link>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</guid>
+      <description>Durante estas últimas semanas nos hemos reunido con unas cuantas empresas interesadas en Infraestructuras como Servicios, y a todas les encantaba lo que Openstack Nova promete. La idea de tener una plataforma verdaderamente abierta y que haya un ecosistema de empresas a su alrededor es muy atractivo. Los participantes en Openstack son empresas con una reputación más que consolidada y reconocida por los profesionales. Todo parece perfecto… ¿Todo? No…
+En un momento dado de la conversación, siempre sale la siguiente pregunta:</description>
+    </item>
+    
+    <item>
+      <title>Un vistazo rápido a la historia de OpenStack</title>
+      <link>https://nubeblog.com/2011/01/10/un-vistazo-rapido-a-la-historia-de-openstack/</link>
+      <pubDate>Mon, 10 Jan 2011 08:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/10/un-vistazo-rapido-a-la-historia-de-openstack/</guid>
+      <description>A mediados de 2010 se produjo un ‘evento sistémico’ en el mundo del software de Infraestructura como Servicio (IaaS). Rackspace y la NASA anunciaban de manera conjunta que estaban desarrollando un nuevo software de IaaS que venía a solucionar los problemas que la NASA le había encontrado a Eucalyptus, y a convertirse en una alternativa real a Amazon Web Services.
+Que Rackspace esté interesado en competir con Amazon Web Services es lógico, pero ¿la NASA?</description>
+    </item>
+    
+    <item>
+      <title>Red Hat Enterprise Virtualization Conference en Madrid y Barcelona</title>
+      <link>https://nubeblog.com/2010/10/15/red-hat-enterprise-virtualization-conference-en-madrid-y-barcelona/</link>
+      <pubDate>Fri, 15 Oct 2010 11:12:16 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/15/red-hat-enterprise-virtualization-conference-en-madrid-y-barcelona/</guid>
+      <description>El próximo día 26 de Octubre en Barcelona y el 28 de Octubre en Madrid Red Hat va a celebrar una conferencia dedicada a la Virtualización en la empresa. Bajo el lema ‘Rompa las Barreras’, Red Hat y sus socios ofrecerán su visión de la virtualización en servidores, automatización y VDI.
+El registro se puede hacer en la web del evento, y es gratuito.</description>
+    </item>
+    
+    <item>
+      <title>RedHat Deltacloud: una API para gobernar todas las nubes</title>
+      <link>https://nubeblog.com/2009/09/04/redhat-deltacloud-una-api-para-gobernar-todas-las-nubes/</link>
+      <pubDate>Fri, 04 Sep 2009 09:54:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/04/redhat-deltacloud-una-api-para-gobernar-todas-las-nubes/</guid>
+      <description>En esta semana de locos que estamos viviendo, todos los proveedores intentan hacer sombra a larga lista de anuncios realizados en la VMWorld 2009, y RedHat no podía ser menos.
+RedHat ha anunciado un nuevo proyecto llamado Deltacloud. Deltacloud es una librería y un pequeño portal con una API que permite gestionar nubes públicas de diferentes proveedores. Y según ellos, protege tus aplicaciones de cambios en el API cloud de tus proveedores debido a cambios e incompatiblidades.</description>
+    </item>
+    
+    <item>
+      <title>VMware compra SpringSource por más de $400 millones</title>
+      <link>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</link>
+      <pubDate>Tue, 11 Aug 2009 09:20:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</guid>
+      <description>El anuncio en el blog de VMware no deja lugar a dudas: SpringSource se centra en la operación de la capa de aplicación, y no en la de infraestructura como hace VMware. Son complementarias. VMware quiere convertirse en un proveedor de software de gestión y operación del datacenter de manera completa. La comoditización del hypervisor es un hecho (en Abiquo estamos pasando máquinas de un hypervisor a otro, es un hecho) y deben centrarse en otras partes de la operación.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 9.10 (Karmic Koala) vendrá preparado para el Cloud Computing</title>
+      <link>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</link>
+      <pubDate>Mon, 23 Feb 2009 07:40:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</guid>
+      <description>El fundador de Ubuntu Mark Shuttleworth anunció en un correo enviado a la lista ubuntu-devel-announce que la versión que sucederá a Jaunty Jackalope, Ubuntu 9.04, ya tiene nombre (Karmic Koala). Esta nueva versión 9.10 de la popular distribución está prevista para octubre. Las novedades en las versiones desktop y server son variadas, pero en lo que a Cloud Computing atañe, hay unas cuantas novedades:
+ Ubuntu se orienta en la parte servidora hacia el Cloud Computing enteramente open-source.</description>
+    </item>
+    
+    <item>
+      <title>GoGrid libera su API de gestión bajo licencia Creative Commons</title>
+      <link>https://nubeblog.com/2009/01/21/gogrid-libera-api-gestion-licencia-creative-commons/</link>
+      <pubDate>Wed, 21 Jan 2009 10:01:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/21/gogrid-libera-api-gestion-licencia-creative-commons/</guid>
+      <description>GoGrid es una empresa que ofrece Infraestructura Como Servicios (IaaS) de manera similar a como hace Amazon Web Services. Parece que querían eclipsar a Obama en la ceremonia de envestidura anunciando que liberan la especificación del API de gestión de su CloudCenter, la especificación GoGrid cloudcenter Application Programming Interface (API) bajo una licencia Creative Commons. Esto permitirá a desarrolladores, integradores y demás profesionales IT copiar, modificar, distribuir y republicar este API libremente.</description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus: el camino de código abierto a seguir en la estandarización de La Nube</title>
+      <link>https://nubeblog.com/2008/11/10/eucalyptus-el-camino-de-codigo-abierto-a-seguir-en-la-estandarizacion-de-la-nube/</link>
+      <pubDate>Mon, 10 Nov 2008 08:10:44 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/10/eucalyptus-el-camino-de-codigo-abierto-a-seguir-en-la-estandarizacion-de-la-nube/</guid>
+      <description>Cuando uno empieza a usar Amazon EC2, le vienen a la cabeza varias cuestiones, pero probablemente las más importantes son:
+ ¿Me voy a tener que ‘casar’ con Amazon el resto de mi vida? ¿Esto no es más caro que un hosting? Amazon es casi un monopolio en esto, ¿me tratará bien como cliente?  Estas preguntas no son particulares a Amazon EC2 -exceptuando la comparación con el hosting-, y nos las encontramos cada vez que optamos por un producto de software cerrado.</description>
+    </item>
+    
+  </channel>
+</rss>

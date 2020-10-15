@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Nubeblog</title>
+    <link>https://nubeblog.com/tags/linux/</link>
+    <description>Recent content in linux on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 23 Feb 2009 07:40:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 9.10 (Karmic Koala) vendrá preparado para el Cloud Computing</title>
+      <link>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</link>
+      <pubDate>Mon, 23 Feb 2009 07:40:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</guid>
+      <description>El fundador de Ubuntu Mark Shuttleworth anunció en un correo enviado a la lista ubuntu-devel-announce que la versión que sucederá a Jaunty Jackalope, Ubuntu 9.04, ya tiene nombre (Karmic Koala). Esta nueva versión 9.10 de la popular distribución está prevista para octubre. Las novedades en las versiones desktop y server son variadas, pero en lo que a Cloud Computing atañe, hay unas cuantas novedades:
+ Ubuntu se orienta en la parte servidora hacia el Cloud Computing enteramente open-source.</description>
+    </item>
+    
+    <item>
+      <title>The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</title>
+      <link>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</guid>
+      <description>Sometimes you only need to wait to understand why things happen. When Steve Jobs said ‘Java is not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’, we were surprised and disappointed because like me a lot of people think that there is still room for Java in the mobile platforms. Of course we have J2ME, but we can do very few things with it. What we need is a full J2SE stack for mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Palm Foleo cancelled just before shipping</title>
+      <link>https://nubeblog.com/2007/09/04/palm-foleo-cancelled-just-before-shipping/</link>
+      <pubDate>Tue, 04 Sep 2007 23:44:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/palm-foleo-cancelled-just-before-shipping/</guid>
+      <description>I was astonished when I read that Palm cancels Foleo just before starting to ship it. The reason sounds like an excuse: ‘…it has become clear that the right path for Palm is to offer a single, consistent user experience around this new platform[WindRiver] design and a single focus for our platform development efforts.‘
+There were rumours of delays because buggy software. The product was announced for shipping this summer, but the season was running out and there was not date for the product.</description>
+    </item>
+    
+    <item>
+      <title>Google Phone OS Java based?</title>
+      <link>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</link>
+      <pubDate>Tue, 04 Sep 2007 18:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</guid>
+      <description>I have just read this post in Engadget about rumours of the Google Phone. I will highlight this: ‘…the phone will run on a Linux variant (which is nothing new), and will be Java Virtual Machine-capable. Additionally, the OS of the phone will be Java-based (as well as the all phone apps itself), and performance is said to be “very responsive.”‘It seems the GPhone will look like a Palm Treo or Blackberry with a screen smaller than the IPhone.</description>
+    </item>
+    
+    <item>
+      <title>Ultra Mobile Devices war is coming</title>
+      <link>https://nubeblog.com/2007/06/07/ultra-mobile-devices-war-is-coming/</link>
+      <pubDate>Thu, 07 Jun 2007 09:53:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/06/07/ultra-mobile-devices-war-is-coming/</guid>
+      <description>Last week Palm announced a new Ultra Mobile Device (UMD) called ‘Foleo‘. This week Via has announced a new UMD reference design called Nanobook and Asus has unveiled an 3ePC, ultra low cost laptop . They are different races: Foleo is ARM-based with a limited amount of memory, Nanobook and 3ePC are x86-based. Nanobook uses VIA processors and 3ePC will use the new Tolopai Intel’s SoC. There are big differerences in memory (Foleo 256Mb, Nanobook 1Gb and 3ePC 512Mb) but not in storage and communication cababilities (all of them will have several gigs of Flash storage) and Wifi.</description>
+    </item>
+    
+    <item>
+      <title>Is this the new Fon Liberator?</title>
+      <link>https://nubeblog.com/2007/01/21/is-this-the-new-fon-liberator/</link>
+      <pubDate>Sun, 21 Jan 2007 13:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/21/is-this-the-new-fon-liberator/</guid>
+      <description>Looking for information on how to configure the Chillispot in my Soekris net4521 with Voyage Linux, the people from Poblete Wireless has blogged about a device that looks very similar to ‘La Fonera’, POBLETEWIRELESS: �Es esto el posible Fon Liberator?.
+The device has been developed by Accton, and you can check the specs here.</description>
+    </item>
+    
+    <item>
+      <title>The killer app of FON will be access to P2P networks</title>
+      <link>https://nubeblog.com/2007/01/14/the-killer-app-of-fon-will-be-access-to-p2p-networks/</link>
+      <pubDate>Sun, 14 Jan 2007 22:20:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/14/the-killer-app-of-fon-will-be-access-to-p2p-networks/</guid>
+      <description>I have been tracking FON for two years, and I’m a ‘fonero’ since last summer. Recently I read about the ‘FON Liberator’ project, and it seems that finally the mystery of FON is over. If you analyze seriously the business model of this company and you have some basic knowledge about wireless networks, you easily find that something does not match. The original FON business model (and I say original, because now it has changed) was ‘share your bandwidth and you will have access to the enormous WiFi network of FON’.</description>
+    </item>
+    
+  </channel>
+</rss>

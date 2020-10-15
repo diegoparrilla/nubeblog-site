@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>edos on Nubeblog</title>
+    <link>https://nubeblog.com/tags/edos/</link>
+    <description>Recent content in edos on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 27 Jan 2009 00:08:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/edos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los riesgos del escalado automático: EDoS (Economic Denial of Sustainability)</title>
+      <link>https://nubeblog.com/2009/01/27/los-riesgos-del-escalado-automatico-edos-economic-denial-of-sustainability/</link>
+      <pubDate>Tue, 27 Jan 2009 00:08:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/27/los-riesgos-del-escalado-automatico-edos-economic-denial-of-sustainability/</guid>
+      <description>Hace unos meses leí un artículo (que no he podido encontrar) sobre un pobre tipo que había montado una startup y utilizaba Amazon S3 para servir contenido estático. Todo le iba de maravilla hasta que un mes le llegó una factura absolutamente descomunal por el servicio. Tan grande era que tuvo que cerrar el sitio. Investigando qué había pasado, descubrió que alguien se había dedicado a hacer peticiones a sus ficheros alojados en S3 de manera continuada y masiva, sin hacer uso real de su servicio.</description>
+    </item>
+    
+  </channel>
+</rss>

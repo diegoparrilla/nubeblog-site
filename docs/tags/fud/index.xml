@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fud on Nubeblog</title>
+    <link>https://nubeblog.com/tags/fud/</link>
+    <description>Recent content in fud on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 04 Feb 2007 12:18:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/fud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft mails about java and the fear to cross-platform</title>
+      <link>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</link>
+      <pubDate>Sun, 04 Feb 2007 12:18:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</guid>
+      <description>When I read the slashdot post about internal emails from Microsoft, I did not realize of the content of this email until it was posted in javalobby.
+The content is scary. The mail thread comes from 1997, so after reading this emails, you can interpret the history of Java, .NET and Microsoft-Sun trial upon a several clear facts:
+ Microsoft did not ever want to suport Java. Microsoft does not care about cross-platform.</description>
+    </item>
+    
+    <item>
+      <title>&amp;#8216;The shining&amp;#8217; of Mr. Varsavsky</title>
+      <link>https://nubeblog.com/2007/01/15/the-shining-of-mr-varsavsky/</link>
+      <pubDate>Mon, 15 Jan 2007 12:42:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/01/15/the-shining-of-mr-varsavsky/</guid>
+      <description>Fuckowsky has done it again: the funniest history about how Mr. Varsavsky will do it again, just like he did with Jazztel and Ya.com.
+Read it here (spanish only).</description>
+    </item>
+    
+    <item>
+      <title>Why some people wants Sony to fail with the PS3?</title>
+      <link>https://nubeblog.com/2006/11/12/why-some-people-wants-sony-to-fail-with-the-ps3/</link>
+      <pubDate>Sun, 12 Nov 2006 15:53:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2006/11/12/why-some-people-wants-sony-to-fail-with-the-ps3/</guid>
+      <description>I don’t understand this recent campaign against Sony. As an example, here goes this post: Foreigners And Fights, PS3 JPN Launch’sDark Side – Kotaku.
+Can anybody explain what the hell has to do this with Sony?
+Update: There is a link in Slashdot. Shameful link, by the way… They don’t even treat Microsoft this way.</description>
+    </item>
+    
+  </channel>
+</rss>

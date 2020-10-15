@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microsoft on Nubeblog</title>
+    <link>https://nubeblog.com/tags/microsoft/</link>
+    <description>Recent content in microsoft on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 14 Jul 2009 19:49:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft anuncia los planes de precios y la fecha de comercialización de Azure</title>
+      <link>https://nubeblog.com/2009/07/14/microsoft-anuncia-los-planes-de-precios-y-la-fecha-de-comercializacion-de-azure/</link>
+      <pubDate>Tue, 14 Jul 2009 19:49:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/07/14/microsoft-anuncia-los-planes-de-precios-y-la-fecha-de-comercializacion-de-azure/</guid>
+      <description>Microsoft nos anuncia en su blog oficial las fechas y precios de Azure, sus plataformas IaaS y PaaS. Y parece que esta vez no es vapourware, ya que dean fechas y una lista de precios.
+La disponibilidad comercial del servicio llegará a mediados de noviembre de 2009, coincidiendo con su Professional Developers Conference, Los desarrolladors han tenido acceso a la versión de pruebas de la plataforma desde el pasado otoño, gracias al programa Microsoft’s Community Technology Preview.</description>
+    </item>
+    
+    <item>
+      <title>Los Microsoft Azure SQL Data Services tendrán caracteristicas similares a las de bases de datos relacionales</title>
+      <link>https://nubeblog.com/2009/03/05/los-microsoft-azure-sql-data-services-tendran-caracteristicas-similares-a-las-de-bases-de-datos-relacionales/</link>
+      <pubDate>Thu, 05 Mar 2009 17:36:23 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/05/los-microsoft-azure-sql-data-services-tendran-caracteristicas-similares-a-las-de-bases-de-datos-relacionales/</guid>
+      <description>Interesante noticia sobre la plataforma de Cloud Computing de Microsoft, Azure. Los servicios de acceso a datos en La Nube permitiran ciertas características de las bases de datos relacionales tradicionales. “Pensamos que la base de datos relacional es una tecnología familiar a mucha gente. La gente la entiende y hay gente experimentada a su alrededor. Nos están diciendo que es importante que las habilidades de los desarrolladores sean fácilmente portables a los desarrollos Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte IV y final</title>
+      <link>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</link>
+      <pubDate>Thu, 19 Feb 2009 13:54:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte III
+Para concluir, los autores nos muestran el ‘Top Ten’ de los impedimentos para la adopción del Cloud Computing, tanto tecnológicos como de negocio:
+1.- Disponibilidad del Servicio
+Según los autores, los clientes tienen miedo a no tener un nivel de servicio adecuado.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte III</title>
+      <link>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</link>
+      <pubDate>Wed, 18 Feb 2009 10:46:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+La migración a un modelo de Cloud Computing o bien empezar una empresa directamente aprovechando las ventajas de este modelo no solo es una cuestión técnica; es también una cuestión de recursos económicos.
+La elasticidad y la transferencia del riesgo
+Los autores argumentan que la frase “Convertir CapEx a OpEx” se usa habitualmente como argumento de venta del Cloud Computing, “pay as you go” (paga por lo que usas no es una traducción exacta, pero nos vale…) captura mejor la esencia de los beneficios económicos del Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte II</title>
+      <link>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</link>
+      <pubDate>Tue, 17 Feb 2009 00:05:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Los siguientes capítulos del documento tratan un asunto que suele salir en conversaciones informales pero que normalmente pasamos por alto: Por qué despega ahora el Cloud Computing, y por qué fallo antes.
+**¿Por qué ahora Cloud Computing y antes no?
+**
+Para los autores la razón está detras de algo que según ellos acompaña a los modelos de negocio Web 2.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte I</title>
+      <link>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</link>
+      <pubDate>Mon, 16 Feb 2009 11:27:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</guid>
+      <description>Hace unos días recibí un correo indicándome que debía comentar un estudio que circula por la red hecho por la Universidad de Berkeley sobre el estado actual del Cloud Computing. Al leerlo me di cuenta que era un documento que necesita un análisis más detallado que mis habituales 300-500 palabras por post. Por suerte, muchos de los temas tratados ya han sido comentados en el blog, pero merece la pena dar un repaso.</description>
+    </item>
+    
+    <item>
+      <title>Las mareantes predicciones de Microsoft para su negocio SaaS</title>
+      <link>https://nubeblog.com/2008/12/11/las-mareantes-predicciones-de-microsoft-sobre-su-negocio-saas/</link>
+      <pubDate>Thu, 11 Dec 2008 10:22:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/11/las-mareantes-predicciones-de-microsoft-sobre-su-negocio-saas/</guid>
+      <description>Leo en plugintothecloud.com que Stephen Elop, presidente de la división de Business, ha anunciado que en cinco años la mitad de los ingresos vendrán de las versiones online de sus productos. Teniendo en cuenta que ahora mismo factura 18.9 mil millones de dólares, las cifras son absolutamente mareantes.
+En solo dos semanas después de anunciar la disponibilidad de Exchange Online y Sharepoint Online, ya tenían a 10.000 clientes en el período de pruebas.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft BizSpark: Plataformas de Cloud y Software gratuito para startups</title>
+      <link>https://nubeblog.com/2008/11/06/microsoft-bizspark-plataformas-de-cloud-y-software-gratuito-para-startups/</link>
+      <pubDate>Thu, 06 Nov 2008 09:17:29 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/06/microsoft-bizspark-plataformas-de-cloud-y-software-gratuito-para-startups/</guid>
+      <description>Microsoft no es una compañía que resulte simpática a las startups. Las startups basan su supervivencia en su capacidad de innovación y en aplicar ideas originales en sus productos y planes de negocio. Por ello es difícil que basen sus productos en otros productos cuyo coste de licencia impacte sobre el precio final de su producto y/o sus exíguos presupuestos. Lo habitual en una startup es encontrar tecnologías opensource, o bien tecnologías que sin ser opensource su coste sea cercano a cero.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure Services Platform, la apuesta PaaS de Microsoft</title>
+      <link>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</link>
+      <pubDate>Wed, 29 Oct 2008 08:58:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</guid>
+      <description>Hace menos de un mes Steve Ballmer anunciaba una nueva versión de windows que correría en ‘La Nube’. Y aquí esta: Microsoft anunció en la Professional Developers Conference 2008 su apuesta por el Cloud Computing: Windows Azure y Azure Services Platform.
+La Plataforma de Services Azure es una PaaS alojada por la propia Microsoft en sus Data Centers. Esta plataforma ofrece Windows Azure como un nuevo sistema operativo pensado para ‘La Nube’ y un conjunto de servicios para desarrolladores que pueden usarse de manera conjunta.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft thinks that your Facebook account costs $300</title>
+      <link>https://nubeblog.com/2007/10/24/microsoft-thinks-that-your-facebook-account-costs-300/</link>
+      <pubDate>Wed, 24 Oct 2007 23:39:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/24/microsoft-thinks-that-your-facebook-account-costs-300/</guid>
+      <description>Today Microsoft has acquired 1.6% of Facebook, paying 240 million dollars. So the smart guys from Redmon (and their strategic consultants, of course) think Facebook has a value of 15 billion dollars! That’s a lot of money for a company with 300 employees! But it’s not about the employees talent, it’s about the 50 million active users of the platform where the value is. And it’s really high, around 300 bucks per active user.</description>
+    </item>
+    
+    <item>
+      <title>Google Phone OS Java based?</title>
+      <link>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</link>
+      <pubDate>Tue, 04 Sep 2007 18:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</guid>
+      <description>I have just read this post in Engadget about rumours of the Google Phone. I will highlight this: ‘…the phone will run on a Linux variant (which is nothing new), and will be Java Virtual Machine-capable. Additionally, the OS of the phone will be Java-based (as well as the all phone apps itself), and performance is said to be “very responsive.”‘It seems the GPhone will look like a Palm Treo or Blackberry with a screen smaller than the IPhone.</description>
+    </item>
+    
+    <item>
+      <title>Why .NET will never be cross-platform</title>
+      <link>https://nubeblog.com/2007/05/02/why-net-will-never-be-cross-platform/</link>
+      <pubDate>Wed, 02 May 2007 19:25:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/05/02/why-net-will-never-be-cross-platform/</guid>
+      <description>When I read this post asking Microsoft to make .NET cross-platform, I wondered myself why they did not use Java -the one and only trulycross-platform environment-. Apart from the the obvious, Microsoft has very good reason to avoid making .NET cross-platform:
+ The jewel of the crown is Windows, so opening .NET to OS X and Linux is like shooting on your feet. As Steve Ballmersaid he loves ‘developers’… because they build ‘applications’…for the Windows OS.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft mails about java and the fear to cross-platform</title>
+      <link>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</link>
+      <pubDate>Sun, 04 Feb 2007 12:18:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/04/microsoft-mails-about-java-and-the-fear-to-cross-platform/</guid>
+      <description>When I read the slashdot post about internal emails from Microsoft, I did not realize of the content of this email until it was posted in javalobby.
+The content is scary. The mail thread comes from 1997, so after reading this emails, you can interpret the history of Java, .NET and Microsoft-Sun trial upon a several clear facts:
+ Microsoft did not ever want to suport Java. Microsoft does not care about cross-platform.</description>
+    </item>
+    
+  </channel>
+</rss>

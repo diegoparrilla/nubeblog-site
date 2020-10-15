@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social networks on Nubeblog</title>
+    <link>https://nubeblog.com/tags/social-networks/</link>
+    <description>Recent content in social networks on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 19 Feb 2008 08:55:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Madrid Facebook Developer Garage was pure crap</title>
+      <link>https://nubeblog.com/2008/02/19/madrid-facebook-developer-garage-was-pure-crap/</link>
+      <pubDate>Tue, 19 Feb 2008 08:55:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/19/madrid-facebook-developer-garage-was-pure-crap/</guid>
+      <description>Yesterday I was in the event organized by Facebook in Madrid, The Madrid Facebook Developer Garage. The event was organized by FON, the Wifi company owned by Martin Varsavsky. I think Mr. Varsavsky is doing a great job trying to give visibility of the European and specially Spanish companies in Silicon Valley. The event took place in Teatro Lara, a old-fashioned theater in the heart of Madrid. A nice place, nothing to do with a garage.</description>
+    </item>
+    
+    <item>
+      <title>Social bugfixing tool: Can corank.com work?</title>
+      <link>https://nubeblog.com/2007/11/05/social-bugfixing-tool-can-corank-com-work/</link>
+      <pubDate>Mon, 05 Nov 2007 18:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/05/social-bugfixing-tool-can-corank-com-work/</guid>
+      <description>When you start with a third party open source library or project, first thing you do is to check the its activity. If the project is dead or it’s a zombie (somebody still there just to make questions in the forums) then it’s better to start looking for a new one.
+If the project is active and you decide to use it, sometimes (well, most of the times) you cannot dedicate time to give your feedback to the project.</description>
+    </item>
+    
+    <item>
+      <title>Myfrienemies: craziest social network?</title>
+      <link>https://nubeblog.com/2007/07/30/myfrienemies-craziest-social-network/</link>
+      <pubDate>Mon, 30 Jul 2007 17:06:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/07/30/myfrienemies-craziest-social-network/</guid>
+      <description>According to their introductory speech, My Frienemies ‘Myfrienemiesis a social networking site that allows you to connect with people who pretend to like the same people as you. Rather than dwelling on the negative, we invite you to foster new friendships based on shared dislikes, annoyances and disappointments. ‘The funniest link is frienemyof the weekwhere you can read what people think of the person on this page: A Psycho, Depressive, User, Hostile-Aggressive, Liar, Drunk, Black hole, Paranoid.</description>
+    </item>
+    
+  </channel>
+</rss>

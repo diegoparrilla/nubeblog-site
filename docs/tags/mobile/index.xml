@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobile on Nubeblog</title>
+    <link>https://nubeblog.com/tags/mobile/</link>
+    <description>Recent content in mobile on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 16 Apr 2008 23:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How should Mobile projects be to survive?</title>
+      <link>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</guid>
+      <description>Yesterday we discover that Mowser, the project founded by famous blogger Russell Beattie (and former colleague) was in the deadpool. Russ claimed that he ran out of money and had serious trouble with his finances.
+Everyday startups are created and abandoned, but the point in this story is that he could not raise funds to continue with the project. We see almost everyday projects raising a lot of money for nothing, so why an authority in the mobile world cannot pass the first round?</description>
+    </item>
+    
+    <item>
+      <title>The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</title>
+      <link>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</guid>
+      <description>Sometimes you only need to wait to understand why things happen. When Steve Jobs said ‘Java is not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’, we were surprised and disappointed because like me a lot of people think that there is still room for Java in the mobile platforms. Of course we have J2ME, but we can do very few things with it. What we need is a full J2SE stack for mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Palm Foleo cancelled just before shipping</title>
+      <link>https://nubeblog.com/2007/09/04/palm-foleo-cancelled-just-before-shipping/</link>
+      <pubDate>Tue, 04 Sep 2007 23:44:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/palm-foleo-cancelled-just-before-shipping/</guid>
+      <description>I was astonished when I read that Palm cancels Foleo just before starting to ship it. The reason sounds like an excuse: ‘…it has become clear that the right path for Palm is to offer a single, consistent user experience around this new platform[WindRiver] design and a single focus for our platform development efforts.‘
+There were rumours of delays because buggy software. The product was announced for shipping this summer, but the season was running out and there was not date for the product.</description>
+    </item>
+    
+    <item>
+      <title>GPay: Google Patent for Mobile micropayments</title>
+      <link>https://nubeblog.com/2007/09/03/gpay-google-patent-for-mobile-micropayments/</link>
+      <pubDate>Mon, 03 Sep 2007 09:56:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/03/gpay-google-patent-for-mobile-micropayments/</guid>
+      <description>Today in several RSS feeds I have found the same news: Google has a new patent for mobile micropayments. Micropayments using a cell phone is not new at all. I have seen some projects in Europe, specially the Spanish Mobipay. It’s a mature technology, but it’s not very successful. There are several reasons but it’s not clear why mobile micropayments are not growing. In my opinion:
+ The fee is charged directly to the customer.</description>
+    </item>
+    
+    <item>
+      <title>Bad times for J2ME. How the iPhone with Web 2.0 apps can rule in the mobile world</title>
+      <link>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</link>
+      <pubDate>Wed, 22 Aug 2007 12:46:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</guid>
+      <description>The day Steve Jobs said ‘Java’s not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’ . Being a Java Zealot as I am, I should find easily a fist full of arguments, but may be he is right.
+I have been working in the embedded and mobile world for almost four years in Amplia, and I can tell you that Java is far from being the best option for mobile and embedded development.</description>
+    </item>
+    
+    <item>
+      <title>Ultra Mobile Devices war is coming</title>
+      <link>https://nubeblog.com/2007/06/07/ultra-mobile-devices-war-is-coming/</link>
+      <pubDate>Thu, 07 Jun 2007 09:53:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/06/07/ultra-mobile-devices-war-is-coming/</guid>
+      <description>Last week Palm announced a new Ultra Mobile Device (UMD) called ‘Foleo‘. This week Via has announced a new UMD reference design called Nanobook and Asus has unveiled an 3ePC, ultra low cost laptop . They are different races: Foleo is ARM-based with a limited amount of memory, Nanobook and 3ePC are x86-based. Nanobook uses VIA processors and 3ePC will use the new Tolopai Intel’s SoC. There are big differerences in memory (Foleo 256Mb, Nanobook 1Gb and 3ePC 512Mb) but not in storage and communication cababilities (all of them will have several gigs of Flash storage) and Wifi.</description>
+    </item>
+    
+    <item>
+      <title>Meraki: Mesh networks can kill Wimax</title>
+      <link>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</guid>
+      <description>One of the most interesting technologies to come are mesh networks. In Amplia we are making some prospects on these technology applied to the M2M (machine to machine) communication. Zigbeefits perfectly for small amount of data, but it’s not good when dealing with mobile communications (PDAs, laptops, MP3 players… anything interactive and portable).
+The only real ubiquitousnetworks today are the mobile operators networks. GPRShas an acceptable deployment, closer to 100% of the population in developed countries, but 3G technologies are still far from being everywhere.</description>
+    </item>
+    
+    <item>
+      <title>New Amplia&amp;#8217;s Blog about Wireless M2M</title>
+      <link>https://nubeblog.com/2007/02/09/new-amplias-blog-about-wireless-m2m/</link>
+      <pubDate>Fri, 09 Feb 2007 23:40:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/09/new-amplias-blog-about-wireless-m2m/</guid>
+      <description>Now that the 3GSM is going to start next week in Barcelona, we have launched our new Wireless M2M Blog. We hope to contribute with some interesting stuff regarding M2M business and services.
+Rafael Morillo (our Business Development Manager) will be the main contributor to the Blog, but I hope to help him with my techie thoughts about the M2M.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web2.0 on Nubeblog</title>
+    <link>https://nubeblog.com/tags/web2.0/</link>
+    <description>Recent content in web2.0 on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 01 Dec 2008 10:05:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/web2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&amp;quot;El Cloud puede explicar la Web 2.0, pero la Web 2.0 no puede explicar el Cloud&amp;quot;</title>
+      <link>https://nubeblog.com/2008/12/01/el-cloud-puede-explicar-la-web-20-pero-la-web-20-no-puede-explicar-el-cloud/</link>
+      <pubDate>Mon, 01 Dec 2008 10:05:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/01/el-cloud-puede-explicar-la-web-20-pero-la-web-20-no-puede-explicar-el-cloud/</guid>
+      <description>Esta frase no es mía, es de Nicholas Carr, el autor de “The Big Switch“. Pero la subscribo por completo. Es exactamente lo que llevo meses tratando de explicar a todos aquellos que se acercan a preguntarme sobre la Web 2.0 y el Cloud Computing. Muy gentilmente les respondo que ‘Yo de la Web 2.0 no se nada’. Y se quedan sorprendidos.
+Bueno, algo se. Se que todas las chorradas que me envían por el Facebook son una pérdida de tiempo, que para Tuenti se me pasó el arroz, que Youtube lo visito cuando me pasan algo, menéame lo uso menos que reddit y solo para perder mi tiempo (escaso, la verdad).</description>
+    </item>
+    
+    <item>
+      <title>El Cloud Computing y los cansinos de la web 2.0</title>
+      <link>https://nubeblog.com/2008/10/31/el-cloud-computing-y-los-cansinos-de-la-web-20/</link>
+      <pubDate>Fri, 31 Oct 2008 18:27:59 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/31/el-cloud-computing-y-los-cansinos-de-la-web-20/</guid>
+      <description>Si algo tengo claro es que cualquier intento de adivinar el futuro en el mundo de las IT es una tarea inútil.
+Hay que ver la facilidad con que se mezclan conceptos y palabros en esto de las Tecnologías de Información. Llevo bastante tiempo metido en cosas como el Cloud Computing (el palabro es nuevo, el concepto no) y mi vida lleva varios años inmersa de una manera u otra dentro de la web 2.</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 for europeans: Bye bye latency issues</title>
+      <link>https://nubeblog.com/2007/11/06/amazon-s3-for-europeans-bye-bye-latency-issues/</link>
+      <pubDate>Tue, 06 Nov 2007 13:06:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/06/amazon-s3-for-europeans-bye-bye-latency-issues/</guid>
+      <description>Werner Vogels -the Amazon CTO- has just announced in his blog the availability of the S3 storage for Amazon European servers. This is good news because it means that Amazon thinks globally. The customer experience can improve if the latency is very low because of the fastest load of pages and static content.</description>
+    </item>
+    
+    <item>
+      <title>Social bugfixing tool: Can corank.com work?</title>
+      <link>https://nubeblog.com/2007/11/05/social-bugfixing-tool-can-corank-com-work/</link>
+      <pubDate>Mon, 05 Nov 2007 18:19:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/05/social-bugfixing-tool-can-corank-com-work/</guid>
+      <description>When you start with a third party open source library or project, first thing you do is to check the its activity. If the project is dead or it’s a zombie (somebody still there just to make questions in the forums) then it’s better to start looking for a new one.
+If the project is active and you decide to use it, sometimes (well, most of the times) you cannot dedicate time to give your feedback to the project.</description>
+    </item>
+    
+    <item>
+      <title>Preezo: another Microsoft Powerpoint killer</title>
+      <link>https://nubeblog.com/2007/08/09/preezo-another-microsoft-powerpoint-killer/</link>
+      <pubDate>Thu, 09 Aug 2007 17:32:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/09/preezo-another-microsoft-powerpoint-killer/</guid>
+      <description>Today I have discover Preezo, another web 2.0 presentations tool that looks like a killer for MicrosofPowerpoint.
+The interface is mixture between Writely(sorry, Google Docs) and Microsoft Powerpoint. It’s surprisingly fast (faster than Google Docs) and you can build simple presentations very fast. If you are familiar with MS powerpointthen you can build a presentation easily.
+The application allows to send by email the presentation, publish on the web and broadcast to the net and it’s also possible to embed it inside a HTML page just like any other web 2.</description>
+    </item>
+    
+  </channel>
+</rss>

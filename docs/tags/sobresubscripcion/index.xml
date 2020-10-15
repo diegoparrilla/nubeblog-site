@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sobresubscripcion on Nubeblog</title>
+    <link>https://nubeblog.com/tags/sobresubscripcion/</link>
+    <description>Recent content in sobresubscripcion on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 16 Sep 2010 01:39:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/sobresubscripcion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Qué es la sobresuscripción en el Cloud Computing</title>
+      <link>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</guid>
+      <description>Hace un par de días escribí un post sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.
+¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada.</description>
+    </item>
+    
+  </channel>
+</rss>

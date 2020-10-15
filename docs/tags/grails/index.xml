@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grails on Nubeblog</title>
+    <link>https://nubeblog.com/tags/grails/</link>
+    <description>Recent content in grails on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 20 Feb 2008 00:08:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/grails/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The grails diaries #5: Do you need a software architect?</title>
+      <link>https://nubeblog.com/2008/02/20/the-grails-diaries-5-do-you-need-a-software-architect/</link>
+      <pubDate>Wed, 20 Feb 2008 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/20/the-grails-diaries-5-do-you-need-a-software-architect/</guid>
+      <description>Previous: Grails, is it really worth it?
+I think there is a general misunderstanding of what kind of value can give Grails to a development shop. It seems that there are people out there that believe Grails, RoR and other breeds mean the end of Software Architectures in the web layer. The reasoning is: if the workload to develop a web application is shorter probably it means we need less skilled developers to code our applications.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #4: Grails, is it really worth it?</title>
+      <link>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</guid>
+      <description>Previous: How Grails will change my project plan
+I wanted to post my impressions and thoughts about Grails before, but you don’t know how the events in your life can twist your plans: a delay in the delivery of the HTML designer, a flu followed by a nephritic colic, a laptop dying with all your development environment inside, the wrap up in Amplía, the Christmas holidays and my new start in The Server Labs.</description>
+    </item>
+    
+    <item>
+      <title>G2One.com: following the path of Interface21 and 37Signals for Grails</title>
+      <link>https://nubeblog.com/2007/10/11/g2one-com-following-the-path-of-interface21-and-37signals-for-grails/</link>
+      <pubDate>Thu, 11 Oct 2007 09:37:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/11/g2one-com-following-the-path-of-interface21-and-37signals-for-grails/</guid>
+      <description>Today I have discovered the existence of G2One.com. This is the company created by the people behind Grails. Following the business model ‘It is all about the Services, stupid!’ they have jumped into the bandwagon of companies that:
+ create a framework work hard to make it first class create or find a necessity in the community offer their services as gurus to the companies  37signals is the paradigm of this approach (they created Rails).</description>
+    </item>
+    
+    <item>
+      <title>Linkedin looking for Grails developers</title>
+      <link>https://nubeblog.com/2007/10/09/linkedin-looking-for-grails-developers/</link>
+      <pubDate>Tue, 09 Oct 2007 10:15:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/09/linkedin-looking-for-grails-developers/</guid>
+      <description>I have received information about open positions in Linkedin for Grails developers. This is very interesting because it seems that big companies have realized of the potential of Grails.
+I think Linkedin is the biggest professional network site with more than 14 million users (Via wikipedia).
+It sounds like a very interesting place to work, a pity I’m not in the Bay Area. 🙁</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #3: How Grails will change my project plan</title>
+      <link>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</link>
+      <pubDate>Tue, 09 Oct 2007 09:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</guid>
+      <description>Previous: Setting up the development environment
+The strategy One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #2: Setting up the development environment</title>
+      <link>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</link>
+      <pubDate>Thu, 04 Oct 2007 01:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</guid>
+      <description>Previous: JRuby on Rails or Grails?
+Once I have explained why I will use Grails I will go deeper in the development environment.
+Methodology: Scrum One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries: JRuby on Rails or Grails?</title>
+      <link>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</link>
+      <pubDate>Mon, 01 Oct 2007 15:27:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</guid>
+      <description>I must admit it: I’m weak. During last two years I have been trying to avoid the dark attraction of Ruby on Rails. And it was hard. I have been searching for almost seven years something that alleviates my feeling of waste of time when developing a Web user interface. And I have been promiscuous, believe me. I have tried everything in the Java world: Tapestry, Velocity, Cocoon,Altio, GWT, Flex, Laszlo… I even tried ASP.</description>
+    </item>
+    
+  </channel>
+</rss>

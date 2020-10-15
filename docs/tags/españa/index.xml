@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>españa on Nubeblog</title>
+    <link>https://nubeblog.com/tags/espa%C3%B1a/</link>
+    <description>Recent content in españa on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 14 Dec 2010 12:17:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/espa%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El 51% de los CIOs españoles apuesta por el Cloud Computing</title>
+      <link>https://nubeblog.com/2010/12/14/el-51-de-los-cios-espanoles-apuesta-por-el-cloud-computing/</link>
+      <pubDate>Tue, 14 Dec 2010 12:17:38 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/14/el-51-de-los-cios-espanoles-apuesta-por-el-cloud-computing/</guid>
+      <description>Cisco ha publicado un informe denominado Cisco Connected World Report. Una parte de este informe trata sobre las tendencias y la evolución del departamento de tecnología para satisfacer las demandas de los profesionales móviles. Entre los datos cabe destacar las tendencias hacia la Virtualización, el Cloud Computing en el Centro de Datos.
+Este estudio de la consultora Insight Express entre 2.600 trabajadores y profesionales de TI de 13 países, desvela que el 52 por ciento de los profesionales de TI ya están utilizando o pretenden sumarse a la informática en la nube, encontrando los mayores ratios de adopción en Brasil (70 por ciento), China (69 por ciento) e India (76 por ciento).</description>
+    </item>
+    
+    <item>
+      <title>¿Está preparada España para el Cloud Computing?</title>
+      <link>https://nubeblog.com/2009/03/12/%c2%bfesta-preparada-espana-para-el-cloud-computing/</link>
+      <pubDate>Thu, 12 Mar 2009 11:33:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/12/%c2%bfesta-preparada-espana-para-el-cloud-computing/</guid>
+      <description>Ayer acudí a POINTIC, un evento organizado por Informática el Corte Inglés (IECISA) y el grupo IDC. El evento se anunciaba como “El punto de encuentro para la innovación en la empresa”. Marqué como objetivo antes de ir al evento el conocer cómo ven las empresas mas ‘tradicionales’ españolas el Cloud Computing, si es que lo ven. Sostengo la teoría siguiente: en España se tardan aproximadamente de 18 a 24 meses en adoptar aquello que es innovador respecto a los paises (anglosajones normalmente) que marcan la pauta en soluciones IT.</description>
+    </item>
+    
+  </channel>
+</rss>

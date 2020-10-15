@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medios on Nubeblog</title>
+    <link>https://nubeblog.com/categories/medios/</link>
+    <description>Recent content in medios on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 01 Sep 2010 09:13:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/medios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&amp;#8220;Trabajar en la Nube&amp;#8221;, podcast de &amp;#8220;En días como hoy&amp;#8221; de RNE</title>
+      <link>https://nubeblog.com/2010/09/01/trabajar-en-la-nube-podcast-de-en-dias-como-hoy-de-rne/</link>
+      <pubDate>Wed, 01 Sep 2010 09:13:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/01/trabajar-en-la-nube-podcast-de-en-dias-como-hoy-de-rne/</guid>
+      <description>Estas son las cosas que uno no puede hacerle a una madre: sales por la radio en un programa de esos de campanillas y no le dices nada. Pero lo peor es que se entere por alguna de sus amigas…
+“En días como hoy” el programa de la mañana de Juan Ramón Lucas me entrevistó para su programa. El tema claro está era hablar de La Nube. Aunque la entrevista está editada y solo salgo 30 segundos al final, ya puedo presumir de mi momento de gloria en ‘prime time’.</description>
+    </item>
+    
+    <item>
+      <title>Los 20 magníficos (proveedores) de Cloud Computing según Nicholas Carr</title>
+      <link>https://nubeblog.com/2009/01/09/los-20-magnificos-proveedores-de-cloud-computing-segun-nicholas-carr/</link>
+      <pubDate>Fri, 09 Jan 2009 10:00:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/09/los-20-magnificos-proveedores-de-cloud-computing-segun-nicholas-carr/</guid>
+      <description>Nicholas Carr acaba de sacar una nueva versión del libro de cabecera sobre Cloud Computing, “The Big Switch”. Esta nueva edición con tapas blandas trae un nuevo capítulo llamado ‘The Cloud 20’. En este capítulo el autor analiza 20 compañias líderes en el mundo del Cloud. Y aquí es donde se ha creado la controversia. Al igual que cuando un seleccionador no convoca a un jugador sus seguidores se enfadan, lo mismo ha pasado con esta selección.</description>
+    </item>
+    
+    <item>
+      <title>InformationWeek nombra a Werner Vogels (Amazon) CTO del año</title>
+      <link>https://nubeblog.com/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/</link>
+      <pubDate>Fri, 26 Dec 2008 11:46:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/</guid>
+      <description>Information Week ha elegido a Werner Vogels Chief of The Year. Werner Vogels es el Chief Technology Officer the Amazon, y uno de los responsables del éxito de Amazon Web Services. Werner Vogels se unió al equipo de Amazon en 2004. Holandés, tiene un doctorado por la universidad Vrije de Amsterdam (la misma de Tanenbaum ¿Casualidad? pues mira que no lo creo…). Antes de unirse a Amazon estuvo investigando sobre Grandes Sistemas Distribuidos en la Universidad de Cornell.</description>
+    </item>
+    
+    <item>
+      <title>Plugintothecloud.com es la apuesta de InformationWeek por el Cloud Computing</title>
+      <link>https://nubeblog.com/2008/10/19/plugintothecloudcom-es-la-apuesta-de-informationweek-por-el-cloud-computing/</link>
+      <pubDate>Sun, 19 Oct 2008 18:05:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/19/plugintothecloudcom-es-la-apuesta-de-informationweek-por-el-cloud-computing/</guid>
+      <description>Plug Into The Cloud es el nuevo sitio web creado por InformationWeek dedicado a las noticias, análisis y opinión sobre Cloud Computing. Tal como anuncian en su sitio web.
+Hemos creado este sitio para atender la creciente demanda entre los profesionales IT, para entender mejor lo que significa esta tendencia para ellos y sus empresas. Esta semana, Gartner ha puesto Cloud Computing como la segunda tecnología estratégica de 2009, después de virtualización.</description>
+    </item>
+    
+  </channel>
+</rss>

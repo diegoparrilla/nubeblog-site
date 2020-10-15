@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2010 on Nubeblog</title>
+    <link>https://nubeblog.com/tags/2010/</link>
+    <description>Recent content in 2010 on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 31 Dec 2010 01:42:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los post más leidos de 2010 en Nubeblog</title>
+      <link>https://nubeblog.com/2010/12/31/los-post-mas-leidos-en-2010-en-nubeblog/</link>
+      <pubDate>Fri, 31 Dec 2010 01:42:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/31/los-post-mas-leidos-en-2010-en-nubeblog/</guid>
+      <description>Vamos a darnos un poco de autobombo. Aquí tenéis los post más leidos de 2010. A destacar que algunas entradas tienen más de dos años de antigüedad, pero gracias a Google las tenemos en lo más alto:
+ Cuidado con Foursquare SaaS, IaaS y PaaS: Las tres clases de Cloud Computing La muerte del Administrador de Sistemas y el nacimiento de los ‘Devops’ Por qué Amazon Web Services sí tiene éxito, y Google App Engine no Los 20 magníficos (proveedores) de Cloud Computing según Nicholas Carr Wikileaks expulsado de Amazon: Las Nubes no son ni neutrales ni abiertas Algunas conclusiones del evento de IDC sobre Cloud Computing ¿Está preparada España para el Cloud Computing?</description>
+    </item>
+    
+  </channel>
+</rss>

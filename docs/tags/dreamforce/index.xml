@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dreamforce on Nubeblog</title>
+    <link>https://nubeblog.com/tags/dreamforce/</link>
+    <description>Recent content in dreamforce on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 20 Nov 2009 03:49:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/dreamforce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dreamforce 2009, día 2</title>
+      <link>https://nubeblog.com/2009/11/20/dreamforce-2009-dia-2/</link>
+      <pubDate>Fri, 20 Nov 2009 03:49:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/11/20/dreamforce-2009-dia-2/</guid>
+      <description>El segundo día del evento ha comenzado con otra Keynote dedicada a la plataforma Force.com. De nuevo Marc Benioff en el escenario haciendo de maestro de ceremonias (se le ve en su salsa) presentándonos las bondades del producto.
+Antes de seguir, comentar algo que discutimos algunos colegas el día anterior: ¿Es realmente Salesforce una empresa CRM o ya no lo es y su negocio es las plataformas? ¿Debería cambiarse el nombre a ‘Force’ en vez de Salesforce.</description>
+    </item>
+    
+    <item>
+      <title>Dreamforce 2009, El evento Cloud de Salesforce</title>
+      <link>https://nubeblog.com/2009/11/11/dreamforce-2009-el-evento-cloud-de-salesforce/</link>
+      <pubDate>Wed, 11 Nov 2009 22:21:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/11/11/dreamforce-2009-el-evento-cloud-de-salesforce/</guid>
+      <description>El día 17 de Noviembre se celebra en San Francisco uno de los eventos de Cloud Computing más importantes del mundo, Dreamforce 2009. Este evento gira alrededor de los productos que Salesforce.com ha desarrollado para La Nube. Para el que no lo sepa, Salesforce.com fue uno de los pioneros del Software as a Service -antes de que se llamase SaaS-, y es uno de las empresas que más ha apostado por el Software y las Plataformas como Servicios.</description>
+    </item>
+    
+  </channel>
+</rss>

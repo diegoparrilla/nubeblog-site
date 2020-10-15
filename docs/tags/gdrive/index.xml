@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gdrive on Nubeblog</title>
+    <link>https://nubeblog.com/tags/gdrive/</link>
+    <description>Recent content in gdrive on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 04 Feb 2009 15:27:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/gdrive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parascale, una solución de Almacenamiento en Nubes Privadas competitiva</title>
+      <link>https://nubeblog.com/2009/02/04/parascale-una-solucion-de-private-storage-clouds-competitiva/</link>
+      <pubDate>Wed, 04 Feb 2009 15:27:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/04/parascale-una-solucion-de-private-storage-clouds-competitiva/</guid>
+      <description>El mundo de almacenamiento en La Nube anda un poco acelarado ante el inminente (¿o no tan inminente?) lanzamiento por parte de Google de su GDrive. Si a esto le sumamos la agitación alrededor de las Nubes Privadas, tenemos un nuevo concepto muy interesante: Private Storage Clouds o Almacenamiento en Nubes Privadas.
+La diferencia frente a los sistemas de almacenamiento empresarial tradicional en las Storage Area Networks (SAN), es el uso de hardware y software commoditiziedcommoditized que permte almacenar grandes cantidades de información con tiempos de acceso muy competitivos (y próximos al de las soluciones en red) con unos costes mucho menores.</description>
+    </item>
+    
+    <item>
+      <title>¿Para qué quiere Google GDrive?</title>
+      <link>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</link>
+      <pubDate>Mon, 02 Feb 2009 00:24:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/02/%c2%bfpara-que-quiere-google-gdrive/</guid>
+      <description>Uno de mis blogs favoritos es SmoothSpan Blog. Su autor, Bob Warfield es un exempleado de Borland, con larga experiencia en el mundo de las ITs, especialmente en el SaaS y el Cloud Computing. Ha dado una vuelta de tuerca a la inminente aparición de GDrive, y sus conclusiones son sorprendentes.
+El concepto detrás de Google GDrive no es nuevo, hay productos similares en el mercado, a saber:
+ Skybox de Microsoft MobileMe de Apple Mozy de EMC (ahora Decho) Jundle Disk (comprado recientemente por Rackspace) Dropbox  Y hay más.</description>
+    </item>
+    
+  </channel>
+</rss>

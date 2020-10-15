@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iphone on Nubeblog</title>
+    <link>https://nubeblog.com/tags/iphone/</link>
+    <description>Recent content in iphone on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 12 Nov 2007 22:36:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</title>
+      <link>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</link>
+      <pubDate>Mon, 12 Nov 2007 22:36:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/</guid>
+      <description>Sometimes you only need to wait to understand why things happen. When Steve Jobs said ‘Java is not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’, we were surprised and disappointed because like me a lot of people think that there is still room for Java in the mobile platforms. Of course we have J2ME, but we can do very few things with it. What we need is a full J2SE stack for mobiles.</description>
+    </item>
+    
+    <item>
+      <title>Google Phone OS Java based?</title>
+      <link>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</link>
+      <pubDate>Tue, 04 Sep 2007 18:47:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/04/google-phone-os-java-based/</guid>
+      <description>I have just read this post in Engadget about rumours of the Google Phone. I will highlight this: ‘…the phone will run on a Linux variant (which is nothing new), and will be Java Virtual Machine-capable. Additionally, the OS of the phone will be Java-based (as well as the all phone apps itself), and performance is said to be “very responsive.”‘It seems the GPhone will look like a Palm Treo or Blackberry with a screen smaller than the IPhone.</description>
+    </item>
+    
+    <item>
+      <title>Bad times for J2ME. How the iPhone with Web 2.0 apps can rule in the mobile world</title>
+      <link>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</link>
+      <pubDate>Wed, 22 Aug 2007 12:46:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</guid>
+      <description>The day Steve Jobs said ‘Java’s not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’ . Being a Java Zealot as I am, I should find easily a fist full of arguments, but may be he is right.
+I have been working in the embedded and mobile world for almost four years in Amplia, and I can tell you that Java is far from being the best option for mobile and embedded development.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nexica on Nubeblog</title>
+    <link>https://nubeblog.com/tags/nexica/</link>
+    <description>Recent content in nexica on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 15 Dec 2010 10:47:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/nexica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¡Es la Agilidad, estúpido!</title>
+      <link>https://nubeblog.com/2010/12/15/es-la-agilidad-estupido/</link>
+      <pubDate>Wed, 15 Dec 2010 10:47:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/15/es-la-agilidad-estupido/</guid>
+      <description>La semana pasada tuve una comida de hermanamiento con grandes Gurús del Cloud Computing patrio. Compartir mesa, mantel y Ribera del Duero con tan insignes personalidades, además de un honor es un privilegio. Creo recordar que no conseguimos resolver los problemas de portabilidad y de interoperabilidad entre las Nubes de diferentes fabricantes (¿o igual si? Bueno, no me acuerdo…), pero pasamos un buen rato.
+Entre mil batallitas e historias memorables, surgió una cuestión: los modelos económicos para ‘vender’ el Cloud Computing.</description>
+    </item>
+    
+  </channel>
+</rss>

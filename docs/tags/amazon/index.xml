@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazon on Nubeblog</title>
+    <link>https://nubeblog.com/tags/amazon/</link>
+    <description>Recent content in amazon on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 10 Aug 2011 10:55:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El otro efecto Menéame</title>
+      <link>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</guid>
+      <description>Reconozco que una de mis aficiones favoritas es procrastinar trolleando en los comentarios de las noticias de Menéame. Aunque supongo que todo el mundo lo sabe, Menéame es el conocido clon hispano de Digg, el servicio a enlace de noticias gestionado por los usuarios (envían las que le gustan, y votan otras que les interesan). El pasado domingo intenté conectarme a Menéame después de pasar por varios periódicos online, y me encuentro con el sitio caído.</description>
+    </item>
+    
+    <item>
+      <title>Amazoned</title>
+      <link>https://nubeblog.com/2011/02/08/amazoned/</link>
+      <pubDate>Tue, 08 Feb 2011 13:33:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/02/08/amazoned/</guid>
+      <description>Hace unos días recibí un correo de una empresa bastante conocida que rayaba en el SPAM. Nada del otro mundo, pero leyendo la entrada del blog que recomendaban, me quedé con una frase que vengo dando vueltas desde hace varios días:
+ No one wants to be amazoned.
+ ¿Amazoned? Y entonces vinieron a mi mente recuerdos de épocas pasadas, de burbujas puntocom, de Consejeros Delegados de bancos sin corbata en First Tuesdays glamurosos y no como los de ahora, de Business 2.</description>
+    </item>
+    
+    <item>
+      <title>Amazon anuncia nuevas instancias desde $7 al mes</title>
+      <link>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</guid>
+      <description>La semana pasada Amazon anunció unas nuevas instancias denominadas ‘microinstancias’ en su servicio de computación en la nube Amazon EC2. Estas nuevas instancias ofrecen 613MB de RAM por un precio $0.02 la hora. Es decir, unos $14 al mes, unos €11 mensuales.
+¿Pero cómo consiguen esta gente ofrecer un precio como este? Bueno, hay letra pequeña y no tan pequeña. Se puede hacer porque este servicio tiene ciertas características que lo diferencian de una instancia tradicional EC2:</description>
+    </item>
+    
+    <item>
+      <title>Por qué dejo de usar Amazon EC2</title>
+      <link>https://nubeblog.com/2010/09/02/por-que-dejo-de-usar-amazon-ec2/</link>
+      <pubDate>Thu, 02 Sep 2010 11:55:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/02/por-que-dejo-de-usar-amazon-ec2/</guid>
+      <description>Cuando alguien anuncia en un blog o alguna red social que deja un servicio la mayoría de las veces tiene que ver con una mala experiencia con el servicio, o una mala experiencia con el Servicio de Atención al Cliente. En este caso, no ha ocurrido ninguna de estas dos cosas.
+Más bien todo lo contrario, mi experiencia usando Amazon EC2 en estos tres últimos años ha sido magnífica. La disponibilidad del servicio si no me equivoco ha sido del 100% o rozándolo.</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 RRS: una versión más barata de S3 con menor &amp;#8216;durabilidad&amp;#8217;</title>
+      <link>https://nubeblog.com/2010/05/19/amazon-s3-rrs-una-version-mas-barata-de-s3-con-menor-durabilidad/</link>
+      <pubDate>Wed, 19 May 2010 10:03:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/19/amazon-s3-rrs-una-version-mas-barata-de-s3-con-menor-durabilidad/</guid>
+      <description>Amazon Web Services acaba de anunciar un nuevo servicio llamado Amazon S3 Reduced Redundancy Storage (RRS). ¿Y qué es esto? Pues en sus palabras, este nuevo servicio permite a los clientes reducir sus costes guardando informacion no tan crítica en un servicio de almacenamiento similar a S3 pero con menores niveles de redundancia. Parece que es un servicio interesante para quien almacenar información temporal o que se encuentra ya almacenada en otro sitio.</description>
+    </item>
+    
+    <item>
+      <title>Magnífico post sobre cómo comprometer la seguridad de Amazon Web Services</title>
+      <link>https://nubeblog.com/2009/09/01/magnifico-post-sobre-como-comprometer-la-seguridad-de-amazon-web-services/</link>
+      <pubDate>Tue, 01 Sep 2009 13:06:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/01/magnifico-post-sobre-como-comprometer-la-seguridad-de-amazon-web-services/</guid>
+      <description>Yago Jesús, uno de los bloggers de SecurityByDefault y enorme experto en seguridad me pasa un post de una presentación que se hizo en el Black Hat’09 en la que se muestra como implementar un ataque DoS contra la Nube de Amazon (Amazon EC2) y cómo meter una imagen AMI maliciosa en su repositorio de imágenes.
+Para el Denial of Service lo que hacen es generar de manera automática cuentas nuevas de usuario en Amazon AWS, y lanzar las 20 máquinas que tiene cada servicio.</description>
+    </item>
+    
+    <item>
+      <title>Amazon anuncia su Virtual Private Cloud, o como decir Privada cuando debería decir Pública</title>
+      <link>https://nubeblog.com/2009/08/26/amazon-anuncia-su-virtual-private-cloud-o-como-decir-privada-cuando-deberia-decir-publica/</link>
+      <pubDate>Wed, 26 Aug 2009 08:02:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/26/amazon-anuncia-su-virtual-private-cloud-o-como-decir-privada-cuando-deberia-decir-publica/</guid>
+      <description>Reconozco que esta noticia la conocía desde Abril, así que no me ha sorprendido. Tampoco voy a decir que tenía preparado un post al respecto, pero casi. Hoy Amazon ha anunciado un nuevo servicio llamado Amazon Virtual Private Cloud. Y por ese nombre cualquiera diría que Amazon va a vender su software de infrastructure para que cada uno de nosotros montemos nuestro Cloud Privado en nuestro datacenter. Pero no, no es eso… aunque quieren que lo parezca.</description>
+    </item>
+    
+    <item>
+      <title>Resumen Cloud Computing Workshop</title>
+      <link>https://nubeblog.com/2009/04/05/resumen-cloud-computing-workshop/</link>
+      <pubDate>Sun, 05 Apr 2009 15:38:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/05/resumen-cloud-computing-workshop/</guid>
+      <description>El pasado jueves celebramos en las instalaciones de la CAN en Juan Bravo 3 el Cloud Computing Workshop de Madrid.
+En el invitado estelar era Simone Brunozzi, Amazon Web Service Evangelist para Europa, que nos ha mostrado el funcionamiento de los diferentes servicios de Cloud Computing de Amazon. Ha hecho demostraciones en directo de Amazon Elastic Compute Cloud (EC2) y Amazon Simple Storage Service (S3). Muchos de los asistentes al evento ya conocían estos servicios, por lo que se han lanzado a hacer preguntas con bastante nivel técnico, y la verdad es que Simone ha estado a la altura respondiendo a todas con soltura y cintura.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing Workshop en Madrid con Amazon y Abiquo</title>
+      <link>https://nubeblog.com/2009/03/25/cloud-computing-workshop-en-madrid-con-amazon-y-abiquo/</link>
+      <pubDate>Wed, 25 Mar 2009 09:20:23 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/25/cloud-computing-workshop-en-madrid-con-amazon-y-abiquo/</guid>
+      <description>El Cloud Computing Workshop de Madrid es un evento gratuito pensado para todos aquellos desarrolladores, arquitectos, jefes de proyecto y directores de tecnología que quieran saber más sobre las posibilidades de este nuevo paradigma de la mano de uno de los actores principales del mercado como Amazon Web Services, y de una de las empresas que apuestan por el código abierto para crear Nubes Privadas.
+Amazon Web Services (AWS) es una colección de servicios remotos de computación ofrecidos por internet por Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Amazon y su nuevo servicio de reserva de instancias para EC2</title>
+      <link>https://nubeblog.com/2009/03/17/amazon-y-su-nuevo-servicio-de-reserva-de-instancias-para-ec2/</link>
+      <pubDate>Tue, 17 Mar 2009 11:10:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/17/amazon-y-su-nuevo-servicio-de-reserva-de-instancias-para-ec2/</guid>
+      <description>Ya se que han pasado unos cuantos días de esta noticia, pero quería escribir un poco sobre ella ya que implica un cambio radical en el posicionamiento de Amazon Web Services, y creo que vale la pena analizarlo.
+La semana pasada Amazon Web Services anunció que permitirá reservar instancias de su servicio Elastic Computing Cloud (EC2 para los amigos) mediante prepagos por período de uno y tres años. La newsletter dice: “Es una opción para hacer un pago único más barato para reservar capacidad y por lo tanto reducir los cargos por hora de uso.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte IV y final</title>
+      <link>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</link>
+      <pubDate>Thu, 19 Feb 2009 13:54:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/19/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iv-y-final/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte III
+Para concluir, los autores nos muestran el ‘Top Ten’ de los impedimentos para la adopción del Cloud Computing, tanto tecnológicos como de negocio:
+1.- Disponibilidad del Servicio
+Según los autores, los clientes tienen miedo a no tener un nivel de servicio adecuado.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte III</title>
+      <link>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</link>
+      <pubDate>Wed, 18 Feb 2009 10:46:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/18/la-vision-de-berkeley-sobre-el-cloud-computing-parte-iii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Ir a La visión de Berkeley sobre el Cloud Computing. Parte II
+La migración a un modelo de Cloud Computing o bien empezar una empresa directamente aprovechando las ventajas de este modelo no solo es una cuestión técnica; es también una cuestión de recursos económicos.
+La elasticidad y la transferencia del riesgo
+Los autores argumentan que la frase “Convertir CapEx a OpEx” se usa habitualmente como argumento de venta del Cloud Computing, “pay as you go” (paga por lo que usas no es una traducción exacta, pero nos vale…) captura mejor la esencia de los beneficios económicos del Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte II</title>
+      <link>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</link>
+      <pubDate>Tue, 17 Feb 2009 00:05:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/17/la-vision-de-berkeley-sobre-el-cloud-computing-parte-ii/</guid>
+      <description>Ir a La visión de Berkeley sobre el Cloud Computing. Parte I
+Los siguientes capítulos del documento tratan un asunto que suele salir en conversaciones informales pero que normalmente pasamos por alto: Por qué despega ahora el Cloud Computing, y por qué fallo antes.
+**¿Por qué ahora Cloud Computing y antes no?
+**
+Para los autores la razón está detras de algo que según ellos acompaña a los modelos de negocio Web 2.</description>
+    </item>
+    
+    <item>
+      <title>La visión de Berkeley sobre el Cloud Computing. Parte I</title>
+      <link>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</link>
+      <pubDate>Mon, 16 Feb 2009 11:27:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/16/la-vision-de-berkeley-sobre-el-cloud-computing-parte-i/</guid>
+      <description>Hace unos días recibí un correo indicándome que debía comentar un estudio que circula por la red hecho por la Universidad de Berkeley sobre el estado actual del Cloud Computing. Al leerlo me di cuenta que era un documento que necesita un análisis más detallado que mis habituales 300-500 palabras por post. Por suerte, muchos de los temas tratados ya han sido comentados en el blog, pero merece la pena dar un repaso.</description>
+    </item>
+    
+    <item>
+      <title>Acuerdo entre IBM y Amazon Web Services</title>
+      <link>https://nubeblog.com/2009/02/12/acuerdo-entre-ibm-y-amazon-web-services/</link>
+      <pubDate>Thu, 12 Feb 2009 09:56:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/12/acuerdo-entre-ibm-y-amazon-web-services/</guid>
+      <description>IBM y Amazon Web Services acaban de anunciar un acuerdo por el cual IBM publicará en el repositorio público de imágenes (AMI) para EC2 el siguiente conjunto de aplicaciones bajo licencia de desarrollo:
+ IBM DB2,  IBM Informix,  IBM WebSphere sMash,  IBM Lotus Web Content Management,  IBM WebSphere Portal Server.  Esta es la lista inicial, pero IBM tiene la intención de que crezca en próximas fechas.</description>
+    </item>
+    
+    <item>
+      <title>Nuevo plan de precios para Amazon CloudFront</title>
+      <link>https://nubeblog.com/2009/01/28/nuevo-plan-de-precios-para-amazon-cloudfront/</link>
+      <pubDate>Wed, 28 Jan 2009 15:54:16 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/28/nuevo-plan-de-precios-para-amazon-cloudfront/</guid>
+      <description>Amazon CloudFront, la Content Delivery Network de Amazon ha cambiado su plan de precios, y ahora hay descuentos para aquellos clientes que superen los 250Tb de transferencia de datos. Estos descuentos se dirigen a grandes clientes, evidentemente.
+El antiguo plan de precios para USA era:
+ United States Edge Locations Data Transfer $0.170 per GB – first 10 TB / month data transfer out
+  $0.120 per GB – next 40 TB / month data transfer out</description>
+    </item>
+    
+    <item>
+      <title>Los riesgos del escalado automático: EDoS (Economic Denial of Sustainability)</title>
+      <link>https://nubeblog.com/2009/01/27/los-riesgos-del-escalado-automatico-edos-economic-denial-of-sustainability/</link>
+      <pubDate>Tue, 27 Jan 2009 00:08:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/27/los-riesgos-del-escalado-automatico-edos-economic-denial-of-sustainability/</guid>
+      <description>Hace unos meses leí un artículo (que no he podido encontrar) sobre un pobre tipo que había montado una startup y utilizaba Amazon S3 para servir contenido estático. Todo le iba de maravilla hasta que un mes le llegó una factura absolutamente descomunal por el servicio. Tan grande era que tuvo que cerrar el sitio. Investigando qué había pasado, descubrió que alguien se había dedicado a hacer peticiones a sus ficheros alojados en S3 de manera continuada y masiva, sin hacer uso real de su servicio.</description>
+    </item>
+    
+    <item>
+      <title>Hazte un secuestrador y monta en Amazon EC2 un cliente bittorrent con tus amigos</title>
+      <link>https://nubeblog.com/2009/01/26/hazte-un-secuestrador-y-monta-en-amazon-ec2-un-cliente-bittorrent-con-tus-amigos/</link>
+      <pubDate>Mon, 26 Jan 2009 08:00:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/26/hazte-un-secuestrador-y-monta-en-amazon-ec2-un-cliente-bittorrent-con-tus-amigos/</guid>
+      <description>Cual Inspector Clouseau, llega un tio y suelta esto en ComputerWorld.com en plan profeta del Apocalipsis: “Amazon cloud could be hijacked to harvest BitTorrent files, researcher says” (La Nube de Amazon podría ser secuestrada para cultivar ficheros BitTorrent, dice un investigador). Tras leer esto todas mis alertas se encendieron y puse la máxima atención ya que si efectivamente ‘alguien’ puede ‘secuestrar’ La Nube de Amazon, eso es muy serio. Pero no se preocupen, mis queridos lectores, que aquí nadie secuestra, ni cultiva, ni nada… Aquí lo que hay es una falta de rigor que asusta.</description>
+    </item>
+    
+    <item>
+      <title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</title>
+      <link>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</link>
+      <pubDate>Fri, 23 Jan 2009 10:04:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</guid>
+      <description>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</description>
+    </item>
+    
+    <item>
+      <title>Nueva consola de gestión de Amazon EC2: la difícil tarea de sobrevivir en el ecosistema AWS</title>
+      <link>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</link>
+      <pubDate>Mon, 12 Jan 2009 15:14:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</guid>
+      <description>El pasado viernes recibí un bonito correo que me invitaba a probar la nueva beta de la consola de gestión de Amazon Web Services. La primera versión es una consola para EC2, aunque quieren expandirla a todos los servicios de Amazon Web Services. Luego mi vida paso a ser un infierno de nieve y atascos, y así nos quedamos durante buena parte del día.
+Lo cierto es que ya se ha hablado de ella bastante en los últimos días, así que hoy no voy a hacer una revisión en profundidad.</description>
+    </item>
+    
+    <item>
+      <title>InformationWeek nombra a Werner Vogels (Amazon) CTO del año</title>
+      <link>https://nubeblog.com/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/</link>
+      <pubDate>Fri, 26 Dec 2008 11:46:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/</guid>
+      <description>Information Week ha elegido a Werner Vogels Chief of The Year. Werner Vogels es el Chief Technology Officer the Amazon, y uno de los responsables del éxito de Amazon Web Services. Werner Vogels se unió al equipo de Amazon en 2004. Holandés, tiene un doctorado por la universidad Vrije de Amsterdam (la misma de Tanenbaum ¿Casualidad? pues mira que no lo creo…). Antes de unirse a Amazon estuvo investigando sobre Grandes Sistemas Distribuidos en la Universidad de Cornell.</description>
+    </item>
+    
+    <item>
+      <title>Amazon SimpleDB pasa a beta pública con importantes descuentos</title>
+      <link>https://nubeblog.com/2008/12/02/amazon-simpledb-pasa-a-beta-publica-con-importantes-descuentos/</link>
+      <pubDate>Tue, 02 Dec 2008 10:02:39 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/02/amazon-simpledb-pasa-a-beta-publica-con-importantes-descuentos/</guid>
+      <description>Durante la revisión matutina de mis feeds este Lunes, pude leer la siguiente noticia en el Amazon Web Services Blog: Amazon SimpleDB Grows up. Al pinchar sobre el enlace para leer el contenido en la web y no en el Google Reader, me dió un 404. Alguien en Amazon se había colado y había publicado el post antes de tiempo, cuando lo retiraron ya era demasiado tarde y era parte de la caché de Google.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Hosted Public Datasets: Vislumbrando nuevos modelos de negocio</title>
+      <link>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</link>
+      <pubDate>Tue, 25 Nov 2008 09:05:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</guid>
+      <description>Amazon ha anunciado la publicación de repositorios públicos de datos, accesibles únicamente desde sus entornos EC2. Es decir, puedes montar estos datos en su ‘Nube’ y usarlos como quieras sin pagar nada, únicamente el tiempo de uso de las instancias EC2. Según dicen:
+ Nuestra meta es proveer un acceso sencillo a datos de datos públicos y comunes como el genoma humano, astronomía y al censo de los USA.
+ Además si tienes un conjunto de datos interesante, puedes solicitar su publicación y donar los datos a la comunidad.</description>
+    </item>
+    
+    <item>
+      <title>Por fin llegó: CloudFront, la Content Delivery Network de Amazon</title>
+      <link>https://nubeblog.com/2008/11/19/por-fin-llego-cloudfront-la-content-delivery-network-de-amazon/</link>
+      <pubDate>Wed, 19 Nov 2008 10:02:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/19/por-fin-llego-cloudfront-la-content-delivery-network-de-amazon/</guid>
+      <description>El servicio ya se había anunciado hace tiempo, pero ya está aquí la versión Beta de CloudFront, la Content Delivery Network (CDN) de Amazon. Es casi transparente para los usuarios actuales de Amazon S3, y permite distribuir contenido con tasas muy altas de transferencia a través de una red global de servidores de contenido en redes extremo. Siguiendo el esquema de otros servicios Amazon, el modelo es un puro pago por uso, sin desembolso inicial.</description>
+    </item>
+    
+    <item>
+      <title>A casi nadie le gusta el SLA de Amazon EC2</title>
+      <link>https://nubeblog.com/2008/11/14/a-casi-nadie-le-gusta-el-sla-de-amazon-ec2/</link>
+      <pubDate>Fri, 14 Nov 2008 09:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/14/a-casi-nadie-le-gusta-el-sla-de-amazon-ec2/</guid>
+      <description>Parece que no estoy solo en mis impresiones sobre lo decepcionante que ha sido el SLA de Amazon EC2. En la lista de correo sobre Cloud Computing de Google podemos leer en este hilo una serie de comentarios realmente interesantes. Publico algunos de ellos:
+ …Nuestros abogados revisaron el Acuerdo de Servicio de EC2 y dicen que es completamente inaceptable, excepto para I+D. Amazon no asume ninguna responsabilidad por nada, y pueden cambiar unilateralmente el Acuerdo de Servicio en cualquier momento.</description>
+    </item>
+    
+    <item>
+      <title>¿El SLA de Amazon EC2 servirá de algo a las empresas?</title>
+      <link>https://nubeblog.com/2008/10/28/%c2%bfel-sla-de-amazon-ec2-servira-de-algo-a-las-empresas/</link>
+      <pubDate>Tue, 28 Oct 2008 09:00:34 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/28/%c2%bfel-sla-de-amazon-ec2-servira-de-algo-a-las-empresas/</guid>
+      <description>
+  </description>
+    </item>
+    
+    <item>
+      <title>¿Influirá la entrada de Amazon en el mercado de Cloud Computing en sus resultados?</title>
+      <link>https://nubeblog.com/2008/10/21/%c2%bfinfluira-la-entrada-de-amazon-en-el-mercado-de-cloud-computing-en-sus-resultados/</link>
+      <pubDate>Tue, 21 Oct 2008 23:55:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/21/%c2%bfinfluira-la-entrada-de-amazon-en-el-mercado-de-cloud-computing-en-sus-resultados/</guid>
+      <description>Mañana 22 de Octubre Amazon publicará los resultados para el tercer cuarto del año. Todos los indicios apuntan a que tras un espectacular segundo cuarto los resultados del tercero van a ser negativos. Los analistas han tomado como referencia al otro grande del E-commerce, Ebay, que ha tenido unos resultados muy discretos y que ha anunciado una importante reducción de plantilla.
+Creo que es injusto comparar Ebay con Amazon. Ebay es y ha sido un desastre, fueron los primeros que usaron internet para sacar beneficio de la larga cola, los primeros que fueron web 2.</description>
+    </item>
+    
+    <item>
+      <title>Cómo configurar MATLAB sobre Amazon EC2, Mathworks lo explica en un White Paper</title>
+      <link>https://nubeblog.com/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/</link>
+      <pubDate>Tue, 21 Oct 2008 09:55:46 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/</guid>
+      <description>Hace unos días en la lista de correo de cloud-computing alguien preguntaba sobre experiencias con MATLAB en La Nube. Cualquier que visite la lista verá que MATLAB soporta soluciones variopintas, con implementaciones de todos los colores en Grid.
+Hoy leo que la misma persona que inició la conversación anunciaba que Mathworks había liberado un white paper explicando cómo usar MATLAB con Amazon Elastic Compute Cloud (EC2). El documento te lo puedes bajar aquí.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Elastic Compute Cloud (EC2) modifica el comportamiento de las IP elásticas</title>
+      <link>https://nubeblog.com/2008/10/17/amazon-elastic-compute-cloud-ec2-modifica-el-comportamiento-de-las-ip-elasticas/</link>
+      <pubDate>Fri, 17 Oct 2008 14:57:24 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/17/amazon-elastic-compute-cloud-ec2-modifica-el-comportamiento-de-las-ip-elasticas/</guid>
+      <description>Ayer se anunció en el foro sobre EC2 de Amazon pequeños cambios para mejorar el servicio de IPs virtuales (o elásticas como dicen ellos).
+Los cambios introducidos son dos:
+ Un mapeo más rápido de las direcciones IP elásticas. Ahora un cambio podía tardar unos cuantos minutos. No se cuanto se tardará ahora, pero lo probaremos. Las conexiones existentes cuando se realiza un remapeo son eliminadas de manera inmediata. Ya no hay que esperar a que el stack de red se de cuenta de que ya no existe conexión con el extremo.</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 cambiará en noviembre su estructura de precios</title>
+      <link>https://nubeblog.com/2008/10/09/amazon-s3-cambiara-en-noviembre-su-estructura-de-precios/</link>
+      <pubDate>Thu, 09 Oct 2008 10:46:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/09/amazon-s3-cambiara-en-noviembre-su-estructura-de-precios/</guid>
+      <description>En el blog oficial de Amazon Web Services nos cuentan dos cosas muy interesantes:
+ Amazon S3 soporta picos de 70000 peticiones de lectura/escritura/borrado por segundo. Impresionante. Cambian su estructura de precios y ahora hay cuatro tramos en función de las necesidades de almacenamiento. A más necesidad de almacenamiento menor coste. Por encima de 50Terabytes los precios bajan. Por cierto, que ya lo anuncian en su página de precios.  </description>
+    </item>
+    
+    <item>
+      <title>Microsoft Windows Server correrá sobre Amazon EC2</title>
+      <link>https://nubeblog.com/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/</link>
+      <pubDate>Wed, 01 Oct 2008 03:56:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/</guid>
+      <description>Al final tenía que pasar. En el blog del CTO de Amazon, Werner Wogels, se anuncia que será posible lanzar instancias de Amazon EC2 que soporten Windows Server. Resulta curioso que uno de los principales argumentos para correr Windows en la nube es que facilitaría la conversión de los contenidos a formatos propietarios de Microsoft (¿No sería más facil usar formatos abiertos?). No hay mucha información sobre qué tipo de virtualización se va a usar, aunque creo que XEN no es lo más adecuado para correr Windows (aunque hay gente que lo hace, es un poco rebuscado y con mal rendimiento).</description>
+    </item>
+    
+  </channel>
+</rss>

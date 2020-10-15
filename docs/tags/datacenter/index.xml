@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datacenter on Nubeblog</title>
+    <link>https://nubeblog.com/tags/datacenter/</link>
+    <description>Recent content in datacenter on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 22 Sep 2010 10:36:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/datacenter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facebook gasta $50M en alquiler de espacio en Centros de Datos</title>
+      <link>https://nubeblog.com/2010/09/22/facebook-gasta-50m-en-alquiler-de-espacio-en-centros-de-datos/</link>
+      <pubDate>Wed, 22 Sep 2010 10:36:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/22/facebook-gasta-50m-en-alquiler-de-espacio-en-centros-de-datos/</guid>
+      <description>Datacenter knowledge ha publicado un estudio en el que sugiere que Facebook gasta aproximadamente unos $50M al año en alquiler de espacio en Centros de Datos por todos los EEUU.
+La factura ha crecido de $20M en 2009 a la cifra estimada este año debido al crecimiento de la red social desde los 200 millones de usuarios a los 500 millones.
+A estos $50M hay que sumarle la potencía eléctrica necesaria para alimentar a los más de 60.</description>
+    </item>
+    
+    <item>
+      <title>Por qué AMD apuesta por el Cloud Computing y no por los dispositivos móviles</title>
+      <link>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</link>
+      <pubDate>Tue, 03 Mar 2009 10:26:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</guid>
+      <description>Ayer salió la noticia de AMD por boca de su CEO Dirk Meyer: Los procesadores del futuro de AMD serán parte fundamental de los servidores de los Datacenters del futuro y de los netbooks y mininotebooks, sin embargo pasarán del mercado de los smartphones. El CEO piensa que sus procesadores ayudarán a dar forma a los Cloud Computing Datacenters del mañana. También creo que el Cloud Computing junto a la virtualización ofrece el mejor ROI para las empresas en esta difícil situación económica actual.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>almacenamiento on Nubeblog</title>
+    <link>https://nubeblog.com/categories/almacenamiento/</link>
+    <description>Recent content in almacenamiento on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 Sep 2010 09:35:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/almacenamiento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Qué tiene 3PAR que Dell y HP se pelean por ella?</title>
+      <link>https://nubeblog.com/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/</guid>
+      <description>Estas últimas semanas ha ocurrido algo que hacía muchos años que no se veía, y que algunos han identificado como la llegada de una nueva burbuja: Dell y HP han peleado por una empresa mucho más pequeña que ellas, 3PAR.
+Pero vamos por partes: hace unas semanas Dell hace una oferta por una “pequeña” empresa llamada 3PAR ($600M) dedicada a fabricar software y cabinas de almacenamiento. La oferta ofrece una prima por encima del 80% de su valor en el mercado.</description>
+    </item>
+    
+    <item>
+      <title>Google Storage for Developers ya disponible bajo petición</title>
+      <link>https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/</link>
+      <pubDate>Thu, 20 May 2010 07:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/</guid>
+      <description>Se rumoreaba que el anuncio del Amazon S3 ‘light’ presentado ayer era pura contraprogramación de Amazon. En el Google I/O 2010, se ha anunciado la disponibilidad del nuevo servicio Google Storage for Developers. Resumiendo, si conoces Amazon S3 o cualquier otro servicio de almacenaje en la nube de objetos, es lo mismo, pero hecho por Google.
+Cuando veo la etiqueta ‘for Developers’, me hecho a temblar. ¿Esta coletilla se pone para indicar que el servicio no es lo suficientemente estable para el uso por el público general?</description>
+    </item>
+    
+    <item>
+      <title>Sidekick y cómo suicidarte en La Nube</title>
+      <link>https://nubeblog.com/2009/10/14/sidekick-y-como-suicidarte-en-la-nube/</link>
+      <pubDate>Wed, 14 Oct 2009 15:01:01 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/10/14/sidekick-y-como-suicidarte-en-la-nube/</guid>
+      <description>Ha sido una de las noticias más comentadas de los últimos tiempos alrededor del Cloud Computing: Los usuarios de Sidekick, un dispositivo similar a la Blackberry muy popular en los USA han perdido todos sus datos y hay muy pocas posibildades de recuperarlos. AcojonanteAcongojante. Sidekick almacenaba los datos en local y en ‘La Nube’, es decir, en almacenamiento en sus Centros Datos donde se suponía que gestionaban los datos de sus usuarios.</description>
+    </item>
+    
+    <item>
+      <title>Cómo construir tu propio sistema de almacenamiento en la Nube: Backblaze Pod</title>
+      <link>https://nubeblog.com/2009/09/02/como-construir-tu-propio-sistema-de-almacenamiento-en-la-nube-backblaze-pod/</link>
+      <pubDate>Wed, 02 Sep 2009 11:26:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/02/como-construir-tu-propio-sistema-de-almacenamiento-en-la-nube-backblaze-pod/</guid>
+      <description>A través de highscalability.com me encuentro con un artículo que puede interesar a todos aquellos que están pensando en dar servicios de Almacenamiento en La Nube (Cloud Storage) y quieren un diseño abierto. La gente de Backblaze.com nos muestran cómo diseñaron y construyeron sus propios appliances para gestionar hasta 67 Teras en un 4U. E incluso te puedes descargar el fichero con el modelo en 3D para que lo puedas encargar.</description>
+    </item>
+    
+    <item>
+      <title>Parascale, una solución de Almacenamiento en Nubes Privadas competitiva</title>
+      <link>https://nubeblog.com/2009/02/04/parascale-una-solucion-de-private-storage-clouds-competitiva/</link>
+      <pubDate>Wed, 04 Feb 2009 15:27:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/04/parascale-una-solucion-de-private-storage-clouds-competitiva/</guid>
+      <description>El mundo de almacenamiento en La Nube anda un poco acelarado ante el inminente (¿o no tan inminente?) lanzamiento por parte de Google de su GDrive. Si a esto le sumamos la agitación alrededor de las Nubes Privadas, tenemos un nuevo concepto muy interesante: Private Storage Clouds o Almacenamiento en Nubes Privadas.
+La diferencia frente a los sistemas de almacenamiento empresarial tradicional en las Storage Area Networks (SAN), es el uso de hardware y software commoditiziedcommoditized que permte almacenar grandes cantidades de información con tiempos de acceso muy competitivos (y próximos al de las soluciones en red) con unos costes mucho menores.</description>
+    </item>
+    
+  </channel>
+</rss>

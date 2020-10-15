@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lhc on Nubeblog</title>
+    <link>https://nubeblog.com/tags/lhc/</link>
+    <description>Recent content in lhc on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 Oct 2008 23:54:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/lhc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LCG: Esto es un Grid y lo demás tonterías</title>
+      <link>https://nubeblog.com/2008/10/06/lcg-esto-es-un-grid-y-lo-demas-tonterias/</link>
+      <pubDate>Mon, 06 Oct 2008 23:54:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/06/lcg-esto-es-un-grid-y-lo-demas-tonterias/</guid>
+      <description>Supongo que si estás leyendo este blog probablemente hayas recibido multitud de información sobre el proyecto Worldwide LHC Computing Grid (LCG). Si aún no te has enterado de lo que es, es la infraestructura de análisis y almacenamiento de los datos que toda la comunidad de Física de Alta Energía que use el LHC (El Gran Colisionador de Hadrones) va a utilizar.
+El LCG fue diseñado para soportar la inmensa cantidad de datos que los experimentos generarán.</description>
+    </item>
+    
+  </channel>
+</rss>

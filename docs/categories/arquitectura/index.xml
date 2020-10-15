@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arquitectura on Nubeblog</title>
+    <link>https://nubeblog.com/categories/arquitectura/</link>
+    <description>Recent content in arquitectura on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 23 Mar 2011 13:33:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/arquitectura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stackops Distro &amp;#038; Smart Installer: despliega Openstack en tu centro de datos</title>
+      <link>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/23/stackops-distro-smart-installer-despliega-openstack-en-tu-centro-de-datos/</guid>
+      <description>Durante estas últimas semanas nos hemos reunido con unas cuantas empresas interesadas en Infraestructuras como Servicios, y a todas les encantaba lo que Openstack Nova promete. La idea de tener una plataforma verdaderamente abierta y que haya un ecosistema de empresas a su alrededor es muy atractivo. Los participantes en Openstack son empresas con una reputación más que consolidada y reconocida por los profesionales. Todo parece perfecto… ¿Todo? No…
+En un momento dado de la conversación, siempre sale la siguiente pregunta:</description>
+    </item>
+    
+    <item>
+      <title>El caso de éxito de Netflix: cómo una gran corporación migra a la Nube Pública</title>
+      <link>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</guid>
+      <description>Netflix es una empresa que nació prestando DVDs por correo ordinario, y ha evolucionado hacia los servicios de streaming. Hoy presume de tener 15 millones de subscriptores offline y online en los EEUU y Canadá. Por decirlo de alguna manera, es similar lo que sería Imagenio en España en la parte de alquiler de contenidos, pero sin nada que ver con el servicio de Internet. La diferencia es que puede servir contenidos a un conjunto bastante importante de dispositivos: TiVo, AppleTV, PlayStation 3, Wii y XBox entre otros.</description>
+    </item>
+    
+    <item>
+      <title>Qué son los &amp;#8216;tiers&amp;#8217; en un Centro de Datos. El ANSI/TIA-942</title>
+      <link>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</link>
+      <pubDate>Mon, 11 Oct 2010 10:13:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/11/que-son-los-tiers-en-un-centro-de-datos-el-ansi-tia-942/</guid>
+      <description>Si estás buscando un servicio de alojamiento de servidores, colocación, etc. verás que los diferentes proveedores te ofrecen información de lo más variada sobre sus características y te ofrecen datos interesantes como niveles de redundancia, tamaño del centro de datos, tiempos de respuesta y demás.
+Existe un estándar llamado ANSI/TIA-942 Telecommunications Infrastructure Standard for Data Centers, creado por miembros de la industria, consultores y usuarios, que intenta estandarizar el proceso de diseño de los centros de datos.</description>
+    </item>
+    
+    <item>
+      <title>Qué es la sobresuscripción en el Cloud Computing</title>
+      <link>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</guid>
+      <description>Hace un par de días escribí un post sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.
+¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada.</description>
+    </item>
+    
+    <item>
+      <title>Los Casos de Uso del Cloud Computing</title>
+      <link>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</link>
+      <pubDate>Sun, 09 Aug 2009 15:53:53 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</guid>
+      <description>Cuando uno trabaja en una startup aprende rápidamente que lo urgente prima sobre lo importante. Y si no lo aprende rápido, la startup prescinde de él, él prescinde de la startup, o bien todo se va a al carajo. Ejemplo: escribir en este blog es importante, pero lo urgente es cerrar funcionalidad del producto necesaria por algunos clientes.
+Otro ejemplo: es importante trabajar en grupos y asociaciones dedicadas a la estandarización del Cloud Computing, pero tu producto no puede esperar a las estandarizaciones.</description>
+    </item>
+    
+    <item>
+      <title>El Cloud Computing sí es tecnología</title>
+      <link>https://nubeblog.com/2009/06/09/el-cloud-computing-si-es-tecnologia/</link>
+      <pubDate>Tue, 09 Jun 2009 09:10:26 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/09/el-cloud-computing-si-es-tecnologia/</guid>
+      <description>Uno de mis bloggers favoritos es James Urquhart. Tras este impronunciable apellido se encuentra uno de los que mueven el cotarro en la blogosfera cloudcomputing. Escritor en CNET y Product Marketing Manager, Cloud Computing and Virtualized Data Centers en Cisco. Vamos, que sabe de qué va esto.
+Hace unas semanas leí este artículo suyo en el que se preguntaba si el Cloud Computing es un nuevo modelo operativo o es una nueva tecnología.</description>
+    </item>
+    
+    <item>
+      <title>Cosas a tener en cuenta cuando desarrollas aplicaciones Cloud</title>
+      <link>https://nubeblog.com/2009/03/13/cosas-a-tener-en-cuenta-cuando-desarrollas-aplicaciones-cloud/</link>
+      <pubDate>Fri, 13 Mar 2009 00:12:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/13/cosas-a-tener-en-cuenta-cuando-desarrollas-aplicaciones-cloud/</guid>
+      <description>No es habitual encontrar gente que hable sobre los desarrolladores en el mundo del Cloud Computing. Estamos tan cegados por las facilidades que nos ofrece, que nos olvidamos que no todas las aplicaciones están preparadas para aprovechar sus ventajas.
+No lo entiendo.
+La única explicación que encuentro a esto es la inmadurez del paradigma. Vamos, que todavía no hay mucha gente que se haya dedicado a desarrollar aplicaciones que aprovechen al máximo la potencia del Cloud Computing.</description>
+    </item>
+    
+  </channel>
+</rss>

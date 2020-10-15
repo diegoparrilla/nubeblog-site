@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neutralidad on Nubeblog</title>
+    <link>https://nubeblog.com/tags/neutralidad/</link>
+    <description>Recent content in neutralidad on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 30 Nov 2010 17:28:30 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/neutralidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Manifiesto por una Red Neutral</title>
+      <link>https://nubeblog.com/2010/11/30/manifiesto-por-una-red-neutral/</link>
+      <pubDate>Tue, 30 Nov 2010 17:28:30 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/30/manifiesto-por-una-red-neutral/</guid>
+      <description>Los ciudadanos y las empresas usuarias de Internet adheridas a este texto manifestamos:
+ Que Internet es una Red Neutral por diseño, desde su creación hasta su actual implementación, en la que la información fluye de manera libre, sin discriminación alguna en función de origen, destino, protocolo o contenido. Que las empresas, emprendedores y usuarios de Internet han podido crear servicios y productos en esa Red Neutral sin necesidad de autorizaciones ni acuerdos previos, dando lugar a una barrera de entrada prácticamente inexistente que ha permitido la explosión creativa, de innovación y de servicios que define el estado de la red actual.</description>
+    </item>
+    
+    <item>
+      <title>Neutralidad de Red: ejemplos prácticos para destruir competidores</title>
+      <link>https://nubeblog.com/2010/11/22/neutralidad-de-red-ejemplos-practicos-para-destruir-competidores/</link>
+      <pubDate>Mon, 22 Nov 2010 18:53:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/22/neutralidad-de-red-ejemplos-practicos-para-destruir-competidores/</guid>
+      <description>La semana pasada se me escapó un exabrupto en twitter. Y creo que con toda la razón del mundo. Después de que el Senado rechazase una votación a favor de la Neutralidad de la Red, las redes sociales se calentaron y empezaron a mostrar la indignación de los internautas. En estas que Ignasi Guardans dejó una auténtica perla en su timeline de twitter:
+ “La absoluta y total#redneutralsupone q mi tráfico d mails compite con la conexion entre hospitales d un trasplante online”</description>
+    </item>
+    
+  </channel>
+</rss>

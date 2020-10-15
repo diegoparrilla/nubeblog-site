@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Supermicro mete 96 cores y 1TB de RAM en una caja 2U • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Supermicro mete 96 cores y 1TB de RAM en una caja 2U"/>
+<meta name="twitter:description" content="Hace ya más de un año que Cisco anunció la gama de productos herederos de su Proyecto California, los UCS (Unified Computing System). El proyecto California significó el desembarco de Cisco en el mercado de los servidores, aunque en realidad lo que hizo es una plataforma completa para el Centro de Datos: servidores, redes y gestión (espera… ¿y el almacenamiento?). Una cosa que llamó la atención enseguida era que los servidores UCS se anunciaban como ‘blades’ pero venían en un formato horizontal en vez de vertical."/>
+
+<meta property="og:title" content="Supermicro mete 96 cores y 1TB de RAM en una caja 2U" />
+<meta property="og:description" content="Hace ya más de un año que Cisco anunció la gama de productos herederos de su Proyecto California, los UCS (Unified Computing System). El proyecto California significó el desembarco de Cisco en el mercado de los servidores, aunque en realidad lo que hizo es una plataforma completa para el Centro de Datos: servidores, redes y gestión (espera… ¿y el almacenamiento?). Una cosa que llamó la atención enseguida era que los servidores UCS se anunciaban como ‘blades’ pero venían en un formato horizontal en vez de vertical." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/" />
+<meta property="article:published_time" content="2010-04-04T17:51:06+00:00" />
+<meta property="article:modified_time" content="2010-04-04T17:51:06+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Supermicro mete 96 cores y 1TB de RAM en una caja 2U</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Apr 04, 2010
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/datacenter">DATACENTER</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/hardware">hardware</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/infraestructura">infraestructura</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/servidores">servidores</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p>Hace ya más de un año que Cisco anunció la gama de productos herederos de su <a href="http://www.amazon.com/Project-California-Virtualization-Unified-Computing/dp/0557057396">Proyecto California</a>, los <a href="http://www.cisco.com/en/US/netsol/ns944/">UCS (Unified Computing System)</a>. El proyecto California significó el desembarco de Cisco en el mercado de los servidores, aunque en realidad lo que hizo es una plataforma completa para el Centro de Datos: servidores, redes y gestión (espera… ¿y el almacenamiento?). Una cosa que llamó la atención enseguida era que <a href="http://www.cisco.com/en/US/products/ps10279/index.html">los servidores UCS se anunciaban como ‘blades’ pero venían en un formato horizontal en vez de vertical</a>. Por cada 1U se pueden meter 2 ‘blades’ gemelos (twin) o bien un servidor 1U completo. La conexión a las <a href="http://www.cisco.com/en/US/netsol/ns945/index.html">‘unified fabrics</a>‘ se hacen en el chasis y se ahorra en costes a la vez que se obtiene una gran densidad.</p>
+<p>Si realmente Cisco ha tenido éxito o no con esta propuesta entre sus clientes, lo desconozco, aunque se que tiene grandes proyectos en cartera con esta plataforma. Lo que sí tengo claro es que los competidores le han copiado hasta donde han podido. Así, Dell ha anunciado su nueva gama de servidores PowerEdge C (C de Cloud, claro) donde aparece este nuevo formato en el <a href="http://www1.euro.dell.com/es/es/empresas/Servidores/poweredge-c6100/pd.aspx?refid=poweredge-c6100&amp;s=bsd&amp;cs=esbsdt1">PowerEdge C6100</a>, un chasis 2U para cuatro nodos. HP tambíen tiene su chasis 2U para cuatro nodos en su gama Proliant SL, en el <a href="http://www1.euro.dell.com/es/es/empresas/Servidores/poweredge-c6100/pd.aspx?refid=poweredge-c6100&amp;s=bsd&amp;cs=esbsdt1">modelo SL2x170z</a>.</p>
+<p>Pero quien se lleva la palma sin duda es Supermicro. Los californianos han anunciado su <a href="http://www.supermicro.com/Aplus/system/2U/2022/AS-2022TG-HIBQRF.cfm">“2U Twin2 System”</a>, un  chasis 2U donde pueden meter cuatro nodos. Gracias a que cada nodo soporta dos de los nuevos <a href="http://www.slideshare.net/AMDUnprocessed/amd-opteron-6000-series-platform-press-presentation-final-3564470">AMD Opteron 6100</a> con 12 cores y hasta 256GB de RAM DDR3-1333, tenemos que en una caja 2U podemos llegar a tener 96 Cores y 1TB de RAM. Una bestialidad. Cada nodo puede albergar 3 discos de 3.5″ hot swap. Le acompaña una unidad de alimentación de 1400W y como opción trae en placa base una conexión QDR Infiniband de 40Gbps.</p>
+<!-- raw HTML omitted -->
+<p>Es evidente que el Cloud Computing, la Virtualización y las Infraestructuras como Servicio están acelerando los cambios dentro del Centro de Datos, hasta el punto que empresas centradas en el hardware más estandarizado empiecen a ofrecer pequeños monstruos como estos. La información que he encontrado sobre los precios de todos estos productos es muy escasa y contradictoria. En el caso de Supermicro ya aparece en listas de precios de vendedores americanos, aunque con una disparidad de precio muy grande, sin dejar claro qué partes componen la solución.</p>
+<p>Este tipo de plataformas son perfectas para la implantación de soluciones Cloud dentro de las empresas o los proveedores, sin duda, ya que el coste por core de una plataforma como estas baja de manera significativa. No tardaremos mucho antes de que en la división de costes de una plataforma Cloud, el software de gestión y virtualización suponga más del 30% o el 40% de la solución. Bueno, algunos proveedores ya tienen ese porcentaje y más… pero tendrán que bajarse de la ‘nube’.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2010/03/29/solaris-puede-dejar-de-ser-gratuito-y-nadie-sabe-que-sera-de-opensolaris/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Solaris puede dejar de ser gratuito y nadie sabe que será de OpenSolaris</span>
+    </a>
+    
+    
+    <a href="/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/" class="navigation-next">
+      <span class="navigation-tittle">Los chips de 8 y 12 cores empiezan a dar problemas con las licencias de VMware</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2009/01/22/cisco-planea-entrar-en-el-mercado-de-servidores/" >Cisco planea entrar en el mercado de Servidores</a>
+      
+      <time class="pull-right hidden-tablet">Jan 22 &#39;09</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

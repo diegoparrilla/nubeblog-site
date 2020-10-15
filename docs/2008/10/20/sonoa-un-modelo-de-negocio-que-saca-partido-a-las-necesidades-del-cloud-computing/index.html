@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Sonoa: un modelo de negocio que saca partido a las necesidades del Cloud Computing • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Sonoa: un modelo de negocio que saca partido a las necesidades del Cloud Computing"/>
+<meta name="twitter:description" content="Desde hace tiempo viendo dándole vueltas a qué modelos de negocio pueden surgir alrededor del Cloud Computing, y que no sean los ya conocidos relacionados con la Virtualización, Facturación, Provisión, etc… Dado que me ha tocado lidiar con la implantación de Enterprise Services Bus (ESB) para la adopción de SOA dentro de alguna gran organización, la idea de que existiese un ESB específico para las necesidades del Cloud Computing me rondaba la cabeza."/>
+
+<meta property="og:title" content="Sonoa: un modelo de negocio que saca partido a las necesidades del Cloud Computing" />
+<meta property="og:description" content="Desde hace tiempo viendo dándole vueltas a qué modelos de negocio pueden surgir alrededor del Cloud Computing, y que no sean los ya conocidos relacionados con la Virtualización, Facturación, Provisión, etc… Dado que me ha tocado lidiar con la implantación de Enterprise Services Bus (ESB) para la adopción de SOA dentro de alguna gran organización, la idea de que existiese un ESB específico para las necesidades del Cloud Computing me rondaba la cabeza." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2008/10/20/sonoa-un-modelo-de-negocio-que-saca-partido-a-las-necesidades-del-cloud-computing/" />
+<meta property="article:published_time" content="2008-10-20T10:07:11+00:00" />
+<meta property="article:modified_time" content="2008-10-20T10:07:11+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Sonoa: un modelo de negocio que saca partido a las necesidades del Cloud Computing</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Oct 20, 2008
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/esb">esb</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/sonoa">sonoa</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="http://www.sonoasystems.com/sites/all/themes/zen/sonoa/images/sonoa-logo.gif"><!-- raw HTML omitted --></a>Desde hace tiempo viendo dándole vueltas a qué modelos de negocio pueden surgir alrededor del Cloud Computing, y que no sean los ya conocidos relacionados con la Virtualización, Facturación, Provisión, etc… Dado que me ha tocado lidiar con la implantación de <a href="http://en.wikipedia.org/wiki/Enterprise_service_bus">Enterprise Services Bus (ESB)</a> para la adopción de SOA dentro de alguna gran organización, la idea de que existiese un ESB específico para las necesidades del Cloud Computing me rondaba la cabeza.</p>
+<p>Vía <a href="http://www.techcrunchit.com">TechcrunchIT</a> descubro una compañía que no solo <a href="http://www.techcrunchit.com/2008/10/15/sonoa-appliance-knits-apis-and-cloud-together/">ha tenido una idea similar, sino que además ha levantado 25 millones de dólares para llevarla a cabo</a>. La empresa se llama <a href="http://www.sonoasystems.com/">Sonoa Systems</a>, y su propuesta puede sonar similar a la de un ESB clásico, aunque no lo es.Su producto ServiceNet Appliance permite añadir una capa extra virtual que permite:</p>
+<ul>
+<li>gestionar el control de acceso a los recursos,</li>
+<li>habilitar cierta interoperabilidad entre protocolos</li>
+<li>monitoriza el rendimiento y disponibilidad de los servicios de cara a establecer y garantizar los Acuerdos de Nivel de Servicio</li>
+<li>controlar de manera proactiva el acceso los servicios Web expuestos a los clientes.</li>
+<li>forzar el uso de políticas de manera no intrusiva a los servicios</li>
+<li>unificar en un único punto todas las políticas para reducir el trabajo de gestión</li>
+<li>priorización de tráfico en función de los servicios demandados</li>
+<li>ayudar a controlar el gasto realizado sobre servicios externos</li>
+</ul>
+<p>Puede que este producto sólo sea un ESB al que le han puesto la etiqueta ‘Cloud’ para tratar de venderlo mejor -todo lo que ofrecen lo tienen los ESBs mayoritarios-, pero esto me plantea varias cuestiones, y estoy seguro que son cuestiones que también tienen los clientes que se enchufan a la Nube.</p>
+<p>Si quiero contratar uno o varios servicios en la nube…</p>
+<ul>
+<li>¿Cómo controlo yo que el SLA de mi proveedor se está cumpliendo?</li>
+<li>¿Cómo puedo restringir el uso de mi proveedor en la nube para no hacer gasto innecesario?</li>
+<li>¿Puedo evitar el ‘casarme’ con el API de un proveedor?</li>
+<li>¿Cómo se yo que la información que está almacenando el proveedor está bien cuidada?</li>
+</ul>
+<p>Y si quiero vender servicios en la nube, pues me surgen muchos más:</p>
+<ul>
+<li>¿Cómo puedo controlar el acceso de un cliente a un recurso o varios?</li>
+<li>¿Cómo integro el sistema de facturación elegido con mi sistema provisión?</li>
+<li>¿Cómo controlo el SLA de mis servicios de manera individualizada por cliente?</li>
+<li>¿Cómo puedo garantizar legalmente que mis métricas para el SLA son reales?</li>
+<li>¿Cómo realizo un control de cuota de grano fino por recurso y cliente?</li>
+<li>…</li>
+</ul>
+<p>Vamos, que creo que en la gestión de los servicios a alojar en La Nube puede haber hueco para el desarrollo de plataformas que resuelvan todos estos problemas.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2008/10/19/plugintothecloudcom-es-la-apuesta-de-informationweek-por-el-cloud-computing/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Plugintothecloud.com es la apuesta de InformationWeek por el Cloud Computing</span>
+    </a>
+    
+    
+    <a href="/2008/10/21/como-configurar-matlab-sobre-amazon-ec2-mathworks-lo-explica-en-un-white-paper/" class="navigation-next">
+      <span class="navigation-tittle">Cómo configurar MATLAB sobre Amazon EC2, Mathworks lo explica en un White Paper</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

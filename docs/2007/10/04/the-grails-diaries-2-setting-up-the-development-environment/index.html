@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>The Grails Diaries #2: Setting up the development environment • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="The Grails Diaries #2: Setting up the development environment"/>
+<meta name="twitter:description" content="Previous: JRuby on Rails or Grails?
+Once I have explained why I will use Grails I will go deeper in the development environment.
+Methodology: Scrum One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:"/>
+
+<meta property="og:title" content="The Grails Diaries #2: Setting up the development environment" />
+<meta property="og:description" content="Previous: JRuby on Rails or Grails?
+Once I have explained why I will use Grails I will go deeper in the development environment.
+Methodology: Scrum One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/" />
+<meta property="article:published_time" content="2007-10-04T01:00:00+00:00" />
+<meta property="article:modified_time" content="2007-10-04T01:00:00+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>The Grails Diaries #2: Setting up the development environment</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Oct 04, 2007
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/uncategorized">UNCATEGORIZED</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/agile">agile</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/designs">designs</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/grails">grails</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/java">java</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/jruby">jruby</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/rails">rails</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/ruby">ruby</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 4 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="http://www.diegoparrilla.com/2007/10/grails-diaries-jruby-on-rails-or-grails.html">Previous: JRuby on Rails or Grails?</a></p>
+<p>Once I have explained why I will use Grails I will go deeper in the development environment.</p>
+<h2 id="methodology-scrum">Methodology: Scrum</h2>
+<p>One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:</p>
+<ol>
+<li>Basic functionality of the web site and</li>
+<li>Some extra functionality integrating Spring an OpenID java library for authentication.</li>
+</ol>
+<h2 id="tools">Tools</h2>
+<h3 id="mingle">Mingle</h3>
+<!-- raw HTML omitted -->
+<p>Since I cannot guarantee how much of my time I will dedicate to this project every day, the Scrum approach of relative estimations is perfect.<br>
+I have been testing a tool from <a href="http://studios.thoughtworks.com/" title="Thoughtworks">Thoughtworks</a>{#t4ej} called <a href="http://studios.thoughtworks.com/mingle-project-intelligence" title="Mingle">Mingle</a>{#tx7-}. This tool is not a supertool, but the interface is very simple and it’s very configurable. The funny thing about this tool is it has been developed with JRuby on Rails!? The only bad thing about this tool is the slow response of some of the actions. And I guess it’s not a problem of JRuby (<a href="http://www.diegoparrilla.com/2007/08/what-is-slow-jruby-or-mingle.html" title="Charles Nutter commented something about it">Charles Nutter commented something about it</a>{#ooc3} ), but a problem of the application in itself (a problem with the ActiveRecord pattern?). All the user stories and tasks will be created with this tool, and I will publish them in my blog.</p>
+<h3 id="jetbrains-idea-70m2">JetBrains IDEA 7.0M2</h3>
+<!-- raw HTML omitted -->
+<p>I was not a <a href="http://www.jetbrains.com/idea/" title="Jetbrains IntelliJDEA">Jetbrains IntelliJDEA</a>{#f2ug} guy, but I have been testing a little bit the tool with Grails and it’s the right tool for me. Sorry Emacs and Vi talibans, I need auto-complete and a lot of windows in my desktop. I will use a 30 days trial license. If the tool convince me,I will probably change from Eclipse.</p>
+<h3 id="ems-sql-manager">EMS SQL Manager</h3>
+<!-- raw HTML omitted -->
+<p>My favourite <a href="http://www.sqlmanager.net/" title="SQL Administration Tool for MySQL">SQL Administration Tool for MySQL</a>{#kycg}. I can do almost everything from it.</p>
+<h3 id="cvs">CVS</h3>
+<!-- raw HTML omitted -->
+<p>I have a CVS server at home (and who doesn’t?) running in my little and beautiful <a href="http://www.revogear.com/" title="Buffalo Kurobox">Buffalo Kurobox</a>{#kwvj}.</p>
+<h2 id="books">Books</h2>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>  &lt;td style=&quot;text-align: center;&quot; width=&quot;50%&quot;&gt;
+    &lt;div id=&quot;wj47&quot; style=&quot;padding: 1em 0pt;&quot;&gt;
+      &lt;img style=&quot;width: 172px; height: 172px;&quot; src=&quot;http://docs.google.com/File?id=dcvnhchp_196fjs43smq&quot; /&gt;
+    &lt;/div&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<pre><code>&lt;h3&gt;
+&lt;/h3&gt;
+
+&lt;h2&gt;
+  Software Architecture: The basics
+&lt;/h2&gt;
+
+&lt;p&gt;
+  And the software products I&amp;#8217;m going to use.
+&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;table id=&quot;f-mw&quot; border=&quot;1&quot; bordercolor=&quot;#000000&quot; cellpadding=&quot;3&quot; cellspacing=&quot;0&quot;&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        Operating System
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        Windows XP SP2
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;td&gt;
+        JDK
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        6 Update 2
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;td&gt;
+        Database
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        MySQL Server 5.0 Community Edition
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;td&gt;
+        Development Application Server
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        Jetty 6
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;td&gt;
+        Production Application Server
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        Tomcat 6.0
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;td&gt;
+        JDBC Driver
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        ConnectorJ 5.0.7
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    
+    &lt;tr&gt;
+      &lt;td&gt;
+        IDE
+      &lt;/td&gt;
+      
+      &lt;td&gt;
+        IntelliJ IDEA 7.0M2
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+  &lt;h2&gt;
+    Installing the IDE and the Grails development environment&lt;br /&gt;
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    If you are not familiar with IntelliJ like me then you will probably waste a lot of time trying and discovering all the features of the tool. The first thing to do is to download the JetGroovy plugin. Go to &amp;#8216;IDE Settings &gt; Plugins &gt; Available&amp;#8217; and find &amp;#8216;JetGroovy&amp;#8217;. Click on the right button and download and install the plug-in. You will have to restart the IDE. Now we have to download the Groovy 1.0 libraries and Grails 0.5.6. You can install them anywhere, it seems there is not any directory restrictions. Now go to the Groovy/Grails node in IDE Settings and select the existing directories of the tools.&lt;br /&gt;&lt;a title=&quot;The current version of IntelliJ IDEA 7.0M2 does not support version 0.6&quot; href=&quot;http://www.jetbrains.net/jira/browse/GRVY-269&quot; id=&quot;khts&quot;&gt;The current version of IntelliJ IDEA 7.0M2 does not support version 0.6&lt;/a&gt;&lt;b&gt;.&lt;/b&gt; It seems that the groovy-starter.jar has been re-factored in another jar file and now you cannot run the grails applications. Hopefully it will be fixed in future versions of the IDE.&lt;br /&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Update: Read the comments at the bottom to fix this issue. It&amp;#8217;s possible to use 0.6 with IDEA 7.0M2. Thanks Dierk and Graeme.&lt;/span&gt;
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    Now we have to create a Grails project from the scratch. No problem, go to &amp;#8216;New Project&amp;#8217; &gt; Select &amp;#8216;Create Project from scratch&amp;#8217; &gt; Choose your favourite name and &amp;#8216;Grails Application &gt; Create a source directory and click &amp;#8216;Finish&amp;#8217;. The tool creates all the Grails stuff, just like running the &lt;span style=&quot;font-family:Courier New;&quot;&gt;create-app&lt;/span&gt; command from the command line. Be patient, it can take some time.&lt;br /&gt;The setup of the server running the code is easy: go to &amp;#8216;Run &gt; Run/Debug Configurations&amp;#8217; and &amp;#8216;Add a new Configuration&amp;#8217;, &amp;#8216;Grails Application&amp;#8217;. I have named it &amp;#8216;website&amp;#8217;. I have used the default parameters (Run Application, No VM parameters, Make before launch). Click on the &amp;#8216;Run&amp;#8217; button and voila! if you connect to http://localhost:8080/website you&lt;br /&gt; will see the Grails Welcome Page.&lt;br /&gt;The environment is ready. In future posts I will show how I&amp;#8217;m going to plan the development of the project.
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    &lt;a href=&quot;http://www.diegoparrilla.com/2007/10/grails-diaries-3-how-grails-will-change.html&quot;&gt;Next: How Grails will change my project plan&lt;/a&gt;
+  &lt;/p&gt;
+</code></pre>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">The Grails Diaries: JRuby on Rails or Grails?</span>
+    </a>
+    
+    
+    <a href="/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/" class="navigation-next">
+      <span class="navigation-tittle">The Grails Diaries #3: How Grails will change my project plan</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/" >The Grails Diaries: JRuby on Rails or Grails?</a>
+      
+      <time class="pull-right hidden-tablet">Oct 01 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/09/24/ruby-on-rails-hype-the-party-is-over/" >Ruby on Rails hype: the party is over</a>
+      
+      <time class="pull-right hidden-tablet">Sep 24 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/09/19/spain-vs-usa-comparing-two-job-boards/" >Spain vs USA comparing two Job Boards</a>
+      
+      <time class="pull-right hidden-tablet">Sep 19 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/08/27/what-is-slow-jruby-or-mingle/" >What is slow? JRuby or Mingle?</a>
+      
+      <time class="pull-right hidden-tablet">Aug 27 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/" >Bad times for J2ME. How the iPhone with Web 2.0 apps can rule in the mobile world</a>
+      
+      <time class="pull-right hidden-tablet">Aug 22 &#39;07</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

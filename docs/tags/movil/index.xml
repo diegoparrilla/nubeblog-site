@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>movil on Nubeblog</title>
+    <link>https://nubeblog.com/tags/movil/</link>
+    <description>Recent content in movil on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 18 Nov 2008 09:49:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/movil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VMware y la virtualización en dispositivos móviles</title>
+      <link>https://nubeblog.com/2008/11/18/vmware-y-la-virtualizacion-en-dispositivos-moviles/</link>
+      <pubDate>Tue, 18 Nov 2008 09:49:48 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/18/vmware-y-la-virtualizacion-en-dispositivos-moviles/</guid>
+      <description>VMWare ha anunciado recientemente su Mobile Virtualization Platform o MVP, una capa de abstracción pensada para dispositivos móviles. MVP es el software que compró cuando adquirió la empresa Trango Virtual Processors.
+Este software añade una capa de software sobre el hardware, haciendo algo similar a lo que hacen los productos de VMWare para servidores, pero en dispositivos móviles. Mientras que el objetivo de los productos de servidor es optimizar los recursos de los servidores normalmente infrautilizados, el objetivo de este producto es hacer más fácil la migración de aplicaciones de un dispositivo a otro.</description>
+    </item>
+    
+  </channel>
+</rss>

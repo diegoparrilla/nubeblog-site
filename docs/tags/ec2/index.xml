@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ec2 on Nubeblog</title>
+    <link>https://nubeblog.com/tags/ec2/</link>
+    <description>Recent content in ec2 on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 12 Feb 2009 09:56:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/ec2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acuerdo entre IBM y Amazon Web Services</title>
+      <link>https://nubeblog.com/2009/02/12/acuerdo-entre-ibm-y-amazon-web-services/</link>
+      <pubDate>Thu, 12 Feb 2009 09:56:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/12/acuerdo-entre-ibm-y-amazon-web-services/</guid>
+      <description>IBM y Amazon Web Services acaban de anunciar un acuerdo por el cual IBM publicará en el repositorio público de imágenes (AMI) para EC2 el siguiente conjunto de aplicaciones bajo licencia de desarrollo:
+ IBM DB2,  IBM Informix,  IBM WebSphere sMash,  IBM Lotus Web Content Management,  IBM WebSphere Portal Server.  Esta es la lista inicial, pero IBM tiene la intención de que crezca en próximas fechas.</description>
+    </item>
+    
+    <item>
+      <title>Hazte un secuestrador y monta en Amazon EC2 un cliente bittorrent con tus amigos</title>
+      <link>https://nubeblog.com/2009/01/26/hazte-un-secuestrador-y-monta-en-amazon-ec2-un-cliente-bittorrent-con-tus-amigos/</link>
+      <pubDate>Mon, 26 Jan 2009 08:00:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/26/hazte-un-secuestrador-y-monta-en-amazon-ec2-un-cliente-bittorrent-con-tus-amigos/</guid>
+      <description>Cual Inspector Clouseau, llega un tio y suelta esto en ComputerWorld.com en plan profeta del Apocalipsis: “Amazon cloud could be hijacked to harvest BitTorrent files, researcher says” (La Nube de Amazon podría ser secuestrada para cultivar ficheros BitTorrent, dice un investigador). Tras leer esto todas mis alertas se encendieron y puse la máxima atención ya que si efectivamente ‘alguien’ puede ‘secuestrar’ La Nube de Amazon, eso es muy serio. Pero no se preocupen, mis queridos lectores, que aquí nadie secuestra, ni cultiva, ni nada… Aquí lo que hay es una falta de rigor que asusta.</description>
+    </item>
+    
+    <item>
+      <title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</title>
+      <link>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</link>
+      <pubDate>Fri, 23 Jan 2009 10:04:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/</guid>
+      <description>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</description>
+    </item>
+    
+    <item>
+      <title>Nueva consola de gestión de Amazon EC2: la difícil tarea de sobrevivir en el ecosistema AWS</title>
+      <link>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</link>
+      <pubDate>Mon, 12 Jan 2009 15:14:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/</guid>
+      <description>El pasado viernes recibí un bonito correo que me invitaba a probar la nueva beta de la consola de gestión de Amazon Web Services. La primera versión es una consola para EC2, aunque quieren expandirla a todos los servicios de Amazon Web Services. Luego mi vida paso a ser un infierno de nieve y atascos, y así nos quedamos durante buena parte del día.
+Lo cierto es que ya se ha hablado de ella bastante en los últimos días, así que hoy no voy a hacer una revisión en profundidad.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Hosted Public Datasets: Vislumbrando nuevos modelos de negocio</title>
+      <link>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</link>
+      <pubDate>Tue, 25 Nov 2008 09:05:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</guid>
+      <description>Amazon ha anunciado la publicación de repositorios públicos de datos, accesibles únicamente desde sus entornos EC2. Es decir, puedes montar estos datos en su ‘Nube’ y usarlos como quieras sin pagar nada, únicamente el tiempo de uso de las instancias EC2. Según dicen:
+ Nuestra meta es proveer un acceso sencillo a datos de datos públicos y comunes como el genoma humano, astronomía y al censo de los USA.
+ Además si tienes un conjunto de datos interesante, puedes solicitar su publicación y donar los datos a la comunidad.</description>
+    </item>
+    
+    <item>
+      <title>A casi nadie le gusta el SLA de Amazon EC2</title>
+      <link>https://nubeblog.com/2008/11/14/a-casi-nadie-le-gusta-el-sla-de-amazon-ec2/</link>
+      <pubDate>Fri, 14 Nov 2008 09:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/14/a-casi-nadie-le-gusta-el-sla-de-amazon-ec2/</guid>
+      <description>Parece que no estoy solo en mis impresiones sobre lo decepcionante que ha sido el SLA de Amazon EC2. En la lista de correo sobre Cloud Computing de Google podemos leer en este hilo una serie de comentarios realmente interesantes. Publico algunos de ellos:
+ …Nuestros abogados revisaron el Acuerdo de Servicio de EC2 y dicen que es completamente inaceptable, excepto para I+D. Amazon no asume ninguna responsabilidad por nada, y pueden cambiar unilateralmente el Acuerdo de Servicio en cualquier momento.</description>
+    </item>
+    
+    <item>
+      <title>¿El SLA de Amazon EC2 servirá de algo a las empresas?</title>
+      <link>https://nubeblog.com/2008/10/28/%c2%bfel-sla-de-amazon-ec2-servira-de-algo-a-las-empresas/</link>
+      <pubDate>Tue, 28 Oct 2008 09:00:34 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/28/%c2%bfel-sla-de-amazon-ec2-servira-de-algo-a-las-empresas/</guid>
+      <description>
+  </description>
+    </item>
+    
+    <item>
+      <title>Amazon Elastic Compute Cloud (EC2) modifica el comportamiento de las IP elásticas</title>
+      <link>https://nubeblog.com/2008/10/17/amazon-elastic-compute-cloud-ec2-modifica-el-comportamiento-de-las-ip-elasticas/</link>
+      <pubDate>Fri, 17 Oct 2008 14:57:24 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/17/amazon-elastic-compute-cloud-ec2-modifica-el-comportamiento-de-las-ip-elasticas/</guid>
+      <description>Ayer se anunció en el foro sobre EC2 de Amazon pequeños cambios para mejorar el servicio de IPs virtuales (o elásticas como dicen ellos).
+Los cambios introducidos son dos:
+ Un mapeo más rápido de las direcciones IP elásticas. Ahora un cambio podía tardar unos cuantos minutos. No se cuanto se tardará ahora, pero lo probaremos. Las conexiones existentes cuando se realiza un remapeo son eliminadas de manera inmediata. Ya no hay que esperar a que el stack de red se de cuenta de que ya no existe conexión con el extremo.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Windows Server correrá sobre Amazon EC2</title>
+      <link>https://nubeblog.com/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/</link>
+      <pubDate>Wed, 01 Oct 2008 03:56:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/</guid>
+      <description>Al final tenía que pasar. En el blog del CTO de Amazon, Werner Wogels, se anuncia que será posible lanzar instancias de Amazon EC2 que soporten Windows Server. Resulta curioso que uno de los principales argumentos para correr Windows en la nube es que facilitaría la conversión de los contenidos a formatos propietarios de Microsoft (¿No sería más facil usar formatos abiertos?). No hay mucha información sobre qué tipo de virtualización se va a usar, aunque creo que XEN no es lo más adecuado para correr Windows (aunque hay gente que lo hace, es un poco rebuscado y con mal rendimiento).</description>
+    </item>
+    
+  </channel>
+</rss>

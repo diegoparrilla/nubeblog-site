@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IBM on Nubeblog</title>
+    <link>https://nubeblog.com/tags/ibm/</link>
+    <description>Recent content in IBM on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 17 Feb 2009 15:44:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/ibm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM dice que &amp;#039;Garantiza la seguridad en La Nube&amp;#039;: ¡Porque yo lo valgo!</title>
+      <link>https://nubeblog.com/2009/02/17/ibm-garantiza-la-seguridad-en-su-cloud/</link>
+      <pubDate>Tue, 17 Feb 2009 15:44:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/17/ibm-garantiza-la-seguridad-en-su-cloud/</guid>
+      <description>Casi se me atraganta la comida al leer lo que ha dicho el nuevo CTO de Cloud Computing de IBM, Kristof Kloeckner:
+ Hemos desarrollado interesantes tecnologías que permiten la separación aplicaciones y datos en la misma infraestructura. Garantizamos la seguridad gracias a Tivoli Security y Identity Management y Authentication. También aseguramos la separación de la carga de trabajo gracias a la separación de las máquinas virtuales y también de la separación de los datos del cliente en una base de datos compartida.</description>
+    </item>
+    
+    <item>
+      <title>Acuerdo entre IBM y Amazon Web Services</title>
+      <link>https://nubeblog.com/2009/02/12/acuerdo-entre-ibm-y-amazon-web-services/</link>
+      <pubDate>Thu, 12 Feb 2009 09:56:45 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/12/acuerdo-entre-ibm-y-amazon-web-services/</guid>
+      <description>IBM y Amazon Web Services acaban de anunciar un acuerdo por el cual IBM publicará en el repositorio público de imágenes (AMI) para EC2 el siguiente conjunto de aplicaciones bajo licencia de desarrollo:
+ IBM DB2,  IBM Informix,  IBM WebSphere sMash,  IBM Lotus Web Content Management,  IBM WebSphere Portal Server.  Esta es la lista inicial, pero IBM tiene la intención de que crezca en próximas fechas.</description>
+    </item>
+    
+    <item>
+      <title>IBM verifica que tu Nube es resiliente</title>
+      <link>https://nubeblog.com/2008/12/03/ibm-verifica-que-tu-nube-es-resiliente/</link>
+      <pubDate>Wed, 03 Dec 2008 10:38:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/12/03/ibm-verifica-que-tu-nube-es-resiliente/</guid>
+      <description>Uno de los servicios que IBM anuncia dentro de su nueva oferta de consultoría alrededor de La Nube es lo que ellos llaman IBM Resilient Cloud Validation Services. Este servicio -que existe desde hace mucho tiempo, pero en otras áreas tecnológicas- pretende determinar si las Nubes privadas o contratadas por sus clientes son plenamente funcionales y fiables. Luego van y ponen un sello con su logo diciendo que sí, que lo son (o que no lo son, pero esta es otra historia).</description>
+    </item>
+    
+    <item>
+      <title>IBM y CapGemini entran en el mercado del Cloud: Las grandes consultoras quieren su trozo del pastel</title>
+      <link>https://nubeblog.com/2008/11/26/ibm-y-capgemini-entran-en-el-mercado-del-cloud-las-grandes-consultoras-quieren-su-trozo-del-pastel/</link>
+      <pubDate>Wed, 26 Nov 2008 09:01:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/26/ibm-y-capgemini-entran-en-el-mercado-del-cloud-las-grandes-consultoras-quieren-su-trozo-del-pastel/</guid>
+      <description>Cuando empecé a escribir este post la noticia se centraba únicamente en la entrada de CapGemini en el mercado de la consultoría a empresas de Cloud Computing. Pero una semana después IBM ha anunciado que entra a dar servicios dentro de este mercado.
+La visión de CapGemini es más exploratoria, los servicios que ofrecen tienen diferentes focos:
+ Software as a Service (SaaS) con soluciones de Oracle Fusion y Microsoft Sharepoint.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dell on Nubeblog</title>
+    <link>https://nubeblog.com/tags/dell/</link>
+    <description>Recent content in dell on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 06 Sep 2010 09:35:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/dell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Qué tiene 3PAR que Dell y HP se pelean por ella?</title>
+      <link>https://nubeblog.com/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/</guid>
+      <description>Estas últimas semanas ha ocurrido algo que hacía muchos años que no se veía, y que algunos han identificado como la llegada de una nueva burbuja: Dell y HP han peleado por una empresa mucho más pequeña que ellas, 3PAR.
+Pero vamos por partes: hace unas semanas Dell hace una oferta por una “pequeña” empresa llamada 3PAR ($600M) dedicada a fabricar software y cabinas de almacenamiento. La oferta ofrece una prima por encima del 80% de su valor en el mercado.</description>
+    </item>
+    
+  </channel>
+</rss>

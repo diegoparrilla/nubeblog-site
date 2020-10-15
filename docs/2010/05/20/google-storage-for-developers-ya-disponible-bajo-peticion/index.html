@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Google Storage for Developers ya disponible bajo petición • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Google Storage for Developers ya disponible bajo petición"/>
+<meta name="twitter:description" content="Se rumoreaba que el anuncio del Amazon S3 ‘light’ presentado ayer era pura contraprogramación de Amazon. En el Google I/O 2010, se ha anunciado la disponibilidad del nuevo servicio Google Storage for Developers. Resumiendo, si conoces Amazon S3 o cualquier otro servicio de almacenaje en la nube de objetos, es lo mismo, pero hecho por Google.
+Cuando veo la etiqueta ‘for Developers’, me hecho a temblar. ¿Esta coletilla se pone para indicar que el servicio no es lo suficientemente estable para el uso por el público general?"/>
+
+<meta property="og:title" content="Google Storage for Developers ya disponible bajo petición" />
+<meta property="og:description" content="Se rumoreaba que el anuncio del Amazon S3 ‘light’ presentado ayer era pura contraprogramación de Amazon. En el Google I/O 2010, se ha anunciado la disponibilidad del nuevo servicio Google Storage for Developers. Resumiendo, si conoces Amazon S3 o cualquier otro servicio de almacenaje en la nube de objetos, es lo mismo, pero hecho por Google.
+Cuando veo la etiqueta ‘for Developers’, me hecho a temblar. ¿Esta coletilla se pone para indicar que el servicio no es lo suficientemente estable para el uso por el público general?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2010/05/20/google-storage-for-developers-ya-disponible-bajo-peticion/" />
+<meta property="article:published_time" content="2010-05-20T07:22:35+00:00" />
+<meta property="article:modified_time" content="2010-05-20T07:22:35+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Google Storage for Developers ya disponible bajo petición</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> May 20, 2010
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/almacenamiento">ALMACENAMIENTO</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/google">GOOGLE</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/almacenamiento">almacenamiento</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/google">google</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Se rumoreaba que el anuncio del <a href="/2010/05/19/amazon-s3-rrs-una-version-mas-barata-de-s3-con-menor-durabilidad/">Amazon S3 ‘light’</a> presentado ayer era pura contraprogramación de Amazon. En el Google I/O 2010, se ha anunciado la disponibilidad del nuevo servicio <a href="http://code.google.com/intl/es-ES/apis/storage/docs/overview.html">Google Storage for Developers</a>. Resumiendo, si conoces Amazon S3 o cualquier otro servicio de almacenaje en la nube de objetos, es lo mismo, pero hecho por Google.</p>
+<p>Cuando veo la etiqueta ‘for Developers’, me hecho a temblar. ¿Esta coletilla se pone para indicar que el servicio no es lo suficientemente estable para el uso por el público general? ¿O bien porque para aprovechar este servicio hay que tener conocimientos de programación para usar su API REST? No lo se… pero bien la lamentable página de información del producto, me inclino a pensar lo primero. No se a qué  clase de público quieren atraer, pero dado que el servicio es de pago, me parece que deberían cuidar un poco más la presentación del producto. Son Google, no una frikistartup.</p>
+<p>Lo que me más me ha extrañado ha sido el precio. Dado que ni están en Beta, debería ser gratis hasta cierto límite. Pero no, de gratis nada. Más aún, <a href="http://aws.amazon.com/s3/#pricing">es más caro que Amazon S3</a>. Comparemos:</p>
+<ul>
+<li>Coste por Gigabyte al mes: Google=$0.17 , Amazon=$0.15</li>
+<li>Coste por Gigabyte de subida de datos: Google=$0.10 , Amazon= $0.1</li>
+<li>Coste por Gigabyte de bajada de datos: Google Americas y EMEA=$0.15 , Amazon=$0.15</li>
+<li>1.000 peticiones PUT, POST, LIST = Google=$0.01 ,  Amazon=$0.01</li>
+<li>10.000 peticiones GET, HEAD: Google=$0.01,  Amazon=$0.1</li>
+</ul>
+<p>El coste por gigabyte guardado es $0.02 menor en Amazon, pero dado que Amazon ofrece descuentos importantes en función del volumen, esta cifra disminuye en cuando pasamos de los 10TB de almacenamiento.</p>
+<p>La verdad es que no veo todavía ninguna razón por la que alguien quisiera migrar de Amazon S3 (o de cualquier otro servicio similar) a Google Storage. No se integra con Google Apps, y por si fuera poco Google no explica cual es su arquitectura de red y sistemas, así que no sabemos si puede tener interés para reducir latencias a la hora de servir datos, por ejemplo. Es decir, nos piden que confiemos a ciegas en un producto más caro, más oscuro e inmaduro.</p>
+<p>Quien quiera probar el servicio, debe apuntarse a una lista de espera. Y solo si eres un ciudadano americano podrás hacerlo. Así que si alguien consigue una cuenta y lo prueba, estoy encantado de ofrecerle el blog para que nos cuente la experiencia.</p>
+<p><strong>Actualización: Google ha anunciado que los primeros 100GB de almacenamiento y los primeros 300GB de transferencia son gratuitos durante el período de preview.</strong></p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2010/05/19/amazon-s3-rrs-una-version-mas-barata-de-s3-con-menor-durabilidad/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Amazon S3 RRS: una versión más barata de S3 con menor &amp;#8216;durabilidad&amp;#8217;</span>
+    </a>
+    
+    
+    <a href="/2010/05/31/conclusiones-sobre-el-evento-de-idc-sobre-cloud-computing/" class="navigation-next">
+      <span class="navigation-tittle">Algunas conclusiones del evento de IDC sobre Cloud Computing</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2007/12/12/google-online-storage-system-rumours/" >Google Online Storage System rumours</a>
+      
+      <time class="pull-right hidden-tablet">Dec 12 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/10/14/sidekick-y-como-suicidarte-en-la-nube/" >Sidekick y cómo suicidarte en La Nube</a>
+      
+      <time class="pull-right hidden-tablet">Oct 14 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/09/02/como-construir-tu-propio-sistema-de-almacenamiento-en-la-nube-backblaze-pod/" >Cómo construir tu propio sistema de almacenamiento en la Nube: Backblaze Pod</a>
+      
+      <time class="pull-right hidden-tablet">Sep 02 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/07/08/google-chromeos-y-el-cambio-de-paradigma-en-la-computacion/" >Google ChromeOS y el cambio de paradigma en la computación</a>
+      
+      <time class="pull-right hidden-tablet">Jul 08 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/07/07/google-apps-gmail-calendar-docs-and-talk-dejaran-hoy-de-estar-en-beta/" >Google Apps (Gmail, Calendar, Docs and Talk) dejarán hoy de estar en Beta</a>
+      
+      <time class="pull-right hidden-tablet">Jul 07 &#39;09</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

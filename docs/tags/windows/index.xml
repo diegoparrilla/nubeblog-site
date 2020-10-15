@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows on Nubeblog</title>
+    <link>https://nubeblog.com/tags/windows/</link>
+    <description>Recent content in windows on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 29 Oct 2008 08:58:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft Azure Services Platform, la apuesta PaaS de Microsoft</title>
+      <link>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</link>
+      <pubDate>Wed, 29 Oct 2008 08:58:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</guid>
+      <description>Hace menos de un mes Steve Ballmer anunciaba una nueva versión de windows que correría en ‘La Nube’. Y aquí esta: Microsoft anunció en la Professional Developers Conference 2008 su apuesta por el Cloud Computing: Windows Azure y Azure Services Platform.
+La Plataforma de Services Azure es una PaaS alojada por la propia Microsoft en sus Data Centers. Esta plataforma ofrece Windows Azure como un nuevo sistema operativo pensado para ‘La Nube’ y un conjunto de servicios para desarrolladores que pueden usarse de manera conjunta.</description>
+    </item>
+    
+    <item>
+      <title>Éramos pocos y parió la abuela: Microsoft anuncia Windows Cloud</title>
+      <link>https://nubeblog.com/2008/10/03/eramos-pocos-y-pario-la-abuela-microsoft-anuncia-windows-cloud/</link>
+      <pubDate>Fri, 03 Oct 2008 01:06:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/03/eramos-pocos-y-pario-la-abuela-microsoft-anuncia-windows-cloud/</guid>
+      <description>No hace ni dos días que Amazon anunció que daría soporte a Windows en EC2, y Steve Ballmer va y nos casca un nuevo Sistema Operativo pensado para ‘La Nube’. La criatura se llamará Windows Cloud (¡cómo no!) y entre otras cosas tendrá las siguientes características:
+ Georeplicación (¿de qué?) SOA (otra que no debe faltar en cualquier catálogo tecnoverborreico del momento) Gestión de Modelado (Modelling Management?) … y más centrado en el desarrollo web, sea lo que sea que signifique.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Windows Server correrá sobre Amazon EC2</title>
+      <link>https://nubeblog.com/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/</link>
+      <pubDate>Wed, 01 Oct 2008 03:56:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/01/microsoft-windows-server-correra-sobre-amazon-ec2/</guid>
+      <description>Al final tenía que pasar. En el blog del CTO de Amazon, Werner Wogels, se anuncia que será posible lanzar instancias de Amazon EC2 que soporten Windows Server. Resulta curioso que uno de los principales argumentos para correr Windows en la nube es que facilitaría la conversión de los contenidos a formatos propietarios de Microsoft (¿No sería más facil usar formatos abiertos?). No hay mucha información sobre qué tipo de virtualización se va a usar, aunque creo que XEN no es lo más adecuado para correr Windows (aunque hay gente que lo hace, es un poco rebuscado y con mal rendimiento).</description>
+    </item>
+    
+  </channel>
+</rss>

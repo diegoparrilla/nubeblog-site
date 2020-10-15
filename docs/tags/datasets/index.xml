@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datasets on Nubeblog</title>
+    <link>https://nubeblog.com/tags/datasets/</link>
+    <description>Recent content in datasets on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 25 Nov 2008 09:05:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/datasets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amazon Hosted Public Datasets: Vislumbrando nuevos modelos de negocio</title>
+      <link>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</link>
+      <pubDate>Tue, 25 Nov 2008 09:05:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/</guid>
+      <description>Amazon ha anunciado la publicación de repositorios públicos de datos, accesibles únicamente desde sus entornos EC2. Es decir, puedes montar estos datos en su ‘Nube’ y usarlos como quieras sin pagar nada, únicamente el tiempo de uso de las instancias EC2. Según dicen:
+ Nuestra meta es proveer un acceso sencillo a datos de datos públicos y comunes como el genoma humano, astronomía y al censo de los USA.
+ Además si tienes un conjunto de datos interesante, puedes solicitar su publicación y donar los datos a la comunidad.</description>
+    </item>
+    
+  </channel>
+</rss>

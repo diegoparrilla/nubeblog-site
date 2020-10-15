@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solaris on Nubeblog</title>
+    <link>https://nubeblog.com/tags/solaris/</link>
+    <description>Recent content in solaris on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 29 Mar 2010 11:38:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/solaris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solaris puede dejar de ser gratuito y nadie sabe que será de OpenSolaris</title>
+      <link>https://nubeblog.com/2010/03/29/solaris-puede-dejar-de-ser-gratuito-y-nadie-sabe-que-sera-de-opensolaris/</link>
+      <pubDate>Mon, 29 Mar 2010 11:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/03/29/solaris-puede-dejar-de-ser-gratuito-y-nadie-sabe-que-sera-de-opensolaris/</guid>
+      <description>Si te preguntas a qué viene esta entrada en un blog de Cloud Computing, lee un poquito más y te enterarás. Acaba de aparecer la siguiente noticia en InfoWorld: ‘Los cambios en la licencia de Sun Solaris deja a los usuarios en una encrucijada‘. Hasta ahora, para usar Solaris solo había que registrarse en la web de Sun, descargarse el Solaris 10 y recibir el documento que acredita que puedes usar el Sistema Operativo sin soporte por tiempo indefinido.</description>
+    </item>
+    
+  </channel>
+</rss>

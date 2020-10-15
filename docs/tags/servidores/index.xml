@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>servidores on Nubeblog</title>
+    <link>https://nubeblog.com/tags/servidores/</link>
+    <description>Recent content in servidores on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 04 Apr 2010 17:51:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/servidores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supermicro mete 96 cores y 1TB de RAM en una caja 2U</title>
+      <link>https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/</link>
+      <pubDate>Sun, 04 Apr 2010 17:51:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/04/supermicro-mete-96-cores-y-1tb-de-ram-en-una-caja-2u/</guid>
+      <description>Hace ya más de un año que Cisco anunció la gama de productos herederos de su Proyecto California, los UCS (Unified Computing System). El proyecto California significó el desembarco de Cisco en el mercado de los servidores, aunque en realidad lo que hizo es una plataforma completa para el Centro de Datos: servidores, redes y gestión (espera… ¿y el almacenamiento?). Una cosa que llamó la atención enseguida era que los servidores UCS se anunciaban como ‘blades’ pero venían en un formato horizontal en vez de vertical.</description>
+    </item>
+    
+    <item>
+      <title>Cisco planea entrar en el mercado de Servidores</title>
+      <link>https://nubeblog.com/2009/01/22/cisco-planea-entrar-en-el-mercado-de-servidores/</link>
+      <pubDate>Thu, 22 Jan 2009 12:30:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/22/cisco-planea-entrar-en-el-mercado-de-servidores/</guid>
+      <description>Leo en el New York Times que Cisco planea entrar a lo grande en el mercado de Servidores. No es un rumor nuevo, hace tiempo que se comenta, pero parece que esta vez va en serio. Posiblemente en marzo tengamos pistas de esta nueva linea de productos que llega para competir directamente con los productos de IBM, HP y Dell.
+Lo novedoso de este servidor es que vendrá equipado con un sofisticado software de virtualización.</description>
+    </item>
+    
+  </channel>
+</rss>

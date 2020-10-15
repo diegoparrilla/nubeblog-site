@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Google App Engine pronto en tu propio Centro de Datos • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Google App Engine pronto en tu propio Centro de Datos"/>
+<meta name="twitter:description" content="En el evento Google Developer Day 2008 en Madrid, una de las preguntas que más sonaron entre las asistentes era si es posible ejecutar Google App Engine fuera de La Nube de Google. Bueno, más bien si es posible montar tu propia Nube en tus servidores o en tu Centro de Datos y ejecutar tus aplicaciones desarrolladas para Google App Engine en tu propia infraestructura. Hubo gente que comentó que al parecer ya hay gente corriendo el App Engine sobre Amazon EC2."/>
+
+<meta property="og:title" content="Google App Engine pronto en tu propio Centro de Datos" />
+<meta property="og:description" content="En el evento Google Developer Day 2008 en Madrid, una de las preguntas que más sonaron entre las asistentes era si es posible ejecutar Google App Engine fuera de La Nube de Google. Bueno, más bien si es posible montar tu propia Nube en tus servidores o en tu Centro de Datos y ejecutar tus aplicaciones desarrolladas para Google App Engine en tu propia infraestructura. Hubo gente que comentó que al parecer ya hay gente corriendo el App Engine sobre Amazon EC2." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/" />
+<meta property="article:published_time" content="2008-12-05T10:25:20+00:00" />
+<meta property="article:modified_time" content="2008-12-05T10:25:20+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Google App Engine pronto en tu propio Centro de Datos</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Dec 05, 2008
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/appengine">appengine</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/google">google</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/hosting">hosting</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 2 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="/wp-content/uploads/logotipo-google-app-engine.png"><!-- raw HTML omitted --></a></p>
+<p>En el evento <a href="http://code.google.com/intl/es/events/developerday/2008/home.html">Google Developer Day 2008 en Madrid</a>, una de las preguntas que más sonaron entre las asistentes era si es posible ejecutar Google App Engine fuera de La Nube de Google. Bueno, más bien si es posible montar tu propia Nube en tus servidores o en tu Centro de Datos y ejecutar tus aplicaciones desarrolladas para Google App Engine en tu propia infraestructura. Hubo gente que comentó que al parecer <a href="http://news.cnet.com/8301-10784_3-9918584-7.html">ya hay gente corriendo el App Engine sobre Amazon EC2</a>. Bueno, con trampa, ya que únicamente montó la versión de desarrollo que todos podemos montar en nuestro PC. Eso, no cuenta como Nube. Y así quedó todo.</p>
+<p>Leo en <a href="http://www.informationweek.com/cloud-computing/blog/archives/2008/12/a_google_cloud.html">Plugintothecloud.com</a> que hay una compañía -trabajando en ‘<a href="http://en.wikipedia.org/wiki/Stealth_mode">Stealth mode</a>‘- que permitirá ejecutar las aplicaciones como si corrieran en la infraestructura de Google. Según el Product Manager de Google Peter Koomen, “Permitirá coger tu aplicación App Engine y ejecutarla en tus propios servidores si es necesario”.</p>
+<p>Pero parece que no es la única empresa que está trabajando en crear una capa puente entre las tecnologías de Google y las tecnologías no Google. Y es ahí donde entran en juego nuevos conceptos como las núbes híbridas, unión de las nubes privadas y públicas. Este concepto parece ser clave en la adopción del Cloud Computing por parte de las grandes empresas, y un tema que intentaré tratar en futuros posts.</p>
+<p>Mientras, esperaremos a que salga del anonimato la empresa que está desarrollando este producto para poderlo revisar.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2008/12/03/ibm-verifica-que-tu-nube-es-resiliente/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">IBM verifica que tu Nube es resiliente</span>
+    </a>
+    
+    
+    <a href="/2008/12/08/delicious/" class="navigation-next">
+      <span class="navigation-tittle">Nubeblog links 1/12 al 7/12</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2008/10/23/rackspace-anuncia-sus-nuevos-servicios-de-cloud-hosting/" >Rackspace anuncia sus nuevos servicios de Cloud Hosting</a>
+      
+      <time class="pull-right hidden-tablet">Oct 23 &#39;08</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/12/12/google-online-storage-system-rumours/" >Google Online Storage System rumours</a>
+      
+      <time class="pull-right hidden-tablet">Dec 12 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/12/09/using-the-google-chart-api-from-the-server-side/" >Using the Google Chart API from the server side</a>
+      
+      <time class="pull-right hidden-tablet">Dec 09 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/12/07/google-chart-api-or-how-google-gives-raw-performance-for-free/" >Google Chart API or how Google gives raw performance for free</a>
+      
+      <time class="pull-right hidden-tablet">Dec 07 &#39;07</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2007/11/12/the-ball-and-chain-of-iphone-was-not-java-its-google-android/" >The ball and chain of iPhone was not Java:  it&amp;#8217;s Google Android</a>
+      
+      <time class="pull-right hidden-tablet">Nov 12 &#39;07</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

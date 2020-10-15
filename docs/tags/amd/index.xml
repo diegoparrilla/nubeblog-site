@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amd on Nubeblog</title>
+    <link>https://nubeblog.com/tags/amd/</link>
+    <description>Recent content in amd on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 03 Mar 2009 10:26:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/amd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Por qué AMD apuesta por el Cloud Computing y no por los dispositivos móviles</title>
+      <link>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</link>
+      <pubDate>Tue, 03 Mar 2009 10:26:28 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/03/03/por-que-amd-apuesta-por-el-cloud-computing-y-no-por-los-dispositivos-moviles/</guid>
+      <description>Ayer salió la noticia de AMD por boca de su CEO Dirk Meyer: Los procesadores del futuro de AMD serán parte fundamental de los servidores de los Datacenters del futuro y de los netbooks y mininotebooks, sin embargo pasarán del mercado de los smartphones. El CEO piensa que sus procesadores ayudarán a dar forma a los Cloud Computing Datacenters del mañana. También creo que el Cloud Computing junto a la virtualización ofrece el mejor ROI para las empresas en esta difícil situación económica actual.</description>
+    </item>
+    
+  </channel>
+</rss>

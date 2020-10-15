@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iaas on Nubeblog</title>
+    <link>https://nubeblog.com/categories/iaas/</link>
+    <description>Recent content in iaas on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 10 Aug 2011 10:55:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/iaas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El otro efecto Menéame</title>
+      <link>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</guid>
+      <description>Reconozco que una de mis aficiones favoritas es procrastinar trolleando en los comentarios de las noticias de Menéame. Aunque supongo que todo el mundo lo sabe, Menéame es el conocido clon hispano de Digg, el servicio a enlace de noticias gestionado por los usuarios (envían las que le gustan, y votan otras que les interesan). El pasado domingo intenté conectarme a Menéame después de pasar por varios periódicos online, y me encuentro con el sitio caído.</description>
+    </item>
+    
+    <item>
+      <title>Qué es la sobresuscripción en el Cloud Computing</title>
+      <link>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/</guid>
+      <description>Hace un par de días escribí un post sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.
+¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada.</description>
+    </item>
+    
+    <item>
+      <title>Amazon anuncia nuevas instancias desde $7 al mes</title>
+      <link>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</link>
+      <pubDate>Mon, 13 Sep 2010 00:00:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/</guid>
+      <description>La semana pasada Amazon anunció unas nuevas instancias denominadas ‘microinstancias’ en su servicio de computación en la nube Amazon EC2. Estas nuevas instancias ofrecen 613MB de RAM por un precio $0.02 la hora. Es decir, unos $14 al mes, unos €11 mensuales.
+¿Pero cómo consiguen esta gente ofrecer un precio como este? Bueno, hay letra pequeña y no tan pequeña. Se puede hacer porque este servicio tiene ciertas características que lo diferencian de una instancia tradicional EC2:</description>
+    </item>
+    
+    <item>
+      <title>Solaris puede dejar de ser gratuito y nadie sabe que será de OpenSolaris</title>
+      <link>https://nubeblog.com/2010/03/29/solaris-puede-dejar-de-ser-gratuito-y-nadie-sabe-que-sera-de-opensolaris/</link>
+      <pubDate>Mon, 29 Mar 2010 11:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/03/29/solaris-puede-dejar-de-ser-gratuito-y-nadie-sabe-que-sera-de-opensolaris/</guid>
+      <description>Si te preguntas a qué viene esta entrada en un blog de Cloud Computing, lee un poquito más y te enterarás. Acaba de aparecer la siguiente noticia en InfoWorld: ‘Los cambios en la licencia de Sun Solaris deja a los usuarios en una encrucijada‘. Hasta ahora, para usar Solaris solo había que registrarse en la web de Sun, descargarse el Solaris 10 y recibir el documento que acredita que puedes usar el Sistema Operativo sin soporte por tiempo indefinido.</description>
+    </item>
+    
+    <item>
+      <title>¿Deben las Telcos entrar en el negocio del Cloud Computing?</title>
+      <link>https://nubeblog.com/2009/04/13/%c2%bfdeben-las-telcos-entrar-en-el-negocio-del-cloud-computing/</link>
+      <pubDate>Mon, 13 Apr 2009 17:03:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/04/13/%c2%bfdeben-las-telcos-entrar-en-el-negocio-del-cloud-computing/</guid>
+      <description>Hoy me siento un poco conspiranoico y falto de noticias, así que voy a escribir sobre uno de mis temas favoritos: cómo las Telcos en Europa se convertirán en los principales proveedores de Infraestructura como Servicio (IaaS) en no mucho tiempo.
+Cuando hablamos de proveedores de Infraestructura como Servicios tenemos a:
+ Unos libreros (Amazon) Un broker publicitario (Google) Una empresa de software (Microsoft) Y dos proveedores de hosting (Rackspace y GoGrid).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>android on Nubeblog</title>
+    <link>https://nubeblog.com/tags/android/</link>
+    <description>Recent content in android on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sat, 03 Jan 2009 17:10:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android puede ser el Sistema Operativo para La Nube de Google</title>
+      <link>https://nubeblog.com/2009/01/03/android-puede-ser-el-sistema-operativo-para-la-nube-de-google/</link>
+      <pubDate>Sat, 03 Jan 2009 17:10:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/03/android-puede-ser-el-sistema-operativo-para-la-nube-de-google/</guid>
+      <description>Leo en VentureBeat (un buen blog sobre inversiones en tecnología) y en el Blog de Enrique Dans (vale, lo admito, de vez en cuando también leo a Enrique Dans: ya podéis crucificarme) que unos ingenieros alemanes, Matthaus Krzykowski y Daniel Hartmann, han compilado Google Android para un netbook Asus EeePC 1000H.
+Pero oiga, ¿Android no es un sistema operativo para móviles? Bueno, no exactamente. Google ya dijo que su idea era usarlo en cualquier tipo de dispositivo, y una arquitectura x86 es un dispositivo como otro cualquiera.</description>
+    </item>
+    
+  </channel>
+</rss>

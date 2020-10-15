@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>boston on Nubeblog</title>
+    <link>https://nubeblog.com/tags/boston/</link>
+    <description>Recent content in boston on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Oct 2011 13:20:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/boston/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>En la Openstack Conference en Boston</title>
+      <link>https://nubeblog.com/2011/10/03/en-la-openstack-conference-en-boston/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/10/03/en-la-openstack-conference-en-boston/</guid>
+      <description>Cada seis meses se celebra un evento donde todos los desarrolladores, empresas que forman el ecosistema y demás familia de Openstack nos reunimos para hablar sobre el progreso de la plataforma de Cloud abierta más importante del mundo. Hace seis meses el evento de
+anta Clara reunió a cientos de de desarrolladores, ingenieros, arquitectos… pero también directores de tecnología, analistas, directores de ventas… Es decir, una tropa de lo más variopinta.</description>
+    </item>
+    
+  </channel>
+</rss>

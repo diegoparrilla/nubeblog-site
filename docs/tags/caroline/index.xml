@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>caroline on Nubeblog</title>
+    <link>https://nubeblog.com/tags/caroline/</link>
+    <description>Recent content in caroline on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 20 Nov 2008 09:12:12 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/caroline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Será Network.com la evolución de Project Caroline de Sun?</title>
+      <link>https://nubeblog.com/2008/11/20/%c2%bfsera-networkcom-la-evolucion-de-project-caroline-de-sun/</link>
+      <pubDate>Thu, 20 Nov 2008 09:12:12 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/20/%c2%bfsera-networkcom-la-evolucion-de-project-caroline-de-sun/</guid>
+      <description>Buscando más información sobre el Proyecto Caroline, me he topado con esto:
+Así es, el Proyecto Caroline parece que tiene una encarnación profesional bajo la marca de Sun Microsystems Network.com. La única información que aparece en la web es la que se ve en el pantallazo. Es posible apuntarse para recibir información información y participar en betas privadas, cosa que he hecho de inmediato.
+En la web de Sun podemos leer de Network.</description>
+    </item>
+    
+    <item>
+      <title>Project Caroline: El Cloud Computing según Sun Microsystems</title>
+      <link>https://nubeblog.com/2008/11/17/project-caroline-el-cloud-computing-segun-sun-microsystems/</link>
+      <pubDate>Mon, 17 Nov 2008 09:11:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/17/project-caroline-el-cloud-computing-segun-sun-microsystems/</guid>
+      <description>El viernes leí la noticia de nuevos despidos en Sun. Esto no es nuevo, cada 2 años hacen lo mismo. Me acordé de un chiste malo que me contaron hace unos años sobre Sun y Microsoft:
+ – Tio, no se si hacer este proyecto con Java o con C#…
+– Vamos a ver…¿Tu has visto Armageddon?
+– ¿La de Bruce Willis y el asteroide? Sí, la he visto…
+– Pues figúrate que en vez de llamar a Bruce Willis y su banda, tienes que llamar a la mejor empresa de ingeniería informática del mundo: ¿A quién llamarías, a Sun o a Microsoft?</description>
+    </item>
+    
+  </channel>
+</rss>

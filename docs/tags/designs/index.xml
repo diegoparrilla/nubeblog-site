@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>designs on Nubeblog</title>
+    <link>https://nubeblog.com/tags/designs/</link>
+    <description>Recent content in designs on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 06 Feb 2008 00:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/designs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Grails Diaries #4: Grails, is it really worth it?</title>
+      <link>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</link>
+      <pubDate>Wed, 06 Feb 2008 00:07:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/02/06/the-grails-diaries-4-grails-is-it-really-worth-it/</guid>
+      <description>Previous: How Grails will change my project plan
+I wanted to post my impressions and thoughts about Grails before, but you don’t know how the events in your life can twist your plans: a delay in the delivery of the HTML designer, a flu followed by a nephritic colic, a laptop dying with all your development environment inside, the wrap up in Amplía, the Christmas holidays and my new start in The Server Labs.</description>
+    </item>
+    
+    <item>
+      <title>Leaving AMPLIA and starting as a Freelance IT Consultant</title>
+      <link>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</link>
+      <pubDate>Mon, 29 Oct 2007 12:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</guid>
+      <description>Last years have been a wonderful time in Amplía Soluciones S.L., but nothing is forever and I think it’s time for a change. I will continue as a partner of the company but I will look for new challenges and adventures out there. You can read my public linkedin profile if you want to know a bit about my skills and experience.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #3: How Grails will change my project plan</title>
+      <link>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</link>
+      <pubDate>Tue, 09 Oct 2007 09:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/09/the-grails-diaries-3-how-grails-will-change-my-project-plan/</guid>
+      <description>Previous: Setting up the development environment
+The strategy One of the most important reasons why I have chosen Grails and not JRuby/Ruby on Rails is that I’m lazy and I do not want to throw away all my Java knowledge. But now I’m wondering if Grails will change too much the way I plan my projects. And what do I mean with ‘the way I plan my projects’? I mean the strategic decisions I usually take when planning my project.</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries #2: Setting up the development environment</title>
+      <link>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</link>
+      <pubDate>Thu, 04 Oct 2007 01:00:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/04/the-grails-diaries-2-setting-up-the-development-environment/</guid>
+      <description>Previous: JRuby on Rails or Grails?
+Once I have explained why I will use Grails I will go deeper in the development environment.
+Methodology: Scrum One of the things I would like to test is how Grails works with Agile development methodologies. I’m not a ScrumMaster but I like Scrum and I would like to go deeper in this methodology. So I will divide the development of the project in two Scrum Sprints:</description>
+    </item>
+    
+    <item>
+      <title>The Grails Diaries: JRuby on Rails or Grails?</title>
+      <link>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</link>
+      <pubDate>Mon, 01 Oct 2007 15:27:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/01/the-grails-diaries-jruby-on-rails-or-grails/</guid>
+      <description>I must admit it: I’m weak. During last two years I have been trying to avoid the dark attraction of Ruby on Rails. And it was hard. I have been searching for almost seven years something that alleviates my feeling of waste of time when developing a Web user interface. And I have been promiscuous, believe me. I have tried everything in the Java world: Tapestry, Velocity, Cocoon,Altio, GWT, Flex, Laszlo… I even tried ASP.</description>
+    </item>
+    
+    <item>
+      <title>Ruby on Rails hype: the party is over</title>
+      <link>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</link>
+      <pubDate>Mon, 24 Sep 2007 18:23:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/24/ruby-on-rails-hype-the-party-is-over/</guid>
+      <description>Finally it seems that Ruby on Rails is starting to show its real face. Two years of RoR development put into the trash. Wow! Being seven times more productive than Java that means fourteen years of development! Seriously, it’s not common to hear of failures of a new and cool software stuff -you can look stupid- so I guess this is the peak of the iceberg of Ruby On Rails projects.</description>
+    </item>
+    
+    <item>
+      <title>Data normalization is not for sissies, it&amp;#8217;s just common sense</title>
+      <link>https://nubeblog.com/2007/09/05/data-normalization-is-not-for-sissies-its-just-common-sense/</link>
+      <pubDate>Wed, 05 Sep 2007 08:38:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/09/05/data-normalization-is-not-for-sissies-its-just-common-sense/</guid>
+      <description>And I must be the biggest sissy of all. There is a lot of buzz{#ddz7} about designing your databases thinking in data normalized or denormalized. Now that everybody is building the next Google or YouTube the database design has to support trillions of transactions per second and millions of terabytes, of course running on a multidimensional computing grid of zillions of nodes of databases written in Erlang… Data normalization is common sense because helps you to avoid the Data Inconsistency Hell when data is repeated across different tables.</description>
+    </item>
+    
+    <item>
+      <title>Bad times for J2ME. How the iPhone with Web 2.0 apps can rule in the mobile world</title>
+      <link>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</link>
+      <pubDate>Wed, 22 Aug 2007 12:46:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/22/bad-times-for-j2me-how-the-iphone-with-web-2-0-apps-can-rule-in-the-mobile-world/</guid>
+      <description>The day Steve Jobs said ‘Java’s not worth building in. Nobody uses Java anymore. It’s this big heavyweight ball and chain’ . Being a Java Zealot as I am, I should find easily a fist full of arguments, but may be he is right.
+I have been working in the embedded and mobile world for almost four years in Amplia, and I can tell you that Java is far from being the best option for mobile and embedded development.</description>
+    </item>
+    
+    <item>
+      <title>The 95 percent syndrome in Software Development</title>
+      <link>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</link>
+      <pubDate>Mon, 13 Aug 2007 14:17:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/13/the-95-percent-syndrome-in-software-development/</guid>
+      <description>Being a Project Manager, Architect, Analyst, Developer or anybody involved in the development of software, you have probably suffered the 95 percent syndrome.Imagine a software development project where things are going reasonably well: things are on schedule, Quality Assurance says things delivered are OK, the customer feel the progress, people are happy because they don’t have to work overtime and they architect and developers can apply the Best Practises. You are very close to the end of the development cycle (if you are working with an iterative and incremental methodology) and confident about the result.</description>
+    </item>
+    
+    <item>
+      <title>Going live with JEE 5: Congrats SOUKI</title>
+      <link>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</link>
+      <pubDate>Wed, 11 Apr 2007 00:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</guid>
+      <description>Building a project for an start-up has nothing to do with building a project for a big company: people in the start-ups normally are betting their pocket money in the project, and this means that delays, unexpected issues and bad performance of the development team have direct impact in the life of the entrepreneurs. This is the reason why I don’t want to build software for start-ups: if you have a little of empathy with them, you will carry the heavy load of their personal problems, besides of your own company troubles.</description>
+    </item>
+    
+    <item>
+      <title>My #1 book for architects: The data model resource book vol1 and 2</title>
+      <link>https://nubeblog.com/2006/12/03/my-1-book-for-architects-the-data-model-resource-book-vol1-and-2/</link>
+      <pubDate>Sun, 03 Dec 2006 23:21:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2006/12/03/my-1-book-for-architects-the-data-model-resource-book-vol1-and-2/</guid>
+      <description>Since I started developing enterprise applications professionally (I developed video games when I was a teenager, but that’s another story…), I usually design the first version of the data models implemented in the applications developed (may be that’s the reason some people say my applications sucks…). I have worked with DBAs and Business Analysts, but it seems that the responsibility of putting in a E/R model the concepts it’s mine (well, except when I was the Technical Lead of Xpert Online in Adecco that I had the chance to recruit an excellent professional to perform this task).</description>
+    </item>
+    
+  </channel>
+</rss>

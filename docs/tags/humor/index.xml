@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>humor on Nubeblog</title>
+    <link>https://nubeblog.com/tags/humor/</link>
+    <description>Recent content in humor on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 07 Jan 2011 16:08:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/humor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los Consultores de Cloud Computing, según Dilbert</title>
+      <link>https://nubeblog.com/2011/01/07/los-consultores-de-cloud-computing-segun-dilbert/</link>
+      <pubDate>Fri, 07 Jan 2011 16:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/07/los-consultores-de-cloud-computing-segun-dilbert/</guid>
+      <description>Parece que Scott Adams se ha colado en alguna reunión de las que he tenido… (pincha para verlo completo)
+
+¡Grandioso!</description>
+    </item>
+    
+    <item>
+      <title>Las mejores definiciones del Cloud Computing [Humor]</title>
+      <link>https://nubeblog.com/2009/09/01/las-mejores-definiciones-del-cloud-computing-humor/</link>
+      <pubDate>Tue, 01 Sep 2009 00:43:31 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/01/las-mejores-definiciones-del-cloud-computing-humor/</guid>
+      <description>No he podido resistir a publicar este video de Cisco con las respuestas de los visitantes a su stand en el Cisco Live conference pasado. El video es inglés, pero con un poco de paciencia se entiende bastante bien. Algunas de las mejores frases son:
+ “Cloud Computing era cuando fumaba en la universidad, en la sala de ordenadores” “Cloud Computing es cuando Dios deja que todas las nubes se conecten unas con otras por los ángeles” “Cloud Computing es cuando vas con una alfombra mágica volando, con un portátil…” “Cloud Computing es… cuando venía volando a esta conferencia había un puñado de computadoras en las nubes, con palomas sobre ellas” “Cloud Computing son computadoras que flotan con paracaídas en las nubes, o puede que con dirigibles…si, con dirigibles… eso es.</description>
+    </item>
+    
+    <item>
+      <title>Humor: Cloud Computing y los Acuerdos de Nivel de Servicio (SLAs)</title>
+      <link>https://nubeblog.com/2008/10/07/humor-cloud-computing-y-los-acuerdos-de-nivel-de-servicio-slas/</link>
+      <pubDate>Tue, 07 Oct 2008 14:38:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/07/humor-cloud-computing-y-los-acuerdos-de-nivel-de-servicio-slas/</guid>
+      <description>No he podido resistirme a publicarlo.
+Via Many Niches blog.</description>
+    </item>
+    
+  </channel>
+</rss>

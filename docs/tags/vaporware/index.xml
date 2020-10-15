@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vaporware on Nubeblog</title>
+    <link>https://nubeblog.com/tags/vaporware/</link>
+    <description>Recent content in vaporware on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 29 Oct 2008 08:58:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/vaporware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft Azure Services Platform, la apuesta PaaS de Microsoft</title>
+      <link>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</link>
+      <pubDate>Wed, 29 Oct 2008 08:58:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</guid>
+      <description>Hace menos de un mes Steve Ballmer anunciaba una nueva versión de windows que correría en ‘La Nube’. Y aquí esta: Microsoft anunció en la Professional Developers Conference 2008 su apuesta por el Cloud Computing: Windows Azure y Azure Services Platform.
+La Plataforma de Services Azure es una PaaS alojada por la propia Microsoft en sus Data Centers. Esta plataforma ofrece Windows Azure como un nuevo sistema operativo pensado para ‘La Nube’ y un conjunto de servicios para desarrolladores que pueden usarse de manera conjunta.</description>
+    </item>
+    
+  </channel>
+</rss>

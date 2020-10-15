@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cisco on Nubeblog</title>
+    <link>https://nubeblog.com/tags/cisco/</link>
+    <description>Recent content in cisco on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 15 Dec 2010 10:47:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/cisco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¡Es la Agilidad, estúpido!</title>
+      <link>https://nubeblog.com/2010/12/15/es-la-agilidad-estupido/</link>
+      <pubDate>Wed, 15 Dec 2010 10:47:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/15/es-la-agilidad-estupido/</guid>
+      <description>La semana pasada tuve una comida de hermanamiento con grandes Gurús del Cloud Computing patrio. Compartir mesa, mantel y Ribera del Duero con tan insignes personalidades, además de un honor es un privilegio. Creo recordar que no conseguimos resolver los problemas de portabilidad y de interoperabilidad entre las Nubes de diferentes fabricantes (¿o igual si? Bueno, no me acuerdo…), pero pasamos un buen rato.
+Entre mil batallitas e historias memorables, surgió una cuestión: los modelos económicos para ‘vender’ el Cloud Computing.</description>
+    </item>
+    
+    <item>
+      <title>El 51% de los CIOs españoles apuesta por el Cloud Computing</title>
+      <link>https://nubeblog.com/2010/12/14/el-51-de-los-cios-espanoles-apuesta-por-el-cloud-computing/</link>
+      <pubDate>Tue, 14 Dec 2010 12:17:38 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/14/el-51-de-los-cios-espanoles-apuesta-por-el-cloud-computing/</guid>
+      <description>Cisco ha publicado un informe denominado Cisco Connected World Report. Una parte de este informe trata sobre las tendencias y la evolución del departamento de tecnología para satisfacer las demandas de los profesionales móviles. Entre los datos cabe destacar las tendencias hacia la Virtualización, el Cloud Computing en el Centro de Datos.
+Este estudio de la consultora Insight Express entre 2.600 trabajadores y profesionales de TI de 13 países, desvela que el 52 por ciento de los profesionales de TI ya están utilizando o pretenden sumarse a la informática en la nube, encontrando los mayores ratios de adopción en Brasil (70 por ciento), China (69 por ciento) e India (76 por ciento).</description>
+    </item>
+    
+    <item>
+      <title>Cisco planea entrar en el mercado de Servidores</title>
+      <link>https://nubeblog.com/2009/01/22/cisco-planea-entrar-en-el-mercado-de-servidores/</link>
+      <pubDate>Thu, 22 Jan 2009 12:30:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/22/cisco-planea-entrar-en-el-mercado-de-servidores/</guid>
+      <description>Leo en el New York Times que Cisco planea entrar a lo grande en el mercado de Servidores. No es un rumor nuevo, hace tiempo que se comenta, pero parece que esta vez va en serio. Posiblemente en marzo tengamos pistas de esta nueva linea de productos que llega para competir directamente con los productos de IBM, HP y Dell.
+Lo novedoso de este servidor es que vendrá equipado con un sofisticado software de virtualización.</description>
+    </item>
+    
+  </channel>
+</rss>

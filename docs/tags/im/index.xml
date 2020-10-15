@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IM on Nubeblog</title>
+    <link>https://nubeblog.com/tags/im/</link>
+    <description>Recent content in IM on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 16 Apr 2008 23:43:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/im/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How should Mobile projects be to survive?</title>
+      <link>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</guid>
+      <description>Yesterday we discover that Mowser, the project founded by famous blogger Russell Beattie (and former colleague) was in the deadpool. Russ claimed that he ran out of money and had serious trouble with his finances.
+Everyday startups are created and abandoned, but the point in this story is that he could not raise funds to continue with the project. We see almost everyday projects raising a lot of money for nothing, so why an authority in the mobile world cannot pass the first round?</description>
+    </item>
+    
+    <item>
+      <title>Skype outage has cost more than $11000 per second to eBay</title>
+      <link>https://nubeblog.com/2007/08/17/skype-outage-has-cost-more-than-11000-per-second-to-ebay/</link>
+      <pubDate>Fri, 17 Aug 2007 12:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/17/skype-outage-has-cost-more-than-11000-per-second-to-ebay/</guid>
+      <description>I have not been able to use Skypefor more than 24 hours, just like the rest of the world. It seems that the problem is serious. It has been reported that it’s an issue with a new version of the application. But it’s not so clear. Such a long outage must come from (and I’m speculating):
+ A failure in the data migration from the early version of the application and a bad (or nonexistent) rollback process.</description>
+    </item>
+    
+    <item>
+      <title>The meaning of Messaging Abbreviation (Thanks to the Lord)</title>
+      <link>https://nubeblog.com/2007/08/16/the-meaning-of-messaging-abbreviation-thanks-to-the-lord/</link>
+      <pubDate>Thu, 16 Aug 2007 08:50:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/08/16/the-meaning-of-messaging-abbreviation-thanks-to-the-lord/</guid>
+      <description>If you are above thirties, do not visit chat rooms very often or English is not your mother tongue, then you probably waste most of the time trying to decipher that abbreviation lingo.
+Here goes a brief dictionary of words.</description>
+    </item>
+    
+  </channel>
+</rss>

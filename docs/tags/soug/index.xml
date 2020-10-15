@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>soug on Nubeblog</title>
+    <link>https://nubeblog.com/tags/soug/</link>
+    <description>Recent content in soug on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 16 Mar 2011 23:06:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/soug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lanzamiento del Grupo de Usuarios de Openstack en España</title>
+      <link>https://nubeblog.com/2011/03/16/lanzamiento-del-grupo-de-usuarios-de-openstack-en-espana/</link>
+      <pubDate>Wed, 16 Mar 2011 23:06:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/16/lanzamiento-del-grupo-de-usuarios-de-openstack-en-espana/</guid>
+      <description>Hoy anunciamos el lanzamiento oficial del Grupo de Usuarios de Openstack en España. Es el primero en Europa, aunque espero que muchos otros nos sigan en breve. El grupo lo hemos montado desde Stackops para ayudar a difundir qué es Openstack entre Administradores de Sistemas, Devops y demás familia. Aquí tenéis las enlaces para colaborar con el grupo:
+Website: http://stackops.org/display/soug
+Google Groups: http://groups.google.com/group/spain-openstack-user-group
+Twitter: twitter.com/openstackspain
+El grupo puede participar cualquier persona que tenga interés por el Cloud Computing, las Infraestructuras como Servicio y las tecnologías abiertas en general.</description>
+    </item>
+    
+  </channel>
+</rss>

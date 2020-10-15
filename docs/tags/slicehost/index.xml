@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>slicehost on Nubeblog</title>
+    <link>https://nubeblog.com/tags/slicehost/</link>
+    <description>Recent content in slicehost on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 23 Oct 2008 10:16:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/slicehost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rackspace adquiere JungleDisk y Slicehost para hacer frente a Amazon</title>
+      <link>https://nubeblog.com/2008/10/23/rackspace-adquiere-jungledisk-y-slicehost-para-hacer-frente-a-amazon/</link>
+      <pubDate>Thu, 23 Oct 2008 10:16:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/23/rackspace-adquiere-jungledisk-y-slicehost-para-hacer-frente-a-amazon/</guid>
+      <description>El mismo día que Rackspace anuncia sus nuevos servicios de Cloud Hosting, anuncia la adquisición de JungleDisk y de Slicehost (por cierto, el mismo día que Amazon anuncia los resultados de Q3).
+JungleDisk es un software que permite usar Amazon S3 como si fuera un disco local, de ese modo puedes acceder a los contenidos almacenados en La Nube desde cualquier lugar. Además implementa algoritmos de cacheo que hace que el contenido parezca que lo tienes en local.</description>
+    </item>
+    
+  </channel>
+</rss>

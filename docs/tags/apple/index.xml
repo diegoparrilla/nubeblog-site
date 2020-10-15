@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apple on Nubeblog</title>
+    <link>https://nubeblog.com/tags/apple/</link>
+    <description>Recent content in apple on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 02 Nov 2010 22:36:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El iDatacenter de Apple será una gigantesca emisora de contenidos</title>
+      <link>https://nubeblog.com/2010/11/02/el-idatacenter-de-apple-sera-una-gigantesca-emisora-de-contenidos/</link>
+      <pubDate>Tue, 02 Nov 2010 22:36:09 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/02/el-idatacenter-de-apple-sera-una-gigantesca-emisora-de-contenidos/</guid>
+      <description>Apple está construyendo un centro de datos gigantesco en Maiden, Carolina del Norte. Este iDatacenter ocupa casi 50.000 metros cuadrados y ha costado casi 1000 millones de dólares, quintuplicando al que tiene Apple en Newark en California. El siguiente video en YouTube se puede ver la magnitud del complejo. Parece que junto al centro de datos se construirá un complejo de oficinas.
+Nicholas Carr, el autor the ‘The Big Switch’ ha dicho que este nuevo centro de datos es “una emisora de contenidos para el siglo XXI, no como lo son la NBC o CBS, sino una que distribuye tanto software como media.</description>
+    </item>
+    
+    <item>
+      <title>Apple extenderá iWork y iMovie con Servicios Cloud</title>
+      <link>https://nubeblog.com/2009/01/05/apple-extendera-iwork-y-imovie-con-servicios-cloud/</link>
+      <pubDate>Mon, 05 Jan 2009 09:30:53 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/05/apple-extendera-iwork-y-imovie-con-servicios-cloud/</guid>
+      <description>Hoy 5 de enero da comienzo el último MacWorld Expo en el que participará Apple, y además el que ha destapado de nuevo los rumores sobre la salud de Steve Jobs, ya que no dara su famosa Keynote este año. Parece que este mes de enero va a ser especial para los fans de Apple por la cantidad de nuevos productos, pero me ha llamado la atención los rumores de nuevos servicios en La Nube que van a ofrecer.</description>
+    </item>
+    
+  </channel>
+</rss>

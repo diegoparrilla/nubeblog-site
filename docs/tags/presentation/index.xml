@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presentation on Nubeblog</title>
+    <link>https://nubeblog.com/tags/presentation/</link>
+    <description>Recent content in presentation on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 24 Nov 2008 09:50:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aclarando términos del Cloud Computing</title>
+      <link>https://nubeblog.com/2008/11/24/aclarando-terminos-del-cloud-computing/</link>
+      <pubDate>Mon, 24 Nov 2008 09:50:24 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/24/aclarando-terminos-del-cloud-computing/</guid>
+      <description>Me han enviado esta pequeña presentación que trata de dar algo de luz sobre el panorama del Cloud Computing y las diferentes partes que lo forman. A ver si de una vez todos hablamos de lo mismo:Toward a Unified Ontology of Cloud Computing.</description>
+    </item>
+    
+  </channel>
+</rss>

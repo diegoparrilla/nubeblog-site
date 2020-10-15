@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nubeblog</title>
+    <link>https://nubeblog.com/categories/nubeblog/</link>
+    <description>Recent content on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 07 Jan 2011 16:08:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/nubeblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los Consultores de Cloud Computing, según Dilbert</title>
+      <link>https://nubeblog.com/2011/01/07/los-consultores-de-cloud-computing-segun-dilbert/</link>
+      <pubDate>Fri, 07 Jan 2011 16:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/01/07/los-consultores-de-cloud-computing-segun-dilbert/</guid>
+      <description>Parece que Scott Adams se ha colado en alguna reunión de las que he tenido… (pincha para verlo completo)
+
+¡Grandioso!</description>
+    </item>
+    
+    <item>
+      <title>Los post más leidos de 2010 en Nubeblog</title>
+      <link>https://nubeblog.com/2010/12/31/los-post-mas-leidos-en-2010-en-nubeblog/</link>
+      <pubDate>Fri, 31 Dec 2010 01:42:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/31/los-post-mas-leidos-en-2010-en-nubeblog/</guid>
+      <description>Vamos a darnos un poco de autobombo. Aquí tenéis los post más leidos de 2010. A destacar que algunas entradas tienen más de dos años de antigüedad, pero gracias a Google las tenemos en lo más alto:
+ Cuidado con Foursquare SaaS, IaaS y PaaS: Las tres clases de Cloud Computing La muerte del Administrador de Sistemas y el nacimiento de los ‘Devops’ Por qué Amazon Web Services sí tiene éxito, y Google App Engine no Los 20 magníficos (proveedores) de Cloud Computing según Nicholas Carr Wikileaks expulsado de Amazon: Las Nubes no son ni neutrales ni abiertas Algunas conclusiones del evento de IDC sobre Cloud Computing ¿Está preparada España para el Cloud Computing?</description>
+    </item>
+    
+    <item>
+      <title>PoceroCloud: &amp;#8220;El Pocero&amp;#8221; convertirá Pocerolandia en un gran Centro de Datos para Cloud</title>
+      <link>https://nubeblog.com/2010/12/28/pocerocloud-el-pocero-convertira-pocerolandia-en-un-gran-centro-de-datos-para-cloud/</link>
+      <pubDate>Tue, 28 Dec 2010 10:37:18 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/28/pocerocloud-el-pocero-convertira-pocerolandia-en-un-gran-centro-de-datos-para-cloud/</guid>
+      <description>Era un secreto a voces en el sector desde hace tiempo, pero hoy 28 de diciembre lo podemos confirmar: el desembarco de Rafael Hernando “El Pocero de Seseña” en el mundo de la tecnología es inminente. Y lo piensa hacer a lo grande: PoceroCloud será la primera iniciativa en España para convertirse en un centro de referencia en Cloud Computing mundial.
+“A mi siempre me ha llamao lo jaitech”, asegura el conocido empresario.</description>
+    </item>
+    
+  </channel>
+</rss>

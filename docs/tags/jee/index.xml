@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jee on Nubeblog</title>
+    <link>https://nubeblog.com/tags/jee/</link>
+    <description>Recent content in jee on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 29 Oct 2007 12:24:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/jee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leaving AMPLIA and starting as a Freelance IT Consultant</title>
+      <link>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</link>
+      <pubDate>Mon, 29 Oct 2007 12:24:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/10/29/leaving-amplia-and-starting-as-a-freelance-it-consultant/</guid>
+      <description>Last years have been a wonderful time in Amplía Soluciones S.L., but nothing is forever and I think it’s time for a change. I will continue as a partner of the company but I will look for new challenges and adventures out there. You can read my public linkedin profile if you want to know a bit about my skills and experience.</description>
+    </item>
+    
+    <item>
+      <title>Going live with JEE 5: Congrats SOUKI</title>
+      <link>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</link>
+      <pubDate>Wed, 11 Apr 2007 00:03:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/11/going-live-with-jee-5-congrats-souki/</guid>
+      <description>Building a project for an start-up has nothing to do with building a project for a big company: people in the start-ups normally are betting their pocket money in the project, and this means that delays, unexpected issues and bad performance of the development team have direct impact in the life of the entrepreneurs. This is the reason why I don’t want to build software for start-ups: if you have a little of empathy with them, you will carry the heavy load of their personal problems, besides of your own company troubles.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>azure on Nubeblog</title>
+    <link>https://nubeblog.com/tags/azure/</link>
+    <description>Recent content in azure on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 14 Jul 2009 19:49:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microsoft anuncia los planes de precios y la fecha de comercialización de Azure</title>
+      <link>https://nubeblog.com/2009/07/14/microsoft-anuncia-los-planes-de-precios-y-la-fecha-de-comercializacion-de-azure/</link>
+      <pubDate>Tue, 14 Jul 2009 19:49:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/07/14/microsoft-anuncia-los-planes-de-precios-y-la-fecha-de-comercializacion-de-azure/</guid>
+      <description>Microsoft nos anuncia en su blog oficial las fechas y precios de Azure, sus plataformas IaaS y PaaS. Y parece que esta vez no es vapourware, ya que dean fechas y una lista de precios.
+La disponibilidad comercial del servicio llegará a mediados de noviembre de 2009, coincidiendo con su Professional Developers Conference, Los desarrolladors han tenido acceso a la versión de pruebas de la plataforma desde el pasado otoño, gracias al programa Microsoft’s Community Technology Preview.</description>
+    </item>
+    
+    <item>
+      <title>Windows Azure: qué es real y qué es vapor</title>
+      <link>https://nubeblog.com/2008/11/01/windows-azure-que-es-real-y-que-es-vapor/</link>
+      <pubDate>Sat, 01 Nov 2008 00:18:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/01/windows-azure-que-es-real-y-que-es-vapor/</guid>
+      <description>Parece que Microsoft ha inventado el Cloud Computing. Esta semana todo el mundo se ha dedicado a hablar de ‘La Nube’. Hay que reconocer que una vez más, Microsoft ha sabido mover su enorme maquinaria de marketing. Por cierto, hace unos años me comentaron que el porcentaje que Microsoft invertía en publicidad era igual porcentaje que BEA Systems invertía en I+D, y viceversa. Igual no es cierto, pero da que pensar.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Azure Services Platform, la apuesta PaaS de Microsoft</title>
+      <link>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</link>
+      <pubDate>Wed, 29 Oct 2008 08:58:10 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/29/microsoft-azure-services-platform-la-apuesta-paas-de-microsoft/</guid>
+      <description>Hace menos de un mes Steve Ballmer anunciaba una nueva versión de windows que correría en ‘La Nube’. Y aquí esta: Microsoft anunció en la Professional Developers Conference 2008 su apuesta por el Cloud Computing: Windows Azure y Azure Services Platform.
+La Plataforma de Services Azure es una PaaS alojada por la propia Microsoft en sus Data Centers. Esta plataforma ofrece Windows Azure como un nuevo sistema operativo pensado para ‘La Nube’ y un conjunto de servicios para desarrolladores que pueden usarse de manera conjunta.</description>
+    </item>
+    
+  </channel>
+</rss>

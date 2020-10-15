@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Nubeblog</title>
+    <link>https://nubeblog.com/categories/</link>
+    <description>Recent content in Categories on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 03 Oct 2011 13:20:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>eventos</title>
+      <link>https://nubeblog.com/categories/eventos/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/eventos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openstack</title>
+      <link>https://nubeblog.com/categories/openstack/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/openstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stackops</title>
+      <link>https://nubeblog.com/categories/stackops/</link>
+      <pubDate>Mon, 03 Oct 2011 13:20:25 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/stackops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amazon</title>
+      <link>https://nubeblog.com/categories/amazon/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://nubeblog.com/categories/cloud/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hosting</title>
+      <link>https://nubeblog.com/categories/hosting/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iaas</title>
+      <link>https://nubeblog.com/categories/iaas/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/iaas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensource</title>
+      <link>https://nubeblog.com/categories/opensource/</link>
+      <pubDate>Wed, 20 Jul 2011 13:42:22 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/opensource/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>https://nubeblog.com/categories/opinion/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>saas</title>
+      <link>https://nubeblog.com/categories/saas/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/saas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arquitectura</title>
+      <link>https://nubeblog.com/categories/arquitectura/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/arquitectura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datacenter</title>
+      <link>https://nubeblog.com/categories/datacenter/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/datacenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>empresas</title>
+      <link>https://nubeblog.com/categories/empresas/</link>
+      <pubDate>Wed, 23 Mar 2011 13:33:49 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/empresas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>negocios</title>
+      <link>https://nubeblog.com/categories/negocios/</link>
+      <pubDate>Tue, 08 Feb 2011 13:33:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/negocios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nubeblog</title>
+      <link>https://nubeblog.com/categories/nubeblog/</link>
+      <pubDate>Fri, 07 Jan 2011 16:08:57 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/nubeblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grid</title>
+      <link>https://nubeblog.com/categories/grid/</link>
+      <pubDate>Fri, 24 Dec 2010 16:12:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://nubeblog.com/categories/uncategorized/</link>
+      <pubDate>Wed, 22 Dec 2010 11:05:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estudios</title>
+      <link>https://nubeblog.com/categories/estudios/</link>
+      <pubDate>Tue, 14 Dec 2010 12:17:38 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/estudios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualización</title>
+      <link>https://nubeblog.com/categories/virtualizaci%C3%B3n/</link>
+      <pubDate>Thu, 16 Sep 2010 01:39:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/virtualizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>almacenamiento</title>
+      <link>https://nubeblog.com/categories/almacenamiento/</link>
+      <pubDate>Mon, 06 Sep 2010 09:35:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/almacenamiento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medios</title>
+      <link>https://nubeblog.com/categories/medios/</link>
+      <pubDate>Wed, 01 Sep 2010 09:13:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/medios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>google</title>
+      <link>https://nubeblog.com/categories/google/</link>
+      <pubDate>Thu, 20 May 2010 07:22:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>administracion</title>
+      <link>https://nubeblog.com/categories/administracion/</link>
+      <pubDate>Fri, 09 Apr 2010 10:46:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/administracion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://nubeblog.com/categories/vmware/</link>
+      <pubDate>Tue, 06 Apr 2010 16:55:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estandares</title>
+      <link>https://nubeblog.com/categories/estandares/</link>
+      <pubDate>Fri, 04 Sep 2009 09:54:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/estandares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seguridad</title>
+      <link>https://nubeblog.com/categories/seguridad/</link>
+      <pubDate>Tue, 01 Sep 2009 13:06:08 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/seguridad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abiquo</title>
+      <link>https://nubeblog.com/categories/abiquo/</link>
+      <pubDate>Sun, 05 Apr 2009 15:38:54 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/abiquo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paas</title>
+      <link>https://nubeblog.com/categories/paas/</link>
+      <pubDate>Tue, 03 Feb 2009 00:16:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/paas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://nubeblog.com/categories/tutorial/</link>
+      <pubDate>Tue, 09 Dec 2008 16:41:32 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

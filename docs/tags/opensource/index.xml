@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensource on Nubeblog</title>
+    <link>https://nubeblog.com/tags/opensource/</link>
+    <description>Recent content in opensource on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 11 Aug 2009 09:20:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VMware compra SpringSource por más de $400 millones</title>
+      <link>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</link>
+      <pubDate>Tue, 11 Aug 2009 09:20:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/11/vmware-compra-springsource-por-mas-de-400-millones/</guid>
+      <description>El anuncio en el blog de VMware no deja lugar a dudas: SpringSource se centra en la operación de la capa de aplicación, y no en la de infraestructura como hace VMware. Son complementarias. VMware quiere convertirse en un proveedor de software de gestión y operación del datacenter de manera completa. La comoditización del hypervisor es un hecho (en Abiquo estamos pasando máquinas de un hypervisor a otro, es un hecho) y deben centrarse en otras partes de la operación.</description>
+    </item>
+    
+    <item>
+      <title>Presentación sobre Cloud Computing en el Sun Open Communities Forum</title>
+      <link>https://nubeblog.com/2009/06/23/presentacion-sobre-cloud-computing-en-el-sun-open-communities-forum/</link>
+      <pubDate>Tue, 23 Jun 2009 07:05:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/23/presentacion-sobre-cloud-computing-en-el-sun-open-communities-forum/</guid>
+      <description>Los pasados jueves y viernes 18 y 19 de junio respectivamente se celebraron en la Escuela Politécnica Superior de la Universidad San Pablo CEU (Boadilla del Monte, Madrid) el evento “Sun Open Communities Forum”. Víctor M. Fernández hizo una interesante presentación sobre Cloud Computing. Aquí la tenéis.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 9.10 (Karmic Koala) vendrá preparado para el Cloud Computing</title>
+      <link>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</link>
+      <pubDate>Mon, 23 Feb 2009 07:40:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</guid>
+      <description>El fundador de Ubuntu Mark Shuttleworth anunció en un correo enviado a la lista ubuntu-devel-announce que la versión que sucederá a Jaunty Jackalope, Ubuntu 9.04, ya tiene nombre (Karmic Koala). Esta nueva versión 9.10 de la popular distribución está prevista para octubre. Las novedades en las versiones desktop y server son variadas, pero en lo que a Cloud Computing atañe, hay unas cuantas novedades:
+ Ubuntu se orienta en la parte servidora hacia el Cloud Computing enteramente open-source.</description>
+    </item>
+    
+    <item>
+      <title>GoGrid libera su API de gestión bajo licencia Creative Commons</title>
+      <link>https://nubeblog.com/2009/01/21/gogrid-libera-api-gestion-licencia-creative-commons/</link>
+      <pubDate>Wed, 21 Jan 2009 10:01:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/21/gogrid-libera-api-gestion-licencia-creative-commons/</guid>
+      <description>GoGrid es una empresa que ofrece Infraestructura Como Servicios (IaaS) de manera similar a como hace Amazon Web Services. Parece que querían eclipsar a Obama en la ceremonia de envestidura anunciando que liberan la especificación del API de gestión de su CloudCenter, la especificación GoGrid cloudcenter Application Programming Interface (API) bajo una licencia Creative Commons. Esto permitirá a desarrolladores, integradores y demás profesionales IT copiar, modificar, distribuir y republicar este API libremente.</description>
+    </item>
+    
+    <item>
+      <title>Eucalyptus: el camino de código abierto a seguir en la estandarización de La Nube</title>
+      <link>https://nubeblog.com/2008/11/10/eucalyptus-el-camino-de-codigo-abierto-a-seguir-en-la-estandarizacion-de-la-nube/</link>
+      <pubDate>Mon, 10 Nov 2008 08:10:44 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/10/eucalyptus-el-camino-de-codigo-abierto-a-seguir-en-la-estandarizacion-de-la-nube/</guid>
+      <description>Cuando uno empieza a usar Amazon EC2, le vienen a la cabeza varias cuestiones, pero probablemente las más importantes son:
+ ¿Me voy a tener que ‘casar’ con Amazon el resto de mi vida? ¿Esto no es más caro que un hosting? Amazon es casi un monopolio en esto, ¿me tratará bien como cliente?  Estas preguntas no son particulares a Amazon EC2 -exceptuando la comparación con el hosting-, y nos las encontramos cada vez que optamos por un producto de software cerrado.</description>
+    </item>
+    
+    <item>
+      <title>Abiquo pagará hasta 3000€ a quien desarrolle aplicaciones con su framework</title>
+      <link>https://nubeblog.com/2008/10/27/abiquo-pagara-hasta-3000e-a-quien-desarrolle-aplicaciones-con-su-framework/</link>
+      <pubDate>Mon, 27 Oct 2008 23:30:52 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/27/abiquo-pagara-hasta-3000e-a-quien-desarrolle-aplicaciones-con-su-framework/</guid>
+      <description>Abiquo es una startup de Barcelona dedicada al Grid y al Cloud Computing. Tienen diversas herramientas de código abierto que permiten desplegar Clouds, Calculo intensivo y almacenamiento masivo distribuido. Hoy su CEO Diego Mariño anunciaba en su blog que ofrecerá hasta 3000€ a aquellos desarrolladores que:
+  Adapten o desarrollen una aplicación o servicio sobre nuestra plataforma El código resultante sea ofrecido bajo una licencia aprobada por la OSI (no esperamos ganar un duro revendiendo esto, simplemente poder utilizarlos como ejemplos sin restricciones) Ofrezcan una completa documentación (en inglés como mínimo) tanto para usuario como para desarrollador   Y las razones que esgrime para esto son las siguientes:</description>
+    </item>
+    
+  </channel>
+</rss>

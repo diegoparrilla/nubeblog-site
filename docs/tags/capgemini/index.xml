@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CapGemini on Nubeblog</title>
+    <link>https://nubeblog.com/tags/capgemini/</link>
+    <description>Recent content in CapGemini on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 26 Nov 2008 09:01:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/capgemini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM y CapGemini entran en el mercado del Cloud: Las grandes consultoras quieren su trozo del pastel</title>
+      <link>https://nubeblog.com/2008/11/26/ibm-y-capgemini-entran-en-el-mercado-del-cloud-las-grandes-consultoras-quieren-su-trozo-del-pastel/</link>
+      <pubDate>Wed, 26 Nov 2008 09:01:50 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/26/ibm-y-capgemini-entran-en-el-mercado-del-cloud-las-grandes-consultoras-quieren-su-trozo-del-pastel/</guid>
+      <description>Cuando empecé a escribir este post la noticia se centraba únicamente en la entrada de CapGemini en el mercado de la consultoría a empresas de Cloud Computing. Pero una semana después IBM ha anunciado que entra a dar servicios dentro de este mercado.
+La visión de CapGemini es más exploratoria, los servicios que ofrecen tienen diferentes focos:
+ Software as a Service (SaaS) con soluciones de Oracle Fusion y Microsoft Sharepoint.</description>
+    </item>
+    
+  </channel>
+</rss>

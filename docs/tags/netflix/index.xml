@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>netflix on Nubeblog</title>
+    <link>https://nubeblog.com/tags/netflix/</link>
+    <description>Recent content in netflix on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 28 Nov 2010 15:04:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entrevista a Adrian Cockcroft, Cloud Architect de Netflix en el blog de Cloudscaling</title>
+      <link>https://nubeblog.com/2010/11/28/entrevista-a-adrian-cockcroft-cloud-architect-de-netflix-en-el-blog-de-cloudscaling/</link>
+      <pubDate>Sun, 28 Nov 2010 15:04:35 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/11/28/entrevista-a-adrian-cockcroft-cloud-architect-de-netflix-en-el-blog-de-cloudscaling/</guid>
+      <description>Randy Bias, un sospechoso habitual de las Infraestructuras como Servicio, entrevista para el blog de su empresa CloudScaling a Adrian Cockcroft, Cloud Architect de Netflix. Ya he hablado con anterioridad de Netflix, por lo que vale la pena que antes de leer la entrevista eches un vistazo a lo que escribí.
+En esta entrevista Adrian Cockcroft explica lo que unos cuantos llevamos tiempo diciendo: La Nube Pública no sólo es una opción válida, sino que puede ser la mejor opción de largo.</description>
+    </item>
+    
+    <item>
+      <title>El caso de éxito de Netflix: cómo una gran corporación migra a la Nube Pública</title>
+      <link>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</link>
+      <pubDate>Thu, 28 Oct 2010 09:32:33 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/28/el-caso-de-exito-de-netflix-como-una-gran-corporacion-migra-a-la-nube-publica/</guid>
+      <description>Netflix es una empresa que nació prestando DVDs por correo ordinario, y ha evolucionado hacia los servicios de streaming. Hoy presume de tener 15 millones de subscriptores offline y online en los EEUU y Canadá. Por decirlo de alguna manera, es similar lo que sería Imagenio en España en la parte de alquiler de contenidos, pero sin nada que ver con el servicio de Internet. La diferencia es que puede servir contenidos a un conjunto bastante importante de dispositivos: TiVo, AppleTV, PlayStation 3, Wii y XBox entre otros.</description>
+    </item>
+    
+  </channel>
+</rss>

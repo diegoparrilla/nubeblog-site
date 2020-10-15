@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terremark on Nubeblog</title>
+    <link>https://nubeblog.com/tags/terremark/</link>
+    <description>Recent content in terremark on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 26 May 2009 23:07:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/terremark/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VMware entra en el capital del proveedor de Cloud Computing Terremark</title>
+      <link>https://nubeblog.com/2009/05/26/vmware-entra-en-el-capital-del-proveedor-de-cloud-computing-terremark/</link>
+      <pubDate>Tue, 26 May 2009 23:07:47 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/05/26/vmware-entra-en-el-capital-del-proveedor-de-cloud-computing-terremark/</guid>
+      <description>Entre las múltiples e insulsas noticias sobre las bondades, maldades y banalidades del Cloud Computing me ha llegado una que me ha sorprendido: VMware entra en el capital del proveedor Terremark garantizando la compra del 5% por ciento de sus acciones tras una ampliación de capital. Y digo que me ha sorprendido porque no pensaba que VMware fuera a entrar a comprar proveedores de servicios. Por activa y por pasiva, VMware ha repetido que no les interesa convertirse en Nube Pública, y ahora ¡zas!</description>
+    </item>
+    
+  </channel>
+</rss>

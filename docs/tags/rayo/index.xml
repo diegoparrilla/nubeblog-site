@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rayo on Nubeblog</title>
+    <link>https://nubeblog.com/tags/rayo/</link>
+    <description>Recent content in rayo on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 10 Aug 2011 10:55:37 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/rayo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El otro efecto Menéame</title>
+      <link>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</link>
+      <pubDate>Wed, 10 Aug 2011 10:55:37 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/08/10/el-otro-efecto-meneame/</guid>
+      <description>Reconozco que una de mis aficiones favoritas es procrastinar trolleando en los comentarios de las noticias de Menéame. Aunque supongo que todo el mundo lo sabe, Menéame es el conocido clon hispano de Digg, el servicio a enlace de noticias gestionado por los usuarios (envían las que le gustan, y votan otras que les interesan). El pasado domingo intenté conectarme a Menéame después de pasar por varios periódicos online, y me encuentro con el sitio caído.</description>
+    </item>
+    
+  </channel>
+</rss>

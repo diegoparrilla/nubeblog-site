@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prevision on Nubeblog</title>
+    <link>https://nubeblog.com/tags/prevision/</link>
+    <description>Recent content in prevision on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 03 Feb 2009 00:16:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/prevision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Cloud Computing necesitará 7 años para madurar según Gartner</title>
+      <link>https://nubeblog.com/2009/02/03/el-cloud-computing-necesitara-7-anos-para-madurar-segun-gartner/</link>
+      <pubDate>Tue, 03 Feb 2009 00:16:03 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/03/el-cloud-computing-necesitara-7-anos-para-madurar-segun-gartner/</guid>
+      <description>La consultora Gartner ha publicado un documento en el que intenta poner fechas a la evolución y madurez del Cloud Computing. Son unos valientes estos chicos. El mercado del Cloud Computing se encuentra en un período de excitación, crecimiento y alto potencial. Pero aún necesita un periodo de maduración hasta que se convierta en algo popular y común, de acuerdo a las previsiones de Gartner.
+Han dividido esta maduración en tres períodos:</description>
+    </item>
+    
+  </channel>
+</rss>

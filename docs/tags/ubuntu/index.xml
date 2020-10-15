@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ubuntu on Nubeblog</title>
+    <link>https://nubeblog.com/tags/ubuntu/</link>
+    <description>Recent content in ubuntu on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 23 Feb 2009 07:40:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 9.10 (Karmic Koala) vendrá preparado para el Cloud Computing</title>
+      <link>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</link>
+      <pubDate>Mon, 23 Feb 2009 07:40:20 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/02/23/ubuntu-910-karmic-koala-vendra-preparado-para-el-cloud-computing/</guid>
+      <description>El fundador de Ubuntu Mark Shuttleworth anunció en un correo enviado a la lista ubuntu-devel-announce que la versión que sucederá a Jaunty Jackalope, Ubuntu 9.04, ya tiene nombre (Karmic Koala). Esta nueva versión 9.10 de la popular distribución está prevista para octubre. Las novedades en las versiones desktop y server son variadas, pero en lo que a Cloud Computing atañe, hay unas cuantas novedades:
+ Ubuntu se orienta en la parte servidora hacia el Cloud Computing enteramente open-source.</description>
+    </item>
+    
+  </channel>
+</rss>

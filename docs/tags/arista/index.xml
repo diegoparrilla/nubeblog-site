@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arista on Nubeblog</title>
+    <link>https://nubeblog.com/tags/arista/</link>
+    <description>Recent content in arista on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 30 Oct 2008 09:18:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/arista/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arista Networks, los dueños de la marca &amp;#039;Cloud Networking&amp;#039;</title>
+      <link>https://nubeblog.com/2008/10/30/arista-networks-los-duenos-de-la-marca-cloud-networking/</link>
+      <pubDate>Thu, 30 Oct 2008 09:18:27 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/10/30/arista-networks-los-duenos-de-la-marca-cloud-networking/</guid>
+      <description>No ha pasado desapercibido que en el artículo describiendo qué es el Cloud Networking firmado por Jayshree Ullal, la nueva CEO de Arista Networks, el término Cloud Networking aparezca como marca registrada. En ElasticVapor y en PlugintotheCloud así lo hacen notar. No creo que sea algo relevante, pero han conseguido portadas en los medios y tráfico a sus páginas, así que felicidades por saber usar el ‘hype’ a su favor.</description>
+    </item>
+    
+  </channel>
+</rss>

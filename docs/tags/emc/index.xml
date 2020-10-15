@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emc on Nubeblog</title>
+    <link>https://nubeblog.com/tags/emc/</link>
+    <description>Recent content in emc on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 13 Dec 2010 10:22:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/emc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Cloud Computing impulsará un 2% el PIB en España</title>
+      <link>https://nubeblog.com/2010/12/13/el-cloud-computing-impulsara-un-2-el-pib-en-espana/</link>
+      <pubDate>Mon, 13 Dec 2010 10:22:15 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/12/13/el-cloud-computing-impulsara-un-2-el-pib-en-espana/</guid>
+      <description>La semana pasada el Centre for Economics and Business Research (CEBR) publicó un estudio sobre el impacto del Cloud Computing en la economía europea. El informe se centra sobre las cinco mayores economías europeas: Reino Unido, Alemania, Francia, Italia y España. El informe está patrocinado por EMC.
+El estudio se centra en calcular los beneficios del Cloud Computing a nivel macro. Es decir, el CEBR ha asumido los beneficios del Cloud Computing a nivel general, y los han generalizado a las diferentes economías y a las diferentes industrias, poniendo como horizonte el año 2015.</description>
+    </item>
+    
+    <item>
+      <title>Decho: La nueva marca de EMC para los servicios de Cloud orientados al consumidor</title>
+      <link>https://nubeblog.com/2008/11/28/decho-la-nueva-marca-de-emc-para-los-servicios-de-cloud-orientados-al-consumidor/</link>
+      <pubDate>Fri, 28 Nov 2008 10:16:11 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/28/decho-la-nueva-marca-de-emc-para-los-servicios-de-cloud-orientados-al-consumidor/</guid>
+      <description>Decho es el nombre de una nueva compañía que EMC ha creado y que se centrará en los Servicios de Información orientados a consumidores. Esta compañía se ha creado gracias a la combinación de dos empresas de EMC, Mozy y Pi. El nombre elegido, Decho, es la combinación de dos palabras: Digital y Echo.
+Esta nueva unidad de negocio ofrecerá servicios en La Nube de compartición y almacenaje de información en la Web.</description>
+    </item>
+    
+    <item>
+      <title>EMC Atmos, nueva solución de almacenamiento Cloud Optimized Storage</title>
+      <link>https://nubeblog.com/2008/11/11/emc-atmos-nueva-solucion-de-almacenamiento-cloud-optimized-storage/</link>
+      <pubDate>Tue, 11 Nov 2008 09:04:06 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/11/emc-atmos-nueva-solucion-de-almacenamiento-cloud-optimized-storage/</guid>
+      <description>La capacidad de acceder a aplicaciones e información desde un proveedor externo -como una gran compañía de telecomunicaciones- que ha construido a una gran infraestructura en La Nube. Esta infraestructura tendrá ingentes cantidades de información no estructurada en la Web, y requerirá de una política que disperse la información de manera eficiente por todo el mundo.
+ Algunas características relevantes del producto son:
+ No existe el concepto de Gigabyte o Terabyte, son unidades demasiado pequeñas.</description>
+    </item>
+    
+  </channel>
+</rss>

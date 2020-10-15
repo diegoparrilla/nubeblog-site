@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>marketing on Nubeblog</title>
+    <link>https://nubeblog.com/tags/marketing/</link>
+    <description>Recent content in marketing on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 22 Oct 2010 11:18:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Free Usage Tier, prueba Amazon Web Services gratis durante un año</title>
+      <link>https://nubeblog.com/2010/10/22/aws-free-usage-tier-prueba-amazon-web-services-gratis-durante-un-ano/</link>
+      <pubDate>Fri, 22 Oct 2010 11:18:21 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/22/aws-free-usage-tier-prueba-amazon-web-services-gratis-durante-un-ano/</guid>
+      <description>Menudo revuelo que ha causado la nueva estrategia de marketing de Amazon Web Services. Sí, he escrito bien: Marketing. Ayer anunció un ‘menú degustación’ de sus servicios en la nube llamado AWS Free Usage Tier durante un año.
+En un cambio de política por sorpresa (y tal vez sorprendente), Amazon ofrece los nuevos clientes creados a partir del 20 de octubre de 2010 la posibilidad de usar uno conjunto de recursos de manera gratuita.</description>
+    </item>
+    
+  </channel>
+</rss>

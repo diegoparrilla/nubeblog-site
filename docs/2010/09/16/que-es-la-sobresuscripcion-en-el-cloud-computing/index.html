@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Qué es la sobresuscripción en el Cloud Computing • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Qué es la sobresuscripción en el Cloud Computing"/>
+<meta name="twitter:description" content="Hace un par de días escribí un post sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.
+¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada."/>
+
+<meta property="og:title" content="Qué es la sobresuscripción en el Cloud Computing" />
+<meta property="og:description" content="Hace un par de días escribí un post sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.
+¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2010/09/16/que-es-la-sobresuscripcion-en-el-cloud-computing/" />
+<meta property="article:published_time" content="2010-09-16T01:39:55+00:00" />
+<meta property="article:modified_time" content="2010-09-16T01:39:55+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Qué es la sobresuscripción en el Cloud Computing</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Sep 16, 2010
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/arquitectura">ARQUITECTURA</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/iaas">IAAS</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/virtualizaci%C3%B3n">VIRTUALIZACIÓN</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/cloud">cloud</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/sobresubscripcion">sobresubscripcion</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/virtualizaci%C3%B3n">virtualización</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 5 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<p><a href="/wp-content/uploads/glass_full.jpg"><!-- raw HTML omitted --></a>Hace un par de días escribí un <a href="/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/">post</a> sobre las nuevas instancias de Amazon EC2 con sobresuscripción de CPU y tal vez de memoria. Este concepto, el de ‘sobresubscripción’, pensé que era un concepto usado con normalidad por tecnólogos, pero parece ser que no.</p>
+<p>¿Qué es esto de la sobresuscripción de recursos? Bueno, esto no es nuevo en absoluto. La sobresuscripción no es mas que el compromiso por parte de un proveedor a ofrecer un recurso a sus clientes a sabiendas de que puede que en algún momento no pueda atender toda la demanda solicitada. ¿Les suena? Claro que sí. Si tienen una línea ADSL o cable en casa que a veces llega a sus 10MB y otras no, no es por las características físicas del enlace: es que tus vecinos también se bajan películas al mismo tiempo que tu…</p>
+<p>Aunque creo que la sobresuscripción no es algo único del mundo de las Telecomunicaciones (supongo que los antiguos coeficientes de caja y los famosos tier-N de Basilea de la banca siguen algún patrón similar), son ellos los que han basado su crecimiento en ese concepto: vendo más recursos de los que tengo, y luego hago firmar un acuerdo de nivel de servicio (SLA) a mi cliente para protegerme cuando no pueda darle el servicio demandado. Como ocurre en el Cloud Computing, el modelo de servicio se basa en la experiencia anterior en las empresas de Telecomunicaciones.</p>
+<p>El Cloud Computing también se usa la sobresuscripción. Y mucho. Y si vas a buscar un proveedor de Cloud o de Virtualización es MUY importante que preguntes y que tengas claros estos conceptos antes de contratar el servicio. Veamos primero qué recursos se usan en una IaaS típica:</p>
+<ul>
+<li>CPU: Ciclos de CPU que te vende tu proveedor.</li>
+<li>Memoria: La memoria RAM disponible para tu servidor virtual.</li>
+<li>Almacenamiento Local: Disco duro ‘local’ usado por el servidor. Hay proveedores que no lo usan.</li>
+<li>Almacenamiento remoto: Volumen remotos creados en un almacenamiento tipo SAN (puede ser un NAS, pero por simplificar pensemos en un almacenamiento de bloque).</li>
+<li>Entrada y Salida a disco: Es decir, los famosos IOs del Sistema Operativo hacia los dispositivos de almacenamiento.</li>
+<li>Tráfico entre servidores:  Ancho de banda permitido entre servidores en la misma infraestructura.</li>
+<li>Tráfico externo: Ancho de banda permitido entre los servidores e internet.</li>
+</ul>
+<p>Todos estos recursos pueden ser sobresuscritos. Todos. El parámetro que se usa para conocer el nivel de sobresuscripción de cada recurso se llama <em>ratio de concentración</em>.</p>
+<p>Sin embargo, no todos los proveedores sobresuscriben todos los recursos. Casi todos hacen sobresuscripción del ancho de banda disponible desde/hacia internet. Casi todos aprovechan las capacidades de las cabinas de almacenamiento SAN de thin provisioning y deduplicación, con ratios de concentración muy altos. Sin embargo, no todos sobresuscriben CPU, memoria e IOs de sus servidores. ¿Por qué?</p>
+<p>Mientras que en el caso del ancho de banda es algo que se conoce desde hace tiempo y los departamentos de TI están acostumbrados a trabajar con ello, en el caso de las cabinas de almacenamiento lo que ocurre es que el cliente realmente no tiene reducción en la calidad de su servicio (a no ser que haya un problema de sobrecapacidad en la cabina, pero de eso ya hablaré otro día). Sin embargo la sobresuscripción de CPU y memoria tiene un impacto muy importante en la calidad de servicio ofrecida y por lo tanto en sus Acuerdos de Nivel de Servicio.  Por decirlo a las claras, definir un SLA sobre una plataforma altamente sobresuscrita en CPU y Memoria es un infierno.</p>
+<p>Sin embargo, se hace. Pero no en el Cloud Computing, sino con plataformas virtualizadas de hosting gestionadas. Los administradores de estas plataformas distribuyen los servidores virtuales de tal manera que se aproveche la máquina de la mejor manera posible sin afectar a los ‘vecinos’ que comparten máquina. Es decir, hacen un balanceo de la carga basada en su experiencia como administradores.</p>
+<p>Por desgracia esto no puede hacerse en el Cloud Computing ya que es una premisa fundamental en una plataforma altamente automatizada que la elección del servidor físico donde se hace el despliegue de la máquina virtual se haga con un algoritmo que implementa políticas para ello. Y los algoritmos por ahora no son muy listos. Así que ante esta situación lo mejor es simplemente simplificar el problema y no sobresuscribir recursos. Este es (bueno, era) el caso de Amazon EC2.</p>
+<p>Amazon EC2 no sobresuscribe ni memoria ni CPUs. Lo que hace es un particionamiento exacto de los recursos entre los ‘inquilinos’ de sus máquinas físicas. O tan exacto como las tecnologías de virtualización que usa lo permite (Xen paravirtualizado y parece ser que KVM con virtualización completa para correr Windows). Muchos proveedores de hosting con los que he hablado se llevan las manos a la cabeza cuando les cuento esto, ya que la mayoría de los servidores en los centros de datos se encuentran infrautilizados. Sin embargo, el modelo de Amazon no se centra (o se centraba, ahora tengo mis dudas) en el bajo coste de sus servicios, sino en que el coste es razonable para el servicio ofrecido. Y su estrategia de optimización de la plataforma se basa en prescindir de los humanos (<a href="/2009/01/14/seran-los-humanos-irrelevantes-monitorizando-aplicaciones-cloud/">Skynet de nuevo</a>…) en las tareas de provisión y operación, por lo que el balanceo de la carga que hace un administrador experto debe sustituirse con un algoritmo sencillo y eficiente.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2010/09/13/amazon-anuncia-nuevas-instancias-desde-7-al-mes/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Amazon anuncia nuevas instancias desde $7 al mes</span>
+    </a>
+    
+    
+    <a href="/2010/09/20/cuidado-con-foursquare/" class="navigation-next">
+      <span class="navigation-tittle">Cuidado con Foursquare</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2010/09/06/que-tiene-3par-que-hp-dell-todos-se-pelean-por-ella/" >¿Qué tiene 3PAR que Dell y HP se pelean por ella?</a>
+      
+      <time class="pull-right hidden-tablet">Sep 06 &#39;10</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2010/03/29/solaris-puede-dejar-de-ser-gratuito-y-nadie-sabe-que-sera-de-opensolaris/" >Solaris puede dejar de ser gratuito y nadie sabe que será de OpenSolaris</a>
+      
+      <time class="pull-right hidden-tablet">Mar 29 &#39;10</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/07/16/europa-tiene-que-luchar-contra-el-dominio-de-los-eeuu-en-el-cloud-computing-dice-la-comisionada-reding/" >&amp;quot;Europa tiene que luchar contra el dominio de los EEUU en el Cloud Computing&amp;quot;, dice la comisionada Reding</a>
+      
+      <time class="pull-right hidden-tablet">Jul 16 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/02/18/im-the-new-business-development-manager-at-abiquo-corp/" >I&amp;#8217;m the new Business Development Manager at Abiquo Corp.</a>
+      
+      <time class="pull-right hidden-tablet">Feb 18 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2009/01/26/hazte-un-secuestrador-y-monta-en-amazon-ec2-un-cliente-bittorrent-con-tus-amigos/" >Hazte un secuestrador y monta en Amazon EC2 un cliente bittorrent con tus amigos</a>
+      
+      <time class="pull-right hidden-tablet">Jan 26 &#39;09</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

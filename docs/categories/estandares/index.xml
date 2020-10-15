@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estandares on Nubeblog</title>
+    <link>https://nubeblog.com/categories/estandares/</link>
+    <description>Recent content in estandares on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 04 Sep 2009 09:54:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/categories/estandares/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RedHat Deltacloud: una API para gobernar todas las nubes</title>
+      <link>https://nubeblog.com/2009/09/04/redhat-deltacloud-una-api-para-gobernar-todas-las-nubes/</link>
+      <pubDate>Fri, 04 Sep 2009 09:54:42 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/09/04/redhat-deltacloud-una-api-para-gobernar-todas-las-nubes/</guid>
+      <description>En esta semana de locos que estamos viviendo, todos los proveedores intentan hacer sombra a larga lista de anuncios realizados en la VMWorld 2009, y RedHat no podía ser menos.
+RedHat ha anunciado un nuevo proyecto llamado Deltacloud. Deltacloud es una librería y un pequeño portal con una API que permite gestionar nubes públicas de diferentes proveedores. Y según ellos, protege tus aplicaciones de cambios en el API cloud de tus proveedores debido a cambios e incompatiblidades.</description>
+    </item>
+    
+    <item>
+      <title>Los Casos de Uso del Cloud Computing</title>
+      <link>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</link>
+      <pubDate>Sun, 09 Aug 2009 15:53:53 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/08/09/los-casos-de-uso-del-cloud-computing/</guid>
+      <description>Cuando uno trabaja en una startup aprende rápidamente que lo urgente prima sobre lo importante. Y si no lo aprende rápido, la startup prescinde de él, él prescinde de la startup, o bien todo se va a al carajo. Ejemplo: escribir en este blog es importante, pero lo urgente es cerrar funcionalidad del producto necesaria por algunos clientes.
+Otro ejemplo: es importante trabajar en grupos y asociaciones dedicadas a la estandarización del Cloud Computing, pero tu producto no puede esperar a las estandarizaciones.</description>
+    </item>
+    
+  </channel>
+</rss>

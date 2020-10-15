@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M2M on Nubeblog</title>
+    <link>https://nubeblog.com/tags/m2m/</link>
+    <description>Recent content in M2M on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 22 Apr 2008 11:28:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/m2m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First printer in a computing grid?</title>
+      <link>https://nubeblog.com/2008/04/22/first-printer-in-a-computing-grid/</link>
+      <pubDate>Tue, 22 Apr 2008 11:28:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/04/22/first-printer-in-a-computing-grid/</guid>
+      <description>My friend Diego Mariño has announced in his blog that they have succesfully connected a printer to a computing grid. Think in Grid is a startup from Barcelona with an innovative Grid computing framework. They claim to be able to integrate all kind of devices in a computing grid, just like this printer:
+Coming from the M2M busines I know that the Holy Grail of this business is not only the transparent connectivity of heterogenous devices through non-reliable (wireless) networks, but the capability to split and perform complex operations remotely just like if they were performed locally.</description>
+    </item>
+    
+    <item>
+      <title>How should Mobile projects be to survive?</title>
+      <link>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</link>
+      <pubDate>Wed, 16 Apr 2008 23:43:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/04/16/how-should-mobile-projects-be-to-survive/</guid>
+      <description>Yesterday we discover that Mowser, the project founded by famous blogger Russell Beattie (and former colleague) was in the deadpool. Russ claimed that he ran out of money and had serious trouble with his finances.
+Everyday startups are created and abandoned, but the point in this story is that he could not raise funds to continue with the project. We see almost everyday projects raising a lot of money for nothing, so why an authority in the mobile world cannot pass the first round?</description>
+    </item>
+    
+    <item>
+      <title>Meraki: Mesh networks can kill Wimax</title>
+      <link>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</link>
+      <pubDate>Thu, 19 Apr 2007 00:08:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/04/19/meraki-mesh-networks-can-kill-wimax/</guid>
+      <description>One of the most interesting technologies to come are mesh networks. In Amplia we are making some prospects on these technology applied to the M2M (machine to machine) communication. Zigbeefits perfectly for small amount of data, but it’s not good when dealing with mobile communications (PDAs, laptops, MP3 players… anything interactive and portable).
+The only real ubiquitousnetworks today are the mobile operators networks. GPRShas an acceptable deployment, closer to 100% of the population in developed countries, but 3G technologies are still far from being everywhere.</description>
+    </item>
+    
+    <item>
+      <title>New Amplia&amp;#8217;s Blog about Wireless M2M</title>
+      <link>https://nubeblog.com/2007/02/09/new-amplias-blog-about-wireless-m2m/</link>
+      <pubDate>Fri, 09 Feb 2007 23:40:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/02/09/new-amplias-blog-about-wireless-m2m/</guid>
+      <description>Now that the 3GSM is going to start next week in Barcelona, we have launched our new Wireless M2M Blog. We hope to contribute with some interesting stuff regarding M2M business and services.
+Rafael Morillo (our Business Development Manager) will be the main contributor to the Blog, but I hope to help him with my techie thoughts about the M2M.</description>
+    </item>
+    
+  </channel>
+</rss>

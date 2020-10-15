@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>whyfloss on Nubeblog</title>
+    <link>https://nubeblog.com/tags/whyfloss/</link>
+    <description>Recent content in whyfloss on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 08 Jun 2009 16:23:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/whyfloss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mi charla en el WhyFLOSS Madrid 2009 sobre Nubes y Clientes cautivos</title>
+      <link>https://nubeblog.com/2009/06/08/mi-charla-en-el-whyfloss-madrid-2009-sobre-nubes-y-clientes-cautivos/</link>
+      <pubDate>Mon, 08 Jun 2009 16:23:51 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/08/mi-charla-en-el-whyfloss-madrid-2009-sobre-nubes-y-clientes-cautivos/</guid>
+      <description>Acabo de descubrir que estoy grabado en la charla que di en el WhyFLOSS de Madrid de Mayo de 2009. A los masocas del Cloud Computing os va a encantar 😉
+Que lo disfrutéis…</description>
+    </item>
+    
+    <item>
+      <title>Charla en el WhyFLOSS 2009 sobre Las Nubes propietarias y abiertas</title>
+      <link>https://nubeblog.com/2009/05/20/charla-en-el-whyfloss-2009-sobre-las-nubes-propietarias-y-abiertas/</link>
+      <pubDate>Wed, 20 May 2009 17:31:58 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/05/20/charla-en-el-whyfloss-2009-sobre-las-nubes-propietarias-y-abiertas/</guid>
+      <description>Mañana día 21 de Mayo se celebra en Leganés (Madrid) la 8ª edición de la WhyFLOSS conference. La WhyFLOSS Conference “tiene como objetivo divulgar las tecnologías libres de IT a la comunidad en general, ya sean empresas, organismos públicos y profesionales. Ponentes a lo largo de charlas dieron su perspectiva actual en el uso de las tecnologías abiertas en el sector público y privado.”
+Mi charla tratará sobre Como no caer cautivos de las Nubes Propietarias.</description>
+    </item>
+    
+  </channel>
+</rss>

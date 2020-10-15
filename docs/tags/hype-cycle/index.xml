@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hype cycle on Nubeblog</title>
+    <link>https://nubeblog.com/tags/hype-cycle/</link>
+    <description>Recent content in hype cycle on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 13 Oct 2010 10:25:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/hype-cycle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud Computing 3 años en lo alto del hype cycle de Gartner</title>
+      <link>https://nubeblog.com/2010/10/13/cloud-computing-3-anos-en-lo-alto-del-hype-cycle-de-gartner/</link>
+      <pubDate>Wed, 13 Oct 2010 10:25:40 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/10/13/cloud-computing-3-anos-en-lo-alto-del-hype-cycle-de-gartner/</guid>
+      <description>Como cada año, Gartner publica un estudio que se ha convertido en un clásico: el Gartner Hype Cycle de tecnologías emergentes. En este estudio se intenta analizar aquellas tecnologías emergentes que estando aún en una fase de adopción generan gran entusiasmo y promoción exagerada, y su posterior tránsito por etapas de desilusión y de decepción. Según Gartner lo que quieren es tratar de separar lo que es una promoción exagerada de la realidad y por lo tanto ayudar a los decisores en la toma de decisiones para su adopción.</description>
+    </item>
+    
+  </channel>
+</rss>

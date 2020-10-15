@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>salesforce on Nubeblog</title>
+    <link>https://nubeblog.com/tags/salesforce/</link>
+    <description>Recent content in salesforce on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 11 Nov 2009 22:21:02 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/salesforce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dreamforce 2009, El evento Cloud de Salesforce</title>
+      <link>https://nubeblog.com/2009/11/11/dreamforce-2009-el-evento-cloud-de-salesforce/</link>
+      <pubDate>Wed, 11 Nov 2009 22:21:02 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/11/11/dreamforce-2009-el-evento-cloud-de-salesforce/</guid>
+      <description>El día 17 de Noviembre se celebra en San Francisco uno de los eventos de Cloud Computing más importantes del mundo, Dreamforce 2009. Este evento gira alrededor de los productos que Salesforce.com ha desarrollado para La Nube. Para el que no lo sepa, Salesforce.com fue uno de los pioneros del Software as a Service -antes de que se llamase SaaS-, y es uno de las empresas que más ha apostado por el Software y las Plataformas como Servicios.</description>
+    </item>
+    
+    <item>
+      <title>Charla con Tim Barker, Cloud Computing Evangelist de Salesforce.com</title>
+      <link>https://nubeblog.com/2009/06/22/charla-con-tim-barker-cloud-computing-evangelist-de-salesforcecom/</link>
+      <pubDate>Mon, 22 Jun 2009 00:45:23 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/06/22/charla-con-tim-barker-cloud-computing-evangelist-de-salesforcecom/</guid>
+      <description>El pasado miércoles me invitaron a charlar con Tim Barker, Director Senior de Marketing de producto EMEA y Cloud Computing Evangelist de Salesforce.com. Aprovechando que pasaba por Madrid para participar como ponente en la Red Innova.
+Tim fue co-fundador de Koral, una compañía con sede en UK de Gestión de Contenidos de SaaS que más tarde, en el año 2007, fue adquirida por Salesforce.com. Tim cogió las maletas y se fue a San Francisco, condujo con éxito la integración de la platafoma de Koral a Force.</description>
+    </item>
+    
+    <item>
+      <title>Dreamforce Europa cancelada por sorpresa. ¿Qué pasa con los eventos de Cloud?</title>
+      <link>https://nubeblog.com/2009/01/15/dreamforce-europa-cancelada-por-sorpresa-%c2%bfque-pasa-con-los-eventos-de-cloud/</link>
+      <pubDate>Thu, 15 Jan 2009 17:41:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/15/dreamforce-europa-cancelada-por-sorpresa-%c2%bfque-pasa-con-los-eventos-de-cloud/</guid>
+      <description>De manera sorprendente Salesforce ha cancelado el gran evento que tenían preparado para Europa: Dreamforce Europe 2009. En su lugar, sustituyen el evento por un evento ‘en la carretera’ llamado CloudForce Europe para el próximo 7 de Abril de 2009 en el Excel de Londres. El evento será gratuito y contará con Mark Benioff y Parker Harris (el Dreamforce eran 399 libras como todavía se puede ver aquí). Me sorprende el cambio, y no se si se trata de una señal del clima económico actual o bien un cambio de estrategia respecto a los eventos.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com deja sin servicio a casi un millon de usuarios durante una hora</title>
+      <link>https://nubeblog.com/2009/01/07/salesforcecom-deja-sin-servicio-a-casi-un-millon-de-usuarios-durante-una-hora/</link>
+      <pubDate>Wed, 07 Jan 2009 10:32:55 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/07/salesforcecom-deja-sin-servicio-a-casi-un-millon-de-usuarios-durante-una-hora/</guid>
+      <description>Bonito regalo para los usuarios de Salesforce.com. Ayer día de Reyes el servicio estuvo caído durante una hora aproximadamente a las 12.00AM hora del Pacífico. Supongo que a los usuarios europeos y asiáticos no les habrá afectado mucho, pero eso es hora punta en los USA.
+La cosa estuvo tan malita que hasta el panel que informa sobre la calidad del servicio estuvo caído. Y todavía no se ha informado sobre las causas de esta caída, lo cual en mi opinión es mil veces peor que estar sin servicio durante una hora.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce.com renueva Force.com gracias a Google, Amazon y Facebook</title>
+      <link>https://nubeblog.com/2008/11/05/salesforcecom-supervitamina-forcecom-gracias-a-google-amazon-y-facebook/</link>
+      <pubDate>Wed, 05 Nov 2008 08:38:40 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/05/salesforcecom-supervitamina-forcecom-gracias-a-google-amazon-y-facebook/</guid>
+      <description>Si hay una empresa que simboliza la fuerza del SaaS esa es Salesforce.com. Su CEO, Marc Benioff, ha sido y es el mayor evangelizador del Software as a Service. Su ya famoso logo ‘No Software‘ es toda una declaración de principios.
+Durante el evento Dreamforce 2008, dijo refiriéndose a la mala coyuntura económica que “Nunca ha habido un momento mejor para el Cloud Computing y Salesforce.com”, en lo que ya parece el habitual discurso de los defensores de La Nube en estos tiempos de crisis, frente a los modelos tradicionales.</description>
+    </item>
+    
+  </channel>
+</rss>

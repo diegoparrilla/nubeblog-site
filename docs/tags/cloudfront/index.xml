@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloudfront on Nubeblog</title>
+    <link>https://nubeblog.com/tags/cloudfront/</link>
+    <description>Recent content in cloudfront on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 28 Jan 2009 15:54:16 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/cloudfront/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuevo plan de precios para Amazon CloudFront</title>
+      <link>https://nubeblog.com/2009/01/28/nuevo-plan-de-precios-para-amazon-cloudfront/</link>
+      <pubDate>Wed, 28 Jan 2009 15:54:16 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2009/01/28/nuevo-plan-de-precios-para-amazon-cloudfront/</guid>
+      <description>Amazon CloudFront, la Content Delivery Network de Amazon ha cambiado su plan de precios, y ahora hay descuentos para aquellos clientes que superen los 250Tb de transferencia de datos. Estos descuentos se dirigen a grandes clientes, evidentemente.
+El antiguo plan de precios para USA era:
+ United States Edge Locations Data Transfer $0.170 per GB – first 10 TB / month data transfer out
+  $0.120 per GB – next 40 TB / month data transfer out</description>
+    </item>
+    
+    <item>
+      <title>Por fin llegó: CloudFront, la Content Delivery Network de Amazon</title>
+      <link>https://nubeblog.com/2008/11/19/por-fin-llego-cloudfront-la-content-delivery-network-de-amazon/</link>
+      <pubDate>Wed, 19 Nov 2008 10:02:14 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2008/11/19/por-fin-llego-cloudfront-la-content-delivery-network-de-amazon/</guid>
+      <description>El servicio ya se había anunciado hace tiempo, pero ya está aquí la versión Beta de CloudFront, la Content Delivery Network (CDN) de Amazon. Es casi transparente para los usuarios actuales de Amazon S3, y permite distribuir contenido con tasas muy altas de transferencia a través de una red global de servidores de contenido en redes extremo. Siguiendo el esquema de otros servicios Amazon, el modelo es un puro pago por uso, sin desembolso inicial.</description>
+    </item>
+    
+  </channel>
+</rss>

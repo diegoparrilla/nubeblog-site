@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="es-es">
+    
+    
+
+
+    <head>
+    <link href="https://gmpg.org/xfn/11" rel="profile">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Cache-Control" content="public" />
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.74.3" />
+
+    
+    
+    
+
+<title>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no • Nubeblog</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Por qué Amazon Web Services sí tiene éxito, y Google App Engine no"/>
+<meta name="twitter:description" content="Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo."/>
+
+<meta property="og:title" content="Por qué Amazon Web Services sí tiene éxito, y Google App Engine no" />
+<meta property="og:description" content="Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero este artículo de James Urquhart me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://nubeblog.com/2009/01/23/por-que-amazon-web-services-si-tiene-exito-y-google-app-engine-no/" />
+<meta property="article:published_time" content="2009-01-23T10:04:50+00:00" />
+<meta property="article:modified_time" content="2009-01-23T10:04:50+00:00" />
+
+
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,300i,400,400i,700|Source+Code+Pro:400,400i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@150,300&display=swap" rel="stylesheet">
+
+    
+
+
+
+
+
+
+<link rel="stylesheet" href="/scss/hyde-hyde.b2405b2542706431a038277d44dae5be8706d39d4333e5210dd1fec46c7bc419.css" integrity="sha256-skBbJUJwZDGgOCd9RNrlvocG051DM&#43;UhDdH&#43;xGx7xBk=">
+
+
+<link rel="stylesheet" href="/scss/print.2744dcbf8a0b2e74f8a50e4b34e5f441be7cf93cc7de27029121c6a09f9e77bc.css" integrity="sha256-J0Tcv4oLLnT4pQ5LNOX0Qb58&#43;TzH3icCkSHGoJ&#43;ed7w=" media="print">
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/favicon.png">
+    
+    
+
+</head>
+
+
+    <body class=" ">
+    
+<div class="sidebar">
+  <div class="container ">
+    <div class="sidebar-about">
+      <span class="site__title">
+        <a href="https://nubeblog.com/">Nubeblog</a>
+      </span>
+      
+      
+        <div class="author-image">
+          <img src="https://www.gravatar.com/avatar/2ad5d745c68bccc10421efde22f0f09b?s=240&d=mp" class="img--circle img--headshot element--center" alt="gravatar">
+        </div>
+      
+      <p class="site__description">
+         Señor de Logroño que hace cosas con ordenadores y programas. 
+      </p>
+    </div>
+    <div class="collapsible-menu">
+      <input type="checkbox" id="menuToggle">
+      <label for="menuToggle">Nubeblog</label>
+      <div class="menu-content">
+        <div>
+	<ul class="sidebar-nav">
+		 
+		 
+			 
+				<li>
+					<a href="/post/">
+						<span> Todos Los Posts</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>About Me</span>
+					</a>
+				</li>
+			 
+		 
+			 
+				<li>
+					<a href="https://www.linkedin.com/in/diegoparrilla/">
+						<span>Sobre Mi</span>
+					</a>
+				</li>
+			 
+		
+	</ul>
+</div>
+
+        <section class="social">
+	
+	<a href="https://twitter.com/nubeblog" rel="me"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a>
+	
+	
+	<a href="https://facebook.com/dparrilla" rel="me"><i class="fab fa-facebook-f"></i></a>
+	
+	
+	<a href="https://github.com/diegoparrilla" rel="me"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	<a href="https://linkedin.com/in/diegoparrilla" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</section>
+
+      </div>
+    </div>
+    
+
+
+  </div>
+</div>
+
+        <div class="content container">
+            
+    
+<article>
+  <header>
+    <h1>Por qué Amazon Web Services sí tiene éxito, y Google App Engine no</h1>
+    
+    
+<div class="post__meta">
+    
+    
+      <i class="fas fa-calendar-alt"></i> Jan 23, 2009
+    
+    
+    
+      
+      
+          in
+          
+          
+              <a class="badge badge-category" href="/categories/cloud">CLOUD</a>
+              •
+          
+              <a class="badge badge-category" href="/categories/opinion">OPINION</a>
+              
+          
+      
+    
+    
+    
+      
+      
+          <br/>
+           <i class="fas fa-tags"></i>
+          
+          <a class="badge badge-tag" href="/tags/amazon">amazon</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/appengine">appengine</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/ec2">ec2</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/google">google</a>
+           
+      
+          <a class="badge badge-tag" href="/tags/s3">s3</a>
+          
+      
+    
+    
+    <br/>
+    <i class="fas fa-clock"></i> 3 min read
+</div>
+
+
+  </header>
+  
+  
+  <div class="post">
+    <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>Llevo meses pensando si escribir sobre esto o no. Es un tema un poco peliagudo ya que son impresiones mías y de los que me rodean sobre el éxito de las ofertas de Cloud Computing de dos pesos pesados: Amazon Web Services y Google App Engine. Pero <a href="http://news.cnet.com/8301-19413_3-10148273-240.html">este artículo de James Urquhart</a> me ha recordado la polémica y me ha animado a escribir sobre ella, porque creo que ha dado en el clavo.</p>
+<p>Creo que Google App Engine está siendo un fracaso para Google. No ha conseguido tener mucha presencia y además no ha captado el mercado empresarial. ¿Las causas? Varias en mi opinión, a saber:</p>
+<ul>
+<li>La magnífica labor de <a href="http://aws.typepad.com/">Evangelización tecnológica</a> que hacen la gente de Amazon Web Services. Esto además ha sido reconocido <a href="/2008/12/26/informationweek-nombra-a-werner-vogels-amazon-cto-del-ano/">nombrando a Werner Vogels CTO del año</a> por Information Week. Puedes seguirles en twitter, en su blog y sobre todo por eventos en todo el mundo.</li>
+<li>Los casos de éxito de Startups que se han subido a La Nube de Amazon. Los más conocidos son <a href="http://www.smugsmug.com/">SmugSmug</a> y <a href="http://animoto.com/">Animoto</a>, aunque hay más, bastantes más.</li>
+<li>Una orientación hacia la empresa, ofreciendo Acuerdos de Nivel de Servicio, por ejemplo.</li>
+<li>Una visión de 360º respecto a los mercados potenciales para su Nube: no hay solución que no pueda migrarse.</li>
+</ul>
+<p>Lo cierto es que Google App Engine no tiene la maquinaria de marketing que tiene Amazon Web Services. Pero tampoco tiene casos de éxito sonados como los de Amazon. Las posibles razones para que no haya despegado este servicio se pueden deber a las restricciones del lenguage (Python). Sabemos que Google está migrando Google App Engine para otras tecnologías -probablemente Java- aunque es algo que no han confirmado. La plataforma de Google, por su naturaleza PaaS tiene un tipo de aplicaciones objetivo: aquellas aplicaciones Web que necesitan escalado masivo y manejo masivo de datos ‘a lo Big-Table’, sacrificando las bondades del modelo relacional.</p>
+<p>Creo que Google App Engine y las otras propuesta PaaS (Azure, Caroline…) son el verdadero futuro del Cloud Computing. Cuando Google abra App Engine a nuevos lenguajes como Java, el número de desarrolladores crecerá de manera exponencial. Solo será cuestión de tiempo que empiecen a crear aplicaciones. El tema de las aplicaciones empresariales yo no lo tengo tan claro… ¿realmente a Google le interesa ofrecer una plataforma cuyo contenido no puede indexar, y por lo tanto no puede ganar dinero con AdSense? Recordemos que Google vive de AdWords y AdSense: su interes es ofrecer plataformas y herramientas para crear más y más contenido PUBLICO. Por su naturaleza, en las aplicaciones empresariales el contenido es privado.</p>
+
+  </div>
+  
+
+<div class="navigation navigation-single">
+    
+    <a href="/2009/01/22/cisco-planea-entrar-en-el-mercado-de-servidores/" class="navigation-prev">
+      <i aria-hidden="true" class="fa fa-chevron-left"></i>
+      <span class="navigation-tittle">Cisco planea entrar en el mercado de Servidores</span>
+    </a>
+    
+    
+    <a href="/2009/01/25/delicious-8/" class="navigation-next">
+      <span class="navigation-tittle">Nubeblog links del 19/01 al 25/01</span>
+      <i aria-hidden="true" class="fa fa-chevron-right"></i>
+    </a>
+    
+</div>
+
+
+  
+
+
+<div class="post__related">
+    
+    <h2>Related Articles</h2>
+    <ul class="related-posts">
+        
+<li>
+  <span class="list__title--small">
+    <a href="/2009/01/12/nueva-consola-de-gestion-de-amazon-ec2-la-dificil-tarea-de-sobrevivir-en-el-ecosistema-aws/" >Nueva consola de gestión de Amazon EC2: la difícil tarea de sobrevivir en el ecosistema AWS</a>
+      
+      <time class="pull-right hidden-tablet">Jan 12 &#39;09</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2008/12/05/google-app-engine-pronto-en-tu-propio-centro-de-datos/" >Google App Engine pronto en tu propio Centro de Datos</a>
+      
+      <time class="pull-right hidden-tablet">Dec 05 &#39;08</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2008/11/25/amazon-hosted-public-datasets-vislumbrando-nuevos-modelos-de-negocio/" >Amazon Hosted Public Datasets: Vislumbrando nuevos modelos de negocio</a>
+      
+      <time class="pull-right hidden-tablet">Nov 25 &#39;08</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2008/11/14/a-casi-nadie-le-gusta-el-sla-de-amazon-ec2/" >A casi nadie le gusta el SLA de Amazon EC2</a>
+      
+      <time class="pull-right hidden-tablet">Nov 14 &#39;08</time>
+      
+  </span>
+</li>
+
+<li>
+  <span class="list__title--small">
+    <a href="/2008/10/28/%c2%bfel-sla-de-amazon-ec2-servira-de-algo-a-las-empresas/" >¿El SLA de Amazon EC2 servirá de algo a las empresas?</a>
+      
+      <time class="pull-right hidden-tablet">Oct 28 &#39;08</time>
+      
+  </span>
+</li>
+
+
+    </ul>
+</div>
+
+
+
+  
+    
+
+
+</article>
+
+
+        </div>
+        
+    
+
+  
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-5807955-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script defer src="https://use.fontawesome.com/releases/v5.11.2/js/all.js" integrity="sha384-b3ua1l97aVGAPEIe48b4TC60WUQbQaGi2jqAWM90y0OZXZeyaTCWtBTKtjW2GXG1" crossorigin="anonymous"></script>
+
+
+
+
+    
+
+
+
+    </body>
+</html>

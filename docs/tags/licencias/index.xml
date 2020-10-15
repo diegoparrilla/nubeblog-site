@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>licencias on Nubeblog</title>
+    <link>https://nubeblog.com/tags/licencias/</link>
+    <description>Recent content in licencias on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 06 Apr 2010 16:55:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/licencias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los chips de 8 y 12 cores empiezan a dar problemas con las licencias de VMware</title>
+      <link>https://nubeblog.com/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/</link>
+      <pubDate>Tue, 06 Apr 2010 16:55:13 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2010/04/06/los-chips-de-8-y-12-cores-empiezan-a-dar-problemas-con-las-licencias-de-vmware/</guid>
+      <description>Me acaba de llegar una noticia de SearchServerVirtualization en la que se hacen eco de algo que casi todo el mundo se veía venir. El modo de licenciamiento de los productos de VMware choca de frente con el los nuevos modelos de chips de AMD e Intel de 8 y más cores. En el siguiente pantallazo de la web de VMware podemos apreciar que solo las versiones vSphere Advanced y Enterprise Plus soportan estos nuevos chips.</description>
+    </item>
+    
+  </channel>
+</rss>

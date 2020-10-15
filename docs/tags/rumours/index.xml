@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rumours on Nubeblog</title>
+    <link>https://nubeblog.com/tags/rumours/</link>
+    <description>Recent content in rumours on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 12 Dec 2007 09:51:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/rumours/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Online Storage System rumours</title>
+      <link>https://nubeblog.com/2007/12/12/google-online-storage-system-rumours/</link>
+      <pubDate>Wed, 12 Dec 2007 09:51:00 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2007/12/12/google-online-storage-system-rumours/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

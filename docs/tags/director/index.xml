@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>director on Nubeblog</title>
+    <link>https://nubeblog.com/tags/director/</link>
+    <description>Recent content in director on Nubeblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 28 Mar 2011 11:04:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://nubeblog.com/tags/director/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proveedores de Cloud Computing mágicos</title>
+      <link>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</link>
+      <pubDate>Mon, 28 Mar 2011 11:04:04 +0000</pubDate>
+      
+      <guid>https://nubeblog.com/2011/03/28/proveedores-de-cloud-computing-magicos/</guid>
+      <description>Es sorprendente como empresas que llevan muchos años haciendo software tradicional de repente y de manera mágica resulta que su software está ‘En la Nube’. No solo eso, sino que algunos dicen que fueron ellos los que inventaron el Cloud Computing, pero que como siempre los americanos llegaron y le pusieron un nombre ‘chulo’. Lo del Software as a Service es un auténtico escándalo. Aquí ahora todo es Cloud. Tonto el último.</description>
+    </item>
+    
+  </channel>
+</rss>
