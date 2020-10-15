@@ -4,7 +4,12 @@ languageCode = "es-es"
 title = "Nubeblog"
 summerization = "html_firstparagraph"
 paginate = 9
-theme = "bleak"
+theme = "hyde-hyde"
+
+# Google analytics
+gravatarHash = "0a6b102fdb89dfdabc76f654d955a0b5"
+googleAnalytics = "UA-5807955-1"
+
 
 [permalinks]
   post = "/post/:year/:month/:day/:slug"
@@ -15,20 +20,22 @@ theme = "bleak"
   topic = "categories"
 
 [params]
+  mainSections = ["post"]
   # Warning Keys are case sensitives
   Subtitle = "Un blog sobre cosas de Cloud Computing y eso"
   description = "Señor de Logroño que hace cosas con ordenadores y programas."
   cover = "/images/cover.jpg"
 
-  # Google analytics
-  gravatarHash = "0a6b102fdb89dfdabc76f654d955a0b5"
-  googleAnalyticsUserID = "UA-5807955-1"
+  postNavigation = true
+  relatedPosts = true
+
+[params.social]
   twitter = "nubeblog"
   github = "diegoparrilla"
   facebook = "dparrilla"
   linkedin = "diegoparrilla"
-  disqus = "nubeblog"
-
+  gravatar = "diego.parrilla.santamaria@gmail.com"
+  
 [author]
   FirstName = "Diego"
   LastName = "Parrilla"
@@ -37,3 +44,18 @@ theme = "bleak"
   Image = "//www.gravatar.com/avatar/0a6b102fdb89dfdabc76f654d955a0b5.png"
   Bio = "Señor de Logroño que hace cosas con ordenadores y programas."
   Website = "https://nubeblog.com"
+
+[[menu.main]]
+  name = " Todos los posts"
+  identifier = "post"
+  url = "/post/"
+  
+[[menu.main]]
+  name = "Sobre mi"
+  identifier = "sobre-mi"
+  url = "https://www.linkedin.com/in/diegoparrilla/"
+
+[[menu.main]]
+  name = "About me"
+  identifier = "about"
+  url = "https://www.linkedin.com/in/diegoparrilla/"
